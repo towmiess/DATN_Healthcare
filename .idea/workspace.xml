@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2668c647-6af1-4aff-8500-223b75fbe206" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/DoanTN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/DoanTN_Healtcare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/.idea/Backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/test/java/com/example/api_gateway/ApiGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/${project.build.directory}/classes/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/${project.build.directory}/classes/com/javaweb/discovery_server/DiscoveryServerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/src/main/java/com/javaweb/discovery_server/DiscoveryServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/src/test/java/com/javaweb/discovery_server/DiscoveryServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/UsersServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/config/JpaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/request/SignUpRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/response/BaseResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/entity/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/enums/UserStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/exception/customexception/BadRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/exception/customexception/JwtGenerationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/exception/customexception/UnauthorizedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/AuthRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/IAuthServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/Impl/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/ExceptionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/JwtTokenUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/ResponseUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/test/java/com/javaweb/users_service/UsersServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/WebCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/WebCV.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/WevCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/WevCV.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/dictionaries/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/WebcvApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/WebcvApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/config/JpaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/config/JpaConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/config/JwtTokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/config/JwtTokenFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/admin/ManageAccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/admin/ManageAccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/admin/ManageCvsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/admin/ManageCvsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/admin/ManageProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/admin/ManageProjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/lead/ManageCvController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/lead/ManageCvController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/lead/ProjectOfLeadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/lead/ProjectOfLeadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/user/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/user/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/user/CvsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/user/CvsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/user/PasswordResetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/user/PasswordResetController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/user/PdfJobsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/user/PdfJobsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/user/ProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/controller/user/ProjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/job/PdfJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/job/PdfJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/job/PdfJobInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/job/PdfJobInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/job/PdfJobQueueService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/job/PdfJobQueueService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/model/Layout.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/model/Layout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/model/PdfBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/model/PdfBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/parser/CvBlockParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/parser/CvBlockParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/parser/CvLayoutParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/parser/CvLayoutParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/parser/CvParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/parser/CvParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/render/RenderHtmlToPdf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/cvpdf/render/RenderHtmlToPdf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/CvEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/CvEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/PasswordResetEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/PasswordResetEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/ProjectApplicationEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/ProjectApplicationEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/ProjectEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/ProjectEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/ProjectMemberEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/ProjectMemberEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/RoleEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/RoleEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/ShareLinkEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/ShareLinkEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/entity/UserEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/enums/FormStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/enums/FormStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/enums/PdfJobStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/enums/PdfJobStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/enums/UserStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/enums/UserStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/enums/Visibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/enums/Visibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/BadRequestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/BadRequestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/DataExpiredException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/DataExpiredException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/ForbiddenException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/ForbiddenException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/JwtGenerationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/JwtGenerationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/NotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/NotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/PasswordNotMatchException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/PasswordNotMatchException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/ServiceUnavailableException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/ServiceUnavailableException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/UnauthorizedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/exception/customexception/UnauthorizedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/mapper/CvsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/mapper/CvsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/AuthRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/AuthRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/CvsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/CvsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/LeadRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/LeadRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/PasswordResetRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/PasswordResetRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/ProjectApplicationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/ProjectApplicationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/ProjectMemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/ProjectMemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/ProjectRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/ProjectRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/RoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/custom/CvsRepositoryCustom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/custom/CvsRepositoryCustom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/custom/Impl/CvsRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/repository/custom/Impl/CvsRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/admin/ApplyUserToProjectRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/admin/ApplyUserToProjectRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/admin/CreateProjectRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/admin/CreateProjectRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/admin/CreateUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/admin/CreateUserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/admin/GetAllCvsRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/admin/GetAllCvsRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/admin/UpdateStatusProjectRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/admin/UpdateStatusProjectRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/admin/UpdateUserRoleRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/admin/UpdateUserRoleRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/admin/UpdateUserStatusRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/admin/UpdateUserStatusRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/lead/ApplyCvRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/lead/ApplyCvRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/ChangePassRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/ChangePassRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/CheckEmailRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/CheckEmailRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/CheckOTPRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/CheckOTPRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/CvVisibilityRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/CvVisibilityRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/CvsRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/CvsRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/RefreshTokenRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/RefreshTokenRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/RegisterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/ResetPasswordRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/request/user/ResetPasswordRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/admin/AccountResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/admin/AccountResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/admin/MemberResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/admin/MemberResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/admin/ProjectDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/admin/ProjectDetailResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/admin/ProjectResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/admin/ProjectResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/admin/UserIsLeadResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/admin/UserIsLeadResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/CvResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/CvResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/ProjectResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/ProjectResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/cvResponse/ActivityResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/cvResponse/ActivityResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/cvResponse/AwardResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/cvResponse/AwardResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/cvResponse/CertificateResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/cvResponse/CertificateResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/cvResponse/CvDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/cvResponse/CvDetailResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/cvResponse/EducationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/cvResponse/EducationResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/cvResponse/JobResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/cvResponse/JobResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/cvResponse/SkillResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/lead/cvResponse/SkillResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/user/BaseResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/user/BaseResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/user/CheckMailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/user/CheckMailResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/user/CheckOTPResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/user/CheckOTPResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/user/CvsResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/user/CvsResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/user/LoginResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/user/LoginResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/user/RefreshTokenResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/response/user/RefreshTokenResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/admin/IManageCvsServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/admin/IManageCvsServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/admin/Impl/ManageCvsServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/admin/Impl/ManageCvsServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/admin/ManageAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/admin/ManageAccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/admin/ManageProjectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/admin/ManageProjectService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/lead/ManageCvService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/lead/ManageCvService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/lead/ProjectOfLeadService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/lead/ProjectOfLeadService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/IAuthServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/IAuthServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/ICvServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/ICvServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/IMailServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/IMailServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/IPasswordResetServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/IPasswordResetServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/Impl/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/Impl/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/Impl/CvsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/Impl/CvsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/Impl/MailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/Impl/MailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/Impl/PasswordResetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/Impl/PasswordResetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/Impl/PdfService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/Impl/PdfService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/Impl/ProjectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/services/user/Impl/ProjectService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/util/ExceptionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/util/ExceptionUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/util/JwtTokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/util/JwtTokenUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/util/MailUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/util/MailUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/util/OtpUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/util/OtpUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/util/PdfUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/java/com/webcv/util/PdfUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/resources/templates/cv-pdf.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/main/resources/templates/cv-pdf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/test/java/com/webcv/WebcvApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_backend/src/test/java/com/webcv/WebcvApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/.husky/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/.husky/pre-commit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/Desktop" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/Desktop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/Desktop.pub" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/Desktop.pub" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/components.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/components.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/eslint.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/eslint.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/public/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/public/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/api/ApiResponse.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/api/ApiResponse.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/api/Fetcher.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/api/Fetcher.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/api/FetcherAdmin.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/api/FetcherAdmin.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ForgotPasswordPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ForgotPasswordPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ForgotUsernamePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ForgotUsernamePage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/LandingPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/LandingPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/LoginPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/LoginPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/RegisterPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/RegisterPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ResetPasswordPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ResetPasswordPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/UserDashboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/UserDashboard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/figma/ImageWithFallback.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/figma/ImageWithFallback.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/leadComponents/CvDetailDialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/leadComponents/CvDetailDialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/accordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/accordion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/alert-dialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/alert-dialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/alert.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/alert.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/aspect-ratio.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/aspect-ratio.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/avatar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/avatar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/badge.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/badge.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/breadcrumb.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/breadcrumb.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/calendar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/calendar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/carousel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/carousel.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/chart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/chart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/checkbox.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/checkbox.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/collapsible.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/collapsible.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/command.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/command.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/context-menu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/context-menu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/dialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/dialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/drawer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/drawer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/dropdown-menu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/dropdown-menu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/hover-card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/hover-card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/input-otp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/input-otp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/input.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/input.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/label.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/label.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/menubar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/menubar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/navigation-menu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/navigation-menu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/pagination.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/pagination.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/popover.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/popover.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/progress.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/progress.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/radio-group.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/radio-group.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/resizable.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/resizable.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/scroll-area.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/scroll-area.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/select.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/select.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/separator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/separator.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/sheet.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/sheet.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/sidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/skeleton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/skeleton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/slider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/slider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/sonner.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/sonner.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/switch.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/switch.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/table.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/table.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/tabs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/tabs.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/textarea.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/textarea.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/toggle-group.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/toggle-group.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/toggle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/toggle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/tooltip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/tooltip.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/use-mobile.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/use-mobile.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/app/components/ui/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/admin/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/admin/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/admin/SideBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/admin/SideBar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/lead/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/lead/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/lead/SideBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/lead/SideBar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/AutoTextaera.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/AutoTextaera.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/SideBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/SideBar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/ActivityBlock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/ActivityBlock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/AvatarUpload.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/AvatarUpload.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/Awards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/Awards.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/BusinessCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/BusinessCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/CareerObjectiveBlock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/CareerObjectiveBlock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/CertificateBlock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/CertificateBlock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/EducationBlock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/EducationBlock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/ExperienceBlock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/ExperienceBlock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/PersonalInfoBlock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/PersonalInfoBlock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/SkillBlock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/SkillBlock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/cvbuilder.css" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cv-builder/cvbuilder.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/CVBuilder.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/CVBuilder.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/CVPreview.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/CVPreview.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/Column.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/Column.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/Preview.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/Preview.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/PreviewBlockRenderer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/PreviewBlockRenderer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/SortableBlock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/SortableBlock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/layout-editor/BlockItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/layout-editor/BlockItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/layout-editor/DropColumn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/layout-editor/DropColumn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/layout-editor/LayoutColumn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/layout-editor/LayoutColumn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/layout-editor/LayoutEditor.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/components/user/cvpreview/layout-editor/LayoutEditor.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/config/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/config/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/context/SearchContext.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/context/SearchContext.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/hooks/useDebounce.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/hooks/useDebounce.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/hooks/useSearch.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/hooks/useSearch.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/layout/admin/AdminLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/layout/admin/AdminLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/layout/lead/LeadLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/layout/lead/LeadLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/layout/user/UserLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/layout/user/UserLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/admin/CvManagement.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/admin/CvManagement.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/admin/DashBoard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/admin/DashBoard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/admin/Forbidden.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/admin/Forbidden.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/admin/LoginAdmin.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/admin/LoginAdmin.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/admin/ProjectDetailPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/admin/ProjectDetailPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/admin/ProjectManagement.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/admin/ProjectManagement.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/admin/UserManagement.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/admin/UserManagement.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/lead/CvManagement.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/lead/CvManagement.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/lead/DashBoard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/lead/DashBoard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/lead/ProjectManagement.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/lead/ProjectManagement.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/Contact.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/Contact.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/CurriculumVitae.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/CurriculumVitae.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/HomePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/HomePage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/Profile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/Profile.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/Project.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/Project.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/Settings.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/Settings.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/SignInPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/SignInPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/SignUpPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/ProtectPages/SignUpPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/PublicPages/About.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/PublicPages/About.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/PublicPages/ChangePasswordPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/PublicPages/ChangePasswordPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/PublicPages/CheckOtpPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/PublicPages/CheckOtpPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/PublicPages/ForgotPasswordPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/PublicPages/ForgotPasswordPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/PublicPages/ResetPasswordPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/PublicPages/ResetPasswordPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/PublicPages/ShareCv.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/pages/user/PublicPages/ShareCv.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/routes/AppRoutes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/routes/AppRoutes.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/routes/auth/AdminRoute.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/routes/auth/AdminRoute.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/routes/auth/LeadRoute.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/routes/auth/LeadRoute.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/routes/auth/UserPoute.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/routes/auth/UserPoute.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/adminservices/cvs.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/adminservices/cvs.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/adminservices/login.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/adminservices/login.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/adminservices/project.api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/adminservices/project.api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/adminservices/users.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/adminservices/users.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/authService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/authService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/leadservice/lead.api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/leadservice/lead.api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/usersservices/CvsServices.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/usersservices/CvsServices.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/usersservices/ProjectService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/usersservices/ProjectService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/usersservices/SignUp.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/services/usersservices/SignUp.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/store/cvLayoutStore.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/store/cvLayoutStore.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/styles/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/styles/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/types/UserType.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/types/UserType.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/types/cv.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/types/cv.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/util/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/util/auth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/vite-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/src/vite-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/tsconfig.node.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/tsconfig.node.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/vercel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/webcv_frontend/vite.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;letu26&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NVNga123/Cosmetics-POS.git&quot;,
+    &quot;accountId&quot;: &quot;58f2578e-1263-4d11-aa7c-a3a935713108&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3ATBammpuBiz40LCrRuLAoZi6YS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ApiGatewayApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Intellij/DoanTN_Healtcare/Backend"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Intellij\DoanTN_Healtcare\Backend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.UsersServiceApplication">
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.api_gateway.ApiGatewayApplication" />
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.api_gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaweb.discovery_server.DiscoveryServerApplication" />
+      <module name="discovery-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaweb.discovery_server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaweb.users_service.UsersServiceApplication" />
+      <module name="users-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaweb.users_service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UsersServiceApplication" />
+        <item itemvalue="Application.DiscoveryServerApplication" />
+        <item itemvalue="Application.ApiGatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2668c647-6af1-4aff-8500-223b75fbe206" name="Changes" comment="" />
+      <created>1772606748535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772606748535</updated>
+    </task>
+    <servers />
+  </component>
+</project>
