@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2668c647-6af1-4aff-8500-223b75fbe206" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/DoanTN.iml" afterDir="false" />
@@ -8,57 +11,26 @@
       <change afterPath="$PROJECT_DIR$/../Backend/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Backend/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Backend/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/ApiGatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/config/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/test/java/com/example/api_gateway/ApiGatewayApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/${project.build.directory}/classes/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/${project.build.directory}/classes/com/javaweb/discovery_server/DiscoveryServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/src/main/java/com/javaweb/discovery_server/DiscoveryServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/discovery-server/src/test/java/com/javaweb/discovery_server/DiscoveryServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/UsersServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/config/JpaConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/config/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/controller/AuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/request/SignUpRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/response/BaseResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/entity/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/enums/UserStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/exception/customexception/BadRequestException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/exception/customexception/JwtGenerationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/exception/customexception/UnauthorizedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/AuthRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/IAuthServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/Impl/AuthService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/ExceptionUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/JwtTokenUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/ResponseUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/test/java/com/javaweb/users_service/UsersServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/request/GetAllUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/response/UserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/custom/Impl/UserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/custom/UserRepositoryCustom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/IUserServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/Impl/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/HastextUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/QueryKeywordUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/Impl/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/Impl/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/ExceptionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/ExceptionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/ResponseUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/ResponseUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/WebCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/WebCV.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/WevCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/WevCV.iml" afterDir="false" />
@@ -362,8 +334,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -389,24 +369,30 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="3ATBammpuBiz40LCrRuLAoZi6YS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.ApiGatewayApplication.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Intellij/DoanTN_Healtcare/Backend"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.ApiGatewayApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiscoveryServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsersServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;TuLeeNe&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Intellij/DoanTN_Healtcare/Backend&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Intellij\DoanTN_Healtcare\Backend" />
@@ -464,8 +450,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.UsersServiceApplication" />
-        <item itemvalue="Application.DiscoveryServerApplication" />
         <item itemvalue="Application.ApiGatewayApplication" />
+        <item itemvalue="Application.DiscoveryServerApplication" />
       </list>
     </recent_temporary>
   </component>

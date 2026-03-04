@@ -45,6 +45,7 @@ public class AuthService implements IAuthServices {
                 .username(signUpRequest.getUsername())
                 .password(passwordEncoder.encode(signUpRequest.getPassword()))
                 .status(UserStatus.ACTIVE)
+                .deleted(false)
                 .build();
         newUser.getRoles().add(role);
         authRepository.save(newUser);
