@@ -2,7 +2,6 @@ package com.javaweb.users_service.mapper;
 
 import com.javaweb.users_service.dto.request.GetAllUserRequest;
 import com.javaweb.users_service.dto.response.UserResponse;
-import com.javaweb.users_service.enums.UserStatus;
 import org.springframework.stereotype.Component;
 
 import java.util.Map;
@@ -11,17 +10,13 @@ import java.util.Map;
 public class UserMapper {
 
     private Long toLong(Object value) {
-        if (value == null) return null;
+        return switch (value) {
+            case null -> null;
+            case Number number -> number.longValue();
+            case String s -> Long.parseLong(s);
+            default -> throw new IllegalArgumentException("Cannot convert to Long: " + value);
+        };
 
-        if (value instanceof Number) {
-            return ((Number) value).longValue();
-        }
-
-        if (value instanceof String) {
-            return Long.parseLong((String) value);
-        }
-
-        throw new IllegalArgumentException("Cannot convert to Long: " + value);
     }
     public GetAllUserRequest toRequest(Map<String, Object> params) {
         return GetAllUserRequest.builder()

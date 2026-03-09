@@ -11,26 +11,29 @@
       <change afterPath="$PROJECT_DIR$/../Backend/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Backend/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Backend/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/request/GetAllUserRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/response/UserResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/custom/Impl/UserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/custom/UserRepositoryCustom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/IUserServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/Impl/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/HastextUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/QueryKeywordUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/request/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/response/LoginResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/discovery-server/${project.build.directory}/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/discovery-server/${project.build.directory}/classes/com/javaweb/discovery_server/DiscoveryServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/request/GetAllUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/request/GetAllUserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/request/SignUpRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/request/SignUpRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/response/BaseResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/response/BaseResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/entity/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/entity/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/entity/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/entity/RoleEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/entity/UserEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/AuthRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/AuthRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/RoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/IAuthServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/IAuthServices.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/Impl/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/Impl/AuthService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/ExceptionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/ExceptionUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/ResponseUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/ResponseUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/JwtTokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/JwtTokenUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/resources/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/WebCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/WebCV.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/WevCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/WevCV.iml" afterDir="false" />
@@ -390,7 +393,7 @@
     &quot;git-widget-placeholder&quot;: &quot;TuLeeNe&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Intellij/DoanTN_Healtcare/Backend&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Intellij/DoanTN_Healtcare&quot;
   }
 }</component>
   <component name="RecentsManager">

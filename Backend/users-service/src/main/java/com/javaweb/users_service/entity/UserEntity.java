@@ -19,7 +19,7 @@ import java.util.List;
 @Builder
 @Entity
 @Table(name = "users")
-public class User extends Base implements UserDetails {
+public class UserEntity extends BaseEntity implements UserDetails {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
@@ -57,12 +57,12 @@ public class User extends Base implements UserDetails {
             joinColumns = @JoinColumn(name = "user_id", nullable = false),
             inverseJoinColumns = @JoinColumn(name = "role_id", nullable = false))
     @Builder.Default
-    private List<Role> roles = new ArrayList<>();
+    private List<RoleEntity> roleEntities = new ArrayList<>();
 
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
-        return roles.stream()
-                .map(role -> new SimpleGrantedAuthority("ROLE_" + role.getName().toUpperCase()))
+        return roleEntities.stream()
+                .map(roleEntity -> new SimpleGrantedAuthority("ROLE_" + roleEntity.getName().toUpperCase()))
                 .toList();
     }
 }

@@ -32,7 +32,7 @@ public class WebSecurityConfig {
         return http
                 .csrf(ServerHttpSecurity.CsrfSpec::disable)
                 .authorizeExchange(ex -> ex
-                        .pathMatchers("/api/auth/**", "/api/users /**").permitAll()
+                        .pathMatchers("/api/auth/**", "/api/users/**").permitAll()
                         .anyExchange().authenticated()
                 )
                 .oauth2ResourceServer(oauth2 -> oauth2.jwt(jwt -> {}))

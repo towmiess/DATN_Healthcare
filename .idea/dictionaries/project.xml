@@ -3,6 +3,11 @@
     <words>
       <w>hastext</w>
       <w>nomal</w>
+      <w>postgre</w>
+      <w>resourceserver</w>
+      <w>secretkey</w>
+      <w>signin</w>
+      <w>ymub</w>
     </words>
   </dictionary>
 </component>

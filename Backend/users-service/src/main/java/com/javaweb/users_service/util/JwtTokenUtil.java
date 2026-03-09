@@ -1,8 +1,8 @@
 package com.javaweb.users_service.util;
 
 
-import com.javaweb.users_service.entity.Role;
-import com.javaweb.users_service.entity.User;
+import com.javaweb.users_service.entity.RoleEntity;
+import com.javaweb.users_service.entity.UserEntity;
 import com.javaweb.users_service.exception.customexception.JwtGenerationException;
 import com.javaweb.users_service.exception.customexception.UnauthorizedException;
 import io.jsonwebtoken.Claims;
@@ -38,11 +38,10 @@ public class JwtTokenUtil {
     private String secretRefresh;
 
     //sinh token
-    public String generateToken(User user, Long expirationTime, String secret){
+    public String generateToken(UserEntity user, Long expirationTime, String secret){
         Map<String, Object> claims = new HashMap<>();
-        claims.put("username", user.getUsername());
         claims.put("user_id", user.getId());
-        claims.put("roles", user.getRoles().stream().map(Role::getName).toList());
+        claims.put("roles", user.getRoleEntities().stream().map(RoleEntity::getName).toList());
         try {
             return Jwts.builder()
                     .claims(claims)
@@ -58,12 +57,12 @@ public class JwtTokenUtil {
     }
 
     //tạo access token:
-    public String generateAccessToken(User user){
+    public String generateAccessToken(UserEntity user){
         return generateToken(user, expirationAccess, secretAccess);
     }
 
     //tạo refresh token:
-    public String generateRefreshToken(User user){
+    public String generateRefreshToken(UserEntity user){
         return generateToken(user, expirationRefresh,  secretRefresh);
     }
 
@@ -146,7 +145,7 @@ public class JwtTokenUtil {
 
     //xác định token là của người dùng nào và kiểm tra hạn
     public boolean validateToken(String token, UserDetails userDetails, String secret) {
-        User user = (User) userDetails;
+        UserEntity user = (UserEntity) userDetails;
         if (!extractUsername(token, secret).equals(user.getUsername())) {
             return false;
         }
