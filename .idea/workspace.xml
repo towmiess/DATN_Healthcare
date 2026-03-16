@@ -11,7 +11,48 @@
       <change afterPath="$PROJECT_DIR$/../Backend/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Backend/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Backend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/config/JwtConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/config/LuaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/exception/customexception/TooManyRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/exception/customexception/UnauthorizedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/filter/GlobalRateLimitFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/filter/JwtTokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/filter/LoginRateLimitFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/response/BaseResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/response/JwtPayloadResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/services/GlobalRateLimitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/services/LoginRateLimitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/util/ExceptionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/util/IpUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/util/SignPayloadUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/util/UnauthorizeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/resources/scripts/rate_limit.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/request/ChangePassRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/request/CheckMailRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/request/CheckOtpRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/request/ResetPasswordRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/response/CheckMailResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/response/CheckOTPResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/filter/JwtTokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/OtpUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/api-gateway/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/AuthRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/repository/AuthRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/IAuthServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/IAuthServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/Impl/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/Impl/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/JwtTokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/JwtTokenUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/resources/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/WebCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/WebCV.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/WevCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/WevCV.iml" afterDir="false" />
@@ -319,6 +360,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Exception" />
         <option value="Class" />
       </list>
     </option>
@@ -368,7 +410,7 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;TuLeeNe&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;web__microservices&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Intellij/DoanTN_Healtcare&quot;
@@ -377,6 +419,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Intellij\DoanTN_Healtcare\Backend" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.javaweb.users_service.util" />
+      <recent name="com.example.api_gateway.util" />
     </key>
   </component>
   <component name="RunManager" selected="Application.UsersServiceApplication">
@@ -407,6 +453,10 @@
       </method>
     </configuration>
     <configuration name="UsersServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="MAIL_USERNAME" value="ldt0226@gmail.com" />
+        <env name="MAIL_PASSWORD" value="cjqvlszkdmijsets" />
+      </envs>
       <option name="MAIN_CLASS_NAME" value="com.javaweb.users_service.UsersServiceApplication" />
       <module name="users-service" />
       <extension name="coverage">
@@ -428,6 +478,11 @@
       <option name="filePath" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Application.ApiGatewayApplication" />
+      <item itemvalue="Application.DiscoveryServerApplication" />
+      <item itemvalue="Application.UsersServiceApplication" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.UsersServiceApplication" />

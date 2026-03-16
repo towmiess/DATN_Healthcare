@@ -1,6 +1,7 @@
 package com.javaweb.users_service.util;
 
 
+import com.javaweb.users_service.dto.TokenPayload;
 import com.javaweb.users_service.entity.RoleEntity;
 import com.javaweb.users_service.entity.UserEntity;
 import com.javaweb.users_service.exception.customexception.JwtGenerationException;
@@ -13,14 +14,16 @@ import io.jsonwebtoken.io.Decoders;
 import io.jsonwebtoken.security.Keys;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Component;
 
+import javax.crypto.Mac;
 import javax.crypto.SecretKey;
+import javax.crypto.spec.SecretKeySpec;
+import java.nio.charset.StandardCharsets;
 import java.security.Key;
+import java.security.MessageDigest;
 import java.time.Instant;
 import java.util.*;
-import java.util.function.Function;
 
 @Component
 @RequiredArgsConstructor
@@ -37,7 +40,10 @@ public class JwtTokenUtil {
     @Value("${jwt.refresh.secret}")
     private String secretRefresh;
 
-    //sinh token
+    @Value("${app.gateway.internal-secret}")
+    private String internalSecret;
+
+    // Tạo JWT cho user với thời hạn và khóa bí mật.
     public String generateToken(UserEntity user, Long expirationTime, String secret){
         Map<String, Object> claims = new HashMap<>();
         claims.put("user_id", user.getId());
@@ -56,108 +62,114 @@ public class JwtTokenUtil {
         }
     }
 
-    //tạo access token:
+    // Tạo access token.
     public String generateAccessToken(UserEntity user){
         return generateToken(user, expirationAccess, secretAccess);
     }
 
-    //tạo refresh token:
+    // Tạo refresh token.
     public String generateRefreshToken(UserEntity user){
         return generateToken(user, expirationRefresh,  secretRefresh);
     }
 
-    //tạo khóa bí mật dùng trong tạo token và xác thực
+    // Tao khoa ky JWT tu secret base64.
     private Key getSignInKey(String secretkey) {
         byte[] bytes = Decoders.BASE64.decode(secretkey);
         return Keys.hmacShaKeyFor(bytes);
     }
 
-    //dùng để đọc và xác thực jwt rồi lấy toàn bộ thông tin
     private Claims extractAllClaims(String token, String secret) {
-        try{
+        try {
             return Jwts.parser()
                     .verifyWith((SecretKey) getSignInKey(secret))
                     .build()
                     .parseSignedClaims(token)
                     .getPayload();
-        }catch(ExpiredJwtException e){
-            throw new UnauthorizedException("RefreshToken is expired or not valid!");
-        }catch (JwtException e){
+        } catch (ExpiredJwtException e) {
+            throw new UnauthorizedException("Token is expired!");
+        } catch (JwtException e) {
             throw new UnauthorizedException("Invalid JWT token!");
         }
-
     }
 
-    //áp dụng T class dùng để lấy thông tin trong token 1 cách linh động
-    public  <T> T extractClaim(String token, Function<Claims, T> claimsResolver,  String secret) {
-        final Claims claims = this.extractAllClaims(token, secret);
-        return claimsResolver.apply(claims);
+    public String extractRefreshTokenId(String token) {
+        return extractTokenId(token, secretRefresh);
     }
 
-    //check hạn token
-    public boolean isTokenExpired(String token, String secret) {
-        Date expirationDate = this.extractClaim(token, Claims::getExpiration, secret);
-        return expirationDate.before(new Date());
+    public Long extractRefreshUserId(String token) {
+        return extractUserId(token, secretRefresh);
     }
 
-    //lấy username
-    public String extractUsername(String token, String secret) {
-        return extractClaim(token, Claims::getSubject, secret);
+    public Instant extractRefreshExpiration(String token) {
+        return extractExpirationInstant(token, secretRefresh);
     }
-    //lấy user_id
-    public Long extractUserId(String token, String secret) {
-        return extractClaim(token, claims -> {
-            Object userId = claims.get("user_id");
-            if (userId instanceof Integer) {
-                return ((Integer) userId).longValue();
-            }
+
+    public Instant extractRefreshIssuedAt(String token) {
+        return extractIssuedAtInstant(token, secretRefresh);
+    }
+
+    private Long extractUserId(String token, String secret) {
+        Object userId = extractAllClaims(token, secret).get("user_id");
+        if (userId instanceof Integer) {
+            return ((Integer) userId).longValue();
+        }
+        if (userId instanceof Long) {
             return (Long) userId;
-        }, secret);
-    }
-    //lấy roles
-    public List<String> extractRoles(String token, String secret) {
-        return extractClaim(token, claims -> {
-            Object roles = claims.get("roles");
-
-            if (roles instanceof List<?>) {
-                return ((List<?>) roles)
-                        .stream()
-                        .map(Object::toString)
-                        .toList();
+        }
+        if (userId != null) {
+            try {
+                return Long.parseLong(userId.toString());
+            } catch (NumberFormatException ignored) {
+                return null;
             }
-
-            return List.of();
-        }, secret);
+        }
+        return null;
     }
 
-
-
-    //lấy token id
-    public String tokenId(String token, String secret) {
-        return extractClaim(token, Claims::getId, secret);
+    private String extractTokenId(String token, String secret) {
+        return extractAllClaims(token, secret).getId();
     }
-    //lấy thời gian tạo
-    public Instant tokenIssuedAtInstant(String token, String secret) {
-        Date issuedAt = extractClaim(token, Claims::getIssuedAt, secret);
+
+    private Instant extractExpirationInstant(String token, String secret) {
+        Date expiration = extractAllClaims(token, secret).getExpiration();
+        return expiration != null ? expiration.toInstant() : null;
+    }
+
+    private Instant extractIssuedAtInstant(String token, String secret) {
+        Date issuedAt = extractAllClaims(token, secret).getIssuedAt();
         return issuedAt != null ? issuedAt.toInstant() : null;
     }
 
-
-    //xác định token là của người dùng nào và kiểm tra hạn
-    public boolean validateToken(String token, UserDetails userDetails, String secret) {
-        UserEntity user = (UserEntity) userDetails;
-        if (!extractUsername(token, secret).equals(user.getUsername())) {
+    //Xác nhận request đi qua gateway(chữ ký HMAC).
+    public boolean isValidGatewaySignature(String payload, String signature) {
+        if (signature == null || signature.isBlank()) {
             return false;
         }
-        if (isTokenExpired(token, secret)) {
-            return false;
-        }
+        String expected = sign(payload);
+        return MessageDigest.isEqual(
+                expected.getBytes(StandardCharsets.UTF_8),
+                signature.getBytes(StandardCharsets.UTF_8)
+        );
+    }
 
-        Instant changePassAt = user.getChangePassAt();
-        if(changePassAt != null){
-            Instant issuedAt = tokenIssuedAtInstant(token, secret);
-            return !issuedAt.isBefore(changePassAt);
+    //Ký payload HMAC-SHA256 cho gateway header.
+    private String sign(String payload) {
+        try {
+            Mac mac = Mac.getInstance("HmacSHA256");
+            SecretKeySpec keySpec = new SecretKeySpec(
+                    internalSecret.getBytes(StandardCharsets.UTF_8),
+                    "HmacSHA256"
+            );
+            mac.init(keySpec);
+            byte[] raw = mac.doFinal(payload.getBytes(StandardCharsets.UTF_8));
+            return Base64.getEncoder().encodeToString(raw);
+        } catch (Exception e) {
+            return "";
         }
-        return true;
+    }
+
+    //Trả về principal đầy đủ từ header
+    public TokenPayload resolvePrincipal(TokenPayload context) {
+        return context;
     }
 }

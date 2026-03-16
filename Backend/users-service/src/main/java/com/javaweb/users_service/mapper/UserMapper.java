@@ -4,6 +4,7 @@ import com.javaweb.users_service.dto.request.GetAllUserRequest;
 import com.javaweb.users_service.dto.response.UserResponse;
 import org.springframework.stereotype.Component;
 
+import java.util.List;
 import java.util.Map;
 
 @Component
@@ -39,5 +40,12 @@ public class UserMapper {
                 .avatar((String)row[5])
                 .status((String)row[6])
                 .build();
+    }
+
+    public List<String> toRoles(List<String> roles) {
+        if (roles == null) {
+            return List.of();
+        }
+        return roles;
     }
 }
