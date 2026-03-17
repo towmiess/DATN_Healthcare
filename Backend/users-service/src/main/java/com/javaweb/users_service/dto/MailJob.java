@@ -15,5 +15,6 @@ public class MailJob {
     private String to;
     private String subject;
     private String body;
+    private boolean html;
     private int attempt;
 }

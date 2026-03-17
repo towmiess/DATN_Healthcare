@@ -34,5 +34,7 @@ eureka:
     prefer-ip-address: true
 
 app:
+  cors:
+    allowed-origins: ${CORS_ALLOWED_ORIGINS:http://localhost:5173}
   gateway:
     internal-secret: ${GATEWAY_INTERNAL_SECRET:change-me}
