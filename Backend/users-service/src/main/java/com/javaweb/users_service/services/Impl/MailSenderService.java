@@ -1,4 +1,4 @@
-package com.javaweb.users_service.services;
+package com.javaweb.users_service.services.Impl;
 
 import com.javaweb.users_service.dto.MailJob;
 import jakarta.mail.MessagingException;

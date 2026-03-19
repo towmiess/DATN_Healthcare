@@ -10,7 +10,6 @@ import com.javaweb.users_service.exception.customexception.UnauthorizedException
 import com.javaweb.users_service.repository.AuthRepository;
 import com.javaweb.users_service.repository.RoleRepository;
 import com.javaweb.users_service.services.IAuthServices;
-import com.javaweb.users_service.services.MailQueueService;
 import com.javaweb.users_service.util.JwtTokenUtil;
 import com.javaweb.users_service.util.OtpUtil;
 import com.javaweb.users_service.util.ResponseUtils;

@@ -10,8 +10,6 @@ import java.io.IOException;
 
 @Component
 public class ExceptionUtils {
-    private ExceptionUtils() {
-    }
 
     public static ResponseEntity<BaseResponse<Void>> buildErrorResponse(HttpStatus status, String code, String message){
         return ResponseEntity.status(status).body(

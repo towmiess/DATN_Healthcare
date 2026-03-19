@@ -1,6 +1,6 @@
 import { Navigate, Outlet, Route, Routes } from "react-router-dom";
-import Login from "@/pages/Login";
-import SignUp from "@/pages/SignUp";
+import Login from "@/pages/auth/Login/Login";
+import SignUp from "@/pages/auth/SignUp/SignUp";
 import AdminLayout from "@/layouts/admin/AdminLayout";
 import UserLayout from "@/layouts/user/UserLayout";
 import AdminHome from "@/pages/admin/AdminHome";

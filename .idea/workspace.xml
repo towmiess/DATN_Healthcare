@@ -12,12 +12,11 @@
       <change afterPath="$PROJECT_DIR$/../Backend/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Backend/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/java/com/example/api_gateway/config/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/api-gateway/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/MailJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/dto/MailJob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/MailQueueService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/MailQueueService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/MailSenderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/MailSenderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/Impl/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/Impl/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/MailQueueService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/Impl/MailQueueService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/MailQueueWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/Impl/MailQueueWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/MailSenderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/services/Impl/MailSenderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/ExceptionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/java/com/javaweb/users_service/util/ExceptionUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/WebCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/WebCV.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/WevCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/WevCV.iml" afterDir="false" />
@@ -390,7 +389,7 @@
       <recent name="com.example.api_gateway.util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UsersServiceApplication">
+  <component name="RunManager" selected="Application.ApiGatewayApplication">
     <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.api_gateway.ApiGatewayApplication" />
       <module name="api-gateway" />
@@ -419,8 +418,8 @@
     </configuration>
     <configuration name="UsersServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <envs>
-        <env name="MAIL_USERNAME" value="ldt0226@gmail.com" />
-        <env name="MAIL_PASSWORD" value="cjqvlszkdmijsets" />
+        <env name="MAIL_USERNAME" value="healthcareteams.work@gmail.com" />
+        <env name="MAIL_PASSWORD" value="stcduqefuxkqtkwu" />
       </envs>
       <option name="MAIN_CLASS_NAME" value="com.javaweb.users_service.UsersServiceApplication" />
       <module name="users-service" />
@@ -450,8 +449,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UsersServiceApplication" />
         <item itemvalue="Application.ApiGatewayApplication" />
+        <item itemvalue="Application.UsersServiceApplication" />
         <item itemvalue="Application.DiscoveryServerApplication" />
       </list>
     </recent_temporary>

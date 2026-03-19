@@ -1,4 +1,4 @@
-package com.javaweb.users_service.services;
+package com.javaweb.users_service.services.Impl;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.javaweb.users_service.dto.MailJob;
