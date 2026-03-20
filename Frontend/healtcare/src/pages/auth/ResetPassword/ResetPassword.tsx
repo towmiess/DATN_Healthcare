@@ -1,65 +1,35 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import { useForm, type SubmitHandler } from 'react-hook-form';
 import { Activity, Clock, Eye, EyeOff, Heart, Plus, Shield } from 'lucide-react';
 import brandLogo from '@/assets/logo.png';
 import iconGreen from '@/assets/icon-green.svg';
 import loginIcon from '@/assets/icon-login.png';
-import './Login.scss';
+import './ResetPassword.scss';
 
-type LoginFormValues = {
-  email: string;
+type ResetPasswordFormValues = {
   password: string;
-  remember: boolean;
 };
 
-const REMEMBER_KEY = 'healthcare_login_remember';
-
-const Login: React.FC = () => {
+const ResetPassword: React.FC = () => {
   const [showPassword, setShowPassword] = useState(false);
   const {
     register,
     handleSubmit,
-    setValue,
     formState: { errors, isSubmitting },
-  } = useForm<LoginFormValues>({
+  } = useForm<ResetPasswordFormValues>({
     defaultValues: {
-      email: '',
       password: '',
-      remember: false,
     },
     mode: 'onSubmit',
   });
 
-  useEffect(() => {
-    const saved = localStorage.getItem(REMEMBER_KEY);
-    if (!saved) return;
-    try {
-      const parsed = JSON.parse(saved) as { email?: string; password?: string };
-      if (parsed.email && parsed.password) {
-        setValue('email', parsed.email);
-        setValue('password', parsed.password);
-        setValue('remember', true);
-      }
-    } catch {
-      localStorage.removeItem(REMEMBER_KEY);
-    }
-  }, [setValue]);
-
-  const onSubmit: SubmitHandler<LoginFormValues> = (data) => {
-    console.log('Login data:', data);
-    if (data.remember) {
-      localStorage.setItem(
-        REMEMBER_KEY,
-        JSON.stringify({ email: data.email.trim(), password: data.password })
-      );
-    } else {
-      localStorage.removeItem(REMEMBER_KEY);
-    }
+  const onSubmit: SubmitHandler<ResetPasswordFormValues> = (data) => {
+    console.log('Reset password data:', data);
   };
 
   return (
-    <div className="login-page">
+    <div className="login-page reset-password-page">
       <header className="login-nav">
         <div className="login-nav__content">
           <img src={brandLogo} alt="Healthcare Diabetes" className="login-nav__logo" />
@@ -76,10 +46,6 @@ const Login: React.FC = () => {
               <Clock size={16} />
               <span>Lịch sử</span>
             </NavLink>
-            {/* <NavLink className="login-nav__cta" to="/signup">
-              <User size={16} />
-              <span>Đăng ký</span>
-            </NavLink> */}
           </nav>
         </div>
       </header>
@@ -90,53 +56,26 @@ const Login: React.FC = () => {
             <div className="login-card__logo">
               <img src={loginIcon} alt="" aria-hidden="true" className="login-card__logo-img" />
             </div>
-            <h1 className="login-card__title">Login</h1>
-            <p className="login-card__subtitle">Đăng nhập để tiếp tục chăm sóc sức khỏe</p>
+            <h1 className="login-card__title">Reset Password</h1>
+            <p className="login-card__subtitle">Tạo mật khẩu mới cho tài khoản của bạn</p>
           </div>
 
           <form className="login-form" onSubmit={handleSubmit(onSubmit)} noValidate autoComplete="off">
             <div className="login-form__field">
-              <label htmlFor="email" className="login-form__label">
-                Email
-              </label>
-              <input
-                id="email"
-                type="email"
-                placeholder="email@example.com"
-                autoComplete="off"
-                className={`login-form__input ${errors.email ? 'login-form__input--error' : ''}`}
-                aria-invalid={errors.email ? 'true' : 'false'}
-                aria-describedby={errors.email ? 'email-error' : undefined}
-                {...register('email', {
-                  required: 'Vui lòng nhập email.',
-                  pattern: {
-                    value: /^[^\s@]+@[^\s@]+\.[^\s@]+$/,
-                    message: 'Email không hợp lệ.',
-                  },
-                })}
-              />
-              {errors.email && (
-                <p id="email-error" className="login-form__error" role="alert">
-                  {errors.email.message}
-                </p>
-              )}
-            </div>
-
-            <div className="login-form__field">
               <label htmlFor="password" className="login-form__label">
-                Mật khẩu
+                New Password
               </label>
               <div className="login-form__password">
                 <input
                   id="password"
                   type={showPassword ? 'text' : 'password'}
-                  placeholder="password"
+                  placeholder="new password"
                   autoComplete="new-password"
                   className={`login-form__input login-form__input--password ${errors.password ? 'login-form__input--error' : ''}`}
                   aria-invalid={errors.password ? 'true' : 'false'}
                   aria-describedby={errors.password ? 'password-error' : undefined}
                   {...register('password', {
-                    required: 'Vui lòng nhập mật khẩu.',
+                    required: 'Vui lòng nhập mật khẩu mới.',
                     minLength: {
                       value: 6,
                       message: 'Mật khẩu tối thiểu 6 ký tự.',
@@ -159,26 +98,15 @@ const Login: React.FC = () => {
               )}
             </div>
 
-            <div className="login-form__row">
-              <label className="checkbox">
-                <input type="checkbox" {...register('remember')} />
-                <span className="checkbox__box" />
-                <span className="checkbox__label">Ghi nhớ đăng nhập</span>
-              </label>
-              <NavLink className="login-form__link" to="/check-email">
-                Quên mật khẩu?
-              </NavLink>
-            </div>
-
             <button type="submit" className="login-form__submit" disabled={isSubmitting}>
-              {isSubmitting ? 'Đang xử lý...' : 'Đăng nhập'}
+              {isSubmitting ? 'Đang xử lý...' : 'Reset Password'}
             </button>
           </form>
 
           <div className="login-card__footer">
-            <span>Chưa có tài khoản? </span>
-            <NavLink to="/signup" className="login-card__footer-link">
-              Đăng ký ngay
+            <span>Đã nhớ mật khẩu? </span>
+            <NavLink to="/login" className="login-card__footer-link">
+              Đăng nhập
             </NavLink>
           </div>
 
@@ -212,4 +140,4 @@ const Login: React.FC = () => {
   );
 };
 
-export default Login;
+export default ResetPassword;

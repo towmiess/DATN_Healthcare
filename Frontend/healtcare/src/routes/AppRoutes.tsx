@@ -1,6 +1,10 @@
 import { Navigate, Outlet, Route, Routes } from "react-router-dom";
 import Login from "@/pages/auth/Login/Login";
 import SignUp from "@/pages/auth/SignUp/SignUp";
+import CheckEmail from "@/pages/auth/CheckEmail/CheckEmail";
+import VerifyOtp from "@/pages/auth/VerifyOtp/VerifyOtp";
+import ResetPassword from "@/pages/auth/ResetPassword/ResetPassword";
+import ChangePass from "@/pages/auth/ChangePass/ChangePass";
 import AdminLayout from "@/layouts/admin/AdminLayout";
 import UserLayout from "@/layouts/user/UserLayout";
 import AdminHome from "@/pages/admin/AdminHome";
@@ -46,6 +50,10 @@ const AppRoutes = () => {
       <Route element={<PublicRoutes />}>
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<SignUp />} />
+        <Route path="/check-email" element={<CheckEmail />} />
+        <Route path="/verify-otp" element={<VerifyOtp />} />
+        <Route path="/reset-password" element={<ResetPassword />} />
+        <Route path="/change-password" element={<ChangePass />} />
       </Route>
 
       <Route element={<RequireAuth />}>

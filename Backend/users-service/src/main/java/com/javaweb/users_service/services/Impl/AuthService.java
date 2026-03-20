@@ -48,7 +48,7 @@ public class AuthService implements IAuthServices {
             throw new BadRequestException("Email already exists!");
         }
         //check username
-        if(authRepository.existsByUsername(signUpRequest.getUsername())){
+        if(authRepository.existsByEmail(signUpRequest.getEmail())){
             throw new BadRequestException("Username already exists!");
         }
         RoleEntity roleEntity = roleRepository.findByName("USER")
@@ -57,7 +57,6 @@ public class AuthService implements IAuthServices {
                 .fullName(signUpRequest.getFullName())
                 .email(signUpRequest.getEmail())
                 .phoneNumber(signUpRequest.getPhoneNumber())
-                .username(signUpRequest.getUsername())
                 .password(passwordEncoder.encode(signUpRequest.getPassword()))
                 .status(UserStatus.ACTIVE)
                 .deleted(false)
@@ -70,7 +69,7 @@ public class AuthService implements IAuthServices {
 
     @Override
     public BaseResponse<LoginResponse> login(LoginRequest loginRequest) {
-        UsernamePasswordAuthenticationToken authenticationToken =new UsernamePasswordAuthenticationToken(loginRequest.getUsername(), loginRequest.getPassword());
+        UsernamePasswordAuthenticationToken authenticationToken =new UsernamePasswordAuthenticationToken(loginRequest.getEmail(), loginRequest.getPassword());
 
         Authentication authentication = authenticationManager.authenticate(authenticationToken);
 
@@ -136,7 +135,7 @@ public class AuthService implements IAuthServices {
 
     @Override
     public BaseResponse<CheckMailResponse> checkMail(String email) {
-        UserEntity user = authRepository.findByEmailAndDeletedFalse(email)
+        UserEntity user = authRepository.findByEmailAndStatusAndDeletedFalse(email, UserStatus.ACTIVE)
                 .orElseThrow(() -> new BadRequestException("Email not found!"));
         Long userId = user.getId();
         String otp = OtpUtil.generateOtp();

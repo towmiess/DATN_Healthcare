@@ -27,9 +27,9 @@ public class SecurityConfig {
 
     @Bean
     public UserDetailsService userDetailsService() {
-        return username -> authRepository
-                .findByUsernameAndStatus(username, UserStatus.ACTIVE)
-                .orElseThrow(() -> new UsernameNotFoundException("Invalid username or password"));
+        return email -> authRepository
+                .findByEmailAndStatusAndDeletedFalse(email, UserStatus.ACTIVE)
+                .orElseThrow(() -> new UsernameNotFoundException("Invalid email or password!"));
     }
 
     @Bean

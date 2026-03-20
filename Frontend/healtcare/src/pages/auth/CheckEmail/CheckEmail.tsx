@@ -1,65 +1,34 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { useForm, type SubmitHandler } from 'react-hook-form';
-import { Activity, Clock, Eye, EyeOff, Heart, Plus, Shield } from 'lucide-react';
+import { Activity, Clock, Heart, Plus, Shield } from 'lucide-react';
 import brandLogo from '@/assets/logo.png';
 import iconGreen from '@/assets/icon-green.svg';
 import loginIcon from '@/assets/icon-login.png';
-import './Login.scss';
+import './CheckEmail.scss';
 
-type LoginFormValues = {
+type CheckEmailFormValues = {
   email: string;
-  password: string;
-  remember: boolean;
 };
 
-const REMEMBER_KEY = 'healthcare_login_remember';
-
-const Login: React.FC = () => {
-  const [showPassword, setShowPassword] = useState(false);
+const CheckEmail: React.FC = () => {
   const {
     register,
     handleSubmit,
-    setValue,
     formState: { errors, isSubmitting },
-  } = useForm<LoginFormValues>({
+  } = useForm<CheckEmailFormValues>({
     defaultValues: {
       email: '',
-      password: '',
-      remember: false,
     },
     mode: 'onSubmit',
   });
 
-  useEffect(() => {
-    const saved = localStorage.getItem(REMEMBER_KEY);
-    if (!saved) return;
-    try {
-      const parsed = JSON.parse(saved) as { email?: string; password?: string };
-      if (parsed.email && parsed.password) {
-        setValue('email', parsed.email);
-        setValue('password', parsed.password);
-        setValue('remember', true);
-      }
-    } catch {
-      localStorage.removeItem(REMEMBER_KEY);
-    }
-  }, [setValue]);
-
-  const onSubmit: SubmitHandler<LoginFormValues> = (data) => {
-    console.log('Login data:', data);
-    if (data.remember) {
-      localStorage.setItem(
-        REMEMBER_KEY,
-        JSON.stringify({ email: data.email.trim(), password: data.password })
-      );
-    } else {
-      localStorage.removeItem(REMEMBER_KEY);
-    }
+  const onSubmit: SubmitHandler<CheckEmailFormValues> = (data) => {
+    console.log('Check email data:', data);
   };
 
   return (
-    <div className="login-page">
+    <div className="login-page check-email-page">
       <header className="login-nav">
         <div className="login-nav__content">
           <img src={brandLogo} alt="Healthcare Diabetes" className="login-nav__logo" />
@@ -76,10 +45,6 @@ const Login: React.FC = () => {
               <Clock size={16} />
               <span>Lịch sử</span>
             </NavLink>
-            {/* <NavLink className="login-nav__cta" to="/signup">
-              <User size={16} />
-              <span>Đăng ký</span>
-            </NavLink> */}
           </nav>
         </div>
       </header>
@@ -90,8 +55,8 @@ const Login: React.FC = () => {
             <div className="login-card__logo">
               <img src={loginIcon} alt="" aria-hidden="true" className="login-card__logo-img" />
             </div>
-            <h1 className="login-card__title">Login</h1>
-            <p className="login-card__subtitle">Đăng nhập để tiếp tục chăm sóc sức khỏe</p>
+            <h1 className="login-card__title">Check Email</h1>
+            <p className="login-card__subtitle">Nhập email để nhận mã OTP đặt lại mật khẩu</p>
           </div>
 
           <form className="login-form" onSubmit={handleSubmit(onSubmit)} noValidate autoComplete="off">
@@ -103,7 +68,7 @@ const Login: React.FC = () => {
                 id="email"
                 type="email"
                 placeholder="email@example.com"
-                autoComplete="off"
+                autoComplete="email"
                 className={`login-form__input ${errors.email ? 'login-form__input--error' : ''}`}
                 aria-invalid={errors.email ? 'true' : 'false'}
                 aria-describedby={errors.email ? 'email-error' : undefined}
@@ -122,63 +87,15 @@ const Login: React.FC = () => {
               )}
             </div>
 
-            <div className="login-form__field">
-              <label htmlFor="password" className="login-form__label">
-                Mật khẩu
-              </label>
-              <div className="login-form__password">
-                <input
-                  id="password"
-                  type={showPassword ? 'text' : 'password'}
-                  placeholder="password"
-                  autoComplete="new-password"
-                  className={`login-form__input login-form__input--password ${errors.password ? 'login-form__input--error' : ''}`}
-                  aria-invalid={errors.password ? 'true' : 'false'}
-                  aria-describedby={errors.password ? 'password-error' : undefined}
-                  {...register('password', {
-                    required: 'Vui lòng nhập mật khẩu.',
-                    minLength: {
-                      value: 6,
-                      message: 'Mật khẩu tối thiểu 6 ký tự.',
-                    },
-                  })}
-                />
-                <button
-                  type="button"
-                  className="login-form__toggle"
-                  onClick={() => setShowPassword((prev) => !prev)}
-                  aria-label={showPassword ? 'Ẩn mật khẩu' : 'Hiện mật khẩu'}
-                >
-                  {showPassword ? <EyeOff size={18} /> : <Eye size={18} />}
-                </button>
-              </div>
-              {errors.password && (
-                <p id="password-error" className="login-form__error" role="alert">
-                  {errors.password.message}
-                </p>
-              )}
-            </div>
-
-            <div className="login-form__row">
-              <label className="checkbox">
-                <input type="checkbox" {...register('remember')} />
-                <span className="checkbox__box" />
-                <span className="checkbox__label">Ghi nhớ đăng nhập</span>
-              </label>
-              <NavLink className="login-form__link" to="/check-email">
-                Quên mật khẩu?
-              </NavLink>
-            </div>
-
             <button type="submit" className="login-form__submit" disabled={isSubmitting}>
-              {isSubmitting ? 'Đang xử lý...' : 'Đăng nhập'}
+              {isSubmitting ? 'Đang xử lý...' : 'Gửi OTP'}
             </button>
           </form>
 
           <div className="login-card__footer">
-            <span>Chưa có tài khoản? </span>
-            <NavLink to="/signup" className="login-card__footer-link">
-              Đăng ký ngay
+            <span>Đã nhớ mật khẩu? </span>
+            <NavLink to="/login" className="login-card__footer-link">
+              Đăng nhập
             </NavLink>
           </div>
 
@@ -212,4 +129,4 @@ const Login: React.FC = () => {
   );
 };
 
-export default Login;
+export default CheckEmail;

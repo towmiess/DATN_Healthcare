@@ -17,7 +17,7 @@ public class QueryKeywordUtil {
 
         List<String> conditions = new ArrayList<>();
 
-        if (hastextUtil.hasText(request.getUsername())) {
+        if (hastextUtil.hasText(request.getEmail())) {
             conditions.add("LOWER(u.username) LIKE LOWER(:username)");
         }
 

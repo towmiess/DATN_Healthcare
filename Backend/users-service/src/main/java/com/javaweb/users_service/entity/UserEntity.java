@@ -33,9 +33,6 @@ public class UserEntity extends BaseEntity implements UserDetails {
     @Column(name = "phone_number", nullable = false)
     private String phoneNumber;
 
-    @Column(name = "username", nullable = false)
-    private String username;
-
     @Column(name = "password", nullable = false)
     private String password;
 
@@ -64,5 +61,10 @@ public class UserEntity extends BaseEntity implements UserDetails {
         return roleEntities.stream()
                 .map(roleEntity -> new SimpleGrantedAuthority("ROLE_" + roleEntity.getName().toUpperCase()))
                 .toList();
+    }
+
+    @Override
+    public String getUsername() {
+        return "";
     }
 }

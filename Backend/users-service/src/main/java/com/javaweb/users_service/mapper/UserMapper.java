@@ -23,7 +23,6 @@ public class UserMapper {
         return GetAllUserRequest.builder()
                 .lastId(toLong(params.get("lastId")))
                 .fullName((String)params.get("fullName"))
-                .username((String)params.get("username"))
                 .phoneNumber((String)params.get("phoneNumber"))
                 .status((String)params.get("status"))
                 .size(toLong(params.get("size")))
@@ -36,9 +35,8 @@ public class UserMapper {
                 .fullName((String)row[1])
                 .email((String)row[2])
                 .phoneNumber((String)row[3])
-                .username((String)row[4])
-                .avatar((String)row[5])
-                .status((String)row[6])
+                .avatar((String)row[4])
+                .status((String)row[5])
                 .build();
     }
 

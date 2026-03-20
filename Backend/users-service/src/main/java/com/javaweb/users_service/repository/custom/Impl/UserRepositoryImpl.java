@@ -44,7 +44,7 @@ public class UserRepositoryImpl implements UserRepositoryCustom {
     }
     @Override
     public List<Object[]> findAllUsers(GetAllUserRequest request) {
-        StringBuilder sql = new StringBuilder("SELECT u.id, u.full_name, u.email, u.phone_number, u.username, u.avatar, u.status FROM users u ");
+        StringBuilder sql = new StringBuilder("SELECT u.id, u.full_name, u.email, u.phone_number, u.avatar, u.status FROM users u ");
         StringBuilder where = new StringBuilder(" WHERE 1 = 1 AND deleted = false ");
         queryNomal(request, where);
         sql.append(where);
@@ -56,8 +56,8 @@ public class UserRepositoryImpl implements UserRepositoryCustom {
         if(request.getLastId() != null){
             query.setParameter("lastId", request.getLastId());
         }
-        if(hastextUtil.hasText(request.getUsername())){
-            query.setParameter("username","%" + request.getUsername().trim() + "%");
+        if(hastextUtil.hasText(request.getEmail())){
+            query.setParameter("email","%" + request.getEmail().trim() + "%");
         }
         if(hastextUtil.hasText(request.getPhoneNumber())){
             query.setParameter("phoneNumber", "%" + request.getPhoneNumber().trim() + "%");

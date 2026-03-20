@@ -12,7 +12,7 @@ import lombok.*;
 public class GetAllUserRequest {
     private Long lastId;
     private String fullName;
-    private String username;
+    private String email;
     private String phoneNumber;
     private String status;
     private Long size;

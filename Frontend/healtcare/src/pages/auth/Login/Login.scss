@@ -491,6 +491,30 @@
     justify-content: center;
     gap: 13px;
   }
+
+  .login-nav__item,
+  .login-nav__cta {
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 6px;
+  }
+
+  .login-nav__item svg,
+  .login-nav__cta svg,
+  .login-nav__item-icon {
+    margin: 0 auto;
+    display: block;
+  }
+
+  .login-card__logo-img {
+    margin: 0 auto;
+    display: block;
+  }
+
+  .login-features__icon {
+    margin: 0 auto;
+  }
 }
 
 @media (max-width: 540px) {
@@ -641,7 +665,7 @@
   .login-nav__links {
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(88px, 1fr));
     gap: 9px;
   }
 
@@ -679,17 +703,20 @@
 
 @media (max-width: 390px) {
   .login-nav__content {
-    padding: 10px 12px;
-    gap: 10px;
+    padding: 9px 10px;
+    gap: 8px;
   }
 
   .login-nav__links {
-    gap: 6px;
+    gap: 6px 8px;
+    grid-template-columns: repeat(auto-fit, minmax(78px, 1fr));
+    justify-items: center;
   }
 
   .login-nav__item,
   .login-nav__cta {
-    padding: 8px 4px;
-    gap: 5px;
+    padding: 7px 4px;
+    gap: 4px;
+    font-size: 0.82rem;
   }
 }

@@ -51,7 +51,7 @@ public class JwtTokenUtil {
         try {
             return Jwts.builder()
                     .claims(claims)
-                    .subject(user.getUsername())
+                    .subject(user.getEmail())
                     .expiration(new Date(System.currentTimeMillis() + expirationTime))
                     .id(UUID.randomUUID().toString())
                     .issuedAt(new Date())
