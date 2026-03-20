@@ -23,30 +23,6 @@
   overflow: hidden;
 }
 
-.login-page::before,
-.login-page::after {
-  content: "";
-  position: absolute;
-  border-radius: 999px;
-  pointer-events: none;
-  z-index: 0;
-}
-
-.login-page::before {
-  width: 420px;
-  height: 420px;
-  top: -140px;
-  left: -120px;
-  background: radial-gradient(circle at 35% 35%, rgba(59, 130, 246, 0.22), transparent 70%);
-}
-
-.login-page::after {
-  width: 520px;
-  height: 520px;
-  bottom: -200px;
-  right: -180px;
-  background: radial-gradient(circle at 60% 40%, rgba(34, 197, 94, 0.2), transparent 70%);
-}
 
 .login-nav {
   position: relative;
@@ -57,9 +33,10 @@
 }
 
 .login-nav__content {
-  width: min(1120px, 100%);
-  margin: 0 auto;
-  padding: 12px 24px;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 12px 30px;
   display: flex;
   align-items: center;
   justify-content: space-between;
