@@ -129,7 +129,7 @@ const Login: React.FC = () => {
                 <input
                   id="password"
                   type={showPassword ? 'text' : 'password'}
-                  placeholder="********"
+                  placeholder="password"
                   autoComplete="new-password"
                   className={`login-form__input login-form__input--password ${errors.password ? 'login-form__input--error' : ''}`}
                   aria-invalid={errors.password ? 'true' : 'false'}
