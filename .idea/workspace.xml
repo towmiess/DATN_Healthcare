@@ -11,21 +11,9 @@
       <change afterPath="$PROJECT_DIR$/../Backend/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Backend/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Backend/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/healtcare/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/healtcare/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/healtcare/src/api/Fetcher.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/healtcare/src/api/Fetcher.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/healtcare/src/layouts/admin/AdminLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/healtcare/src/layouts/admin/AdminLayout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/healtcare/src/layouts/user/UserLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/healtcare/src/layouts/user/UserLayout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/healtcare/src/pages/auth/ChangePass/ChangePass.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/healtcare/src/pages/auth/ChangePass/ChangePass.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/healtcare/src/pages/auth/CheckEmail/CheckEmail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/healtcare/src/pages/auth/CheckEmail/CheckEmail.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/healtcare/src/pages/auth/Login/Login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/healtcare/src/pages/auth/Login/Login.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/healtcare/src/pages/auth/ResetPassword/ResetPassword.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/healtcare/src/pages/auth/ResetPassword/ResetPassword.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/healtcare/src/pages/auth/SignUp/SignUp.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/healtcare/src/pages/auth/SignUp/SignUp.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/healtcare/src/pages/auth/SignUp/SignUp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/healtcare/src/pages/auth/SignUp/SignUp.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/healtcare/src/pages/auth/VerifyOtp/VerifyOtp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/healtcare/src/pages/auth/VerifyOtp/VerifyOtp.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/healtcare/src/routes/AppRoutes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/healtcare/src/routes/AppRoutes.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/healtcare/src/services/authservices/login.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/healtcare/src/services/authservices/login.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/api-gateway/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/api-gateway/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/users-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/users-service/src/main/resources/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/WebCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/WebCV.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WevCV-deploy/.idea/WevCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WevCV-deploy/.idea/WevCV.iml" afterDir="false" />
