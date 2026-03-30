@@ -1,6 +1,6 @@
 # Docker Guide
 
-## 1. Muc tieu
+## 1. Mục tiêu
 
 Repo này đã được bổ sung đầy đủ file Docker để chạy các stack bằng Docker Compose:
 
@@ -11,7 +11,7 @@ Repo này đã được bổ sung đầy đủ file Docker để chạy các sta
 - PostgreSQL
 - Redis
 
-## 2. Cac file chinh
+## 2. Các file chính
 
 - `docker-compose.yml`: điều phối toàn bộ service
 - `docker/postgres/init/01-init-users-db.sql`: tạo schema cơ bản cho `users-service`
@@ -20,7 +20,7 @@ Repo này đã được bổ sung đầy đủ file Docker để chạy các sta
 - `Frontend/healtcare/nginx.conf`: cấu hình SPA fallback cho React Router
 - `.env.example`: mẫu biến môi trường để tùy chỉnh port, DB, JWT, mail
 
-## 3. Chay local bang Docker
+## 3. Chạy local bằng Docker
 
 Nếu cần OTP qua email, hãy khai báo thêm `MAIL_USERNAME` và `MAIL_PASSWORD`.
 Docker Compose cũng có thể lấy biến môi trường đã tồn tại trong máy.
