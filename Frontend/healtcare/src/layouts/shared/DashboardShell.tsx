@@ -8,10 +8,9 @@ import './DashboardShell.scss';
 
 type DashboardShellProps = {
   homePath: string;
-  roleLabel: string;
 };
 
-const DashboardShell: React.FC<DashboardShellProps> = ({ homePath, roleLabel }) => {
+const DashboardShell: React.FC<DashboardShellProps> = ({ homePath }) => {
   const navigate = useNavigate();
 
   const handleLogout = async () => {
@@ -34,7 +33,6 @@ const DashboardShell: React.FC<DashboardShellProps> = ({ homePath, roleLabel }) 
         <div className="login-nav__content dashboard-nav__content">
           <div className="dashboard-nav__brand">
             <img src={brandLogo} alt="Healthcare Diabetes" className="login-nav__logo" />
-            <span className="dashboard-nav__badge">{roleLabel}</span>
           </div>
 
           <nav className="login-nav__links dashboard-nav__links">
