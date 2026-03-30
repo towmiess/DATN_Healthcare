@@ -1,14 +1,8 @@
-import { Outlet } from "react-router-dom";
+import React from 'react';
+import DashboardShell from '@/layouts/shared/DashboardShell';
 
-const UserLayout = () => {
-  return (
-    <div>
-      <header>User Layout</header>
-      <main>
-        <Outlet />
-      </main>
-    </div>
-  );
+const UserLayout: React.FC = () => {
+  return <DashboardShell homePath="/user" roleLabel="User" />;
 };
 
 export default UserLayout;

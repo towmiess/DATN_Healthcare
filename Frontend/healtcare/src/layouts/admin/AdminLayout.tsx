@@ -1,14 +1,8 @@
-import { Outlet } from "react-router-dom";
+import React from 'react';
+import DashboardShell from '@/layouts/shared/DashboardShell';
 
-const AdminLayout = () => {
-  return (
-    <div>
-      <header>Admin Layout</header>
-      <main>
-        <Outlet />
-      </main>
-    </div>
-  );
+const AdminLayout: React.FC = () => {
+  return <DashboardShell homePath="/admin" roleLabel="Admin" />;
 };
 
 export default AdminLayout;

@@ -1,11 +1,17 @@
 import React, { useState } from 'react';
-import { NavLink } from 'react-router-dom';
+import { NavLink, useNavigate } from 'react-router-dom';
 import { useForm, type SubmitHandler } from 'react-hook-form';
 import { Activity, Clock, Eye, EyeOff, Heart, Plus, Shield } from 'lucide-react';
 import brandLogo from '@/assets/logo.png';
 import iconGreen from '@/assets/icon-green.svg';
 import loginIcon from '@/assets/icon-login.png';
 import './ChangePass.scss';
+import { ChangePasswordRequest } from '@/types/AuthType';
+import { changePassword } from '@/services/authservices/changepass';
+import { BaseResponse } from '@/types/BaseType';
+import { toast } from 'sonner';
+import axios from 'axios';
+import { getLoginRedirectPath } from '@/utils/auth';
 
 type ChangePassFormValues = {
   oldPassword: string;
@@ -14,6 +20,7 @@ type ChangePassFormValues = {
 };
 
 const ChangePass: React.FC = () => {
+  const navigate = useNavigate();
   const [showOldPassword, setShowOldPassword] = useState(false);
   const [showNewPassword, setShowNewPassword] = useState(false);
   const [showConfirmPassword, setShowConfirmPassword] = useState(false);
@@ -27,14 +34,33 @@ const ChangePass: React.FC = () => {
       oldPassword: '',
       newPassword: '',
       newPasswordConfirm: '',
+      
     },
     mode: 'onSubmit',
   });
 
   const newPasswordValue = watch('newPassword');
 
-  const onSubmit: SubmitHandler<ChangePassFormValues> = (data) => {
-    console.log('Change password data:', data);
+  const onSubmit: SubmitHandler<ChangePassFormValues> =async (data) => {
+    const dataRequest: ChangePasswordRequest = {
+      oldPassword: String(data.oldPassword),
+      newPassword: String(data.newPassword),
+      newPasswordConfirm: String(data.newPasswordConfirm),
+    };
+   try{
+
+    await changePassword(dataRequest);
+    toast.success("Đổi mật khẩu thành công.");
+    localStorage.clear();
+    navigate(getLoginRedirectPath(), { replace: true });
+
+   }catch(error){
+    const errorResponse: BaseResponse<null> | null = axios.isAxiosError<BaseResponse<null>>(error)
+        ? error.response?.data ?? null
+        : null;
+      toast.error("Đổi mật khẩu thất bại. Vui lòng thử lại.");
+      console.log('Change password error response:', errorResponse);
+   }
   };
 
   return (

@@ -1,17 +1,22 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import { NavLink, useNavigate } from 'react-router-dom';
 import { useForm, type SubmitHandler } from 'react-hook-form';
 import { Activity, Clock, Heart, Plus, Shield } from 'lucide-react';
 import brandLogo from '@/assets/logo.png';
 import iconGreen from '@/assets/icon-green.svg';
 import loginIcon from '@/assets/icon-login.png';
 import './VerifyOtp.scss';
+import { checkotp } from '@/services/authservices/checkotp';
+import { BaseResponse } from '@/types/BaseType';
+import axios from 'axios';
+import { toast } from 'sonner';
 
 type VerifyOtpFormValues = {
   otp: string;
 };
 
 const VerifyOtp: React.FC = () => {
+  const navigate = useNavigate();
   const {
     register,
     handleSubmit,
@@ -23,8 +28,25 @@ const VerifyOtp: React.FC = () => {
     mode: 'onSubmit',
   });
 
-  const onSubmit: SubmitHandler<VerifyOtpFormValues> = (data) => {
-    console.log('Verify OTP data:', data);
+  const onSubmit: SubmitHandler<VerifyOtpFormValues> =async (data) => {
+    const requestData = {
+      userId: Number(sessionStorage.getItem('resetPasswordUserId')),
+      otp: data.otp.trim(),
+    };
+    try {
+      const response = await checkotp(requestData);
+
+      // Lưu token vào sessionStorage
+      sessionStorage.setItem('resetPasswordToken', response.data.token);
+      toast.success("Xác thực OTP thành công. Vui lòng đặt lại mật khẩu.");
+      navigate('/reset-password');
+    }catch (error) {
+      const errorResponse: BaseResponse<null> | null = axios.isAxiosError<BaseResponse<null>>(error)
+        ? error.response?.data ?? null
+        : null;
+      toast.error("Xác thực OTP thất bại. Vui lòng thử lại.");
+      console.error('Verify OTP error:', errorResponse);
+    }
   };
 
   return (

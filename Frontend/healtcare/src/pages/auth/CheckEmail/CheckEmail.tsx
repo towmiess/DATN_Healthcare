@@ -1,17 +1,22 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import { NavLink, useNavigate } from 'react-router-dom';
 import { useForm, type SubmitHandler } from 'react-hook-form';
 import { Activity, Clock, Heart, Plus, Shield } from 'lucide-react';
 import brandLogo from '@/assets/logo.png';
 import iconGreen from '@/assets/icon-green.svg';
 import loginIcon from '@/assets/icon-login.png';
 import './CheckEmail.scss';
+import { checkmail } from '@/services/authservices/checkmail';
+import axios from 'axios';
+import { BaseResponse } from '@/types/BaseType';
+import { toast } from 'sonner';
 
 type CheckEmailFormValues = {
   email: string;
 };
 
 const CheckEmail: React.FC = () => {
+  const navigate = useNavigate();
   const {
     register,
     handleSubmit,
@@ -23,8 +28,20 @@ const CheckEmail: React.FC = () => {
     mode: 'onSubmit',
   });
 
-  const onSubmit: SubmitHandler<CheckEmailFormValues> = (data) => {
-    console.log('Check email data:', data);
+  const onSubmit: SubmitHandler<CheckEmailFormValues> = async (data) => {
+    try {
+      const response = await checkmail({ email: data.email.trim() });
+      sessionStorage.setItem('resetPasswordUserId', String(response.data.userId));
+      toast.success("Đã gửi OTP đến email của bạn.");
+      navigate('/verify-otp');
+    } catch (error) {
+      const errorResponse: BaseResponse<null> | null = axios.isAxiosError<BaseResponse<null>>(error)
+        ? error.response?.data ?? null
+        : null;
+
+      toast.error("Email không tồn tại.");
+      console.error('Check email error:', errorResponse);
+    }
   };
 
   return (
@@ -123,7 +140,7 @@ const CheckEmail: React.FC = () => {
       </main>
 
       <footer className="login-footnote">
-        Lưu ý: Đây là công cụ hỗ trợ theo dõi. Vui lòng tham khảo ý kiến bác sĩ cho chẩn đoán và điều trị.
+         Lưu ý: Đây là công cụ hỗ trợ theo dõi. Vui lòng tham khảo ý kiến bác sĩ cho chẩn đoán và điều trị.
       </footer>
     </div>
   );

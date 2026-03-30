@@ -1,4 +1,5 @@
 import { API_URL } from "@/config";
+import { BaseResponse } from "@/types/BaseType";
 import {
   clearAuth,
   getAccessToken,
@@ -7,10 +8,8 @@ import {
 } from "@/utils/auth";
 import axios, { AxiosError, AxiosHeaders, AxiosRequestConfig } from "axios";
 
-type BaseResponse<T> = {
-  code?: string;
-  message?: string;
-  data?: T;
+type FetcherConfig = AxiosRequestConfig & {
+  unwrapData?: boolean;
 };
 
 const normalizeApiBase = (raw?: string) => {
@@ -122,10 +121,16 @@ apiClient.interceptors.response.use(
 );
 
 export const fetcher = async <T,>(
-  config: AxiosRequestConfig
+  config: FetcherConfig
 ): Promise<T> => {
-  const response = await apiClient.request<T | BaseResponse<T>>(config);
+  const { unwrapData = false, ...requestConfig } = config;
+  const response = await apiClient.request(requestConfig);
   const payload = response.data;
+
+  if (!unwrapData) {
+    return payload as T;
+  }
+
   if (payload && typeof payload === "object" && "data" in payload) {
     return (payload as BaseResponse<T>).data as T;
   }

@@ -1,24 +1,27 @@
 import React, { useState } from 'react';
-import { NavLink } from 'react-router-dom';
+import { NavLink, useNavigate } from 'react-router-dom';
 import { useForm, type SubmitHandler } from 'react-hook-form';
 import { Activity, Clock, Eye, EyeOff, Heart, Plus, Shield } from 'lucide-react';
+import axios from 'axios';
 import brandLogo from '@/assets/logo.png';
 import iconGreen from '@/assets/icon-green.svg';
 import loginIcon from '@/assets/icon-login.png';
+import type { BaseResponse } from '@/types/BaseType';
+import type { SignUpRequest } from '@/types/AuthType';
 import './SignUp.scss';
+import { signup } from '@/services/authservices/signup';
+import { toast } from 'sonner';
 
-type SignUpFormValues = {
-  fullName: string;
-  phoneNumber: string;
-  email: string;
-  password: string;
-  confirmPassword: string;
+type SignUpFormValues = SignUpRequest & {
   agree: boolean;
 };
 
 const SignUp: React.FC = () => {
+  const navigate = useNavigate();
   const [showPassword, setShowPassword] = useState(false);
   const [showConfirmPassword, setShowConfirmPassword] = useState(false);
+  const [submitError, setSubmitError] = useState<string | null>(null);
+  const [submitSuccess, setSubmitSuccess] = useState<string | null>(null);
   const {
     register,
     handleSubmit,
@@ -38,8 +41,30 @@ const SignUp: React.FC = () => {
 
   const passwordValue = watch('password');
 
-  const onSubmit: SubmitHandler<SignUpFormValues> = (data) => {
-    console.log('SignUp data:', data);
+  const onSubmit: SubmitHandler<SignUpFormValues> = async (data) => {
+    setSubmitError(null);
+    setSubmitSuccess(null);
+
+    const signUpPayload: SignUpRequest = {
+      fullName: data.fullName.trim(),
+      phoneNumber: data.phoneNumber.trim(),
+      email: data.email.trim(),
+      password: data.password,
+      confirmPassword: data.confirmPassword,
+    };
+
+    try {
+      await signup(signUpPayload);
+      toast.success('Đăng ký thành công! Vui lòng đăng nhập.');
+      navigate('/login');
+    } catch (error) {
+
+      const errorResponse: BaseResponse<null> | null = axios.isAxiosError<BaseResponse<null>>(error)
+        ? error.response?.data ?? null
+        : null;
+      toast.error("Đăng ký thất bại. Vui lòng thử lại.");
+      console.log('SignUp error response:', errorResponse);
+    }
   };
 
   return (
@@ -255,6 +280,16 @@ const SignUp: React.FC = () => {
             <button type="submit" className="login-form__submit" disabled={isSubmitting}>
               {isSubmitting ? 'Đang xử lý...' : 'Đăng ký'}
             </button>
+            {submitError && (
+              <p className="login-form__error" role="alert">
+                {submitError}
+              </p>
+            )}
+            {submitSuccess && (
+              <p className="login-form__success" role="status">
+                {submitSuccess}
+              </p>
+            )}
           </form>
 
           <div className="login-card__footer">

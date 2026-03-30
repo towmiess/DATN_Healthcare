@@ -1,11 +1,16 @@
 import React, { useEffect, useState } from 'react';
-import { NavLink } from 'react-router-dom';
+import { NavLink, useNavigate } from 'react-router-dom';
 import { useForm, type SubmitHandler } from 'react-hook-form';
 import { Activity, Clock, Eye, EyeOff, Heart, Plus, Shield } from 'lucide-react';
 import brandLogo from '@/assets/logo.png';
 import iconGreen from '@/assets/icon-green.svg';
 import loginIcon from '@/assets/icon-login.png';
 import './Login.scss';
+import { LoginRequest } from '@/types/AuthType';
+import { login } from '@/services/authservices/login';
+import { BaseResponse } from '@/types/BaseType';
+import { toast } from 'sonner';
+import axios from 'axios';
 
 type LoginFormValues = {
   email: string;
@@ -16,6 +21,7 @@ type LoginFormValues = {
 const REMEMBER_KEY = 'healthcare_login_remember';
 
 const Login: React.FC = () => {
+  const navigate = useNavigate();
   const [showPassword, setShowPassword] = useState(false);
   const {
     register,
@@ -46,15 +52,34 @@ const Login: React.FC = () => {
     }
   }, [setValue]);
 
-  const onSubmit: SubmitHandler<LoginFormValues> = (data) => {
-    console.log('Login data:', data);
-    if (data.remember) {
-      localStorage.setItem(
-        REMEMBER_KEY,
-        JSON.stringify({ email: data.email.trim(), password: data.password })
-      );
-    } else {
-      localStorage.removeItem(REMEMBER_KEY);
+  const onSubmit: SubmitHandler<LoginFormValues> = async (data) => {
+    const loginPayload: LoginRequest = {
+      email: data.email.trim(),
+      password: data.password,
+    };
+
+    try {
+      const response = await login(loginPayload);
+      localStorage.setItem('accessToken', response.data.accessToken);
+      localStorage.setItem('refreshToken', response.data.refreshToken);
+      if (data.remember) {
+        localStorage.setItem(
+          REMEMBER_KEY,
+          JSON.stringify({ email: data.email.trim(), password: data.password })
+        );
+      } else {
+        localStorage.removeItem(REMEMBER_KEY);
+      }
+      toast.success(response.message);
+      navigate('/');
+    } catch (error) {
+
+      const errorResponse: BaseResponse<null> | null = axios.isAxiosError<BaseResponse<null>>(error)
+        ? error.response?.data ?? null
+        : null;
+      toast.error("Đăng nhập thất bại. Vui lòng thử lại.");
+      console.log('Login error response:', errorResponse);
+      return;
     }
   };
 

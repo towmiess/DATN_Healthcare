@@ -53,7 +53,6 @@ const AppRoutes = () => {
         <Route path="/check-email" element={<CheckEmail />} />
         <Route path="/verify-otp" element={<VerifyOtp />} />
         <Route path="/reset-password" element={<ResetPassword />} />
-        <Route path="/change-password" element={<ChangePass />} />
       </Route>
 
       <Route element={<RequireAuth />}>
@@ -70,8 +69,9 @@ const AppRoutes = () => {
             <Route index element={<UserHome />} />
           </Route>
         </Route>
+        <Route path="/change-password" element={<ChangePass />} />
       </Route>
-
+      
       <Route
         path="*"
         element={

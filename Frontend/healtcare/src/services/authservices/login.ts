@@ -1,17 +1,9 @@
 import { fetcher } from "@/api/Fetcher";
-
-export interface LoginRequest {
-  username: string;
-  password: string;
-}
-
-export interface LoginResponse {
-  accessToken: string;
-  refreshToken: string;
-}
+import { LoginRequest, LoginResponse } from "@/types/AuthType";
+import { BaseResponse } from "@/types/BaseType";
 
 export const login = (data: LoginRequest) => {
-  return fetcher<LoginResponse>({
+  return fetcher<BaseResponse<LoginResponse>>({
     url: "/auth/signin",
     method: "POST",
     data,

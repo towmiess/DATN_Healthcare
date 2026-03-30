@@ -1,17 +1,23 @@
 import React, { useState } from 'react';
-import { NavLink } from 'react-router-dom';
+import { NavLink, useNavigate } from 'react-router-dom';
 import { useForm, type SubmitHandler } from 'react-hook-form';
 import { Activity, Clock, Eye, EyeOff, Heart, Plus, Shield } from 'lucide-react';
 import brandLogo from '@/assets/logo.png';
 import iconGreen from '@/assets/icon-green.svg';
 import loginIcon from '@/assets/icon-login.png';
 import './ResetPassword.scss';
+import axios from 'axios';
+import { BaseResponse } from '@/types/BaseType';
+import { toast } from 'sonner';
+import { resetPassword } from '@/services/authservices/resetpassword';
+import { ResetPasswordRequest } from '@/types/AuthType';
 
 type ResetPasswordFormValues = {
   password: string;
 };
 
 const ResetPassword: React.FC = () => {
+  const navigate = useNavigate();
   const [showPassword, setShowPassword] = useState(false);
   const {
     register,
@@ -24,8 +30,25 @@ const ResetPassword: React.FC = () => {
     mode: 'onSubmit',
   });
 
-  const onSubmit: SubmitHandler<ResetPasswordFormValues> = (data) => {
-    console.log('Reset password data:', data);
+  const onSubmit: SubmitHandler<ResetPasswordFormValues> =async (data) => {
+    const requestData: ResetPasswordRequest = {
+      token: String(sessionStorage.getItem('resetPasswordToken')),
+      newPassword: data.password.trim(),
+      userId: Number(sessionStorage.getItem('resetPasswordUserId')),
+    };
+
+    try{
+      await resetPassword(requestData);
+      toast.success("Đặt lại mật khẩu thành công");
+      sessionStorage.clear();
+      navigate('/login');
+    }catch (error) {
+      const errorResponse: BaseResponse<null> | null = axios.isAxiosError<BaseResponse<null>>(error)
+        ? error.response?.data ?? null
+        : null;
+      toast.error("Đặt lại mật khẩu thất bại. Vui lòng thử lại.");
+      console.error('Reset password error:', errorResponse);
+    }
   };
 
   return (
