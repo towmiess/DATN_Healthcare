@@ -19,6 +19,10 @@ type LoginFormValues = {
 };
 
 const REMEMBER_KEY = 'healthcare_login_remember';
+type RememberedLogin = {
+  email?: string;
+  password?: string;
+};
 
 const Login: React.FC = () => {
   const navigate = useNavigate();
@@ -41,11 +45,12 @@ const Login: React.FC = () => {
     const saved = localStorage.getItem(REMEMBER_KEY);
     if (!saved) return;
     try {
-      const parsed = JSON.parse(saved) as { email?: string; password?: string };
-      if (parsed.email && parsed.password) {
+      const parsed = JSON.parse(saved) as RememberedLogin;
+      if (parsed.email) {
         setValue('email', parsed.email);
-        setValue('password', parsed.password);
         setValue('remember', true);
+        // Clean up any legacy password that may have been stored before.
+        localStorage.setItem(REMEMBER_KEY, JSON.stringify({ email: parsed.email }));
       }
     } catch {
       localStorage.removeItem(REMEMBER_KEY);
@@ -63,10 +68,7 @@ const Login: React.FC = () => {
       localStorage.setItem('accessToken', response.data.accessToken);
       localStorage.setItem('refreshToken', response.data.refreshToken);
       if (data.remember) {
-        localStorage.setItem(
-          REMEMBER_KEY,
-          JSON.stringify({ email: data.email.trim(), password: data.password })
-        );
+        localStorage.setItem(REMEMBER_KEY, JSON.stringify({ email: data.email.trim() }));
       } else {
         localStorage.removeItem(REMEMBER_KEY);
       }
