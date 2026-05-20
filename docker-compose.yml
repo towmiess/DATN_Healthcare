@@ -1,6 +1,6 @@
 services:
-  :
-    ipostgresmage: postgres:16-alpine
+  postgres:
+    image: postgres:16-alpine
     container_name: healthcare-postgres
     restart: unless-stopped
     environment:
@@ -97,7 +97,7 @@ services:
 
   frontend:
     build:
-      context: ./Frontend/healtcare
+      context: ./Frontend/healthcare
       dockerfile: Dockerfile
       args:
         VITE_API_URL: ${VITE_API_URL:-http://localhost:8080/api}

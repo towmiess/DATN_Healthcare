@@ -1,0 +1,26 @@
+# Môi trường
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Dữ liệu (không commit lên Git — có thể rất lớn)
+data/raw/
+data/processed/
+data/chroma_db/
+# data/pdfs/ — có thể commit nếu muốn share kho tri thức
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
