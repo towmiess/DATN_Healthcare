@@ -1,0 +1,73 @@
+===METADATA===
+{
+  "source_name": "vncdc_dinh_duong_dai_thao_duong",
+  "document_title": "Dinh dưỡng hợp lý cho người bệnh đái tháo đường - VNCDC",
+  "url": "https://vncdc.gov.vn/tin-chi-dao-nc5634.html",
+  "parent_url": "https://vncdc.gov.vn/dinh-duong-hop-ly-doi-voi-nguoi-bi-benh-dai-thao-duong-nd14913.html",
+  "page_index": 9,
+  "category": "diet",
+  "language": "vi",
+  "source_type": "government_health",
+  "source_priority": 2,
+  "verified_by_doctor": true,
+  "published_date": "",
+  "condition_tags": [
+    "type2_diabetes",
+    "nutrition"
+  ],
+  "crawled_at": "2026-06-06T00:03:22.670316",
+  "char_count": 2532
+}
+===CONTENT===
+Tin tức
+Tin chỉ đạo
+Tăng cường lãnh đạo, chỉ đạo,  tổ chức thực hiện hiệu quả công tác phòng, chống thiên tai, động đất,  tai nạn lao động
+Xem chi tiết
+Kết luận thanh tra
+Xem chi tiết
+Thủ tướng Chính phủ ban hành Chỉ thị về nâng cao công tác chăm sóc sức khỏe Nhân dân
+Xem chi tiết
+Bộ Y tế đề nghị các đơn vị triển khai công tác y tế ứng phó bão số 2 (Mulan)
+Xem chi tiết
+Tăng cường phòng, chống dịch bệnh đường hô hấp
+Xem chi tiết
+Thủ tướng Chính phủ ban hành Công điện về tăng cường công tác tiêm vaccine phòng COVID-19
+Xem chi tiết
+Sốt xuất huyết gia tăng nhanh, đã có gần 63.000 ca, Bộ Y tế lập 7 đoàn kiểm tra tại các tỉnh trọng điểm
+Xem chi tiết
+Công điện của Bộ Y tế về việc tăng cường tiếp nhận và triển khai tiêm vắc xin phòng COVID-19
+Xem chi tiết
+Dịch bệnh cơ bản được kiểm soát, KTXH phục hồi rõ nét
+Phó Thủ tướng Lê Văn Thành cho biết, “việc dịch bệnh cơ bản được kiểm soát đã củng cố niềm tin, sự an toàn của người dân, doanh nghiệp, góp phần quan trọng cho phục hồi và phát triển kinh tế xã hội”.
+Xem chi tiết
+Quyết định điều chỉnh định nghĩa ca bệnh COVID-19 và biện pháp y tế đối với ca bệnh COVID-19 và người tiếp xúc gần (F1).
+Xem chi tiết
+Hướng dẫn cách ly y tế đối với ca bệnh COVID-19 và các trường hợp tiếp xúc gần
+Xem chi tiết
+Xuân của niềm tin, hy vọng và phồn vinh
+Xem chi tiết
+Bộ Y tế ban hành hướng dẫn tạm thời về chuyên môn y tế thực hiện Nghị quyết 128/NQ-CP của Chính phủ
+Xem chi tiết
+Thần tốc tiêm vaccine và đẩy mạnh thực hiện các biện pháp phòng COVID-19
+Xem chi tiết
+Thúc đẩy mạnh mẽ, quyết liệt việc tiêm vaccine phòng COVID-19, bảo đảm an toàn, hiệu quả
+Xem chi tiết
+Công điện của Thủ tướng Chính phủ về tăng cường phòng, chống dịch COVID-19, kiểm soát biến chủng mới Omicron
+Xem chi tiết
+Tặng Bằng khen của Thủ tướng Chính phủ cho tập thể, cá nhân xuất sắc trong ngoại giao vaccine và phòng, chống COVID-19
+Xem chi tiết
+Thủ tướng: Bãi bỏ ngay các biện pháp phòng, chống dịch tại các địa phương trái với chủ trương, chỉ đạo
+Xem chi tiết
+Cuối tháng 12/2021, cơ bản hoàn thành tiêm 2 mũi cho người từ 18 tuổi trở lên; thúc đẩy sản xuất thuốc, vaccine điều trị COVID-19
+Xem chi tiết
+Dịch diễn biến phức tạp, xuất hiện biến chủng mới, Thủ tướng ra công điện ứng phó dịch bệnh hiệu quả hơn
+Xem chi tiết
+Trang đầu
+Trang cuối
+Tin nổi bật
+Tin chỉ đạo
+Tin địa phương
+Tin tức nổi bật
+Bộ Y tế công bố 26 quyết định bổ nhiệm, tiếp nhận, điều động lãnh đạo các đơn vị thuộc Bộ
+Tăng cường phòng, chống bệnh cúm, sởi và các bệnh lây truyền qua đường hô hấp
+Thông tin về đợt bùng phát dịch cúm mùa tại Nhật Bản

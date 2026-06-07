@@ -32,8 +32,10 @@ CÁCH CHẠY:
 import os
 import sys
 import json
+import re
 import random
 import time
+import unicodedata
 from pathlib import Path
 from typing import List, Dict, Optional
 from loguru import logger
@@ -46,7 +48,7 @@ sys.path.append(str(Path(__file__).parent.parent.parent))
 from src.rag.indexer import USER_RESPONSE_RULE_CATEGORY, VectorIndexer
 
 # ── Cấu hình ────────────────────────────────────────────────
-_configured_model       = os.getenv("LLM_MODEL", "gemini-2.5-flash")
+_configured_model       = os.getenv("LLM_MODEL", "gemini-2.5-flash-lite")
 LLM_MODEL               = "gemini-2.5-flash" if _configured_model.startswith("claude") else _configured_model
 MAX_TOKENS              = int(os.getenv("MAX_TOKENS", 2048))
 TOP_K                   = int(os.getenv("TOP_K_RESULTS", 5))
@@ -55,19 +57,241 @@ LLM_TIMEOUT             = int(os.getenv("LLM_TIMEOUT", 120))
 LLM_MAX_RETRIES         = int(os.getenv("LLM_MAX_RETRIES", 3))
 LLM_RETRY_BASE_DELAY    = float(os.getenv("LLM_RETRY_BASE_DELAY", 1.0))
 LLM_RETRY_MAX_DELAY     = float(os.getenv("LLM_RETRY_MAX_DELAY", 10.0))
-USER_KNOWLEDGE_ENABLED  = os.getenv("USER_KNOWLEDGE_ENABLED", "true").lower() not in {"0", "false", "no"}
+USER_KNOWLEDGE_ENABLED  = os.getenv("USER_KNOWLEDGE_ENABLED", "false").lower() not in {"0", "false", "no"}
 USER_KNOWLEDGE_MIN_CHARS = int(os.getenv("USER_KNOWLEDGE_MIN_CHARS", 40))
 USER_RULE_TOP_K         = int(os.getenv("USER_RULE_TOP_K", 3))
 USER_RULE_MIN_SIMILARITY = float(os.getenv("USER_RULE_MIN_SIMILARITY", 0.18))
 USER_RULE_EXPANSION_MAX_CHARS = int(os.getenv("USER_RULE_EXPANSION_MAX_CHARS", 900))
 GEMINI_API_BASE         = os.getenv("GEMINI_API_BASE", "https://generativelanguage.googleapis.com/v1beta")
 GEMINI_THINKING_BUDGET  = int(os.getenv("GEMINI_THINKING_BUDGET", 0))
+_fallback_models_env = os.getenv(
+    "GEMINI_FALLBACK_MODELS",
+    "gemini-2.5-flash,gemini-2.0-flash-lite",
+)
 GEMINI_FALLBACK_MODELS  = [
     model.strip()
-    for model in os.getenv("GEMINI_FALLBACK_MODELS", "").split(",")
+    for model in _fallback_models_env.split(",")
     if model.strip()
 ]
 GEMINI_RETRY_STATUS_CODES = {408, 409, 429, 500, 502, 503, 504}
+
+INTENT_CATEGORY_FILTERS = {
+    "emergency": ["emergency", "blood_glucose", "chi_so_duong_huyet"],
+    "medication": ["medication", "dieu_tri", "blood_glucose", "chi_so_duong_huyet"],
+    "diet": ["diet", "che_do_an", "lifestyle", "the_duc_loi_song"],
+    "blood_glucose": ["blood_glucose", "chi_so_duong_huyet", "emergency"],
+    "complication": ["complication", "diagnosis", "general", "tieu_duong_type2"],
+    "diagnosis": ["diagnosis", "general", "tieu_duong_type2"],
+    "general": ["general", "diagnosis", "tieu_duong_type2", "lifestyle", "the_duc_loi_song"],
+}
+
+
+def _normalize_for_intent(text: str) -> str:
+    lowered = text.lower()
+    no_accents = "".join(
+        ch for ch in unicodedata.normalize("NFD", lowered)
+        if unicodedata.category(ch) != "Mn"
+    )
+    return f" {lowered} {no_accents} "
+
+
+def detect_intent(query: str) -> str:
+    q = _normalize_for_intent(query)
+    intent_keywords = {
+        "emergency": [
+            "ha duong huyet", "duong huyet thap", "ngat", "hon me", "co giat",
+            "run tay", "va mo hoi", "tim dap nhanh", "kho tho", "dau nguc",
+            "cap cuu", "52 mg/dl", "50 mg/dl", "duoi 70",
+        ],
+        "medication": [
+            "thuoc", "metformin", "insulin", "gliclazide", "glimepiride",
+            "sulfonylurea", "lieu", "uống thuốc", "uong thuoc", "tac dung phu",
+        ],
+        "diet": [
+            "an", "uong", "dinh duong", "che do an", "thuc pham", "pho", "com",
+            "bun", "banh mi", "trai cay", "rau", "carb", "tinh bot",
+        ],
+        "blood_glucose": [
+            "duong huyet", "hba1c", "glucose", "mg/dl", "mmol", "do duong",
+            "chi so", "sau an", "luc doi",
+        ],
+        "complication": [
+            "bien chung", "than", "mat", "vong mac", "ban chan", "loet",
+            "te bi", "than kinh", "tim mach",
+        ],
+        "diagnosis": [
+            "chan doan", "tieu duong la gi", "dai thao duong la gi", "type 2",
+            "tuyp 2", "nguyen nhan", "trieu chung",
+        ],
+    }
+    for intent, keywords in intent_keywords.items():
+        if any(keyword in q for keyword in keywords):
+            return intent
+    return "general"
+
+
+def _extract_glucose_value(query: str) -> Optional[float]:
+    normalized = _normalize_for_intent(query)
+    patterns = [
+        r"(\d+(?:\.\d+)?)\s*mg/dl",
+        r"(\d+(?:\.\d+)?)\s*mmol/l",
+    ]
+    import re
+
+    for pattern in patterns:
+        match = re.search(pattern, normalized)
+        if match:
+            try:
+                value = float(match.group(1))
+                if "mmol/l" in pattern:
+                    return round(value * 18.0, 1)
+                return value
+            except ValueError:
+                continue
+    return None
+
+
+def _is_emergency_query(query: str, patient_context: Optional[Dict] = None) -> bool:
+    intent = detect_intent(query)
+    if intent == "emergency":
+        return True
+
+    q = _normalize_for_intent(query)
+    emergency_markers = [
+        "kho tho", "dau nguc", "ngat", "hon me", "co giat", "luc lac",
+        "tim dap nhanh", "va mo hoi", "run tay", "lanh toat mo hoi",
+    ]
+    if any(marker in q for marker in emergency_markers):
+        return True
+
+    glucose = _extract_glucose_value(query)
+    if glucose is not None and glucose < 70:
+        return True
+
+    if patient_context:
+        recent_labs = patient_context.get("recent_labs", {})
+        fasting = recent_labs.get("fasting_glucose", {})
+        hba1c = recent_labs.get("hba1c", {})
+        for value in (fasting.get("value"), hba1c.get("value")):
+            try:
+                if value is not None and float(value) < 70:
+                    return True
+            except (TypeError, ValueError):
+                pass
+    return False
+
+
+def _build_emergency_response(query: str) -> Dict:
+    response = (
+        "Đây có thể là tình huống khẩn cấp liên quan đến đường huyết. "
+        "Nếu bạn tỉnh táo và đang bị hạ đường huyết, hãy dùng quy tắc 15-15: "
+        "uống 15g đường nhanh, đợi 15 phút, đo lại. "
+        "Nếu có rối loạn ý thức, khó thở, đau ngực, ngất, co giật, hoặc không tự uống được, "
+        "gọi cấp cứu hoặc đến cơ sở y tế ngay lập tức."
+    )
+    return {
+        "query": query,
+        "response": response,
+        "sources": [],
+        "chunks_used": 0,
+        "learned_from_user": False,
+        "learning_type": None,
+        "triage_mode": "emergency",
+    }
+
+
+def _format_minutes_clock(total_minutes: int) -> str:
+    total_minutes %= 24 * 60
+    return f"{total_minutes // 60:02d}:{total_minutes % 60:02d}"
+
+
+def _extract_meal_time_minutes(query: str) -> Optional[int]:
+    normalized = _normalize_for_intent(query)
+    time_patterns = [
+        r"(?<!\d)(\d{1,2})(?:\s*[:h]\s*(\d{1,2}))?\s*(?:gio|g|h)?\b",
+    ]
+
+    for pattern in time_patterns:
+        for match in re.finditer(pattern, normalized):
+            window_start = max(0, match.start() - 24)
+            window_end = min(len(normalized), match.end() + 16)
+            window = normalized[window_start:window_end]
+            if "phut" in window or "mg/dl" in window or "mmol/l" in window:
+                continue
+            if not any(marker in window for marker in ("luc", "vao", "an", "bua", "toi", "sang", "trua")):
+                continue
+
+            try:
+                hour = int(match.group(1))
+                minute = int(match.group(2) or 0)
+            except ValueError:
+                continue
+
+            if hour > 23 or minute > 59:
+                continue
+
+            if any(marker in normalized for marker in ("toi", "chieu", "dem")) and hour < 12:
+                hour += 12
+            elif any(marker in normalized for marker in ("sang",)) and hour == 12:
+                hour = 0
+
+            return hour * 60 + minute
+
+    return None
+
+
+def _is_premeal_timing_query(query: str) -> bool:
+    normalized = _normalize_for_intent(query)
+    medication_markers = ("tiem", "insulin", "thuoc", "uong thuoc", "uống thuốc")
+    meal_markers = (
+        "truoc an",
+        "truoc bua",
+        "truoc khi an",
+        "an toi",
+        "an sang",
+        "an trua",
+        "an luc",
+        "luc an",
+        "luc may gio",
+        "may gio",
+        "mấy giờ",
+    )
+
+    if any(marker in normalized for marker in ("tiem truoc an", "insulin truoc an", "thuoc truoc an")):
+        return True
+
+    if any(marker in normalized for marker in medication_markers) and any(marker in normalized for marker in meal_markers):
+        return True
+
+    return False
+
+
+def _build_premeal_timing_response(query: str) -> Dict:
+    meal_minutes = _extract_meal_time_minutes(query)
+    if meal_minutes is None:
+        response = (
+            "Nếu đây là thuốc hoặc insulin tiêm trước bữa ăn theo đơn, bạn nên tiêm trước ăn 30 phút. "
+            "Nếu trên đơn bác sĩ có hướng dẫn khác, hãy theo đúng đơn đó và hỏi lại bác sĩ hoặc dược sĩ."
+        )
+    else:
+        meal_time = _format_minutes_clock(meal_minutes)
+        injection_time = _format_minutes_clock(meal_minutes - 30)
+        response = (
+            f"Nếu bạn ăn lúc {meal_time}, thì thời điểm tiêm là {injection_time} "
+            "(trước ăn 30 phút). "
+            "Lưu ý: đây là quy tắc chung cho thuốc hoặc insulin tiêm trước bữa ăn; "
+            "nếu loại thuốc trên đơn có hướng dẫn khác, hãy theo đúng đơn bác sĩ."
+        )
+
+    return {
+        "query": query,
+        "response": response,
+        "sources": [],
+        "chunks_used": 0,
+        "learned_from_user": False,
+        "learning_type": None,
+        "triage_mode": "premeal_timing",
+    }
 
 
 # ================================================================
@@ -158,6 +382,58 @@ Dựa vào các tài liệu tham khảo trên, hãy:
 6. Kết thúc bằng một lưu ý nhắc nhở tham khảo bác sĩ nếu cần"""
 
     return prompt
+
+
+def _format_patient_context(patient_context: Optional[Dict]) -> str:
+    if not patient_context:
+        return ""
+
+    demographics = patient_context.get("demographics", {})
+    diagnosis = patient_context.get("diagnosis", {})
+    medications = patient_context.get("current_medications", [])
+    recent_labs = patient_context.get("recent_labs", {})
+
+    meds = ", ".join(
+        med.get("name", "").strip()
+        for med in medications
+        if isinstance(med, dict) and med.get("name")
+    ) or "khong co"
+
+    hba1c = recent_labs.get("hba1c", {})
+    fasting = recent_labs.get("fasting_glucose", {})
+
+    lines = [
+        "[HO SO BENH NHAN]",
+        f"- Tuoi: {demographics.get('age', 'khong ro')}",
+        f"- Gioi tinh: {demographics.get('gender', 'khong ro')}",
+        f"- Loai dai thao duong: {diagnosis.get('diabetes_type', 'khong ro')}",
+        f"- Bien chung: {', '.join(diagnosis.get('complications', [])) or 'khong co'}",
+        f"- Benh kem theo: {', '.join(diagnosis.get('comorbidities', [])) or 'khong co'}",
+        f"- Thuoc dang dung: {meds}",
+        f"- HbA1c gan nhat: {hba1c.get('value', 'khong ro')} {hba1c.get('unit', '')}".strip(),
+        f"- Duong huyet luc doi: {fasting.get('value', 'khong ro')} {fasting.get('unit', '')}".strip(),
+        f"- Di ung: {', '.join(patient_context.get('allergies', [])) or 'khong co'}",
+        f"- Han che an uong: {', '.join(patient_context.get('dietary_restrictions', [])) or 'khong co'}",
+    ]
+    return "\n".join(lines)
+
+
+def build_rag_prompt_with_patient_context(
+    query: str,
+    retrieved_chunks: List[Dict],
+    patient_context: Optional[Dict] = None,
+) -> str:
+    base_prompt = build_rag_prompt(query, retrieved_chunks)
+    patient_block = _format_patient_context(patient_context)
+    if not patient_block:
+        return base_prompt
+
+    return (
+        "[NGUOI DUNG - HO SO BENH NHAN]\n"
+        f"{patient_block}\n\n"
+        "[TAI LIEU THAM KHAO]\n"
+        f"{base_prompt}"
+    )
 
 
 class LLMAPIError(RuntimeError):
@@ -565,6 +841,52 @@ class RAGPipeline:
             logger.debug(f"  Dùng {len(matched)} quy tắc người dùng để mở rộng truy vấn")
         return matched
 
+    def _build_metadata_filter(self, intent: str) -> Optional[Dict]:
+        categories = INTENT_CATEGORY_FILTERS.get(intent, INTENT_CATEGORY_FILTERS["general"])
+        conditions = [{"category": {"$in": categories}}]
+
+        if intent in {"emergency", "medication"}:
+            conditions.append({"verified_by_doctor": {"$eq": True}})
+
+        if len(conditions) == 1:
+            return conditions[0]
+        return {"$and": conditions}
+
+    def _metadata_score(self, chunk: Dict, intent: str) -> float:
+        meta = chunk.get("metadata", {})
+        semantic = max(0.0, min(float(chunk.get("similarity", 0.0)), 1.0))
+        priority = meta.get("source_priority", 4)
+        try:
+            priority = int(priority)
+        except (TypeError, ValueError):
+            priority = 4
+
+        source_score = max(0.0, min((6 - priority) / 5, 1.0))
+        verified = meta.get("verified_by_doctor", False)
+        verified_score = 1.0 if verified is True or str(verified).lower() == "true" else 0.0
+        language = str(meta.get("language", "")).lower()
+        language_score = 1.0 if language == "vi" else 0.75 if language == "en" else 0.5
+        category_score = 1.0 if meta.get("category") in INTENT_CATEGORY_FILTERS.get(intent, []) else 0.0
+
+        return round(
+            0.72 * semantic
+            + 0.12 * source_score
+            + 0.08 * verified_score
+            + 0.05 * language_score
+            + 0.03 * category_score,
+            4,
+        )
+
+    def _rerank_chunks(self, chunks: List[Dict], intent: str, top_k: int) -> List[Dict]:
+        reranked = []
+        for chunk in chunks:
+            enriched = dict(chunk)
+            enriched["final_score"] = self._metadata_score(chunk, intent)
+            enriched["intent"] = intent
+            reranked.append(enriched)
+        reranked.sort(key=lambda item: item.get("final_score", 0), reverse=True)
+        return reranked[:top_k]
+
     def _expanded_query_with_rules(self, query: str, rules: List[Dict]) -> str:
         if not rules:
             return query
@@ -615,11 +937,41 @@ class RAGPipeline:
         logger.debug(f"  ✓ Tìm được {len(relevant)} chunks liên quan")
         return relevant
 
+    def _retrieve_metadata_aware(self, query: str, top_k: int) -> List[Dict]:
+        intent = detect_intent(query)
+        logger.debug(f"Retrieve intent={intent}: '{query[:50]}...' (top_{top_k})")
+
+        matched_rules = self._retrieve_matching_user_rules(query)
+        search_query = self._expanded_query_with_rules(query, matched_rules)
+        where_filter = self._build_metadata_filter(intent)
+        candidate_k = max(top_k * 4, 12)
+
+        try:
+            chunks = self.indexer.search(
+                search_query,
+                top_k=candidate_k,
+                where_filter=where_filter,
+            )
+        except Exception as exc:
+            logger.warning(f"Metadata filter search failed, fallback to semantic only: {exc}")
+            chunks = self.indexer.search(search_query, top_k=candidate_k)
+
+        min_similarity = 0.24 if intent in {"general", "diagnosis"} else 0.28
+        filtered = [c for c in chunks if c["similarity"] >= min_similarity]
+        if not filtered:
+            filtered = chunks
+
+        ranked = self._rerank_chunks(filtered, intent=intent, top_k=top_k)
+        relevant = self._merge_chunks([*matched_rules, *ranked])
+        logger.debug(f"  -> Retrieved {len(relevant)} chunks after rerank")
+        return relevant
+
     def generate(
         self,
         query: str,
         context_chunks: List[Dict],
         learning_type: Optional[str] = None,
+        patient_context: Optional[Dict] = None,
     ) -> str:
         """
         BƯỚC G: GENERATE — Sinh câu trả lời từ Gemini.
@@ -628,14 +980,23 @@ class RAGPipeline:
         Gemini đọc context và sinh câu trả lời chính xác.
         """
         prompt_query = _user_learning_query(query, learning_type)
-        prompt = build_rag_prompt(prompt_query, context_chunks)
+        prompt = build_rag_prompt_with_patient_context(
+            prompt_query,
+            context_chunks,
+            patient_context=patient_context,
+        )
 
         logger.debug(f"💬 Gọi Gemini ({LLM_MODEL})...")
         contents = [{"role": "user", "parts": [{"text": prompt}]}]
         response = self._post_gemini(contents)
         return _extract_gemini_text(response.json())
 
-    def answer(self, query: str, top_k: int = TOP_K) -> Dict:
+    def answer(
+        self,
+        query: str,
+        top_k: int = TOP_K,
+        patient_context: Optional[Dict] = None,
+    ) -> Dict:
         """
         Pipeline đầy đủ: nhận câu hỏi → trả về câu trả lời có nguồn.
 
@@ -651,16 +1012,29 @@ class RAGPipeline:
             - chunks_used: số chunks tham khảo
         """
         logger.info(f"\n{'='*50}")
-        logger.info(f"❓ Query: {query}")
+        logger.info(f"❓ Query len={len(query)} intent={detect_intent(query)}")
+
+        if _is_emergency_query(query, patient_context=patient_context):
+            logger.warning("Emergency triage triggered before LLM generation")
+            return _build_emergency_response(query)
+
+        if _is_premeal_timing_query(query):
+            logger.info("Pre-meal timing shortcut triggered before LLM generation")
+            return _build_premeal_timing_response(query)
 
         learning = self._learn_from_user_if_applicable(query)
 
         # R: Retrieve
-        chunks = self.retrieve(query, top_k=top_k)
+        chunks = self._retrieve_metadata_aware(query, top_k=top_k)
 
         # A: Augment (xảy ra trong build_rag_prompt)
         # G: Generate
-        response = self.generate(query, chunks, learning_type=learning["type"])
+        response = self.generate(
+            query,
+            chunks,
+            learning_type=learning["type"],
+            patient_context=patient_context,
+        )
 
         # Tổng hợp nguồn tham khảo
         sources = []
@@ -687,7 +1061,12 @@ class RAGPipeline:
         logger.success(f"✅ Đã trả lời dựa trên {len(chunks)} chunks từ {len(sources)} nguồn")
         return result
 
-    def answer_with_history(self, messages: List[Dict], top_k: int = TOP_K) -> Dict:
+    def answer_with_history(
+        self,
+        messages: List[Dict],
+        top_k: int = TOP_K,
+        patient_context: Optional[Dict] = None,
+    ) -> Dict:
         """
         Trả lời trong hội thoại nhiều lượt (multi-turn).
 
@@ -711,10 +1090,22 @@ class RAGPipeline:
         if not last_user_msg:
             return {"query": "", "response": "Không có câu hỏi.", "sources": [], "chunks_used": 0}
 
+        if _is_emergency_query(last_user_msg, patient_context=patient_context):
+            logger.warning("Emergency triage triggered in history flow")
+            emergency = _build_emergency_response(last_user_msg)
+            emergency["query"] = last_user_msg
+            return emergency
+
+        if _is_premeal_timing_query(last_user_msg):
+            logger.info("Pre-meal timing shortcut triggered in history flow")
+            timing = _build_premeal_timing_response(last_user_msg)
+            timing["query"] = last_user_msg
+            return timing
+
         learning = self._learn_from_user_if_applicable(last_user_msg)
 
         # Retrieve dựa trên câu hỏi mới nhất
-        chunks = self.retrieve(last_user_msg, top_k=top_k)
+        chunks = self._retrieve_metadata_aware(last_user_msg, top_k=top_k)
 
         history_lines = []
         for msg in messages:
@@ -725,9 +1116,10 @@ class RAGPipeline:
             "## LỊCH SỬ HỘI THOẠI\n"
             + "\n".join(history_lines)
             + "\n\n---\n\n"
-            + build_rag_prompt(
+            + build_rag_prompt_with_patient_context(
                 _user_learning_query(last_user_msg, learning["type"]),
                 chunks,
+                patient_context=patient_context,
             )
         )
         logger.debug(f"💬 Gọi Gemini ({LLM_MODEL}) với lịch sử hội thoại...")

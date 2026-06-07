@@ -1,0 +1,81 @@
+===METADATA===
+{
+  "source_name": "vncdc_dinh_duong_dai_thao_duong",
+  "document_title": "Dinh dưỡng hợp lý cho người bệnh đái tháo đường - VNCDC",
+  "url": "https://vncdc.gov.vn/tin-tuc-su-kien-nc5517.html",
+  "parent_url": "https://vncdc.gov.vn/dinh-duong-hop-ly-doi-voi-nguoi-bi-benh-dai-thao-duong-nd14913.html",
+  "page_index": 6,
+  "category": "diet",
+  "language": "vi",
+  "source_type": "government_health",
+  "source_priority": 2,
+  "verified_by_doctor": true,
+  "published_date": "",
+  "condition_tags": [
+    "type2_diabetes",
+    "nutrition"
+  ],
+  "crawled_at": "2026-06-06T00:03:03.768543",
+  "char_count": 2780
+}
+===CONTENT===
+Tin tức
+Tin nổi bật
+Bộ Y tế công bố 26 quyết định bổ nhiệm, tiếp nhận, điều động lãnh đạo các đơn vị thuộc Bộ
+04/03/2025
+Lễ ký kết biên bản ghi nhớ giữa Cục Y tế dự phòng và Trung tâm thông tin Y tế Quốc gia về xây dựng kiến trúc tổng thể hệ thống thông tin thuộc lĩnh vực do Cục Y tế dự phòng quản lý
+26/09/2024
+Trao tặng 5 tấn Cloramine B cho 5 địa phương khắc phục hậu quả bão lụt
+25/09/2024
+Thông báo công nhận kết quả tuyển dụng công chức năm 2024 của Cục Y tế dự phòng
+19/09/2024
+Hướng dẫn cách xử lý nước sinh hoạt trong mùa mưa, bão
+12/09/2024
+Tăng cường phòng chống dịch bệnh trước, trong và sau cơn bão số 3 và mưa lũ.
+09/09/2024
+Chủ động triển khai công tác y tế ứng phó bão số 3 và mưa lũ
+06/09/2024
+Cục Y tế dự phòng phối hợp với các đơn vị tổ chức thành công Hội nghị Dịch tễ học thực địa Việt Nam 2024 tại Đà Nẵng
+30/08/2024
+Bộ Y tế: Phát động Tuần lễ Tiêm chủng Thế giới 2024 và Chiến dịch Tiêm vắc xin Sởi
+23/08/2024
+Thông báo kết quả thi vòng 2 kỳ thi tuyển công chức năm 2024 của Cục Y tế dự phòng
+13/08/2024
+Tin địa phương
+Xem tất cả
+Vĩnh Phúc có tỷ lệ tiêm chủng đầy đủ cao
+Xem chi tiết
+Thái Bình tổ chức Hội thảo góp ý xây dựng Dự án Luật Phòng bệnh và phát triển hoạt động Y tế dự phòng
+Trung tâm Kiểm soát bệnh tật tỉnh Quảng Ninh tổ chức Tập huấn “Điều tra, giám sát, xử lí dịch bệnh truyền nhiễm” năm 2023
+Tập huấn nâng cao năng lực dự phòng, sàng lọc, phát hiện và quản lý, điều trị bệnh không lây nhiễm tại tỉnh Bắc Ninh
+Bắc Ninh tăng cường công tác chăm sóc sức khỏe trong điều kiện thời tiết năng nóng
+Tin chuyên ngành
+Xem tất cả
+Hướng dẫn cách xử lý nước sinh hoạt trong mùa mưa, bão
+Xem chi tiết
+Giải đáp thông tin về bệnh bạch hầu
+Thông tin về tiêm chủng vắc xin phòng bệnh bạch hầu
+Thông tin về tiêm chủng vắc xin ASTRAZENECA
+Đã có hơn 10.000 ca tay chân miệng, các dịch bệnh sởi, ho gà... tăng ca mắc
+Tin chỉ đạo
+Xem tất cả
+Tăng cường lãnh đạo, chỉ đạo,  tổ chức thực hiện hiệu quả công tác phòng, chống thiên tai, động đất,  tai nạn lao động
+Xem chi tiết
+Kết luận thanh tra
+Thủ tướng Chính phủ ban hành Chỉ thị về nâng cao công tác chăm sóc sức khỏe Nhân dân
+Bộ Y tế đề nghị các đơn vị triển khai công tác y tế ứng phó bão số 2 (Mulan)
+Tăng cường phòng, chống dịch bệnh đường hô hấp
+Tin tức nổi bật
+Bộ Y tế công bố 26 quyết định bổ nhiệm, tiếp nhận, điều động lãnh đạo các đơn vị thuộc Bộ
+Tăng cường phòng, chống bệnh cúm, sởi và các bệnh lây truyền qua đường hô hấp
+Thông tin về đợt bùng phát dịch cúm mùa tại Nhật Bản
+VĂN PHÒNG ĐÁP ỨNG KHẨN CẤP PHÒNG CHỐNG DỊCH BỆNH - EOC
+KHUYẾN CÁO CỘNG ĐỒNG
+Chương trình đào tạo Dịch tễ học Thực địa Việt Nam
+Cơ quan đầu mối quốc gia Điều lệ Y tế quốc tế IHR NFP
+Hoạt động NRA
+Cải cách hành chính
+Tài liệu truyền thông
+Tài liệu tập huấn - Hội nghị
+Hoạt động đơn vị, địa phương
+Hoạt động thanh tra, kiểm tra

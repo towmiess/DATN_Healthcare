@@ -41,11 +41,12 @@ CÁCH CHẠY:
 
 import os
 import sys
+import json
 import fitz  # PyMuPDF
 import hashlib
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import List, Dict
+from typing import List, Dict, Optional
 from loguru import logger
 from tqdm import tqdm
 from dotenv import load_dotenv
@@ -62,11 +63,14 @@ from chromadb.utils import embedding_functions
 
 # ── Cấu hình ────────────────────────────────────────────────
 PDF_DIR          = Path("data/pdfs")
+RAW_DIR          = Path("data/raw")
 CHROMA_DIR       = Path(os.getenv("CHROMA_PERSIST_DIR", "data/chroma_db"))
 COLLECTION_NAME  = "healthcare_diabetes"
 USER_KNOWLEDGE_CATEGORY = "user_knowledge"
 USER_RESPONSE_RULE_CATEGORY = "user_response_rule"
+DOCTOR_NOTE_CATEGORY = "doctor_note"
 USER_KNOWLEDGE_SOURCE   = "Người dùng cung cấp"
+DOCTOR_NOTE_SOURCE      = "Bac si noi bo"
 EMBEDDING_MODEL  = os.getenv(
     "EMBEDDING_MODEL",
     "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
@@ -75,6 +79,56 @@ CHUNK_SIZE    = int(os.getenv("CHUNK_SIZE", 500))
 CHUNK_OVERLAP = int(os.getenv("CHUNK_OVERLAP", 50))
 
 CHROMA_DIR.mkdir(parents=True, exist_ok=True)
+
+CATEGORY_ALIASES = {
+    "che_do_an": "diet",
+    "dieu_tri": "medication",
+    "chi_so_duong_huyet": "blood_glucose",
+    "tieu_duong_type2": "general",
+    "the_duc_loi_song": "lifestyle",
+}
+
+
+def normalize_category(category: str) -> str:
+    """Map older Vietnamese folder categories to the metadata schema."""
+    return CATEGORY_ALIASES.get((category or "unknown").strip(), category or "unknown")
+
+
+def _safe_int(value, default: int) -> int:
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return default
+
+
+def _parse_raw_metadata(stem: str) -> Dict:
+    raw_path = RAW_DIR / f"{stem}.txt"
+    if not raw_path.exists():
+        return {}
+
+    text = raw_path.read_text(encoding="utf-8")
+    if "===METADATA===" not in text or "===CONTENT===" not in text:
+        return {}
+
+    meta_part = text.split("===CONTENT===", 1)[0].replace("===METADATA===", "").strip()
+    try:
+        return json.loads(meta_part)
+    except json.JSONDecodeError:
+        logger.warning(f"Khong doc duoc metadata raw: {raw_path}")
+        return {}
+
+
+def _metadata_value(value):
+    """Chroma metadata accepts scalar values; flatten lists for filtering/display."""
+    if isinstance(value, list):
+        return ",".join(str(item) for item in value)
+    if value is None:
+        return ""
+    return value
+
+
+def _normalize_note_id(text: str) -> str:
+    return hashlib.md5(" ".join(text.split()).encode("utf-8")).hexdigest()[:16]
 
 
 # ================================================================
@@ -137,11 +191,24 @@ def load_all_pdfs(pdf_dir: Path) -> List[Dict]:
             else:
                 category, source = "unknown", stem
 
+            raw_metadata = _parse_raw_metadata(stem)
+            category = normalize_category(raw_metadata.get("category", category))
+            source = raw_metadata.get("source_name", source)
+
             documents.append({
                 "content": text,
                 "source": source,
                 "category": category,
                 "filename": pdf_path.name,
+                "document_id": stem,
+                "title": raw_metadata.get("document_title") or raw_metadata.get("source_name") or stem,
+                "source_url": raw_metadata.get("url", ""),
+                "source_type": raw_metadata.get("source_type", "document"),
+                "source_priority": _safe_int(raw_metadata.get("source_priority"), 4),
+                "verified_by_doctor": bool(raw_metadata.get("verified_by_doctor", False)),
+                "published_date": raw_metadata.get("published_date", ""),
+                "language": raw_metadata.get("language", "vi" if category != "unknown" else ""),
+                "condition_tags": raw_metadata.get("condition_tags", []),
             })
             logger.debug(f"  ✓ {pdf_path.name}: {len(text):,} ký tự")
 
@@ -183,6 +250,7 @@ def chunk_documents(documents: List[Dict]) -> List[Dict]:
     )
 
     all_chunks = []
+    indexed_date = datetime.now(timezone.utc).date().isoformat()
     for doc in documents:
         # Chia text thành chunks
         chunks = splitter.split_text(doc["content"])
@@ -195,11 +263,23 @@ def chunk_documents(documents: List[Dict]) -> List[Dict]:
             all_chunks.append({
                 "text": chunk_text,
                 "metadata": {
+                    "document_id": doc.get("document_id", doc["filename"]),
+                    "document_title": doc.get("title", doc["source"]),
                     "source": doc["source"],
+                    "source_url": doc.get("source_url", ""),
+                    "source_type": doc.get("source_type", "document"),
+                    "source_priority": _safe_int(doc.get("source_priority"), 4),
+                    "verified_by_doctor": bool(doc.get("verified_by_doctor", False)),
+                    "verified": "true" if doc.get("verified_by_doctor", False) else "false",
+                    "published_date": doc.get("published_date", ""),
+                    "indexed_date": indexed_date,
+                    "language": doc.get("language", ""),
+                    "condition_tags": _metadata_value(doc.get("condition_tags", "")),
                     "category": doc["category"],
                     "filename": doc["filename"],
                     "chunk_index": i,
                     "total_chunks": len(chunks),
+                    "char_count": len(chunk_text),
                 }
             })
 
@@ -264,21 +344,29 @@ class VectorIndexer:
             logger.warning("⚠ Không có chunk nào để index")
             return
 
-        # Lấy ID đã có để tránh duplicate
+        # Lấy ID đã có để tránh duplicate.
+        # Dedupe theo cả DB hiện tại và các chunk mới sinh ra trong cùng lượt index.
         existing_ids = set(self.collection.get()["ids"])
+        seen_ids = set(existing_ids)
         logger.info(f"📊 Đã có {len(existing_ids)} chunks trong DB")
 
         # Chuẩn bị dữ liệu cho ChromaDB
         new_ids, new_texts, new_metadatas = [], [], []
 
         for i, chunk in enumerate(chunks):
-            # Tạo ID duy nhất từ nội dung (hash để tránh trùng)
-            chunk_id = hashlib.md5(chunk["text"].encode()).hexdigest()[:16]
-            full_id  = f"{chunk['metadata']['source']}__{chunk_id}"
+            # Tạo ID ổn định theo document + chunk_index + hash nội dung.
+            # Cách này tránh trùng giữa các chunk có text giống nhau nhưng thuộc
+            # tài liệu khác nhau, đồng thời vẫn idempotent khi crawl lại cùng file.
+            metadata = chunk.get("metadata", {})
+            document_id = str(metadata.get("document_id") or metadata.get("source") or "document")
+            chunk_index = metadata.get("chunk_index", i)
+            chunk_hash = hashlib.md5(" ".join(chunk["text"].split()).encode("utf-8")).hexdigest()[:16]
+            full_id = f"{document_id}__chunk_{chunk_index}__{chunk_hash}"
 
-            if full_id in existing_ids:
+            if full_id in seen_ids:
                 continue  # Bỏ qua chunk đã có
 
+            seen_ids.add(full_id)
             new_ids.append(full_id)
             new_texts.append(chunk["text"])
             new_metadatas.append(chunk["metadata"])
@@ -295,14 +383,80 @@ class VectorIndexer:
             batch_texts = new_texts[i:i+batch_size]
             batch_metas = new_metadatas[i:i+batch_size]
 
+            # ChromaDB không cho phép duplicate ids trong cùng một lần add().
+            batch_seen = set()
+            unique_ids, unique_texts, unique_metas = [], [], []
+            for doc_id, text, meta in zip(batch_ids, batch_texts, batch_metas):
+                if doc_id in batch_seen:
+                    continue
+                batch_seen.add(doc_id)
+                unique_ids.append(doc_id)
+                unique_texts.append(text)
+                unique_metas.append(meta)
+
+            if not unique_ids:
+                continue
+
             self.collection.add(
-                ids=batch_ids,
-                documents=batch_texts,   # ChromaDB sẽ tự embed qua embed_fn
-                metadatas=batch_metas,
+                ids=unique_ids,
+                documents=unique_texts,   # ChromaDB sẽ tự embed qua embed_fn
+                metadatas=unique_metas,
             )
 
         total = self.collection.count()
         logger.success(f"✅ Index xong! Tổng cộng {total} chunks trong ChromaDB")
+
+    def index_uploaded_document(
+        self,
+        *,
+        text: str,
+        document_id: str,
+        title: str,
+        source_name: str,
+        source_type: str,
+        category: str,
+        language: str = "vi",
+        published_date: str = "",
+        verified_by_doctor: bool = False,
+        source_url: str = "",
+        source_priority: Optional[int] = None,
+        condition_tags: Optional[List[str]] = None,
+        filename: str = "",
+        replace_existing: bool = True,
+    ) -> Dict:
+        clean_text = " ".join(text.split())
+        if not clean_text:
+            raise ValueError("Uploaded document is empty")
+
+        doc = {
+            "content": clean_text,
+            "source": source_name or title or document_id,
+            "category": normalize_category(category),
+            "filename": filename or f"{document_id}.txt",
+            "document_id": document_id,
+            "title": title or source_name or document_id,
+            "source_url": source_url,
+            "source_type": source_type,
+            "source_priority": source_priority if source_priority is not None else (3 if verified_by_doctor else 4),
+            "verified_by_doctor": verified_by_doctor,
+            "published_date": published_date,
+            "language": language,
+            "condition_tags": condition_tags or [normalize_category(category)],
+        }
+
+        if replace_existing:
+            self.collection.delete(where={"document_id": {"$eq": document_id}})
+
+        chunks = chunk_documents([doc])
+        if not chunks:
+            return {"document_id": document_id, "chunks_indexed": 0, "replaced": replace_existing}
+
+        self.index_chunks(chunks)
+        return {
+            "document_id": document_id,
+            "chunks_indexed": len(chunks),
+            "replaced": replace_existing,
+        }
 
     def add_user_knowledge(
         self,
@@ -344,7 +498,68 @@ class VectorIndexer:
         logger.info(f"Đã ghi nhớ thông tin người dùng: {full_id}")
         return {"id": full_id, "metadata": metadata, "duplicate": False}
 
-    def search(self, query: str, top_k: int = 5, category_filter: str = None) -> List[Dict]:
+    def add_doctor_note(
+        self,
+        text: str,
+        category: str,
+        doctor_name: str,
+        specialty: str = "",
+        note_id: Optional[str] = None,
+        status: str = "active",
+    ) -> Dict:
+        clean_text = " ".join(text.split())
+        note_id = note_id or f"doctor_note__{_normalize_note_id(clean_text)}"
+        metadata = {
+            "document_id": note_id,
+            "document_title": f"Doctor note - {doctor_name}".strip(),
+            "source": DOCTOR_NOTE_SOURCE,
+            "category": category,
+            "filename": "doctor_notes",
+            "chunk_index": 0,
+            "total_chunks": 1,
+            "source_type": "doctor_note",
+            "source_priority": 1,
+            "verified_by_doctor": True,
+            "verified": "true",
+            "doctor_name": doctor_name,
+            "specialty": specialty,
+            "note_status": status,
+            "language": "vi",
+            "published_date": datetime.now(timezone.utc).date().isoformat(),
+            "indexed_date": datetime.now(timezone.utc).isoformat(),
+        }
+
+        existing = self.collection.get(ids=[note_id])
+        if existing.get("ids"):
+            self.collection.update(
+                ids=[note_id],
+                documents=[clean_text],
+                metadatas=[metadata],
+            )
+            return {"id": note_id, "metadata": metadata, "duplicate": False, "updated": True}
+
+        self.collection.add(
+            ids=[note_id],
+            documents=[clean_text],
+            metadatas=[metadata],
+        )
+        logger.info(f"Đã thêm doctor note: {note_id}")
+        return {"id": note_id, "metadata": metadata, "duplicate": False, "updated": False}
+
+    def delete_document(self, doc_id: str) -> bool:
+        existing = self.collection.get(ids=[doc_id])
+        if not existing.get("ids"):
+            return False
+        self.collection.delete(ids=[doc_id])
+        return True
+
+    def search(
+        self,
+        query: str,
+        top_k: int = 5,
+        category_filter: str = None,
+        where_filter: Optional[Dict] = None,
+    ) -> List[Dict]:
         """
         Tìm kiếm chunks liên quan đến câu hỏi.
 
@@ -361,13 +576,21 @@ class VectorIndexer:
         Returns:
             Danh sách dict: text, metadata, distance
         """
-        where_filter = None
         if category_filter:
-            where_filter = {"category": {"$eq": category_filter}}
+            category_where = {"category": {"$eq": category_filter}}
+            where_filter = (
+                {"$and": [where_filter, category_where]}
+                if where_filter
+                else category_where
+            )
+
+        count = self.collection.count()
+        if count == 0:
+            return []
 
         results = self.collection.query(
             query_texts=[query],
-            n_results=min(top_k, self.collection.count()),
+            n_results=min(top_k, count),
             where=where_filter,
             include=["documents", "metadatas", "distances"],
         )
@@ -392,23 +615,37 @@ class VectorIndexer:
 
     def get_stats(self) -> dict:
         """Thống kê về collection hiện tại."""
-        count = self.collection.count()
-        if count == 0:
-            return {"total_chunks": 0, "categories": {}}
+        try:
+            count = self.collection.count()
+            if not isinstance(count, int) or count == 0:
+                return {"total_chunks": 0, "categories": {}}
 
-        # Lấy sample metadata để thống kê
-        sample = self.collection.get(limit=min(count, 1000), include=["metadatas"])
-        categories = {}
-        for meta in sample["metadatas"]:
-            cat = meta.get("category", "unknown")
-            categories[cat] = categories.get(cat, 0) + 1
+            # Lấy sample metadata để thống kê
+            sample = self.collection.get(limit=min(count, 1000), include=["metadatas"])
+            
+            # Validate sample response
+            if not sample or "metadatas" not in sample:
+                return {"total_chunks": count, "categories": {}}
+            
+            categories = {}
+            metadatas = sample.get("metadatas", [])
+            if not isinstance(metadatas, list):
+                metadatas = []
+            
+            for meta in metadatas:
+                if isinstance(meta, dict):
+                    cat = meta.get("category", "unknown")
+                    categories[cat] = categories.get(cat, 0) + 1
 
-        return {
-            "total_chunks": count,
-            "categories": categories,
-            "embedding_model": EMBEDDING_MODEL,
-            "chunk_size": CHUNK_SIZE,
-        }
+            return {
+                "total_chunks": count,
+                "categories": categories,
+                "embedding_model": EMBEDDING_MODEL,
+                "chunk_size": CHUNK_SIZE,
+            }
+        except Exception as e:
+            logger.error(f"Error getting stats: {e}")
+            return {"total_chunks": 0, "categories": {}, "error": str(e)}
 
 
 # ── CHẠY TRỰC TIẾP ──────────────────────────────────────────

@@ -1,0 +1,65 @@
+===METADATA===
+{
+  "source_name": "cdc_diabetes_basics",
+  "document_title": "CDC Diabetes Basics",
+  "url": "https://www.cdc.gov/diabetes/php/cbo-guidance/index.html",
+  "parent_url": "https://www.cdc.gov/diabetes/about/index.html",
+  "page_index": 14,
+  "category": "general",
+  "language": "en",
+  "source_type": "government_health",
+  "source_priority": 2,
+  "verified_by_doctor": true,
+  "published_date": "",
+  "condition_tags": [
+    "diabetes"
+  ],
+  "crawled_at": "2026-06-06T00:04:11.320249",
+  "char_count": 2757
+}
+===CONTENT===
+May 15, 2024
+Community-Based Organizations
+At a glance
+Community-based organizations (CBOs), faith-based organizations (FBOs), and community health workers (CHWs) can take an active role in helping people manage diabetes or prevent type 2 diabetes.
+Help prevent type 2 diabetes
+Prediabetes can lead to type 2 diabetes, and it also increases risk for heart attack and stroke. But it doesn't have to. CBOs can help people take steps to reverse prediabetes or slow the onset of type 2 diabetes.
+CBOs can offer, or help people in their community enroll in, the
+National Diabetes Prevention Program
+(National DPP) lifestyle change program. The program is proven to prevent or delay type 2 diabetes.
+Learn about this evidence-based program
+Find out how your organization can offer the National DPP lifestyle change program
+Already delivering a program? Find resources and support at
+National DPP Customer Service Center
+Help manage diabetes
+CBOs play an important role in helping people with diabetes take steps to lower their blood sugar and manage their condition.
+Diabetes self-management education and support
+(DSMES)
+services help people reach their daily and lifetime goals for living well with diabetes. CBOs can offer DSMES by becoming recognized by the American Diabetes Association or accredited by the
+Association of Diabetes Care & Education Specialists
+. CBOs can also help people in their communities find these services.
+Toolkits and more
+These resources are designed to help you support people at risk for developing type 2 diabetes or those who already have diabetes.
+DSMES Toolkit
+: This resource is a one-stop shop for helping ensure that all people with diabetes receive the support and education they need.
+Faith Leaders Toolkit – Diabetes Prevention and Management
+: Learn how to reach and inspire people in faith communities and motivate them to take steps toward healthy living.
+New Beginnings
+Toolkit
+New Beginnings
+uses stories, activities, and facilitated discussion to address the emotional impact of diabetes.
+Fotonovela:
+Do it for them! But for you too.
+¡Hazlo por ellos! Pero por ti también.
+This bilingual fotonovela (illustrated novel) features dramatic stories of Latinas talking to Latinas about preventing or delaying type 2 diabetes and being healthy for their children and themselves. Use the how-to guide to plan and evaluate your use of the fotonovela:
+English
+Spanish
+Community Health Worker Forum
+: This meeting explored the development of a statewide infrastructure to promote long-term sustainability and financing of community health workers. Access the Summary Report in English and Spanish.
+May 15, 2024
+Sources
+Print
+Share
+Content Source:
+National Center for Chronic Disease Prevention and Health Promotion
+Diabetes

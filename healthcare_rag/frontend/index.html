@@ -300,6 +300,200 @@
     .send-btn:hover:not(:disabled) { background: var(--primary-d); transform: scale(1.05); }
     .send-btn:disabled { background: #94a3b8; cursor: not-allowed; }
 
+    .admin-btn {
+      display: block;
+      width: 100%;
+      text-align: left;
+      padding: 10px 12px;
+      background: #eff6ff;
+      border: 1px solid #bfdbfe;
+      border-radius: 10px;
+      font-size: 13px;
+      color: var(--primary);
+      cursor: pointer;
+      transition: all 0.2s;
+      line-height: 1.4;
+      margin-bottom: 6px;
+    }
+    .admin-btn:hover {
+      background: #dbeafe;
+      border-color: var(--primary);
+    }
+
+    .overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(15, 23, 42, 0.55);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 18px;
+      z-index: 50;
+    }
+    .overlay.show { display: flex; }
+    .modal {
+      width: min(1100px, 100%);
+      max-height: 92vh;
+      overflow: auto;
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      box-shadow: 0 24px 80px rgba(15, 23, 42, 0.28);
+    }
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 18px 20px;
+      border-bottom: 1px solid var(--border);
+    }
+    .modal-header h3 { font-size: 18px; margin-bottom: 4px; }
+    .modal-header p { font-size: 13px; color: var(--muted); line-height: 1.45; }
+    .modal-close {
+      border: none;
+      background: transparent;
+      color: var(--muted);
+      font-size: 28px;
+      line-height: 1;
+      cursor: pointer;
+      padding: 0 4px;
+    }
+    .modal-body {
+      display: grid;
+      grid-template-columns: 300px minmax(0, 1fr);
+      gap: 16px;
+      padding: 18px 20px 20px;
+    }
+    .panel {
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 14px;
+      background: #fff;
+      min-width: 0;
+    }
+    .panel h4 {
+      font-size: 13px;
+      margin-bottom: 10px;
+      color: #0f172a;
+    }
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      margin-bottom: 10px;
+    }
+    .field label {
+      font-size: 12px;
+      color: var(--muted);
+    }
+    .field input,
+    .field select,
+    .field textarea {
+      width: 100%;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 12px;
+      font: inherit;
+      color: var(--text);
+      background: #fff;
+      outline: none;
+    }
+    .field textarea {
+      min-height: 110px;
+      resize: vertical;
+      line-height: 1.5;
+    }
+    .field input:focus,
+    .field select:focus,
+    .field textarea:focus {
+      border-color: var(--primary);
+    }
+    .role-list {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 12px;
+    }
+    .role-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 7px 10px;
+      font-size: 13px;
+      background: #f8fafc;
+      cursor: pointer;
+    }
+    .role-chip input { margin: 0; }
+    .actions-row {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-top: 6px;
+    }
+    .primary-action,
+    .secondary-action {
+      border: none;
+      border-radius: 10px;
+      padding: 10px 14px;
+      font: inherit;
+      cursor: pointer;
+    }
+    .primary-action {
+      background: var(--primary);
+      color: white;
+    }
+    .primary-action:hover { background: var(--primary-d); }
+    .secondary-action {
+      background: #e2e8f0;
+      color: #0f172a;
+    }
+    .status-line {
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 8px;
+      line-height: 1.45;
+    }
+    .list-box {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 12px;
+      background: #f8fafc;
+      max-height: 220px;
+      overflow: auto;
+    }
+    .list-item {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      padding: 10px 0;
+      border-bottom: 1px solid #e2e8f0;
+    }
+    .list-item:last-child { border-bottom: none; }
+    .list-item strong { display: block; font-size: 13px; margin-bottom: 2px; }
+    .list-item span { display: block; font-size: 12px; color: var(--muted); line-height: 1.45; }
+    .mini-actions {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      align-items: flex-end;
+      flex-shrink: 0;
+    }
+    .mini-btn {
+      border: none;
+      border-radius: 8px;
+      padding: 7px 10px;
+      font-size: 12px;
+      cursor: pointer;
+      background: #dbeafe;
+      color: #1d4ed8;
+    }
+    .mini-btn.danger {
+      background: #fee2e2;
+      color: #b91c1c;
+    }
+
     /* ── Markdown-like text rendering ────────────────── */
     .bubble.bot strong { font-weight: 600; color: #1e40af; }
     .bubble.bot em { font-style: italic; color: var(--muted); }
@@ -382,6 +576,7 @@
       <h3>🔧 Hành động</h3>
       <button class="quick-btn" onclick="clearChat()">🗑 Xóa hội thoại</button>
       <button class="quick-btn" onclick="loadStats()">🔄 Refresh thống kê</button>
+      <button class="admin-btn" onclick="openKnowledgeModal('admin')">🛠 Quản trị tri thức</button>
     </div>
 
   </aside>
@@ -420,6 +615,131 @@
 
 </div>
 
+<div class="overlay" id="knowledgeOverlay" aria-hidden="true">
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="knowledgeTitle">
+    <div class="modal-header">
+      <div>
+        <h3 id="knowledgeTitle">Quản trị tri thức</h3>
+        <p id="knowledgeSubtitle">Chọn vai trò để mở khu vực upload tài liệu và ghi chú bác sĩ.</p>
+      </div>
+      <button class="modal-close" type="button" onclick="closeKnowledgeModal()" aria-label="Đóng">×</button>
+    </div>
+
+    <div class="modal-body">
+      <section class="panel">
+        <h4>Xác nhận vai trò</h4>
+        <div class="role-list">
+          <label class="role-chip">
+            <input type="radio" name="knowledgeRole" value="admin" checked onchange="setKnowledgeRole('admin')" />
+            Admin
+          </label>
+          <label class="role-chip">
+            <input type="radio" name="knowledgeRole" value="doctor" onchange="setKnowledgeRole('doctor')" />
+            Bác sĩ
+          </label>
+        </div>
+
+        <div class="field">
+          <label for="roleToken">Secret key</label>
+          <input id="roleToken" type="password" placeholder="Local dev: healthcare-admin-dev / healthcare-doctor-dev" />
+        </div>
+        <div class="field">
+          <label for="roleDisplayName">Tên hiển thị</label>
+          <input id="roleDisplayName" type="text" placeholder="Ví dụ: BS Nguyễn Văn A" />
+        </div>
+
+        <div class="actions-row">
+          <button class="primary-action" type="button" onclick="saveKnowledgeRole()">Lưu vai trò</button>
+          <button class="secondary-action" type="button" onclick="closeKnowledgeModal()">Đóng</button>
+        </div>
+
+        <div class="status-line" id="roleStatus">Chưa xác nhận vai trò.</div>
+      </section>
+
+      <section class="panel" id="adminPanel">
+        <h4>Upload tài liệu cho KB</h4>
+        <div class="field">
+          <label for="adminFile">File PDF hoặc TXT</label>
+          <input id="adminFile" type="file" accept=".pdf,.txt" />
+        </div>
+        <div class="field">
+          <label for="adminTitle">Tiêu đề</label>
+          <input id="adminTitle" type="text" placeholder="Ví dụ: Hướng dẫn insulin trước bữa ăn" />
+        </div>
+        <div class="field">
+          <label for="adminSource">Nguồn</label>
+          <input id="adminSource" type="text" placeholder="Ví dụ: Tài liệu nội bộ / sách / phác đồ" />
+        </div>
+        <div class="field">
+          <label for="adminCategory">Danh mục</label>
+          <select id="adminCategory">
+            <option value="general">general</option>
+            <option value="diagnosis">diagnosis</option>
+            <option value="diet">diet</option>
+            <option value="medication">medication</option>
+            <option value="blood_glucose">blood_glucose</option>
+            <option value="emergency">emergency</option>
+            <option value="complication">complication</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="adminPublishedDate">Ngày xuất bản</label>
+          <input id="adminPublishedDate" type="date" />
+        </div>
+        <div class="field">
+          <label for="adminSourceType">Loại nguồn</label>
+          <select id="adminSourceType">
+            <option value="manual_upload">manual_upload</option>
+            <option value="clinical_guideline">clinical_guideline</option>
+            <option value="doctor_note">doctor_note</option>
+            <option value="reference">reference</option>
+          </select>
+        </div>
+        <div class="field">
+          <label><input id="adminVerified" type="checkbox" /> Đã được bác sĩ xác nhận</label>
+        </div>
+
+        <div class="actions-row">
+          <button class="primary-action" type="button" onclick="uploadKnowledgeDocument()">Tải lên</button>
+          <button class="secondary-action" type="button" onclick="loadDocuments()">Làm mới danh sách</button>
+          <button class="secondary-action" type="button" onclick="rebuildKnowledgeIndex()">Rebuild index</button>
+        </div>
+
+        <div class="status-line" id="uploadStatus">Sẵn sàng upload tài liệu.</div>
+        <div class="list-box" id="documentList"></div>
+      </section>
+
+      <section class="panel" id="doctorPanel" hidden>
+        <h4>Ghi chú bác sĩ</h4>
+        <div class="field">
+          <label for="doctorCategory">Danh mục</label>
+          <input id="doctorCategory" type="text" value="medication" />
+        </div>
+        <div class="field">
+          <label for="doctorName">Tên bác sĩ</label>
+          <input id="doctorName" type="text" placeholder="Ví dụ: BS Trần Thị B" />
+        </div>
+        <div class="field">
+          <label for="doctorSpecialty">Chuyên khoa</label>
+          <input id="doctorSpecialty" type="text" placeholder="Ví dụ: Nội tiết" />
+        </div>
+        <div class="field">
+          <label for="doctorNoteText">Nội dung ghi chú</label>
+          <textarea id="doctorNoteText" placeholder="Viết tri thức bác sĩ đã kiểm duyệt..."></textarea>
+        </div>
+
+        <div class="actions-row">
+          <button class="primary-action" type="button" onclick="createDoctorNote()">Lưu ghi chú</button>
+          <button class="secondary-action" type="button" onclick="loadDoctorNotes()">Làm mới danh sách</button>
+        </div>
+
+        <div class="status-line" id="doctorStatus">Sẵn sàng thêm ghi chú bác sĩ.</div>
+        <div class="list-box" id="doctorNoteList"></div>
+      </section>
+    </div>
+  </div>
+</div>
+
 <script>
 // ═══════════════════════════════════════════════════════════
 // CONFIG
@@ -427,6 +747,9 @@
 const API_BASE = window.location.origin;
 let chatHistory = [];   // Lưu lịch sử hội thoại
 let isLoading   = false;
+let knowledgeRole = localStorage.getItem('knowledgeRole') || 'admin';
+let adminSecretKey = localStorage.getItem('adminSecretKey') || '';
+let doctorSecretKey = localStorage.getItem('doctorSecretKey') || '';
 
 // ═══════════════════════════════════════════════════════════
 // KHỞI TẠO
@@ -468,6 +791,327 @@ async function loadStats() {
   } catch {
     document.getElementById('statChunks').textContent = 'Offline';
   }
+}
+
+function openKnowledgeModal(role = knowledgeRole || 'admin') {
+  const overlay = document.getElementById('knowledgeOverlay');
+  overlay.classList.add('show');
+  overlay.setAttribute('aria-hidden', 'false');
+  setKnowledgeRole(role, true);
+
+  if (role === 'admin') {
+    document.getElementById('roleToken').value = adminSecretKey;
+  } else {
+    document.getElementById('roleToken').value = doctorSecretKey;
+  }
+
+  document.getElementById('roleDisplayName').value = localStorage.getItem('knowledgeDisplayName') || '';
+  document.getElementById('roleStatus').textContent = 'Hãy nhập secret key rồi lưu vai trò để tiếp tục.';
+  updateKnowledgePanels();
+}
+
+function closeKnowledgeModal() {
+  const overlay = document.getElementById('knowledgeOverlay');
+  overlay.classList.remove('show');
+  overlay.setAttribute('aria-hidden', 'true');
+}
+
+function setKnowledgeRole(role, fromUI = false) {
+  knowledgeRole = role;
+  localStorage.setItem('knowledgeRole', role);
+
+  const radios = document.querySelectorAll('input[name="knowledgeRole"]');
+  radios.forEach(radio => {
+    radio.checked = radio.value === role;
+  });
+
+  if (fromUI) {
+    const tokenInput = document.getElementById('roleToken');
+    tokenInput.value = role === 'admin' ? adminSecretKey : doctorSecretKey;
+  }
+
+  updateKnowledgePanels();
+}
+
+function updateKnowledgePanels() {
+  const adminPanel = document.getElementById('adminPanel');
+  const doctorPanel = document.getElementById('doctorPanel');
+  const subtitle = document.getElementById('knowledgeSubtitle');
+  const status = document.getElementById('roleStatus');
+
+  const role = knowledgeRole || 'admin';
+  adminPanel.hidden = role !== 'admin';
+  doctorPanel.hidden = role !== 'doctor';
+  subtitle.textContent = role === 'admin'
+    ? 'Admin có thể upload tài liệu, xem danh sách và rebuild index.'
+    : 'Bác sĩ có thể thêm ghi chú đã kiểm duyệt để ưu tiên trong retrieval.';
+  status.textContent = role === 'admin'
+    ? 'Đang ở chế độ Admin.'
+    : 'Đang ở chế độ Bác sĩ.';
+}
+
+function saveKnowledgeRole() {
+  const role = knowledgeRole || 'admin';
+  const token = document.getElementById('roleToken').value.trim();
+  const displayName = document.getElementById('roleDisplayName').value.trim();
+  const roleStatus = document.getElementById('roleStatus');
+
+  if (!token) {
+    roleStatus.textContent = 'Bạn cần nhập secret key trước khi lưu vai trò.';
+    return;
+  }
+
+  if (role === 'admin') {
+    adminSecretKey = token;
+    localStorage.setItem('adminSecretKey', token);
+  } else {
+    doctorSecretKey = token;
+    localStorage.setItem('doctorSecretKey', token);
+  }
+
+  localStorage.setItem('knowledgeDisplayName', displayName);
+  roleStatus.textContent = `Đã lưu vai trò ${role}.`;
+
+  if (role === 'admin') {
+    loadDocuments();
+  } else {
+    loadDoctorNotes();
+  }
+}
+
+function getKnowledgeHeaders(role) {
+  const token = role === 'admin' ? adminSecretKey : doctorSecretKey;
+  return token ? {
+    'X-Admin-Token': token,
+  } : {};
+}
+
+async function uploadKnowledgeDocument() {
+  const fileInput = document.getElementById('adminFile');
+  const status = document.getElementById('uploadStatus');
+  const file = fileInput.files?.[0];
+
+  if (!file) {
+    status.textContent = 'Hãy chọn một file PDF hoặc TXT trước.';
+    return;
+  }
+
+  if (!adminSecretKey) {
+    status.textContent = 'Bạn chưa lưu secret key Admin.';
+    return;
+  }
+
+  const form = new FormData();
+  form.append('file', file);
+  form.append('title', document.getElementById('adminTitle').value.trim());
+  form.append('source_name', document.getElementById('adminSource').value.trim());
+  form.append('source_type', document.getElementById('adminSourceType').value);
+  form.append('category', document.getElementById('adminCategory').value);
+  form.append('language', 'vi');
+  form.append('published_date', document.getElementById('adminPublishedDate').value);
+  form.append('verified_by_doctor', document.getElementById('adminVerified').checked ? 'true' : 'false');
+
+  status.textContent = 'Đang upload...';
+  try {
+    const res = await fetch(`${API_BASE}/admin/documents/upload`, {
+      method: 'POST',
+      headers: { 'X-Admin-Token': adminSecretKey },
+      body: form,
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.detail || 'Upload thất bại');
+    status.textContent = `Đã upload: ${data.document_id}`;
+    fileInput.value = '';
+    loadDocuments();
+  } catch (err) {
+    status.textContent = `Upload lỗi: ${err.message}`;
+  }
+}
+
+async function loadDocuments() {
+  const list = document.getElementById('documentList');
+  const status = document.getElementById('uploadStatus');
+  if (!adminSecretKey) {
+    list.innerHTML = '<div class="status-line">Chưa có admin secret key.</div>';
+    return;
+  }
+
+  try {
+    const res = await fetch(`${API_BASE}/admin/documents`, {
+      headers: { 'X-Admin-Token': adminSecretKey },
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.detail || 'Không tải được danh sách');
+
+    if (!data.items?.length) {
+      list.innerHTML = '<div class="status-line">Chưa có tài liệu nào trong KB.</div>';
+      return;
+    }
+
+    list.innerHTML = data.items.map(item => `
+      <div class="list-item">
+        <div>
+          <strong>${escapeHtml(item.title || item.document_id || '')}</strong>
+          <span>${escapeHtml(item.category || '')} • ${escapeHtml(item.source_type || '')} • ${item.verified_by_doctor ? 'verified' : 'unverified'}</span>
+          <span>${escapeHtml(item.source || '')}</span>
+        </div>
+        <div class="mini-actions">
+          <button class="mini-btn danger" type="button" onclick="deleteKnowledgeDocument('${escapeJs(item.document_id)}')">Xóa</button>
+        </div>
+      </div>
+    `).join('');
+    status.textContent = `Đã tải ${data.total} tài liệu.`;
+  } catch (err) {
+    list.innerHTML = `<div class="status-line">Lỗi tải danh sách: ${escapeHtml(err.message)}</div>`;
+  }
+}
+
+async function deleteKnowledgeDocument(documentId) {
+  if (!adminSecretKey) return;
+  if (!confirm(`Xóa tài liệu ${documentId}?`)) return;
+
+  try {
+    const res = await fetch(`${API_BASE}/admin/documents/${encodeURIComponent(documentId)}`, {
+      method: 'DELETE',
+      headers: { 'X-Admin-Token': adminSecretKey },
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.detail || 'Xóa thất bại');
+    document.getElementById('uploadStatus').textContent = `Đã xóa ${documentId}.`;
+    loadDocuments();
+  } catch (err) {
+    document.getElementById('uploadStatus').textContent = `Xóa lỗi: ${err.message}`;
+  }
+}
+
+async function rebuildKnowledgeIndex() {
+  const status = document.getElementById('uploadStatus');
+  if (!adminSecretKey) {
+    status.textContent = 'Chưa có admin secret key.';
+    return;
+  }
+
+  status.textContent = 'Đang rebuild index...';
+  try {
+    const res = await fetch(`${API_BASE}/admin/rebuild-index`, {
+      method: 'POST',
+      headers: { 'X-Admin-Token': adminSecretKey },
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.detail || 'Rebuild thất bại');
+    status.textContent = `Rebuild xong: ${data.total_chunks} chunks.`;
+    loadStats();
+  } catch (err) {
+    status.textContent = `Rebuild lỗi: ${err.message}`;
+  }
+}
+
+async function createDoctorNote() {
+  const status = document.getElementById('doctorStatus');
+  if (!doctorSecretKey) {
+    status.textContent = 'Bạn chưa lưu secret key bác sĩ.';
+    return;
+  }
+
+  const payload = {
+    category: document.getElementById('doctorCategory').value.trim(),
+    text: document.getElementById('doctorNoteText').value.trim(),
+    doctor_name: document.getElementById('doctorName').value.trim(),
+    specialty: document.getElementById('doctorSpecialty').value.trim(),
+  };
+
+  if (!payload.category || !payload.text || !payload.doctor_name) {
+    status.textContent = 'Cần nhập category, nội dung và tên bác sĩ.';
+    return;
+  }
+
+  status.textContent = 'Đang lưu ghi chú...';
+  try {
+    const res = await fetch(`${API_BASE}/admin/doctor-notes`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-Doctor-Token': doctorSecretKey,
+      },
+      body: JSON.stringify(payload),
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.detail || 'Lưu ghi chú thất bại');
+    status.textContent = `Đã lưu ghi chú ${data.id}.`;
+    document.getElementById('doctorNoteText').value = '';
+    loadDoctorNotes();
+  } catch (err) {
+    status.textContent = `Lưu lỗi: ${err.message}`;
+  }
+}
+
+async function loadDoctorNotes() {
+  const list = document.getElementById('doctorNoteList');
+  const status = document.getElementById('doctorStatus');
+  if (!doctorSecretKey) {
+    list.innerHTML = '<div class="status-line">Chưa có doctor secret key.</div>';
+    return;
+  }
+
+  try {
+    const res = await fetch(`${API_BASE}/admin/doctor-notes`, {
+      headers: { 'X-Doctor-Token': doctorSecretKey },
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.detail || 'Không tải được ghi chú');
+
+    if (!data.notes?.length) {
+      list.innerHTML = '<div class="status-line">Chưa có ghi chú bác sĩ nào.</div>';
+      return;
+    }
+
+    list.innerHTML = data.notes.map(note => `
+      <div class="list-item">
+        <div>
+          <strong>${escapeHtml(note.doctor_name || note.id || '')}</strong>
+          <span>${escapeHtml(note.category || '')} • ${escapeHtml(note.specialty || '')}</span>
+          <span>${escapeHtml(note.text || '').slice(0, 180)}${(note.text || '').length > 180 ? '...' : ''}</span>
+        </div>
+        <div class="mini-actions">
+          <button class="mini-btn danger" type="button" onclick="deleteDoctorNote('${escapeJs(note.id)}')">Xóa</button>
+        </div>
+      </div>
+    `).join('');
+    status.textContent = `Đã tải ${data.total} ghi chú.`;
+  } catch (err) {
+    list.innerHTML = `<div class="status-line">Lỗi tải ghi chú: ${escapeHtml(err.message)}</div>`;
+  }
+}
+
+async function deleteDoctorNote(noteId) {
+  if (!doctorSecretKey) return;
+  if (!confirm(`Xóa ghi chú ${noteId}?`)) return;
+
+  try {
+    const res = await fetch(`${API_BASE}/admin/doctor-notes/${encodeURIComponent(noteId)}`, {
+      method: 'DELETE',
+      headers: { 'X-Doctor-Token': doctorSecretKey },
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.detail || 'Xóa thất bại');
+    document.getElementById('doctorStatus').textContent = `Đã xóa ${noteId}.`;
+    loadDoctorNotes();
+  } catch (err) {
+    document.getElementById('doctorStatus').textContent = `Xóa lỗi: ${err.message}`;
+  }
+}
+
+function escapeHtml(text) {
+  return String(text)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function escapeJs(text) {
+  return String(text).replace(/\\/g, '\\\\').replace(/'/g, "\\'");
 }
 
 // ═══════════════════════════════════════════════════════════

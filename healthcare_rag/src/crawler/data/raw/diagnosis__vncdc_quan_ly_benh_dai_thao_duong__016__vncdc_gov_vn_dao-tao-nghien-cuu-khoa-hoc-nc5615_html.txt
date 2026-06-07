@@ -1,0 +1,43 @@
+===METADATA===
+{
+  "source_name": "vncdc_quan_ly_benh_dai_thao_duong",
+  "document_title": "Quản lý bệnh đái tháo đường - VNCDC",
+  "url": "https://vncdc.gov.vn/dao-tao-nghien-cuu-khoa-hoc-nc5615.html",
+  "parent_url": "https://vncdc.gov.vn/quan-ly-benh-dai-thao-duong-nd14581.html",
+  "page_index": 16,
+  "category": "diagnosis",
+  "language": "vi",
+  "source_type": "government_health",
+  "source_priority": 2,
+  "verified_by_doctor": true,
+  "published_date": "",
+  "condition_tags": [
+    "type2_diabetes"
+  ],
+  "crawled_at": "2026-06-06T00:02:37.769146",
+  "char_count": 1477
+}
+===CONTENT===
+Tin tức
+Đào tạo - Nghiên cứu khoa học
+Chuỗi tập huấn trực tuyến Hướng dẫn phân tích, trình bày, phiên giải số liệu giám sát COVID-19 qua xây dựng dashboard trên Excel của Chương trình đào tạo dịch tễ học thực địa Việt Nam
+Xem chi tiết
+Triển khai Hệ thống quản lý tiêm chủng vào năm 2017
+Từ ngày 9 đến 20-12-2016, Trung tâm Y tế dự phòng tỉnh Quảng Ninh tổ chức các lớp tập huấn triển khai Hệ thống quản lý tiêm chủng Quốc gia
+Xem chi tiết
+Thành lập Trung tâm kiểm soát bệnh tật Bắc Giang
+Ngày 12/12/2016, Ủy ban Nhân dân tỉnh Bắc Giang đã có Quyết định số 721/QĐ-UBND ngày 12 tháng 12 năm 2016 của Ủy ban Nhân dân tỉnh Bắc Giang về việc thành lập Trung tâm kiểm soát bệnh tật Bắc Giang
+Xem chi tiết
+Báo cáo khoa học: Đánh giá quần thể véc tơ và sự có mặt của vi rút chikungunya ở muỗi và người
+Đánh giá quần thể véc tơ và sự có mặt của vi rút chikungunya ở muỗi và người tại một số địa phương có biên giới với Lào và Campuchia 2012-2014
+Xem chi tiết
+Báo cáo kết quả nghiên cứu khoa học: Thực trạng hoạt động của hệ thống quản lý thông tin tiêm chủng điện tử tại thành phố Hà Nội năm 2017
+Thực trạng hoạt động của hệ thống quản lý thông tin tiêm chủng điện tử tại thành phố Hà Nội năm 2017
+Xem chi tiết
+Tin nổi bật
+Tin chỉ đạo
+Tin địa phương
+Tin tức nổi bật
+Bộ Y tế công bố 26 quyết định bổ nhiệm, tiếp nhận, điều động lãnh đạo các đơn vị thuộc Bộ
+Tăng cường phòng, chống bệnh cúm, sởi và các bệnh lây truyền qua đường hô hấp
+Thông tin về đợt bùng phát dịch cúm mùa tại Nhật Bản

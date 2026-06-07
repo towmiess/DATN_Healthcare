@@ -1,0 +1,45 @@
+===METADATA===
+{
+  "source_name": "vncdc_quan_ly_benh_dai_thao_duong",
+  "document_title": "Quản lý bệnh đái tháo đường - VNCDC",
+  "url": "https://vncdc.gov.vn/y-te-cong-dong-nc5614.html",
+  "parent_url": "https://vncdc.gov.vn/quan-ly-benh-dai-thao-duong-nd14581.html",
+  "page_index": 15,
+  "category": "diagnosis",
+  "language": "vi",
+  "source_type": "government_health",
+  "source_priority": 2,
+  "verified_by_doctor": true,
+  "published_date": "",
+  "condition_tags": [
+    "type2_diabetes"
+  ],
+  "crawled_at": "2026-06-06T00:02:35.745802",
+  "char_count": 1511
+}
+===CONTENT===
+Tin tức
+Y tế cộng đồng
+Bộ Y tế phát động tuần lễ “Dinh dưỡng và Phát triển” với chủ đề “Tăng cường tiếp cận đa dạng thực phẩm, giàu dinh dưỡng để bảo đảm an ninh lương thực, an ninh dinh dưỡng cho tất cả mọi người”
+Xem chi tiết
+Các biện pháp bảo vệ sức khỏe trước ảnh hưởng của ô nhiễm không khí
+Xem chi tiết
+Hướng dẫn sàng lọc và can thiệp giảm tác hại cho người có nguy cơ sức khỏe do uống rượu, bia tại cơ sở chăm sóc sức khỏe ban đầu và tại cộng đồng
+Hướng dẫn sàng lọc và can thiệp giảm tác hại cho người có nguy cơ sức khỏe do uống rượu, bia tại cơ sở chăm sóc sức khỏe ban đầu và tại cộng đồng
+Xem chi tiết
+Hội nghị triển khai các văn bản pháp luật, hướng dẫn luật phòng, chống tác hại của rượu, bia
+Hội nghị triển khai các văn bản pháp luật, hướng dẫn luật phòng, chống tác hại của rượu, bia
+Xem chi tiết
+KẾT QUẢ HỘI THẢO TỔNG KẾT DỰ ÁN CHĂM SÓC MẮT HỌC ĐƯỜNG GIAI ĐOẠN 2016 -2020
+KẾT QUẢ HỘI THẢO TỔNG KẾT DỰ ÁN CHĂM SÓC MẮT HỌC ĐƯỜNG GIAI ĐOẠN 2016 -2020
+Xem chi tiết
+Chỉ thị số 19/CT-BYT về việc tăng cường thực thi các quy định của Luật Phòng, chống tác hại của rượu bia trong ngành y tế
+Chỉ thị số 19/CT-BYT về việc tăng cường thực thi các quy định của Luật Phòng, chống tác hại của rượu bia trong ngành y tế.
+Xem chi tiết
+Tin nổi bật
+Tin chỉ đạo
+Tin địa phương
+Tin tức nổi bật
+Bộ Y tế công bố 26 quyết định bổ nhiệm, tiếp nhận, điều động lãnh đạo các đơn vị thuộc Bộ
+Tăng cường phòng, chống bệnh cúm, sởi và các bệnh lây truyền qua đường hô hấp
+Thông tin về đợt bùng phát dịch cúm mùa tại Nhật Bản

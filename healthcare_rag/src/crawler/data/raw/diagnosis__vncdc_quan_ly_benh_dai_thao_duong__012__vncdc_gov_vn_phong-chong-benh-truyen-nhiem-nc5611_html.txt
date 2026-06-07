@@ -1,0 +1,71 @@
+===METADATA===
+{
+  "source_name": "vncdc_quan_ly_benh_dai_thao_duong",
+  "document_title": "Quản lý bệnh đái tháo đường - VNCDC",
+  "url": "https://vncdc.gov.vn/phong-chong-benh-truyen-nhiem-nc5611.html",
+  "parent_url": "https://vncdc.gov.vn/quan-ly-benh-dai-thao-duong-nd14581.html",
+  "page_index": 12,
+  "category": "diagnosis",
+  "language": "vi",
+  "source_type": "government_health",
+  "source_priority": 2,
+  "verified_by_doctor": true,
+  "published_date": "",
+  "condition_tags": [
+    "type2_diabetes"
+  ],
+  "crawled_at": "2026-06-06T00:02:26.419622",
+  "char_count": 2042
+}
+===CONTENT===
+Tin tức
+Phòng chống bệnh truyền nhiễm
+Tăng cường phòng, chống bệnh cúm, sởi và các bệnh lây truyền qua đường hô hấp
+Xem chi tiết
+Thông tin về đợt bùng phát dịch cúm mùa tại Nhật Bản
+Xem chi tiết
+Tăng cường công tác kiểm dịch y tế biên giới
+Xem chi tiết
+Tổ chức Y tế Thế giới cập nhật thông tin về bệnh do vi rút gây viêm phổi trên người tại Trung Quốc
+Xem chi tiết
+Thông tin về các trường hợp mắc bệnh do vi rút gây viêm phổi trên người
+Xem chi tiết
+Hội nghị Tổng kết công tác Phòng, chống bệnh Truyền nhiễm năm 2024 và triển khai Kế hoạch năm 2025
+Xem chi tiết
+Tăng cường phòng, chống bệnh truyền nhiễm trong mùa đông xuân
+Xem chi tiết
+Thông tin về bệnh dại trên người
+Xem chi tiết
+Tình hình các trường hợp mắc bệnh chưa rõ nguyên nhân tại Cộng hòa Dân chủ Công-gô
+Xem chi tiết
+Bộ Y tế tổ chức Hội nghị trực tuyến về công tác phòng, chống dịch bệnh truyền nhiễm
+Xem chi tiết
+Thủ tướng Chính phủ gửi Công điện đề nghị các đơn vị tăng cường công tác phòng, chống bệnh sởi
+Xem chi tiết
+Thông tin về cúm mùa do chủng cúm A(H1N1)
+Xem chi tiết
+Tăng cường công tác phòng, chống liệt mềm cấp nghi bại liệt
+Xem chi tiết
+Tăng cường công tác phòng, chống bệnh sởi trên địa bàn tỉnh Hà Tĩnh
+Xem chi tiết
+Tăng cường kiểm dịch y tế, năng lực xác định với bệnh Mác-bớc
+Xem chi tiết
+Đề nghị chủ động phòng, chống cúm A(H5N1) lây từ động vật tại khu vực Đồng Nai, Long An
+Xem chi tiết
+Tăng cường công tác phòng, chống dại và hưởng ứng ngày Thế giới phòng, chống bệnh dại (28/9)
+Xem chi tiết
+Bộ Y tế đề nghị triển khai các biện pháp phòng, chống dịch bệnh và vệ sinh môi trường trong và sau mưa lũ và ngập lụt
+Xem chi tiết
+Bộ Y tế khuyến cáo các biện pháp bảo vệ sức khỏe trong và sau ngập lụt
+Xem chi tiết
+Tăng cường công tác phòng, chống bệnh sởi
+Xem chi tiết
+Trang đầu
+Trang cuối
+Tin nổi bật
+Tin chỉ đạo
+Tin địa phương
+Tin tức nổi bật
+Bộ Y tế công bố 26 quyết định bổ nhiệm, tiếp nhận, điều động lãnh đạo các đơn vị thuộc Bộ
+Tăng cường phòng, chống bệnh cúm, sởi và các bệnh lây truyền qua đường hô hấp
+Thông tin về đợt bùng phát dịch cúm mùa tại Nhật Bản
