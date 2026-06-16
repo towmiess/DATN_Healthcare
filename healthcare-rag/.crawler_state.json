@@ -1,0 +1,268 @@
+{
+  "7c63de3da955": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-testing/index.html",
+    "title": "Diabetes Testing - CDC",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-12T08:45:00.353293",
+    "file": "blood_glucose__cdc_gov__diabetes_diabetes-testing_indexhtml.pdf"
+  },
+  "9f5956829e08": {
+    "url": "https://www.hellobacsi.com/dai-thao-duong/song-chung-voi-benh/kiem-tra-duong-huyet/",
+    "title": "Kiểm Tra Đường Huyết - HelloBacsi",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-11T03:09:43.981909",
+    "file": "blood_glucose__hellobacsi_com__dai-thao-duong_song-chung-voi-benh_kiem-tra-duong-huyet.txt"
+  },
+  "b8823af458b0": {
+    "url": "https://www.cdc.gov/diabetes/signs-symptoms/index.html",
+    "title": "Diabetes Signs & Symptoms - CDC",
+    "category": "diagnosis",
+    "saved_at": "2026-06-12T08:45:25.002618",
+    "file": "diagnosis__cdc_gov__diabetes_signs-symptoms_indexhtml.pdf"
+  },
+  "e0f9c8b4c0bf": {
+    "url": "https://www.diabetes.org/diabetes/a1c",
+    "title": "A1C and Diagnosis - ADA",
+    "category": "diagnosis",
+    "saved_at": "2026-06-12T08:45:29.157452",
+    "file": "diagnosis__diabetes_org__diabetes_a1c.pdf"
+  },
+  "17dff9db5050": {
+    "url": "https://www.hellobacsi.com/dai-thao-duong/chan-doan-benh/chan-doan-tieu-duong-type-2/",
+    "title": "Chẩn Đoán Tiểu Đường Type 2 - HelloBacsi",
+    "category": "diagnosis",
+    "saved_at": "2026-06-12T08:45:48.364572",
+    "file": "diagnosis__hellobacsi_com__dai-thao-duong_chan-doan-benh_chan-doan-tieu-duong-type-2.txt"
+  },
+  "10acdc1a5302": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes",
+    "title": "What Is Diabetes - NIDDK",
+    "category": "diagnosis",
+    "saved_at": "2026-06-12T08:45:53.462267",
+    "file": "diagnosis__niddk_nih_gov__health-information_diabetes_overview_what-is-diabetes.pdf"
+  },
+  "295ff8d1a3f7": {
+    "url": "https://www.diabetes.org/healthy-living/recipes-nutrition/eating-well",
+    "title": "Eating Well with Diabetes - ADA",
+    "category": "diet",
+    "saved_at": "2026-06-12T08:45:57.683997",
+    "file": "diet__diabetes_org__healthy-living_recipes-nutrition_eating-well.pdf"
+  },
+  "b70b198faaf4": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/diet-eating-physical-activity",
+    "title": "Diabetes Diet and Eating - NIDDK",
+    "category": "diet",
+    "saved_at": "2026-06-12T08:46:02.216689",
+    "file": "diet__niddk_nih_gov__health-information_diabetes_overview_diet-eating-physical-ac.pdf"
+  },
+  "5926eb090f20": {
+    "url": "https://www.hellobacsi.com/dai-thao-duong/an-uong-dinh-duong/",
+    "title": "Ăn Uống Dinh Dưỡng Tiểu Đường - HelloBacsi",
+    "category": "diet",
+    "saved_at": "2026-06-12T08:46:07.756264",
+    "file": "diet__hellobacsi_com__dai-thao-duong_an-uong-dinh-duong.txt"
+  },
+  "0148c55f104d": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia",
+    "title": "Hypoglycemia - NIDDK",
+    "category": "emergency",
+    "saved_at": "2026-06-12T08:46:16.542579",
+    "file": "emergency__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_low.pdf"
+  },
+  "8eb6973eebca": {
+    "url": "https://www.hellobacsi.com/dai-thao-duong/bien-chung/ha-duong-huyet-nguy-hiem/",
+    "title": "Hạ Đường Huyết Nguy Hiểm - HelloBacsi",
+    "category": "emergency",
+    "saved_at": "2026-06-11T03:10:31.285780",
+    "file": "emergency__hellobacsi_com__dai-thao-duong_bien-chung_ha-duong-huyet-nguy-hiem.txt"
+  },
+  "cd1c0522681f": {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "title": "Diabetes Fact Sheet - WHO",
+    "category": "general",
+    "saved_at": "2026-06-12T08:46:41.571943",
+    "file": "general__who_int__news-room_fact-sheets_detail_diabetes.pdf"
+  },
+  "b5d19dec3afe": {
+    "url": "https://www.hellobacsi.com/dai-thao-duong/tong-quan/tieu-duong-la-gi/",
+    "title": "Tiểu Đường Là Gì - HelloBacsi",
+    "category": "general",
+    "saved_at": "2026-06-12T08:46:58.966600",
+    "file": "general__hellobacsi_com__dai-thao-duong_tong-quan_tieu-duong-la-gi.txt"
+  },
+  "eea5f5593b09": {
+    "url": "https://www.cdc.gov/diabetes/living-with/index.html",
+    "title": "Living with Diabetes - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-06-12T08:47:00.957236",
+    "file": "lifestyle__cdc_gov__diabetes_living-with_indexhtml.pdf"
+  },
+  "badfaae5eff0": {
+    "url": "https://www.diabetes.org/healthy-living/fitness",
+    "title": "Fitness for Diabetes - ADA",
+    "category": "lifestyle",
+    "saved_at": "2026-06-12T08:47:04.802084",
+    "file": "lifestyle__diabetes_org__healthy-living_fitness.pdf"
+  },
+  "ce8443685136": {
+    "url": "https://www.hellobacsi.com/dai-thao-duong/song-chung-voi-benh/",
+    "title": "Sống Chung Với Tiểu Đường - HelloBacsi",
+    "category": "lifestyle",
+    "saved_at": "2026-06-12T08:47:17.142520",
+    "file": "lifestyle__hellobacsi_com__dai-thao-duong_song-chung-voi-benh.txt"
+  },
+  "431ce9e961ad": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/insulin-medicines-treatments",
+    "title": "Diabetes Medicines - NIDDK",
+    "category": "medication",
+    "saved_at": "2026-06-12T08:47:24.179075",
+    "file": "medication__niddk_nih_gov__health-information_diabetes_overview_insulin-medicines-treat.pdf"
+  },
+  "06dc24c6e24d": {
+    "url": "https://www.diabetes.org/healthy-living/medication-treatments/oral-medication",
+    "title": "Oral Medications - ADA",
+    "category": "medication",
+    "saved_at": "2026-06-12T08:47:27.582710",
+    "file": "medication__diabetes_org__healthy-living_medication-treatments_oral-medication.pdf"
+  },
+  "2b2e978ff7d4": {
+    "url": "https://www.hellobacsi.com/thuoc/metformin/",
+    "title": "Thuốc Metformin - HelloBacsi",
+    "category": "medication",
+    "saved_at": "2026-06-12T08:47:30.739386",
+    "file": "medication__hellobacsi_com__thuoc_metformin.txt"
+  },
+  "6c13a0ec642e": {
+    "url": "https://www.heart.org/en/health-topics/diabetes/diabetes-complications-and-risks",
+    "title": "Diabetes and Heart Disease - AHA",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-06-12T08:47:35.491975",
+    "file": "complication_cardiovascular__heart_org__en_health-topics_diabetes_diabetes-complications-and-risks.pdf"
+  },
+  "9668c4aaa93c": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/heart-disease-stroke",
+    "title": "Heart Disease and Diabetes - NIDDK",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-06-12T08:47:42.967472",
+    "file": "complication_cardiovascular__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_hea.pdf"
+  },
+  "65a7f1b80686": {
+    "url": "https://www.hellobacsi.com/dai-thao-duong/bien-chung/bien-chung-tim-mach/",
+    "title": "Biến Chứng Tim Mạch - HelloBacsi",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-06-12T08:47:50.440992",
+    "file": "complication_cardiovascular__hellobacsi_com__dai-thao-duong_bien-chung_bien-chung-tim-mach.txt"
+  },
+  "a54815a44dda": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/diabetic-kidney-disease",
+    "title": "Diabetic Kidney Disease - NIDDK",
+    "category": "complication/nephropathy",
+    "saved_at": "2026-06-12T08:47:53.774888",
+    "file": "complication_nephropathy__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_dia.pdf"
+  },
+  "72fdb7b2326b": {
+    "url": "https://www.kidney.org/diabetes",
+    "title": "Diabetes and Kidney Disease - NKF",
+    "category": "complication/nephropathy",
+    "saved_at": "2026-06-12T08:47:56.392342",
+    "file": "complication_nephropathy__kidney_org__diabetes.pdf"
+  },
+  "8c4f0e83b994": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/nerve-damage-diabetic-neuropathies",
+    "title": "Diabetic Neuropathy - NIDDK",
+    "category": "complication/neuropathy",
+    "saved_at": "2026-06-12T08:48:02.476022",
+    "file": "complication_neuropathy__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_ner.pdf"
+  },
+  "6bbf662c7fbe": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/diabetic-eye-disease",
+    "title": "Diabetic Eye Disease - NIDDK",
+    "category": "complication/retinopathy",
+    "saved_at": "2026-06-12T08:48:11.560123",
+    "file": "complication_retinopathy__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_dia.pdf"
+  },
+  "a00b5a95625f": {
+    "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/diabetic-retinopathy",
+    "title": "Diabetic Retinopathy - NEI",
+    "category": "complication/retinopathy",
+    "saved_at": "2026-06-12T08:48:17.627594",
+    "file": "complication_retinopathy__nei_nih_gov__learn-about-eye-health_eye-conditions-and-diseases_diabetic-.pdf"
+  },
+  "d63733257c54": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/foot-problems",
+    "title": "Diabetic Foot Problems - NIDDK",
+    "category": "complication/foot_care",
+    "saved_at": "2026-06-12T08:48:31.683949",
+    "file": "complication_foot_care__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_foo.pdf"
+  },
+  "4bafe64f8f8c": {
+    "url": "https://www.diabetes.org/diabetes/complications/foot-complications",
+    "title": "Foot Complications - ADA",
+    "category": "complication/foot_care",
+    "saved_at": "2026-06-12T08:48:35.398028",
+    "file": "complication_foot_care__diabetes_org__diabetes_complications_foot-complications.pdf"
+  },
+  "0c5bb2e2157c": {
+    "url": "https://www.hellobacsi.com/dai-thao-duong/bien-chung/bien-chung-ban-chan/",
+    "title": "Biến Chứng Bàn Chân Tiểu Đường - HelloBacsi",
+    "category": "complication/foot_care",
+    "saved_at": "2026-06-12T08:48:47.455710",
+    "file": "complication_foot_care__hellobacsi_com__dai-thao-duong_bien-chung_bien-chung-ban-chan.txt"
+  },
+  "e872ab9493c8": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/gestational",
+    "title": "Gestational Diabetes - NIDDK",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-12T08:48:52.073759",
+    "file": "complication_pregnancy__niddk_nih_gov__health-information_diabetes_overview_what-is-diabetes_gestat.pdf"
+  },
+  "fde1106288fe": {
+    "url": "https://www.diabetes.org/diabetes/gestational-diabetes",
+    "title": "Gestational Diabetes - ADA",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-12T08:48:57.636460",
+    "file": "complication_pregnancy__diabetes_org__diabetes_gestational-diabetes.pdf"
+  },
+  "a63e7a7b8085": {
+    "url": "https://medlatec.vn/tin-tuc/tieu-duong-thai-ky-nen-an-gi-vao-bua-sang-bua-trua-va-toi-de-thai-ky-khoe-manh",
+    "title": "Tiểu Đường Thai Kỳ - Medlatec",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-11T11:30:37.792019",
+    "file": "complication_pregnancy__medlatec_vn__tin-tuc_tieu-duong-thai-ky-nen-an-gi-vao-bua-sang-bua-trua-v.pdf"
+  },
+  "b1ed965842c2": {
+    "url": "https://chanhtuoi.com/thuc-don-cho-ba-bau-bi-tieu-duong-thai-ky-p10391.html",
+    "title": "Thực Đơn Cho Bà Bầu Bị Tiểu Đường Thai Kỳ - Chanh Tuổi",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-11T11:30:40.305149",
+    "file": "complication_pregnancy__chanhtuoi_com__thuc-don-cho-ba-bau-bi-tieu-duong-thai-ky-p10391html.pdf"
+  },
+  "4a2d47c348a5": {
+    "url": "https://www.vinmec.com/vie/bai-viet/thuc-don-goi-y-cho-ba-bau-mac-tieu-duong-thai-ky-vi",
+    "title": "Thực Đơn Gợi Ý Cho Bà Bầu Mắc Tiểu Đường Thai Kỳ - Vinmec",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-11T11:30:42.129728",
+    "file": "complication_pregnancy__vinmec_com__vie_bai-viet_thuc-don-goi-y-cho-ba-bau-mac-tieu-duong-thai-k.pdf"
+  },
+  "8f20f6d5b945": {
+    "url": "https://nhathuoclongchau.com.vn/bai-viet/diem-danh-12-mon-an-vat-cho-ba-bau-tieu-duong-thai-ky-bo-duong-nhat.html",
+    "title": "12 Món Ăn Vặt Cho Bà Bầu Tiểu Đường Thai Kỳ - Long Châu",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-11T11:30:44.063585",
+    "file": "complication_pregnancy__nhathuoclongchau_com_vn__bai-viet_diem-danh-12-mon-an-vat-cho-ba-bau-tieu-duong-thai-.pdf"
+  },
+  "6079475508fd": {
+    "url": "https://www.mediplus.vn/san-khoa/tieu-duong-thai-ky-nen-an-gi.html",
+    "title": "Tiểu Đường Thai Kỳ Nên Ăn Gì - Mediplus",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-11T11:30:49.241621",
+    "file": "complication_pregnancy__mediplus_vn__san-khoa_tieu-duong-thai-ky-nen-an-gihtml.pdf"
+  },
+  "8bdcd6962634": {
+    "url": "https://www.avakids.com/me-va-be/goi-y-thuc-don-cho-ba-bau-bi-tieu-duong-thai-ky-1468580",
+    "title": "Gợi Ý Thực Đơn Cho Bà Bầu Bị Tiểu Đường Thai Kỳ - AvaKids",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-11T11:30:51.532318",
+    "file": "complication_pregnancy__avakids_com__me-va-be_goi-y-thuc-don-cho-ba-bau-bi-tieu-duong-thai-ky-146.pdf"
+  }
+}
