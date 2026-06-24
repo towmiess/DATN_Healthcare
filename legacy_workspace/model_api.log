@@ -1,0 +1,25 @@
+INFO:     127.0.0.1:57307 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57814 - "POST /ocr/google-vision HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57917 - "OPTIONS /ocr/google-vision HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57917 - "POST /ocr/google-vision HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57927 - "POST /ocr/google-vision HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:58291 - "OPTIONS /ocr/google-vision HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58291 - "POST /ocr/google-vision HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:58968 - "OPTIONS /ocr/google-vision HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58968 - "POST /ocr/google-vision HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:59094 - "OPTIONS /ocr/google-vision HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59094 - "POST /ocr/google-vision HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:59133 - "POST /ocr/google-vision HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:59137 - "POST /ocr/google-vision HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:59434 - "OPTIONS /ocr/google-vision HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59434 - "POST /ocr/google-vision HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:59460 - "POST /ocr/google-vision HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:59463 - "OPTIONS /predict/all HTTP/1.1" 200 OK
+2026-06-23 21:52:31,456 - diabetes-app-logger - main - INFO - Make diabetes prediction...
+2026-06-23 21:52:32,041 - diabetes-app-logger - main - INFO - Make cardio prediction...
+2026-06-23 21:52:32,255 - diabetes-app-logger - main - INFO - Make stroke prediction...
+INFO:     127.0.0.1:59463 - "POST /predict/all HTTP/1.1" 200 OK
+2026-06-23 22:02:27,259 - diabetes-app-logger - main - INFO - Make diabetes prediction...
+2026-06-23 22:02:27,300 - diabetes-app-logger - main - INFO - Make cardio prediction...
+2026-06-23 22:02:27,605 - diabetes-app-logger - main - INFO - Make stroke prediction...
+INFO:     127.0.0.1:59732 - "POST /predict/all HTTP/1.1" 200 OK

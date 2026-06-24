@@ -1,0 +1,202 @@
+@use "../../pages/auth/Login/Login.scss";
+
+.dashboard-page {
+  height: auto;
+  min-height: 100vh;
+  grid-template-rows: auto 1fr;
+  overflow: auto;
+  background:
+    radial-gradient(circle at top left, rgba(34, 197, 94, 0.18), transparent 32%),
+    radial-gradient(circle at top right, rgba(59, 130, 246, 0.16), transparent 28%),
+    linear-gradient(180deg, #f7fbff 0%, #eef6ff 100%);
+}
+
+.dashboard-nav__content {
+  gap: 18px;
+}
+
+.dashboard-nav__brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.dashboard-nav__links {
+  flex: 1;
+  justify-content: center;
+}
+
+.dashboard-nav__button {
+  border: none;
+  background: transparent;
+  padding: 0;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.dashboard-nav__button:hover,
+.dashboard-nav__button:focus-visible {
+  color: #0f172a;
+  transform: translateY(-1px);
+  outline: none;
+}
+
+.dashboard-nav__item--active {
+  color: #0f172a;
+}
+
+.dashboard-profile {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.dashboard-profile__trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 14px;
+  border-radius: 999px;
+  border: 1px solid rgba(148, 163, 184, 0.22);
+  background: rgba(255, 255, 255, 0.92);
+  color: #0f172a;
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
+  font-size: 0.92rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.dashboard-profile__trigger:hover,
+.dashboard-profile__trigger:focus-visible {
+  transform: translateY(-1px);
+  border-color: rgba(59, 130, 246, 0.28);
+  box-shadow: 0 14px 28px rgba(59, 130, 246, 0.14);
+  outline: none;
+}
+
+.dashboard-profile__menu {
+  position: absolute;
+  top: calc(100% + 12px);
+  right: 0;
+  width: 100%;
+  min-width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.98);
+  border: 1px solid rgba(226, 232, 240, 0.9);
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.16);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-8px);
+  transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s ease;
+  z-index: 5;
+}
+
+.dashboard-profile__menu::before {
+  content: "";
+  position: absolute;
+  top: -7px;
+  right: 24px;
+  width: 14px;
+  height: 14px;
+  background: #fff;
+  border-left: 1px solid rgba(226, 232, 240, 0.9);
+  border-top: 1px solid rgba(226, 232, 240, 0.9);
+  transform: rotate(45deg);
+}
+
+.dashboard-profile:hover .dashboard-profile__menu,
+.dashboard-profile:focus-within .dashboard-profile__menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.dashboard-profile__item {
+  display: block;
+  width: 100%;
+  border: none;
+  background: transparent;
+  padding: 12px 14px;
+  border-radius: 12px;
+  text-align: left;
+  text-decoration: none;
+  font-family: inherit;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: #1e293b;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+
+.dashboard-profile__item:hover,
+.dashboard-profile__item:focus-visible {
+  background: #f8fafc;
+  color: #0f172a;
+  transform: translateX(2px);
+  outline: none;
+}
+
+.dashboard-profile__item--danger {
+  color: #dc2626;
+}
+
+.dashboard-profile__item--danger:hover,
+.dashboard-profile__item--danger:focus-visible {
+  background: #fef2f2;
+  color: #b91c1c;
+}
+
+.dashboard-main {
+  position: relative;
+  z-index: 1;
+  padding: 28px 26px 32px;
+}
+
+.dashboard-main__content {
+  min-height: calc(100vh - 126px);
+  border-radius: 30px;
+  padding: 28px;
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.96), rgba(248, 250, 252, 0.94));
+  border: 1px solid rgba(226, 232, 240, 0.92);
+  box-shadow: 0 24px 60px rgba(15, 23, 42, 0.1);
+}
+
+@media (max-width: 960px) {
+  .dashboard-nav__content {
+    flex-wrap: wrap;
+  }
+
+  .dashboard-nav__links {
+    order: 3;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .dashboard-profile {
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 640px) {
+  .dashboard-main {
+    padding: 18px 14px 20px;
+  }
+
+  .dashboard-main__content {
+    min-height: calc(100vh - 160px);
+    padding: 18px;
+    border-radius: 22px;
+  }
+
+  .dashboard-profile__trigger {
+    padding: 8px 12px;
+  }
+
+  .dashboard-profile__trigger span {
+    display: none;
+  }
+}

@@ -1,0 +1,605 @@
+// DBML for Diabetes Monitoring & Prevention Healthcare System
+// Sources: RawDB/db.sql, docs/*.mmd, and sheet "Final" in F:\Final _Function_ list_ DATN.xlsx
+
+Project healthcare_diabetes_system {
+  database_type: "PostgreSQL"
+  Note: '''
+  Hệ thống giám sát và phòng ngừa tiểu đường: xác thực, hồ sơ sức khỏe,
+  đường huyết, AI dự đoán, nhắc nhở, thông báo, báo cáo, nhật ký bữa ăn,
+  chatbot RAG, phân cụm cộng đồng và nhật ký người dùng.
+  '''
+}
+
+Enum meal_type {
+  BREAKFAST
+  LUNCH
+  DINNER
+  SNACK
+  OTHER
+}
+
+Enum measurement_context {
+  FASTING
+  BEFORE_MEAL
+  AFTER_MEAL
+  BEDTIME
+  RANDOM
+}
+
+Enum source_type {
+  MANUAL
+  SCAN
+  DEVICE_SYNC
+}
+
+Enum risk_band {
+  SAFE
+  WARNING
+  DANGEROUS
+}
+
+Enum recommendation_type {
+  DIET
+  EXERCISE
+  LIFESTYLE
+  GLUCOSE
+  GENERAL
+}
+
+Enum reminder_type {
+  GLUCOSE_CHECK
+  MEDICATION
+  MEAL
+  EXERCISE
+  WATER
+  SLEEP
+  CUSTOM
+}
+
+Enum notification_type {
+  REMINDER
+  TREND_ALERT
+  EMERGENCY_ALERT
+  AI_INSIGHT
+  WEEKLY_REPORT
+  MONTHLY_REPORT
+  SYSTEM
+}
+
+Enum report_period_type {
+  WEEKLY
+  MONTHLY
+}
+
+Enum sender_type {
+  USER
+  ASSISTANT
+  SYSTEM
+}
+
+Enum alert_rule_type {
+  GLUCOSE_THRESHOLD
+  GLUCOSE_TREND
+  GI_THRESHOLD
+  EMERGENCY_SYMPTOM
+  ADHERENCE
+}
+
+Enum threshold_operator {
+  GT
+  GTE
+  LT
+  LTE
+  EQ
+  BETWEEN
+}
+
+Enum export_format {
+  PDF
+  CSV
+  XLSX
+}
+
+Table users {
+  id bigint [pk, increment, note: "Khóa chính người dùng."]
+  full_name varchar(255) [not null, note: "Họ tên hiển thị của người dùng."]
+  email varchar(255) [not null, unique, note: "Email đăng nhập, nhận OTP và thông báo."]
+  phone_number varchar(30) [note: "Số điện thoại liên hệ hoặc xác thực bổ sung."]
+  password varchar(255) [not null, note: "Mật khẩu đã băm theo form hiện tại của bảng users."]
+  avatar varchar(500) [note: "URL ảnh đại diện."]
+  status boolean [not null, default: false, note: "Trạng thái kích hoạt tài khoản: false/0 là chưa kích hoạt hoặc không hoạt động, true/1 là hoạt động."]
+  created_at timestamp [not null, note: "Thời điểm tạo tài khoản."]
+  updated_at timestamp [not null, note: "Thời điểm cập nhật tài khoản gần nhất."]
+
+  Note: "Bảng trung tâm lưu tài khoản người dùng, admin và các vai trò mở rộng."
+}
+
+Table roles {
+  id bigint [pk, increment, note: "Khóa chính vai trò."]
+  name varchar(100) [not null, unique, note: "Tên vai trò như USER, ADMIN, DOCTOR."]
+
+  Note: "Danh mục vai trò trong hệ thống."
+}
+
+Table user_roles {
+  user_id bigint [pk, not null, note: "Người dùng được gán vai trò."]
+  role_id bigint [pk, not null, note: "Vai trò được gán cho người dùng."]
+
+  Note: "Bảng trung gian nhiều-nhiều giữa users và roles."
+}
+
+Table activity_factors {
+  id bigint [pk, increment, note: "Khóa chính hệ số hoạt động."]
+  code varchar(50) [not null, unique, note: "Mã mức vận động: SEDENTARY, LIGHT, MODERATE, ACTIVE, VERY_ACTIVE."]
+  name varchar(100) [not null, note: "Tên ngắn của mức vận động."]
+  description text [not null, note: "Mô tả mức độ vận động dùng để người dùng chọn đúng."]
+  factor_value decimal(4,3) [not null, note: "Giá trị AF dùng trong công thức TDEE = BMR x AF."]
+  display_order int [not null, default: 0, note: "Thứ tự hiển thị trên UI."]
+  is_active boolean [not null, default: true, note: "Mức AF còn được sử dụng hay không."]
+  created_at timestamp [not null, note: "Thời điểm tạo hệ số."]
+  updated_at timestamp [not null, note: "Thời điểm cập nhật hệ số."]
+
+  Note: "Danh mục hệ số hoạt động AF để tính TDEE chính xác theo mức vận động."
+}
+
+Table health_profiles {
+  id bigint [pk, increment, note: "Khóa chính hồ sơ sức khỏe."]
+  user_id bigint [not null, unique, note: "Người dùng sở hữu hồ sơ; quan hệ 1-1."]
+  date_of_birth date [note: "Ngày sinh để tính tuổi."]
+  gender varchar(20) [note: "Giới tính phục vụ tính toán sức khỏe."]
+  height_cm decimal(6,2) [note: "Chiều cao theo cm."]
+  weight_kg decimal(6,2) [note: "Cân nặng theo kg."]
+  waist_cm decimal(6,2) [note: "Vòng eo theo cm để đánh giá nguy cơ chuyển hóa."]
+  bmi decimal(6,2) [note: "Chỉ số BMI tính từ chiều cao và cân nặng."]
+  bmr decimal(8,2) [note: "Năng lượng chuyển hóa cơ bản."]
+  tdee decimal(8,2) [note: "Tổng năng lượng tiêu hao mỗi ngày, tính bằng BMR x AF."]
+  activity_factor_id bigint [note: "Mức hệ số hoạt động AF được chọn từ activity_factors."]
+  activity_level varchar(50) [note: "Nhãn mức vận động giữ lại để hiển thị hoặc tương thích dữ liệu cũ."]
+  smoking_status varchar(50) [note: "Tình trạng hút thuốc."]
+  alcohol_status varchar(50) [note: "Tình trạng sử dụng rượu bia."]
+  sleep_pattern varchar(100) [note: "Thói quen hoặc chất lượng giấc ngủ."]
+  medical_notes text [note: "Ghi chú y tế bổ sung."]
+  created_at timestamp [not null, note: "Thời điểm tạo hồ sơ."]
+  updated_at timestamp [not null, note: "Thời điểm cập nhật hồ sơ."]
+
+  Note: "Hồ sơ sức khỏe cá nhân, nền tảng cho BMI, BMR, TDEE, dashboard và AI feature engineering."
+}
+
+Table medical_histories {
+  id bigint [pk, increment, note: "Khóa chính tiền sử bệnh."]
+  user_id bigint [not null, note: "Người dùng sở hữu tiền sử bệnh."]
+  diabetes_type varchar(50) [note: "Loại tiểu đường nếu đã xác định."]
+  family_history_diabetes boolean [default: false, note: "Gia đình có tiền sử tiểu đường hay không."]
+  hypertension boolean [default: false, note: "Có tăng huyết áp hay không."]
+  cardiovascular_disease boolean [default: false, note: "Có bệnh tim mạch hay không."]
+  kidney_disease boolean [default: false, note: "Có bệnh thận hay không."]
+  pregnancy_history boolean [default: false, note: "Tiền sử thai kỳ liên quan đánh giá nguy cơ."]
+  allergies text [note: "Thông tin dị ứng."]
+  current_medications text [note: "Thuốc đang sử dụng."]
+  past_conditions text [note: "Bệnh sử hoặc tình trạng trong quá khứ."]
+  created_at timestamp [not null, note: "Thời điểm tạo bản ghi."]
+  updated_at timestamp [not null, note: "Thời điểm cập nhật bản ghi."]
+
+  Note: "Tiền sử bệnh và yếu tố nguy cơ phục vụ đánh giá, dự đoán và cá nhân hóa khuyến nghị."
+}
+
+Table "health_goals (OPTIONAL)" {
+  id bigint [pk, increment, note: "Khóa chính mục tiêu."]
+  user_id bigint [not null, note: "Người dùng đặt mục tiêu."]
+  goal_type varchar(100) [not null, note: "Loại mục tiêu: cân nặng, glucose, vận động, ăn uống."]
+  level varchar(50) [note: "Mức độ ưu tiên hoặc cấp độ mục tiêu."]
+  target_value decimal(10,2) [note: "Giá trị mục tiêu cần đạt."]
+  start_date date [note: "Ngày bắt đầu theo dõi mục tiêu."]
+  target_date date [note: "Hạn dự kiến hoàn thành."]
+  status varchar(50) [note: "Trạng thái mục tiêu."]
+  note text [note: "Ghi chú thêm cho mục tiêu."]
+  created_at timestamp [not null, note: "Thời điểm tạo mục tiêu."]
+  updated_at timestamp [not null, note: "Thời điểm cập nhật mục tiêu."]
+
+  Note: "Mục tiêu sức khỏe cá nhân để hệ thống theo dõi và đề xuất kế hoạch. (option)"
+}
+
+Table glucose_measurements {
+  id bigint [pk, increment, note: "Khóa chính lần đo đường huyết."]
+  user_id bigint [not null, note: "Người dùng sở hữu chỉ số."]
+  meal_log_id bigint [note: "Bữa ăn liên quan nếu đo trước/sau ăn."]
+  glucose_value decimal(8,2) [not null, note: "Giá trị đường huyết đo được."]
+  unit varchar(20) [not null, default: 'mg/dL', note: "Đơn vị đo đường huyết."]
+  measurement_context measurement_context [not null, note: "Bối cảnh đo: lúc đói, trước ăn, sau ăn, ngẫu nhiên."]
+  measured_at timestamp [not null, note: "Thời điểm thực tế đo."]
+  source_type source_type [not null, default: 'MANUAL', note: "Nguồn dữ liệu: nhập tay, OCR, đồng bộ thiết bị."]
+  note text [note: "Ghi chú tình huống đo."]
+  created_at timestamp [not null, note: "Thời điểm lưu vào hệ thống."]
+
+  indexes {
+    (user_id, measured_at)
+    (meal_log_id)
+  }
+
+  Note: "Bảng core time-series cho dashboard đường huyết, cảnh báo xu hướng và AI dự đoán."
+}
+
+Table "glucose_scan_uploads (OPTIONAL)" {
+  id bigint [pk, increment, note: "Khóa chính lần upload ảnh quét."]
+  user_id bigint [not null, note: "Người dùng upload ảnh."]
+  glucose_measurement_id bigint [note: "Bản ghi đường huyết được tạo sau OCR; có thể null."]
+  file_url varchar(500) [not null, note: "URL ảnh báo cáo hoặc ảnh thiết bị đo."]
+  ocr_engine varchar(100) [note: "Công cụ OCR được sử dụng."]
+  raw_ocr_text text [note: "Văn bản thô trích xuất từ ảnh."]
+  confidence_score decimal(5,2) [note: "Độ tin cậy OCR."]
+  scan_status varchar(50) [note: "Trạng thái xử lý ảnh."]
+  created_at timestamp [not null, note: "Thời điểm upload ảnh."]
+
+  Note: "OPTIONAL MODULE: bảng phụ cho OCR ảnh đường huyết, hệ thống vẫn hoạt động nếu không dùng chức năng quét ảnh."
+}
+
+Table "health_assessments (DASHBOARD)" {
+  id bigint [pk, increment, note: "Khóa chính đánh giá sức khỏe."]
+  user_id bigint [not null, note: "Người dùng được đánh giá."]
+  health_profile_id bigint [note: "Hồ sơ sức khỏe làm đầu vào."]
+  assessment_type varchar(100) [not null, note: "Loại đánh giá."]
+  risk_level varchar(50) [note: "Mức nguy cơ tổng hợp."]
+  health_score decimal(6,2) [note: "Điểm sức khỏe tổng quan."]
+  summary text [note: "Tóm tắt kết quả đánh giá."]
+  findings_json jsonb [note: "Chi tiết phát hiện dạng JSON."]
+  created_at timestamp [not null, note: "Thời điểm tạo đánh giá."]
+
+  Note: "Kết quả phân tích sức khỏe dùng cho dashboard, dự đoán nguy cơ và khuyến nghị."
+}
+
+Table risk_predictions {
+  id bigint [pk, increment, note: "Khóa chính dự đoán nguy cơ."]
+  user_id bigint [not null, note: "Người dùng được dự đoán."]
+  assessment_id bigint [not null, note: "Đánh giá sức khỏe làm cơ sở dự đoán."]
+  model_name varchar(100) [not null, note: "Tên model ML/AI."]
+  prediction_type varchar(100) [not null, note: "Loại dự đoán: tiểu đường, biến chứng, tái phát."]
+  risk_percent decimal(5,2) [not null, note: "Phần trăm nguy cơ."]
+  risk_band risk_band [not null, note: "Nhóm nguy cơ: SAFE, WARNING, DANGEROUS."]
+  high_risk_flag boolean [not null, default: false, note: "Cờ nguy cơ cao để kích hoạt cảnh báo."]
+  feature_snapshot jsonb [note: "Snapshot feature đầu vào tại thời điểm dự đoán."]
+  created_at timestamp [not null, note: "Thời điểm tạo dự đoán."]
+
+  Note: "Kết quả dự đoán nguy cơ trong 6-12 tháng hoặc theo kỳ cấu hình."
+}
+
+Table ai_insights {
+  id bigint [pk, increment, note: "Khóa chính insight AI."]
+  user_id bigint [not null, note: "Người nhận insight."]
+  risk_prediction_id bigint [note: "Dự đoán nguy cơ được giải thích."]
+  assessment_id bigint [note: "Đánh giá sức khỏe liên quan."]
+  insight_type varchar(100) [not null, note: "Loại insight hoặc lời khuyên."]
+  explanation text [note: "Giải thích nguyên nhân hoặc xu hướng."]
+  recommendation text [note: "Khuyến nghị hành động."]
+  llm_model varchar(100) [note: "Model LLM sinh nội dung."]
+  created_at timestamp [not null, note: "Thời điểm tạo insight."]
+
+  Note: "Giải thích và lời khuyên do AI sinh từ đánh giá hoặc dự đoán."
+}
+
+Table meal_logs {
+  id bigint [pk, increment, note: "Khóa chính nhật ký bữa ăn."]
+  user_id bigint [not null, note: "Người dùng ghi nhận bữa ăn."]
+  meal_type meal_type [not null, note: "Loại bữa ăn."]
+  eaten_at timestamp [not null, note: "Thời điểm ăn."]
+  total_calories decimal(10,2) [note: "Tổng năng lượng của bữa ăn."]
+  total_carbs decimal(10,2) [note: "Tổng carbohydrate của bữa ăn."]
+  total_sugar decimal(10,2) [note: "Tổng đường của bữa ăn."]
+  avg_gi decimal(6,2) [note: "GI trung bình của bữa ăn."]
+  gi_alert boolean [not null, default: false, note: "Cờ cảnh báo GI cao."]
+  note text [note: "Ghi chú bữa ăn."]
+  created_at timestamp [not null, note: "Thời điểm tạo nhật ký."]
+  updated_at timestamp [not null, note: "Thời điểm cập nhật nhật ký."]
+
+  indexes {
+    (user_id, eaten_at)
+  }
+
+  Note: "Nhật ký bữa ăn tổng quan; món ăn được lấy từ Food API và lưu snapshot ở meal_log_items."
+}
+
+Table meal_log_items {
+  id bigint [pk, increment, note: "Khóa chính dòng món ăn trong bữa."]
+  meal_log_id bigint [not null, note: "Bữa ăn cha."]
+  food_external_id varchar(120) [note: "ID món ăn từ Food API bên ngoài; không phải FK nội bộ."]
+  food_name varchar(255) [not null, note: "Tên món ăn lấy từ Food API hoặc người dùng nhập."]
+  food_source varchar(100) [note: "Nguồn dữ liệu món ăn, ví dụ USDA, Nutritionix, InternalManual."]
+  serving_unit varchar(50) [note: "Đơn vị khẩu phần."]
+  quantity decimal(10,2) [not null, note: "Số lượng khẩu phần thực tế."]
+  calories decimal(10,2) [note: "Calories snapshot theo số lượng."]
+  carbs decimal(10,2) [note: "Carb snapshot theo số lượng."]
+  sugar decimal(10,2) [note: "Đường snapshot theo số lượng."]
+  protein decimal(10,2) [note: "Protein snapshot theo số lượng."]
+  fat decimal(10,2) [note: "Chất béo snapshot theo số lượng."]
+  gi_index decimal(6,2) [note: "GI snapshot tại thời điểm ghi nhận."]
+  nutrition_snapshot jsonb [note: "Payload dinh dưỡng gốc từ Food API để audit/tính lại."]
+  created_at timestamp [not null, note: "Thời điểm thêm món vào bữa."]
+
+  Note: "Chi tiết món ăn trong bữa; không FK tới bảng foods vì food được gọi trực tiếp qua API."
+}
+
+Table "food_image_analyses (BACKUP)" {
+  id bigint [pk, increment, note: "Khóa chính phân tích ảnh món ăn."]
+  user_id bigint [not null, note: "Người upload ảnh."]
+  meal_log_id bigint [note: "Bữa ăn được gắn kết quả nhận diện."]
+  image_url varchar(500) [not null, note: "URL ảnh món ăn."]
+  ai_provider varchar(100) [note: "Nhà cung cấp AI nhận diện ảnh."]
+  detected_foods jsonb [note: "Danh sách món AI nhận diện được."]
+  confidence_score decimal(5,2) [note: "Độ tin cậy nhận diện."]
+  status varchar(50) [note: "Trạng thái xử lý ảnh."]
+  created_at timestamp [not null, note: "Thời điểm tạo phân tích."]
+
+  Note: "Kết quả AI nhận diện món ăn từ ảnh, có thể dùng để gọi Food API lấy dinh dưỡng."
+}
+
+Table meal_glucose_analyses {
+  id bigint [pk, increment, note: "Khóa chính phân tích tương quan."]
+  user_id bigint [not null, note: "Người dùng được phân tích."]
+  meal_log_id bigint [not null, note: "Bữa ăn được phân tích."]
+  pre_meal_glucose_id bigint [note: "Chỉ số trước ăn."]
+  post_meal_glucose_id bigint [note: "Chỉ số sau ăn."]
+  glucose_delta decimal(8,2) [note: "Chênh lệch đường huyết sau ăn so với trước ăn."]
+  abnormal_spike boolean [not null, default: false, note: "Cờ tăng đường huyết bất thường."]
+  conclusion text [note: "Kết luận phân tích."]
+  created_at timestamp [not null, note: "Thời điểm tạo phân tích."]
+
+  Note: "Phân tích mối liên hệ giữa bữa ăn và biến động đường huyết."
+}
+
+Table "exercises (OPTION)" {
+  id bigint [pk, increment, note: "Khóa chính bài tập."]
+  name varchar(255) [not null, note: "Tên bài tập."]
+  intensity_level varchar(50) [note: "Cường độ bài tập."]
+  duration_minutes int [note: "Thời lượng gợi ý."]
+  calories_burn_est decimal(8,2) [note: "Calories tiêu hao ước tính."]
+  description text [note: "Mô tả hoặc hướng dẫn tập."]
+
+  Note: "Danh mục bài tập dùng cho khuyến nghị vận động."
+}
+
+Table user_recommendations {
+  id bigint [pk, increment, note: "Khóa chính khuyến nghị."]
+  user_id bigint [not null, note: "Người nhận khuyến nghị."]
+  assessment_id bigint [note: "Đánh giá sức khỏe tạo khuyến nghị."]
+  risk_prediction_id bigint [note: "Dự đoán nguy cơ liên quan."]
+  recommendation_type recommendation_type [not null, note: "Loại khuyến nghị."]
+  food_external_id varchar(120) [note: "ID món ăn từ Food API nếu khuyến nghị món cụ thể."]
+  food_name varchar(255) [note: "Tên món ăn khuyến nghị, không FK nội bộ."]
+  exercise_id bigint [note: "Bài tập được khuyến nghị nếu có."]
+  priority varchar(30) [note: "Mức ưu tiên.(cần check lại)"]
+  content text [not null, note: "Nội dung khuyến nghị hiển thị cho người dùng."]
+  valid_from date [note: "Ngày bắt đầu hiệu lực."]
+  valid_to date [note: "Ngày hết hiệu lực."]
+  created_at timestamp [not null, note: "Thời điểm tạo khuyến nghị."]
+
+  Note: "Khuyến nghị cá nhân hóa; món ăn tham chiếu Food API thay vì bảng foods."
+}
+
+Table "reminders (OPTION)" {
+  id bigint [pk, increment, note: "Khóa chính lịch nhắc."]
+  user_id bigint [not null, note: "Người dùng sở hữu lịch nhắc."]
+  reminder_type reminder_type [not null, note: "Loại nhắc nhở."]
+  title varchar(255) [not null, note: "Tiêu đề nhắc nhở."]
+  reminder_time time [not null, note: "Giờ nhắc trong ngày."]
+  recurrence_rule varchar(120) [note: "Quy tắc lặp lại."]
+  is_active boolean [not null, default: true, note: "Lịch nhắc còn hoạt động hay không."]
+  snooze_minutes int [default: 15, note: "Số phút nhắc lại sau khi hoãn."]
+  payload jsonb [note: "Cấu hình mở rộng của lịch nhắc."]
+  created_at timestamp [not null, note: "Thời điểm tạo lịch nhắc."]
+  updated_at timestamp [not null, note: "Thời điểm cập nhật lịch nhắc."]
+
+  Note: "Lịch nhắc cá nhân cho đo đường huyết, uống thuốc, bữa ăn, vận động, nước, ngủ."
+}
+
+
+Table notifications {
+  id bigint [pk, increment, note: "Khóa chính thông báo."]
+  user_id bigint [not null, note: "Người nhận thông báo."]
+  reminder_id bigint [note: "Lịch nhắc sinh ra thông báo nếu có."]
+  alert_rule_id bigint [note: "Luật cảnh báo sinh ra thông báo nếu có."]
+  ai_insight_id bigint [note: "Insight AI liên quan nếu có."]
+  type notification_type [not null, note: "Loại thông báo."]
+  title varchar(255) [not null, note: "Tiêu đề thông báo."]
+  content text [not null, note: "Nội dung thông báo."]
+  is_read boolean [not null, default: false, note: "Người dùng đã đọc hay chưa."]
+  delivery_channel varchar(50) [note: "Kênh gửi: in-app, email, push."]
+  related_entity_type varchar(100) [note: "Loại đối tượng liên quan."]
+  related_entity_id bigint [note: "ID đối tượng liên quan."]
+  created_at timestamp [not null, note: "Thời điểm tạo thông báo."]
+  read_at timestamp [note: "Thời điểm đọc thông báo."]
+
+  indexes {
+    (user_id, is_read)
+    (user_id, created_at)
+  }
+
+  Note: "Trung tâm thông báo lưu nhắc nhở, cảnh báo, insight, báo cáo và thông báo hệ thống."
+}
+
+Table periodic_reports {
+  id bigint [pk, increment, note: "Khóa chính báo cáo."]
+  user_id bigint [not null, note: "Người dùng sở hữu báo cáo."]
+  period_type report_period_type [not null, note: "Loại kỳ báo cáo: tuần hoặc tháng."]
+  period_start date [not null, note: "Ngày bắt đầu kỳ báo cáo."]
+  period_end date [not null, note: "Ngày kết thúc kỳ báo cáo."]
+  avg_glucose decimal(8,2) [note: "Đường huyết trung bình trong kỳ."]
+  health_score decimal(6,2) [note: "Điểm sức khỏe trong kỳ."]
+  bmi decimal(6,2) [note: "BMI tại kỳ báo cáo."]
+  weight_change decimal(8,2) [note: "Thay đổi cân nặng so với kỳ trước."]
+  achievement_summary text [note: "Tóm tắt thành tựu."]
+  issue_summary text [note: "Tóm tắt vấn đề cần cải thiện."]
+  achievements_json jsonb [note: "Chi tiết thành tựu dạng JSON."]
+  issues_json jsonb [note: "Chi tiết vấn đề dạng JSON."]
+  file_url varchar(500) [note: "File báo cáo mặc định nếu có."]
+  generated_by varchar(100) [note: "Nguồn sinh báo cáo: system/job/admin."]
+  generated_at timestamp [not null, note: "Thời điểm sinh báo cáo."]
+
+  indexes {
+    (user_id, period_type, period_start, period_end)
+  }
+
+  Note: "Báo cáo tuần/tháng gồm tổng quan sức khỏe, xu hướng glucose, so sánh kỳ trước và vấn đề."
+}
+
+Table report_exports {
+  id bigint [pk, increment, note: "Khóa chính file export."]
+  report_id bigint [not null, note: "Báo cáo được export."]
+  user_id bigint [not null, note: "Người yêu cầu hoặc sở hữu file export."]
+  export_format export_format [not null, note: "Định dạng export: PDF, CSV, XLSX."]
+  file_url varchar(500) [not null, note: "URL file đã export."]
+  exported_at timestamp [not null, note: "Thời điểm export."]
+
+  Note: "Lưu lịch sử xuất báo cáo để chia sẻ với bác sĩ."
+}
+
+Table community_clusters {
+  id bigint [pk, increment, note: "Khóa chính cụm cộng đồng."]
+  cluster_name varchar(150) [not null, note: "Tên cụm."]
+  age_group varchar(50) [note: "Nhóm tuổi đại diện."]
+  risk_group varchar(50) [note: "Nhóm nguy cơ đại diện."]
+  description text [note: "Mô tả đặc điểm cụm."]
+  snapshot_date date [not null, note: "Ngày chụp dữ liệu phân cụm."]
+
+  Note: "Cụm cộng đồng dùng để so sánh người dùng với nhóm tương đồng."
+}
+
+Table user_cluster_snapshots {
+  id bigint [pk, increment, note: "Khóa chính snapshot cụm của user."]
+  user_id bigint [not null, note: "Người dùng được xếp cụm."]
+  cluster_id bigint [not null, note: "Cụm cộng đồng tương ứng."]
+  percentile_rank int [note: "Thứ hạng phân vị của người dùng trong cụm."]
+  community_score decimal(8,2) [note: "Điểm so sánh cộng đồng."]
+  snapshot_date date [not null, note: "Ngày ghi nhận snapshot."]
+
+  indexes {
+    (user_id, snapshot_date)
+    (cluster_id, snapshot_date)
+  }
+
+  Note: "Kết quả xếp cụm theo từng thời điểm cho mỗi người dùng."
+}
+
+Table chat_sessions {
+  id bigint [pk, increment, note: "Khóa chính phiên chat."]
+  user_id bigint [not null, note: "Người mở phiên chat."]
+  session_title varchar(255) [note: "Tiêu đề gợi nhớ cuộc hội thoại."]
+  status varchar(50) [note: "Trạng thái phiên chat."]
+  started_at timestamp [not null, note: "Thời điểm bắt đầu phiên."]
+  ended_at timestamp [note: "Thời điểm kết thúc phiên."]
+
+  Note: "Phiên hội thoại chatbot về tiểu đường, dinh dưỡng, biến chứng và FAQ."
+}
+
+Table chat_messages {
+  id bigint [pk, increment, note: "Khóa chính tin nhắn."]
+  session_id bigint [not null, note: "Phiên chat chứa tin nhắn."]
+  user_id bigint [note: "Người dùng liên quan; có thể null với assistant/system."]
+  sender_type sender_type [not null, note: "Loại người gửi."]
+  content text [not null, note: "Nội dung tin nhắn."]
+  llm_model varchar(100) [note: "Model AI tạo phản hồi nếu là assistant."]
+  flagged_emergency boolean [not null, default: false, note: "Cờ phát hiện nội dung khẩn cấp."]
+  created_at timestamp [not null, note: "Thời điểm tạo tin nhắn."]
+
+  indexes {
+    (session_id, created_at)
+  }
+
+  Note: "Tin nhắn trong phiên chat, bao gồm user, assistant và system."
+}
+
+Table knowledge_documents {
+  id bigint [pk, increment, note: "Khóa chính tài liệu tri thức."]
+  title varchar(255) [not null, note: "Tiêu đề tài liệu."]
+  source_type varchar(100) [note: "Loại nguồn: guideline, website, PDF, article."]
+  source_url varchar(500) [note: "URL nguồn gốc."]
+  medical_topic varchar(150) [note: "Chủ đề y khoa."]
+  version varchar(50) [note: "Phiên bản tài liệu."]
+  is_active boolean [not null, default: true, note: "Tài liệu còn dùng cho RAG hay không."]
+  created_at timestamp [not null, note: "Thời điểm thêm tài liệu."]
+
+  Note: "Metadata nguồn tri thức y khoa cho chatbot RAG."
+}
+
+Table chat_citations {
+  id bigint [pk, increment, note: "Khóa chính trích dẫn."]
+  message_id bigint [not null, note: "Tin nhắn assistant chứa trích dẫn."]
+  knowledge_document_id bigint [not null, note: "Tài liệu nguồn được trích."]
+  cited_chunk text [note: "Đoạn tri thức được dùng."]
+  relevance_score decimal(5,2) [note: "Điểm liên quan của chunk."]
+
+  Note: "Trích dẫn nguồn cho câu trả lời chatbot để tăng khả năng kiểm chứng."
+}
+
+Table journal_entries {
+  id bigint [pk, increment, note: "Khóa chính nhật ký."]
+  user_id bigint [not null, note: "Người viết nhật ký."]
+  title varchar(255) [note: "Tiêu đề nhật ký."]
+  content text [not null, note: "Nội dung tự do."]
+  mood varchar(50) [note: "Tâm trạng hoặc trạng thái cảm xúc."]
+  symptom_tags jsonb [note: "Nhãn triệu chứng do user nhập hoặc AI gợi ý."]
+  created_at timestamp [not null, note: "Thời điểm tạo nhật ký."]
+  updated_at timestamp [not null, note: "Thời điểm cập nhật nhật ký."]
+
+  Note: "Nhật ký tự do về triệu chứng, cảm xúc, cơ thể và sự kiện sức khỏe."
+}
+
+Table journal_analyses {
+  id bigint [pk, increment, note: "Khóa chính phân tích nhật ký."]
+  journal_entry_id bigint [not null, note: "Nhật ký được phân tích."]
+  analyzed_by_model varchar(100) [note: "Model AI dùng để phân tích."]
+  extracted_symptoms jsonb [note: "Triệu chứng trích xuất."]
+  extracted_trends jsonb [note: "Xu hướng hoặc nhận định trích xuất."]
+  risk_flag boolean [not null, default: false, note: "Cờ nguy cơ cần lưu ý."]
+  summary text [note: "Tóm tắt phân tích."]
+  created_at timestamp [not null, note: "Thời điểm tạo phân tích."]
+
+  Note: "Kết quả LLM phân tích nhật ký không cấu trúc."
+}
+
+Ref: user_roles.user_id > users.id
+Ref: user_roles.role_id > roles.id
+Ref: health_profiles.user_id - users.id
+Ref: health_profiles.activity_factor_id > activity_factors.id
+Ref: medical_histories.user_id > users.id
+Ref: "health_goals (OPTIONAL)".user_id > users.id
+Ref: glucose_measurements.user_id > users.id
+Ref: glucose_measurements.meal_log_id > meal_logs.id
+Ref: "glucose_scan_uploads (OPTIONAL)".user_id > users.id
+Ref: "glucose_scan_uploads (OPTIONAL)".glucose_measurement_id - glucose_measurements.id
+Ref: "health_assessments (DASHBOARD)".user_id > users.id
+Ref: "health_assessments (DASHBOARD)".health_profile_id > health_profiles.id
+Ref: risk_predictions.user_id > users.id
+Ref: risk_predictions.assessment_id > "health_assessments (DASHBOARD)".id
+Ref: ai_insights.user_id > users.id
+Ref: ai_insights.risk_prediction_id > risk_predictions.id
+Ref: ai_insights.assessment_id > "health_assessments (DASHBOARD)".id
+Ref: meal_logs.user_id > users.id
+Ref: meal_log_items.meal_log_id > meal_logs.id
+Ref: "food_image_analyses (BACKUP)".user_id > users.id
+Ref: "food_image_analyses (BACKUP)".meal_log_id > meal_logs.id
+Ref: meal_glucose_analyses.user_id > users.id
+Ref: meal_glucose_analyses.meal_log_id > meal_logs.id
+Ref: meal_glucose_analyses.pre_meal_glucose_id > glucose_measurements.id
+Ref: meal_glucose_analyses.post_meal_glucose_id > glucose_measurements.id
+Ref: user_recommendations.user_id > users.id
+Ref: user_recommendations.assessment_id > "health_assessments (DASHBOARD)".id
+Ref: user_recommendations.risk_prediction_id > risk_predictions.id
+Ref: user_recommendations.exercise_id > "exercises (OPTION)".id
+Ref: "reminders (OPTION)".user_id > users.id
+Ref: notifications.user_id > users.id
+Ref: notifications.reminder_id > "reminders (OPTION)".id
+Ref: notifications.ai_insight_id > ai_insights.id
+Ref: periodic_reports.user_id > users.id
+Ref: report_exports.report_id > periodic_reports.id
+Ref: report_exports.user_id > users.id
+Ref: user_cluster_snapshots.user_id > users.id
+Ref: user_cluster_snapshots.cluster_id > community_clusters.id
+Ref: chat_sessions.user_id > users.id
+Ref: chat_messages.session_id > chat_sessions.id
+Ref: chat_messages.user_id > users.id
+Ref: chat_citations.message_id > chat_messages.id
+Ref: chat_citations.knowledge_document_id > knowledge_documents.id
+Ref: journal_entries.user_id > users.id
+Ref: journal_analyses.journal_entry_id > journal_entries.id
+
+
+Ref: "user_recommendations"."valid_from" < "user_recommendations"."valid_to"

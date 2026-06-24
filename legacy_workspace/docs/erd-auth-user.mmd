@@ -1,0 +1,80 @@
+erDiagram
+    USERS {
+        BIGINT id PK
+        VARCHAR full_name
+        VARCHAR email UK
+        VARCHAR phone_number
+        VARCHAR password_hash
+        TIMESTAMPTZ change_pass_at
+        VARCHAR status
+        VARCHAR avatar
+        BOOLEAN deleted
+        TIMESTAMPTZ created_at
+        TIMESTAMPTZ updated_at
+    }
+
+    ROLES {
+        BIGINT id PK
+        VARCHAR name UK
+    }
+
+    USER_ROLES {
+        BIGINT user_id PK, FK
+        BIGINT role_id PK, FK
+    }
+
+    HEALTH_PROFILES {
+        BIGINT id PK
+        BIGINT user_id FK
+        DATE date_of_birth
+        VARCHAR gender
+        DECIMAL height_cm
+        DECIMAL weight_kg
+        DECIMAL waist_cm
+        DECIMAL bmi
+        DECIMAL bmr
+        DECIMAL tdee
+        VARCHAR activity_level
+        VARCHAR smoking_status
+        VARCHAR alcohol_status
+        VARCHAR sleep_pattern
+        TEXT medical_notes
+        TIMESTAMPTZ created_at
+        TIMESTAMPTZ updated_at
+    }
+
+    MEDICAL_HISTORIES {
+        BIGINT id PK
+        BIGINT user_id FK
+        VARCHAR diabetes_type
+        BOOLEAN family_history_diabetes
+        BOOLEAN hypertension
+        BOOLEAN cardiovascular_disease
+        BOOLEAN kidney_disease
+        BOOLEAN pregnancy_history
+        TEXT allergies
+        TEXT current_medications
+        TEXT past_conditions
+        TIMESTAMPTZ created_at
+        TIMESTAMPTZ updated_at
+    }
+
+    HEALTH_GOALS {
+        BIGINT id PK
+        BIGINT user_id FK
+        VARCHAR goal_type
+        VARCHAR level
+        DECIMAL target_value
+        DATE start_date
+        DATE target_date
+        VARCHAR status
+        TEXT note
+        TIMESTAMPTZ created_at
+        TIMESTAMPTZ updated_at
+    }
+
+    USERS ||--o{ USER_ROLES : has
+    ROLES ||--o{ USER_ROLES : assigned_to
+    USERS ||--|| HEALTH_PROFILES : owns
+    USERS ||--o{ MEDICAL_HISTORIES : has
+    USERS ||--o{ HEALTH_GOALS : sets

@@ -1,0 +1,160 @@
+erDiagram
+    USERS {
+        BIGINT id PK
+        VARCHAR full_name
+        VARCHAR email UK
+    }
+
+    FOOD_CATEGORIES {
+        BIGINT id PK
+        VARCHAR name
+        TEXT description
+    }
+
+    FOODS {
+        BIGINT id PK
+        BIGINT category_id FK
+        BIGINT created_by_user_id FK
+        VARCHAR name
+        BOOLEAN is_system_defined
+        DECIMAL calories_per_serving
+        DECIMAL carbs_per_serving
+        DECIMAL sugar_per_serving
+        DECIMAL protein_per_serving
+        DECIMAL fat_per_serving
+        DECIMAL gi_index
+        VARCHAR serving_unit
+        TEXT description
+        TIMESTAMPTZ created_at
+    }
+
+    MEAL_LOGS {
+        BIGINT id PK
+        BIGINT user_id FK
+        VARCHAR meal_type
+        TIMESTAMPTZ eaten_at
+        DECIMAL total_calories
+        DECIMAL total_carbs
+        DECIMAL total_sugar
+        DECIMAL avg_gi
+        BOOLEAN gi_alert
+        TEXT note
+        TIMESTAMPTZ created_at
+        TIMESTAMPTZ updated_at
+    }
+
+    MEAL_LOG_ITEMS {
+        BIGINT id PK
+        BIGINT meal_log_id FK
+        BIGINT food_id FK
+        DECIMAL quantity
+        DECIMAL calories
+        DECIMAL carbs
+        DECIMAL sugar
+        DECIMAL gi_index
+        TIMESTAMPTZ created_at
+    }
+
+    FOOD_IMAGE_ANALYSES {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT meal_log_id FK
+        VARCHAR image_url
+        VARCHAR ai_provider
+        TEXT detected_foods
+        DECIMAL confidence_score
+        VARCHAR status
+        TIMESTAMPTZ created_at
+    }
+
+    MEAL_GLUCOSE_ANALYSES {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT meal_log_id FK
+        BIGINT pre_meal_glucose_id FK
+        BIGINT post_meal_glucose_id FK
+        DECIMAL glucose_delta
+        BOOLEAN abnormal_spike
+        TEXT conclusion
+        TIMESTAMPTZ created_at
+    }
+
+    REMINDERS {
+        BIGINT id PK
+        BIGINT user_id FK
+        VARCHAR reminder_type
+        VARCHAR title
+        TIME reminder_time
+        VARCHAR recurrence_rule
+        BOOLEAN is_active
+        INT snooze_minutes
+        TEXT payload
+        TIMESTAMPTZ created_at
+        TIMESTAMPTZ updated_at
+    }
+
+    ALERT_RULES {
+        BIGINT id PK
+        VARCHAR rule_name
+        VARCHAR rule_type
+        DECIMAL threshold_value
+        VARCHAR threshold_operator
+        INT consecutive_days
+        BOOLEAN is_active
+        TEXT description
+    }
+
+    NOTIFICATIONS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT reminder_id FK
+        BIGINT alert_rule_id FK
+        VARCHAR notification_type
+        VARCHAR title
+        TEXT content
+        BOOLEAN is_read
+        TIMESTAMPTZ sent_at
+        TIMESTAMPTZ read_at
+        TIMESTAMPTZ created_at
+    }
+
+    PERIODIC_REPORTS {
+        BIGINT id PK
+        BIGINT user_id FK
+        VARCHAR report_type
+        DATE period_start
+        DATE period_end
+        DECIMAL avg_glucose
+        DECIMAL bmi
+        DECIMAL weight_change
+        JSON achievements_json
+        JSON issues_json
+        VARCHAR generated_by
+        TIMESTAMPTZ created_at
+    }
+
+    REPORT_EXPORTS {
+        BIGINT id PK
+        BIGINT report_id FK
+        BIGINT user_id FK
+        VARCHAR export_format
+        VARCHAR file_url
+        TIMESTAMPTZ exported_at
+    }
+
+    USERS ||--o{ FOODS : creates_custom
+    USERS ||--o{ MEAL_LOGS : creates
+    USERS ||--o{ FOOD_IMAGE_ANALYSES : uploads
+    USERS ||--o{ MEAL_GLUCOSE_ANALYSES : owns
+    USERS ||--o{ REMINDERS : sets
+    USERS ||--o{ NOTIFICATIONS : receives
+    USERS ||--o{ PERIODIC_REPORTS : has
+    USERS ||--o{ REPORT_EXPORTS : exports
+    FOOD_CATEGORIES ||--o{ FOODS : groups
+    MEAL_LOGS ||--o{ MEAL_LOG_ITEMS : contains
+    FOODS ||--o{ MEAL_LOG_ITEMS : used_in
+    MEAL_LOGS ||--o{ FOOD_IMAGE_ANALYSES : analyzed_from
+    MEAL_LOGS ||--o| MEAL_GLUCOSE_ANALYSES : analyzed_by
+    REMINDERS ||--o{ NOTIFICATIONS : triggers
+    ALERT_RULES ||--o{ NOTIFICATIONS : triggers
+    PERIODIC_REPORTS ||--o{ REPORT_EXPORTS : exported_as

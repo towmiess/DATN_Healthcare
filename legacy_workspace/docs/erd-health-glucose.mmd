@@ -1,0 +1,120 @@
+erDiagram
+    USERS {
+        BIGINT id PK
+        VARCHAR full_name
+        VARCHAR email UK
+        VARCHAR status
+    }
+
+    HEALTH_PROFILES {
+        BIGINT id PK
+        BIGINT user_id FK
+        DECIMAL height_cm
+        DECIMAL weight_kg
+        DECIMAL bmi
+        DECIMAL bmr
+        DECIMAL tdee
+        TIMESTAMPTZ updated_at
+    }
+
+    GLUCOSE_MEASUREMENTS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT meal_log_id FK
+        DECIMAL glucose_value
+        VARCHAR unit
+        VARCHAR measurement_context
+        TIMESTAMPTZ measured_at
+        VARCHAR source_type
+        TEXT note
+        TIMESTAMPTZ created_at
+    }
+
+    GLUCOSE_SCAN_UPLOADS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT glucose_measurement_id FK
+        VARCHAR file_url
+        VARCHAR ocr_engine
+        TEXT raw_ocr_text
+        DECIMAL confidence_score
+        VARCHAR scan_status
+        TIMESTAMPTZ created_at
+    }
+
+    HEALTH_ASSESSMENTS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT health_profile_id FK
+        VARCHAR assessment_type
+        VARCHAR risk_level
+        DECIMAL health_score
+        TEXT summary
+        JSON findings_json
+        TIMESTAMPTZ created_at
+    }
+
+    RISK_PREDICTIONS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT assessment_id FK
+        VARCHAR model_name
+        VARCHAR prediction_type
+        DECIMAL risk_percent
+        VARCHAR risk_band
+        DATE forecast_from
+        DATE forecast_to
+        BOOLEAN high_risk_flag
+        JSON feature_snapshot
+        TIMESTAMPTZ created_at
+    }
+
+    AI_INSIGHTS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT risk_prediction_id FK
+        BIGINT assessment_id FK
+        VARCHAR insight_type
+        TEXT explanation
+        TEXT recommendation
+        VARCHAR llm_model
+        TIMESTAMPTZ created_at
+    }
+
+    EXERCISES {
+        BIGINT id PK
+        VARCHAR name
+        VARCHAR intensity_level
+        INT duration_minutes
+        DECIMAL calories_burn_est
+        TEXT description
+    }
+
+    USER_RECOMMENDATIONS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT assessment_id FK
+        BIGINT risk_prediction_id FK
+        VARCHAR recommendation_type
+        BIGINT exercise_id FK
+        VARCHAR priority
+        TEXT content
+        DATE valid_from
+        DATE valid_to
+        TIMESTAMPTZ created_at
+    }
+
+    USERS ||--|| HEALTH_PROFILES : owns
+    USERS ||--o{ GLUCOSE_MEASUREMENTS : records
+    USERS ||--o{ GLUCOSE_SCAN_UPLOADS : uploads
+    USERS ||--o{ HEALTH_ASSESSMENTS : receives
+    USERS ||--o{ RISK_PREDICTIONS : has
+    USERS ||--o{ AI_INSIGHTS : receives
+    USERS ||--o{ USER_RECOMMENDATIONS : receives
+    HEALTH_PROFILES ||--o{ HEALTH_ASSESSMENTS : basis_for
+    HEALTH_ASSESSMENTS ||--o{ RISK_PREDICTIONS : generates
+    HEALTH_ASSESSMENTS ||--o{ USER_RECOMMENDATIONS : drives
+    RISK_PREDICTIONS ||--o{ AI_INSIGHTS : explained_by
+    RISK_PREDICTIONS ||--o{ USER_RECOMMENDATIONS : drives
+    GLUCOSE_MEASUREMENTS ||--o| GLUCOSE_SCAN_UPLOADS : extracted_from
+    EXERCISES ||--o{ USER_RECOMMENDATIONS : suggested_exercise

@@ -1,0 +1,129 @@
+erDiagram
+    USERS {
+        BIGINT id PK
+        VARCHAR full_name
+        VARCHAR email UK
+        VARCHAR status
+    }
+
+    HEALTH_ASSESSMENTS {
+        BIGINT id PK
+        BIGINT user_id FK
+        VARCHAR assessment_type
+        VARCHAR risk_level
+        DECIMAL health_score
+        TEXT summary
+        JSON findings_json
+        TIMESTAMPTZ created_at
+    }
+
+    RISK_PREDICTIONS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT assessment_id FK
+        VARCHAR model_name
+        VARCHAR prediction_type
+        DECIMAL risk_percent
+        VARCHAR risk_band
+        BOOLEAN high_risk_flag
+        JSON feature_snapshot
+        TIMESTAMPTZ created_at
+    }
+
+    AI_INSIGHTS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT risk_prediction_id FK
+        BIGINT assessment_id FK
+        VARCHAR insight_type
+        TEXT explanation
+        TEXT recommendation
+        VARCHAR llm_model
+        TIMESTAMPTZ created_at
+    }
+
+    USER_RECOMMENDATIONS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT assessment_id FK
+        BIGINT risk_prediction_id FK
+        VARCHAR recommendation_type
+        BIGINT food_id FK
+        BIGINT exercise_id FK
+        VARCHAR priority
+        TEXT content
+        TIMESTAMPTZ created_at
+    }
+
+    COMMUNITY_CLUSTERS {
+        BIGINT id PK
+        VARCHAR cluster_name
+        VARCHAR age_group
+        VARCHAR risk_group
+        TEXT description
+        DATE snapshot_date
+    }
+
+    USER_CLUSTER_SNAPSHOTS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT cluster_id FK
+        INT percentile_rank
+        DECIMAL community_score
+        DATE snapshot_date
+    }
+
+    CHAT_SESSIONS {
+        BIGINT id PK
+        BIGINT user_id FK
+        VARCHAR session_title
+        VARCHAR status
+        TIMESTAMPTZ started_at
+        TIMESTAMPTZ ended_at
+    }
+
+    CHAT_MESSAGES {
+        BIGINT id PK
+        BIGINT session_id FK
+        BIGINT user_id FK
+        VARCHAR sender_type
+        TEXT content
+        VARCHAR llm_model
+        BOOLEAN flagged_emergency
+        TIMESTAMPTZ created_at
+    }
+
+    KNOWLEDGE_DOCUMENTS {
+        BIGINT id PK
+        VARCHAR title
+        VARCHAR source_type
+        VARCHAR source_url
+        VARCHAR medical_topic
+        VARCHAR version
+        BOOLEAN is_active
+        TIMESTAMPTZ created_at
+    }
+
+    CHAT_CITATIONS {
+        BIGINT id PK
+        BIGINT message_id FK
+        BIGINT knowledge_document_id FK
+        TEXT cited_chunk
+        DECIMAL relevance_score
+    }
+
+    USERS ||--o{ HEALTH_ASSESSMENTS : receives
+    USERS ||--o{ RISK_PREDICTIONS : has
+    USERS ||--o{ AI_INSIGHTS : receives
+    USERS ||--o{ USER_RECOMMENDATIONS : receives
+    USERS ||--o{ USER_CLUSTER_SNAPSHOTS : appears_in
+    USERS ||--o{ CHAT_SESSIONS : opens
+    USERS ||--o{ CHAT_MESSAGES : sends
+    HEALTH_ASSESSMENTS ||--o{ RISK_PREDICTIONS : generates
+    RISK_PREDICTIONS ||--o{ AI_INSIGHTS : explained_by
+    HEALTH_ASSESSMENTS ||--o{ USER_RECOMMENDATIONS : drives
+    RISK_PREDICTIONS ||--o{ USER_RECOMMENDATIONS : drives
+    COMMUNITY_CLUSTERS ||--o{ USER_CLUSTER_SNAPSHOTS : contains
+    CHAT_SESSIONS ||--o{ CHAT_MESSAGES : contains
+    CHAT_MESSAGES ||--o{ CHAT_CITATIONS : cites
+    KNOWLEDGE_DOCUMENTS ||--o{ CHAT_CITATIONS : sourced_from

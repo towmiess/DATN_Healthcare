@@ -1,0 +1,413 @@
+erDiagram
+    USERS {
+        BIGINT id PK
+        VARCHAR full_name
+        VARCHAR email UK
+        VARCHAR phone_number
+        VARCHAR password_hash
+        TIMESTAMPTZ change_pass_at
+        VARCHAR status
+        VARCHAR avatar
+        BOOLEAN deleted
+        TIMESTAMPTZ created_at
+        TIMESTAMPTZ updated_at
+    }
+
+    ROLES {
+        BIGINT id PK
+        VARCHAR name UK
+    }
+
+    USER_ROLES {
+        BIGINT user_id PK, FK
+        BIGINT role_id PK, FK
+    }
+
+    HEALTH_PROFILES {
+        BIGINT id PK
+        BIGINT user_id FK
+        DATE date_of_birth
+        VARCHAR gender
+        DECIMAL height_cm
+        DECIMAL weight_kg
+        DECIMAL waist_cm
+        DECIMAL bmi
+        DECIMAL bmr
+        DECIMAL tdee
+        VARCHAR activity_level
+        VARCHAR smoking_status
+        VARCHAR alcohol_status
+        VARCHAR sleep_pattern
+        TEXT medical_notes
+        TIMESTAMPTZ created_at
+        TIMESTAMPTZ updated_at
+    }
+
+    MEDICAL_HISTORIES {
+        BIGINT id PK
+        BIGINT user_id FK
+        VARCHAR diabetes_type
+        BOOLEAN family_history_diabetes
+        BOOLEAN hypertension
+        BOOLEAN cardiovascular_disease
+        BOOLEAN kidney_disease
+        BOOLEAN pregnancy_history
+        TEXT allergies
+        TEXT current_medications
+        TEXT past_conditions
+        TIMESTAMPTZ created_at
+        TIMESTAMPTZ updated_at
+    }
+
+    HEALTH_GOALS {
+        BIGINT id PK
+        BIGINT user_id FK
+        VARCHAR goal_type
+        VARCHAR level
+        DECIMAL target_value
+        DATE start_date
+        DATE target_date
+        VARCHAR status
+        TEXT note
+        TIMESTAMPTZ created_at
+        TIMESTAMPTZ updated_at
+    }
+
+    GLUCOSE_MEASUREMENTS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT meal_log_id FK
+        DECIMAL glucose_value
+        VARCHAR unit
+        VARCHAR measurement_context
+        TIMESTAMPTZ measured_at
+        VARCHAR source_type
+        TEXT note
+        TIMESTAMPTZ created_at
+    }
+
+    GLUCOSE_SCAN_UPLOADS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT glucose_measurement_id FK
+        VARCHAR file_url
+        VARCHAR ocr_engine
+        TEXT raw_ocr_text
+        DECIMAL confidence_score
+        VARCHAR scan_status
+        TIMESTAMPTZ created_at
+    }
+
+    HEALTH_ASSESSMENTS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT health_profile_id FK
+        VARCHAR assessment_type
+        VARCHAR risk_level
+        DECIMAL health_score
+        TEXT summary
+        JSON findings_json
+        TIMESTAMPTZ created_at
+    }
+
+    RISK_PREDICTIONS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT assessment_id FK
+        VARCHAR model_name
+        VARCHAR prediction_type
+        DECIMAL risk_percent
+        VARCHAR risk_band
+        DATE forecast_from
+        DATE forecast_to
+        BOOLEAN high_risk_flag
+        JSON feature_snapshot
+        TIMESTAMPTZ created_at
+    }
+
+    AI_INSIGHTS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT risk_prediction_id FK
+        BIGINT assessment_id FK
+        VARCHAR insight_type
+        TEXT explanation
+        TEXT recommendation
+        VARCHAR llm_model
+        TIMESTAMPTZ created_at
+    }
+
+    FOOD_CATEGORIES {
+        BIGINT id PK
+        VARCHAR name
+        TEXT description
+    }
+
+    FOODS {
+        BIGINT id PK
+        BIGINT category_id FK
+        BIGINT created_by_user_id FK
+        VARCHAR name
+        BOOLEAN is_system_defined
+        DECIMAL calories_per_serving
+        DECIMAL carbs_per_serving
+        DECIMAL sugar_per_serving
+        DECIMAL protein_per_serving
+        DECIMAL fat_per_serving
+        DECIMAL gi_index
+        VARCHAR serving_unit
+        TEXT description
+        TIMESTAMPTZ created_at
+    }
+
+    MEAL_LOGS {
+        BIGINT id PK
+        BIGINT user_id FK
+        VARCHAR meal_type
+        TIMESTAMPTZ eaten_at
+        DECIMAL total_calories
+        DECIMAL total_carbs
+        DECIMAL total_sugar
+        DECIMAL avg_gi
+        BOOLEAN gi_alert
+        TEXT note
+        TIMESTAMPTZ created_at
+        TIMESTAMPTZ updated_at
+    }
+
+    MEAL_LOG_ITEMS {
+        BIGINT id PK
+        BIGINT meal_log_id FK
+        BIGINT food_id FK
+        DECIMAL quantity
+        DECIMAL calories
+        DECIMAL carbs
+        DECIMAL sugar
+        DECIMAL gi_index
+        TIMESTAMPTZ created_at
+    }
+
+    FOOD_IMAGE_ANALYSES {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT meal_log_id FK
+        VARCHAR image_url
+        VARCHAR ai_provider
+        TEXT detected_foods
+        DECIMAL confidence_score
+        VARCHAR status
+        TIMESTAMPTZ created_at
+    }
+
+    MEAL_GLUCOSE_ANALYSES {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT meal_log_id FK
+        BIGINT pre_meal_glucose_id FK
+        BIGINT post_meal_glucose_id FK
+        DECIMAL glucose_delta
+        BOOLEAN abnormal_spike
+        TEXT conclusion
+        TIMESTAMPTZ created_at
+    }
+
+    EXERCISES {
+        BIGINT id PK
+        VARCHAR name
+        VARCHAR intensity_level
+        INT duration_minutes
+        DECIMAL calories_burn_est
+        TEXT description
+    }
+
+    USER_RECOMMENDATIONS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT assessment_id FK
+        BIGINT risk_prediction_id FK
+        VARCHAR recommendation_type
+        BIGINT food_id FK
+        BIGINT exercise_id FK
+        VARCHAR priority
+        TEXT content
+        DATE valid_from
+        DATE valid_to
+        TIMESTAMPTZ created_at
+    }
+
+    REMINDERS {
+        BIGINT id PK
+        BIGINT user_id FK
+        VARCHAR reminder_type
+        VARCHAR title
+        TIME reminder_time
+        VARCHAR recurrence_rule
+        BOOLEAN is_active
+        INT snooze_minutes
+        TEXT payload
+        TIMESTAMPTZ created_at
+        TIMESTAMPTZ updated_at
+    }
+
+    ALERT_RULES {
+        BIGINT id PK
+        VARCHAR rule_name
+        VARCHAR rule_type
+        DECIMAL threshold_value
+        VARCHAR threshold_operator
+        INT consecutive_days
+        BOOLEAN is_active
+        TEXT description
+    }
+
+    NOTIFICATIONS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT reminder_id FK
+        BIGINT alert_rule_id FK
+        BIGINT ai_insight_id FK
+        VARCHAR notification_type
+        VARCHAR title
+        TEXT content
+        BOOLEAN is_read
+        TIMESTAMPTZ sent_at
+        TIMESTAMPTZ read_at
+        TIMESTAMPTZ created_at
+    }
+
+    PERIODIC_REPORTS {
+        BIGINT id PK
+        BIGINT user_id FK
+        VARCHAR report_type
+        DATE period_start
+        DATE period_end
+        DECIMAL avg_glucose
+        DECIMAL bmi
+        DECIMAL weight_change
+        JSON achievements_json
+        JSON issues_json
+        VARCHAR generated_by
+        TIMESTAMPTZ created_at
+    }
+
+    REPORT_EXPORTS {
+        BIGINT id PK
+        BIGINT report_id FK
+        BIGINT user_id FK
+        VARCHAR export_format
+        VARCHAR file_url
+        TIMESTAMPTZ exported_at
+    }
+
+    COMMUNITY_CLUSTERS {
+        BIGINT id PK
+        VARCHAR cluster_name
+        VARCHAR age_group
+        VARCHAR risk_group
+        TEXT description
+        DATE snapshot_date
+    }
+
+    USER_CLUSTER_SNAPSHOTS {
+        BIGINT id PK
+        BIGINT user_id FK
+        BIGINT cluster_id FK
+        INT percentile_rank
+        DECIMAL community_score
+        DATE snapshot_date
+    }
+
+    CHAT_SESSIONS {
+        BIGINT id PK
+        BIGINT user_id FK
+        VARCHAR session_title
+        VARCHAR status
+        TIMESTAMPTZ started_at
+        TIMESTAMPTZ ended_at
+    }
+
+    CHAT_MESSAGES {
+        BIGINT id PK
+        BIGINT session_id FK
+        BIGINT user_id FK
+        VARCHAR sender_type
+        TEXT content
+        VARCHAR llm_model
+        BOOLEAN flagged_emergency
+        TIMESTAMPTZ created_at
+    }
+
+    KNOWLEDGE_DOCUMENTS {
+        BIGINT id PK
+        VARCHAR title
+        VARCHAR source_type
+        VARCHAR source_url
+        VARCHAR medical_topic
+        VARCHAR version
+        BOOLEAN is_active
+        TIMESTAMPTZ created_at
+    }
+
+    CHAT_CITATIONS {
+        BIGINT id PK
+        BIGINT message_id FK
+        BIGINT knowledge_document_id FK
+        TEXT cited_chunk
+        DECIMAL relevance_score
+    }
+
+    USERS ||--o{ USER_ROLES : has
+    ROLES ||--o{ USER_ROLES : assigned_to
+
+    USERS ||--|| HEALTH_PROFILES : owns
+    USERS ||--o{ MEDICAL_HISTORIES : has
+    USERS ||--o{ HEALTH_GOALS : sets
+    USERS ||--o{ GLUCOSE_MEASUREMENTS : records
+    USERS ||--o{ GLUCOSE_SCAN_UPLOADS : uploads
+    USERS ||--o{ HEALTH_ASSESSMENTS : receives
+    USERS ||--o{ RISK_PREDICTIONS : has
+    USERS ||--o{ AI_INSIGHTS : receives
+    USERS ||--o{ MEAL_LOGS : creates
+    USERS ||--o{ FOODS : creates_custom
+    USERS ||--o{ FOOD_IMAGE_ANALYSES : uploads
+    USERS ||--o{ MEAL_GLUCOSE_ANALYSES : owns
+    USERS ||--o{ USER_RECOMMENDATIONS : receives
+    USERS ||--o{ REMINDERS : sets
+    USERS ||--o{ NOTIFICATIONS : receives
+    USERS ||--o{ PERIODIC_REPORTS : has
+    USERS ||--o{ REPORT_EXPORTS : exports
+    USERS ||--o{ USER_CLUSTER_SNAPSHOTS : appears_in
+    USERS ||--o{ CHAT_SESSIONS : opens
+    USERS ||--o{ CHAT_MESSAGES : sends
+
+    HEALTH_PROFILES ||--o{ HEALTH_ASSESSMENTS : basis_for
+    HEALTH_ASSESSMENTS ||--o{ RISK_PREDICTIONS : generates
+    HEALTH_ASSESSMENTS ||--o{ USER_RECOMMENDATIONS : drives
+    RISK_PREDICTIONS ||--o{ AI_INSIGHTS : explained_by
+    RISK_PREDICTIONS ||--o{ USER_RECOMMENDATIONS : drives
+
+    FOOD_CATEGORIES ||--o{ FOODS : groups
+    MEAL_LOGS ||--o{ MEAL_LOG_ITEMS : contains
+    FOODS ||--o{ MEAL_LOG_ITEMS : used_in
+    MEAL_LOGS ||--o{ GLUCOSE_MEASUREMENTS : related_measurement
+    MEAL_LOGS ||--o{ FOOD_IMAGE_ANALYSES : analyzed_from
+    MEAL_LOGS ||--o| MEAL_GLUCOSE_ANALYSES : analyzed_by
+
+    GLUCOSE_MEASUREMENTS ||--o| GLUCOSE_SCAN_UPLOADS : extracted_from
+    GLUCOSE_MEASUREMENTS ||--o| MEAL_GLUCOSE_ANALYSES : pre_meal
+    GLUCOSE_MEASUREMENTS ||--o| MEAL_GLUCOSE_ANALYSES : post_meal
+
+    FOODS ||--o{ USER_RECOMMENDATIONS : suggested_food
+    EXERCISES ||--o{ USER_RECOMMENDATIONS : suggested_exercise
+
+    REMINDERS ||--o{ NOTIFICATIONS : triggers
+    ALERT_RULES ||--o{ NOTIFICATIONS : triggers
+    AI_INSIGHTS ||--o{ NOTIFICATIONS : may_generate
+
+    PERIODIC_REPORTS ||--o{ REPORT_EXPORTS : exported_as
+
+    COMMUNITY_CLUSTERS ||--o{ USER_CLUSTER_SNAPSHOTS : contains
+
+    CHAT_SESSIONS ||--o{ CHAT_MESSAGES : contains
+    CHAT_MESSAGES ||--o{ CHAT_CITATIONS : cites
+    KNOWLEDGE_DOCUMENTS ||--o{ CHAT_CITATIONS : sourced_from
