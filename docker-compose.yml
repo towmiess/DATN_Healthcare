@@ -1,6 +1,6 @@
-services:
-  :
-    ipostgresmage: postgres:16-alpine
+﻿services:
+  postgres:
+    image: postgres:16-alpine
     container_name: healthcare-postgres
     restart: unless-stopped
     environment:
@@ -19,13 +19,33 @@ services:
       retries: 10
       start_period: 10s
 
+  health-postgres:
+    image: postgres:16-alpine
+    container_name: healthcare-health-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${HEALTH_POSTGRES_DB:-healthcare_db}
+      POSTGRES_USER: ${HEALTH_POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${HEALTH_POSTGRES_PASSWORD:-123456}
+    ports:
+      - "${HEALTH_POSTGRES_PORT:-5433}:5432"
+    volumes:
+      - health_postgres_data:/var/lib/postgresql/data
+      - ./RawDB/db.sql:/docker-entrypoint-initdb.d/01-health-schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${HEALTH_POSTGRES_USER:-postgres} -d ${HEALTH_POSTGRES_DB:-healthcare_db}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
+
   redis:
     image: redis:7-alpine
     container_name: healthcare-redis
     restart: unless-stopped
     command: ["redis-server", "--appendonly", "yes"]
     ports:
-      - "${REDIS_PORT:-6379}:6379"
+      - "${REDIS_PORT:-6380}:6379"
     volumes:
       - redis_data:/data
     healthcheck:
@@ -63,7 +83,7 @@ services:
       SPRING_DATA_REDIS_HOST: redis
       SPRING_DATA_REDIS_PORT: 6379
       EUREKA_DEFAULT_ZONE: http://discovery-server:8761/eureka
-      CORS_ALLOWED_ORIGINS: ${CORS_ALLOWED_ORIGINS:-http://localhost:5173}
+      CORS_ALLOWED_ORIGINS: ${CORS_ALLOWED_ORIGINS:-http://localhost:5173,http://127.0.0.1:5173}
       GATEWAY_INTERNAL_SECRET: ${GATEWAY_INTERNAL_SECRET:-change-me}
       JWT_ACCESS_SECRET: ${JWT_ACCESS_SECRET:-S1TZnHDnQS6ojlPYPI+bjd6CXxYhBP/eYmubZsRSANY=}
       JWT_REFRESH_SECRET: ${JWT_REFRESH_SECRET:-TaqlmGv1iEDMRiFp/pHuID1+T84IABfuA0xXh4GhiUI=}
@@ -71,6 +91,32 @@ services:
       MAIL_PASSWORD: ${MAIL_PASSWORD:-}
     ports:
       - "${USERS_SERVICE_PORT:-8081}:8081"
+
+  health-service:
+    build:
+      context: ./Backend/health-service
+      dockerfile: Dockerfile
+    container_name: healthcare-health-service
+    restart: unless-stopped
+    depends_on:
+      health-postgres:
+        condition: service_healthy
+    environment:
+      POSTGRES_DB: ${HEALTH_POSTGRES_DB:-healthcare_db}
+      POSTGRES_USER: ${HEALTH_POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${HEALTH_POSTGRES_PASSWORD:-123456}
+      POSTGRES_HOST: health-postgres
+      POSTGRES_PORT: 5432
+      CORS_ALLOWED_ORIGINS: ${CORS_ALLOWED_ORIGINS:-http://localhost:5173,http://127.0.0.1:5173}
+      GATEWAY_INTERNAL_SECRET: ${GATEWAY_INTERNAL_SECRET:-change-me}
+      JWT_ACCESS_SECRET: ${JWT_ACCESS_SECRET:-S1TZnHDnQS6ojlPYPI+bjd6CXxYhBP/eYmubZsRSANY=}
+      MODEL_API_URL: ${MODEL_API_URL:-}
+      GOOGLE_VISION_API_KEY: ${GOOGLE_VISION_API_KEY:-}
+      GOOGLE_APPLICATION_CREDENTIALS: ${GOOGLE_APPLICATION_CREDENTIALS:-}
+      GOOGLE_APPLICATION_CREDENTIALS_JSON: ${GOOGLE_APPLICATION_CREDENTIALS_JSON:-}
+      GOOGLE_APPLICATION_CREDENTIALS_B64: ${GOOGLE_APPLICATION_CREDENTIALS_B64:-}
+    ports:
+      - "${HEALTH_SERVICE_PORT:-8100}:8000"
 
   api-gateway:
     build:
@@ -85,22 +131,26 @@ services:
         condition: service_started
       users-service:
         condition: service_started
+      health-service:
+        condition: service_started
     environment:
       SPRING_DATA_REDIS_HOST: redis
       SPRING_DATA_REDIS_PORT: 6379
       EUREKA_DEFAULT_ZONE: http://discovery-server:8761/eureka
-      CORS_ALLOWED_ORIGINS: ${CORS_ALLOWED_ORIGINS:-http://localhost:5173}
+      CORS_ALLOWED_ORIGINS: ${CORS_ALLOWED_ORIGINS:-http://localhost:5173,http://127.0.0.1:5173}
       GATEWAY_INTERNAL_SECRET: ${GATEWAY_INTERNAL_SECRET:-change-me}
       JWT_ACCESS_SECRET: ${JWT_ACCESS_SECRET:-S1TZnHDnQS6ojlPYPI+bjd6CXxYhBP/eYmubZsRSANY=}
+      HEALTH_SERVICE_URI: http://health-service:8000
     ports:
       - "${GATEWAY_PORT:-8080}:8080"
 
   frontend:
     build:
-      context: ./Frontend/healtcare
+      context: ./Frontend/healthcare
       dockerfile: Dockerfile
       args:
         VITE_API_URL: ${VITE_API_URL:-http://localhost:8080/api}
+        VITE_PREDICTION_API_URL: ${VITE_PREDICTION_API_URL:-http://localhost:8080/api}
     container_name: healthcare-frontend
     restart: unless-stopped
     depends_on:
@@ -111,4 +161,5 @@ services:
 
 volumes:
   postgres_data:
+  health_postgres_data:
   redis_data:

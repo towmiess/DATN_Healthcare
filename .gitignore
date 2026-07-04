@@ -1,2 +1,5 @@
 .env
 TienNguyen_copied/
+__pycache__/
+*.pyc
+docker_compose_up.log

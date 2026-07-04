@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+﻿import React, { useEffect, useRef, useState } from "react";
 import {
   Activity,
   ClipboardPlus,
@@ -10,6 +10,7 @@ import {
 } from "lucide-react";
 import Tesseract, { PSM } from "tesseract.js";
 import {
+  getDiagnosisSnapshot,
   ocrWithGoogleVision,
   predictAll,
   PredictionInput,
@@ -28,6 +29,7 @@ type FieldDefinition = {
   hint?: string;
   options?: SelectOption[];
   placeholder?: string;
+  readOnly?: boolean;
 };
 
 type ResultDefinition = {
@@ -59,15 +61,6 @@ const sexOptions: SelectOption[] = [
   { value: "2", label: "Nữ" },
 ];
 
-const raceEthnicityOptions: SelectOption[] = [
-  { value: "1", label: "1 - Người Mỹ gốc Mexico" },
-  { value: "2", label: "2 - Nhóm Hispanic khác" },
-  { value: "3", label: "3 - Da trắng không Hispanic" },
-  { value: "4", label: "4 - Da đen không Hispanic" },
-  { value: "6", label: "6 - Châu Á không Hispanic" },
-  { value: "7", label: "7 - Khác hoặc đa chủng tộc" },
-];
-
 const inputGroups: { title: string; fields: FieldDefinition[] }[] = [
   {
     title: "Thông tin người bệnh",
@@ -79,21 +72,9 @@ const inputGroups: { title: string; fields: FieldDefinition[] }[] = [
         placeholder: "Chọn giới tính",
       },
       { key: "age_years", label: "Tuổi (Age)", hint: "Số tuổi theo năm" },
-      {
-        key: "race_ethnicity",
-        label: "Nhóm chủng tộc/dân tộc (Race/Ethnicity)",
-        options: raceEthnicityOptions,
-        placeholder: "Chọn nhóm chủng tộc/dân tộc",
-      },
-      {
-        key: "race_ethnicity_asian",
-        label: "Chủng tộc châu Á (Asian)",
-        options: yesNoOptions,
-        placeholder: "Chọn Không/Có",
-      },
       { key: "weight_kg", label: "Cân nặng (Weight)", hint: "Đơn vị kilogram" },
       { key: "height_cm", label: "Chiều cao (Height)", hint: "Đơn vị centimeter" },
-      { key: "bmi", label: "Chỉ số BMI", hint: "Body mass index" },
+      { key: "bmi", label: "Chỉ số BMI", hint: "Tự động tính từ cân nặng và chiều cao", readOnly: true },
       { key: "waist_cm", label: "Vòng eo (Waist)", hint: "Đơn vị centimeter" },
     ],
   },
@@ -192,8 +173,6 @@ const resultDefinitions: ResultDefinition[] = [
 const sampleValues: Record<string, string> = {
   sex: "2",
   age_years: "45",
-  race_ethnicity: "3",
-  race_ethnicity_asian: "0",
   weight_kg: "70.5",
   height_cm: "162",
   bmi: "26.9",
@@ -558,6 +537,70 @@ const formatOcrNumber = (value: number) => {
   return Number.isInteger(value) ? String(value) : String(Number(value.toFixed(2)));
 };
 
+const glucoseConversionFactor = 18.0182;
+
+const calculateBmi = (weightValue?: string, heightValue?: string) => {
+  const weight = Number(normalizeNumber(String(weightValue ?? "")));
+  const height = Number(normalizeNumber(String(heightValue ?? "")));
+
+  if (!Number.isFinite(weight) || !Number.isFinite(height) || weight <= 0 || height <= 0) {
+    return "";
+  }
+
+  return formatOcrNumber(weight / (height / 100) ** 2);
+};
+
+const calculateExpectedWaist = (sexValue?: string, heightValue?: string) => {
+  const sex = String(sexValue ?? "").trim();
+  const height = Number(normalizeNumber(String(heightValue ?? "")));
+
+  if (!Number.isFinite(height) || height <= 0) {
+    return "";
+  }
+
+  if (sex === "1") {
+    return formatOcrNumber(height * 0.45);
+  }
+
+  if (sex === "2") {
+    return formatOcrNumber(height * 0.4);
+  }
+
+  return "";
+};
+
+const calculateExpectedHip = (sexValue?: string, waistValue?: string) => {
+  const sex = String(sexValue ?? "").trim();
+  const waist = Number(normalizeNumber(String(waistValue ?? "")));
+
+  if (!Number.isFinite(waist) || waist <= 0) {
+    return "";
+  }
+
+  if (sex === "1") {
+    return formatOcrNumber(waist / 0.9);
+  }
+
+  if (sex === "2") {
+    return formatOcrNumber(waist / 0.7);
+  }
+
+  return "";
+};
+
+const applyDerivedMetrics = (values: Record<string, string>) => {
+  const bmi = calculateBmi(values.weight_kg, values.height_cm);
+  const waist = values.waist_cm || calculateExpectedWaist(values.sex, values.height_cm);
+  const hip = values.hip_cm || calculateExpectedHip(values.sex, waist);
+
+  return {
+    ...values,
+    bmi: bmi || values.bmi,
+    waist_cm: waist,
+    hip_cm: hip,
+  };
+};
+
 const getOcrNumbersFromLine = (line: string) =>
   Array.from(line.matchAll(new RegExp(numberPattern.source, "g")))
     .map((match) => ({ value: parseOcrNumber(match[0]), index: match.index ?? 0 }))
@@ -731,13 +774,94 @@ const extractFocusedBasicValues = (lines: string[]) => {
   return extracted;
 };
 
+const buildGlucoseValues = (
+  value: number,
+  unit: "mg_dl" | "mmol_l"
+): Record<string, string> => {
+  if (!Number.isFinite(value)) return {};
+
+  if (unit === "mg_dl") {
+    return {
+      fasting_glucose_mg_dl: formatOcrNumber(value),
+      fasting_glucose_mmol_l: formatOcrNumber(value / glucoseConversionFactor),
+    };
+  }
+
+  return {
+    fasting_glucose_mg_dl: formatOcrNumber(value * glucoseConversionFactor),
+    fasting_glucose_mmol_l: formatOcrNumber(value),
+  };
+};
+
+const glucoseContextPattern = /\b(glucose|glu|accu|chek|check|mgdl|mg\/dl|mmol|mmol\/l)\b/;
+const bloodPressureContextPattern =
+  /\b(sys|dia|pulse|pul|mmhg|bpm|blood pressure|huyet ap|nhip tim|mach|omron|intelli|sense)\b/;
+
+const hasGlucoseContextText = (text: string) =>
+  robustUnitPatterns.mgDl.test(text) ||
+  robustUnitPatterns.mmolL.test(text) ||
+  glucoseContextPattern.test(text);
+
+const hasBloodPressureContextText = (text: string) => bloodPressureContextPattern.test(text);
+
+const extractGlucoseFromNumberSequence = (text: string) => {
+  const normalizedText = normalizeOcrText(text);
+  const extracted: Record<string, string> = {};
+  const numbers = getAllOcrNumbers(normalizedText);
+  const hasGlucoseContext = hasGlucoseContextText(normalizedText);
+  const hasBloodPressureContext = hasBloodPressureContextText(normalizedText);
+
+  if (hasBloodPressureContext && !hasGlucoseContext) {
+    return extracted;
+  }
+
+  const mmolCandidate = numbers.find(
+    (value) => clampOcrValue(value, 2, 30) && !Number.isInteger(value)
+  );
+  const mgCandidate =
+    numbers.find((value) => Number.isInteger(value) && clampOcrValue(value, 40, 500)) ??
+    numbers.find((value) => clampOcrValue(value, 40, 500));
+  const plausibleGlucoseNumbers = numbers.filter((value) => clampOcrValue(value, 40, 500));
+
+  if (!hasGlucoseContext && plausibleGlucoseNumbers.length !== 1) {
+    return extracted;
+  }
+
+  if (robustUnitPatterns.mmolL.test(normalizedText)) {
+    const explicitMmolCandidate =
+      mmolCandidate ?? numbers.find((value) => clampOcrValue(value, 2, 30));
+    if (explicitMmolCandidate !== undefined) {
+      return buildGlucoseValues(explicitMmolCandidate, "mmol_l");
+    }
+  }
+
+  if (robustUnitPatterns.mgDl.test(normalizedText) && mgCandidate !== undefined) {
+    return buildGlucoseValues(mgCandidate, "mg_dl");
+  }
+
+  if (mmolCandidate !== undefined) {
+    return buildGlucoseValues(mmolCandidate, "mmol_l");
+  }
+
+  if (mgCandidate !== undefined) {
+    return buildGlucoseValues(mgCandidate, "mg_dl");
+  }
+
+  const compactDigits = normalizedText.replace(/\D/g, "");
+  if (compactDigits.length === 3) {
+    const compactValue = Number(compactDigits);
+    if (clampOcrValue(compactValue, 40, 500)) {
+      Object.assign(extracted, buildGlucoseValues(compactValue, "mg_dl"));
+    }
+  }
+
+  return extracted;
+};
+
 const extractDeviceGlucose = (text: string, lines: string[]) => {
   const normalizedText = normalizeOcrText(text);
   const extracted: Record<string, string> = {};
-  const hasGlucoseContext =
-    robustUnitPatterns.mgDl.test(normalizedText) ||
-    robustUnitPatterns.mmolL.test(normalizedText) ||
-    /\b(glucose|glu|accu|chek|check|mgdl|mg\/dl)\b/.test(normalizedText);
+  const hasGlucoseContext = hasGlucoseContextText(normalizedText);
 
   if (!hasGlucoseContext) return extracted;
 
@@ -751,23 +875,18 @@ const extractDeviceGlucose = (text: string, lines: string[]) => {
     : undefined;
 
   if (mgValue !== undefined) {
-    extracted.fasting_glucose_mg_dl = formatOcrNumber(mgValue);
-    extracted.fasting_glucose_mmol_l = formatOcrNumber(mgValue / 18.0182);
-    return extracted;
+    return buildGlucoseValues(mgValue, "mg_dl");
   }
 
   if (mmolValue !== undefined) {
-    extracted.fasting_glucose_mmol_l = formatOcrNumber(mmolValue);
-    extracted.fasting_glucose_mg_dl = formatOcrNumber(mmolValue * 18.0182);
-    return extracted;
+    return buildGlucoseValues(mmolValue, "mmol_l");
   }
 
   const candidate = getAllOcrNumbers(text)
     .filter((value) => clampOcrValue(value, 40, 500))
     .sort((first, second) => second - first)[0];
   if (candidate !== undefined) {
-    extracted.fasting_glucose_mg_dl = formatOcrNumber(candidate);
-    extracted.fasting_glucose_mmol_l = formatOcrNumber(candidate / 18.0182);
+    Object.assign(extracted, buildGlucoseValues(candidate, "mg_dl"));
   }
 
   return extracted;
@@ -776,9 +895,7 @@ const extractDeviceGlucose = (text: string, lines: string[]) => {
 const extractDeviceBloodPressure = (text: string, lines: string[]) => {
   const normalizedText = normalizeOcrText(text);
   const extracted: Record<string, string> = {};
-  const hasBloodPressureContext = /\b(sys|dia|pulse|mmhg|blood pressure|huyet ap|nhip tim)\b/.test(
-    normalizedText
-  );
+  const hasBloodPressureContext = hasBloodPressureContextText(normalizedText);
 
   const slashMatch = normalizedText.match(/(\d{2,3})\s*\/\s*(\d{2,3})/);
   if (slashMatch) {
@@ -894,7 +1011,7 @@ const createImageElement = (file: File) =>
 
     image.onerror = () => {
       URL.revokeObjectURL(objectUrl);
-      reject(new Error("Khong the doc anh thiet bi."));
+      reject(new Error("Không thể đọc ảnh thiết bị."));
     };
 
     image.src = objectUrl;
@@ -1568,6 +1685,39 @@ const extractBloodPressureFromNumberSequence = (text: string) => {
   return {};
 };
 
+const extractBloodPressureFromCompactDigits = (text: string): Record<string, string> => {
+  const digitRuns = Array.from(normalizeOcrText(text).matchAll(/\d{6,9}/g), (match) => match[0]);
+
+  for (const run of digitRuns) {
+    for (const systolicLength of [3, 2]) {
+      for (const diastolicLength of [3, 2]) {
+        for (const pulseLength of [3, 2]) {
+          if (systolicLength + diastolicLength + pulseLength !== run.length) continue;
+
+          const systolic = Number(run.slice(0, systolicLength));
+          const diastolic = Number(run.slice(systolicLength, systolicLength + diastolicLength));
+          const pulse = Number(run.slice(systolicLength + diastolicLength));
+
+          if (
+            clampOcrValue(systolic, 80, 260) &&
+            clampOcrValue(diastolic, 40, 160) &&
+            clampOcrValue(pulse, 30, 220) &&
+            systolic > diastolic
+          ) {
+            return {
+              systolic_bp_mean: String(systolic),
+              diastolic_bp_mean: String(diastolic),
+              pulse_mean: String(pulse),
+            };
+          }
+        }
+      }
+    }
+  }
+
+  return {};
+};
+
 const extractBloodPressureFromFileName = (fileName: string) => {
   const compactName = fileName.replace(/\.[^.]+$/, "").replace(/[^0-9]/g, "");
   const candidates = Array.from(compactName.matchAll(/\d{5,6}/g), (match) => match[0]);
@@ -1596,6 +1746,11 @@ const extractBloodPressureFromFileName = (fileName: string) => {
         };
       }
     }
+  }
+
+  const compactValues = extractBloodPressureFromCompactDigits(compactName);
+  if (compactValues.systolic_bp_mean && compactValues.diastolic_bp_mean) {
+    return compactValues;
   }
 
   return {};
@@ -1815,7 +1970,7 @@ const preprocessImageForOcr = (
 
       const context = canvas.getContext("2d", { willReadFrequently: true });
       if (!context) {
-        reject(new Error("Khong the xu ly anh truoc OCR."));
+        reject(new Error("Không thể xử lý ảnh trước OCR."));
         return;
       }
 
@@ -1853,13 +2008,16 @@ const preprocessImageForOcr = (
 
     image.onerror = () => {
       URL.revokeObjectURL(objectUrl);
-      reject(new Error("Khong the doc tep anh."));
+      reject(new Error("Không thể đọc tệp ảnh."));
     };
 
     image.src = objectUrl;
   });
 
 const omronLcdCrops: OcrCrop[] = [
+  { x: 0.33, y: 0.2, width: 0.49, height: 0.47 },
+  { x: 0.34, y: 0.22, width: 0.47, height: 0.44 },
+  { x: 0.35, y: 0.24, width: 0.45, height: 0.42 },
   { x: 0.36, y: 0.32, width: 0.46, height: 0.36 },
   { x: 0.34, y: 0.3, width: 0.5, height: 0.4 },
   { x: 0.38, y: 0.28, width: 0.44, height: 0.42 },
@@ -1872,7 +2030,20 @@ const deviceDisplayCrops: OcrCrop[] = [
   { x: 0.26, y: 0.15, width: 0.54, height: 0.46 },
   { x: 0.3, y: 0.18, width: 0.5, height: 0.42 },
   { x: 0.34, y: 0.2, width: 0.46, height: 0.38 },
+  { x: 0.12, y: 0.06, width: 0.76, height: 0.84 },
+  { x: 0.18, y: 0.08, width: 0.64, height: 0.78 },
+  { x: 0.22, y: 0.12, width: 0.58, height: 0.72 },
+  { x: 0.26, y: 0.14, width: 0.52, height: 0.68 },
 ];
+
+const glucoseDisplayCrops: OcrCrop[] = [
+  { x: 0.28, y: 0.16, width: 0.44, height: 0.46 },
+  { x: 0.3, y: 0.18, width: 0.4, height: 0.42 },
+  { x: 0.24, y: 0.14, width: 0.5, height: 0.5 },
+  { x: 0.18, y: 0.1, width: 0.62, height: 0.62 },
+];
+
+const focusedDeviceCrops: OcrCrop[] = [...deviceDisplayCrops, ...glucoseDisplayCrops];
 
 const preprocessImageVariantsForOcr = async (file: File): Promise<OcrImageVariant[]> => {
   const variants: OcrImageVariant[] = [
@@ -1882,7 +2053,7 @@ const preprocessImageVariantsForOcr = async (file: File): Promise<OcrImageVarian
     },
   ];
 
-  for (const crop of deviceDisplayCrops) {
+  for (const crop of focusedDeviceCrops) {
     variants.push(
       {
         image: await preprocessImageForOcr(file, { crop, threshold: true, scale: 4 }),
@@ -1913,6 +2084,11 @@ const formatProbability = (value?: number) => {
 const getResultLabel = (prediction: number) =>
   prediction === 1 ? "Có nguy cơ" : "Chưa ghi nhận nguy cơ";
 
+const formatSnapshotInputValue = (value: number) => {
+  if (Number.isInteger(value)) return String(value);
+  return String(Number(value.toFixed(2)));
+};
+
 const UserHome: React.FC = () => {
   const ocrInputRef = useRef<HTMLInputElement>(null);
   const [values, setValues] = useState<Record<string, string>>(emptyValues);
@@ -1923,8 +2099,37 @@ const UserHome: React.FC = () => {
   const [ocrMessage, setOcrMessage] = useState("");
   const [ocrHasError, setOcrHasError] = useState(false);
 
+  useEffect(() => {
+    let isMounted = true;
+
+    getDiagnosisSnapshot()
+      .then((snapshot) => {
+        if (!isMounted || !snapshot.has_data) return;
+
+        const nextValues = { ...emptyValues };
+        Object.entries(snapshot.values).forEach(([key, value]) => {
+          if (!(key in nextValues) || typeof value !== "number") return;
+          nextValues[key] = formatSnapshotInputValue(value);
+        });
+
+        setValues(applyDerivedMetrics(nextValues));
+        setResult(snapshot.latest_result);
+        setOcrHasError(false);
+        setOcrMessage("Đã tải hồ sơ chẩn đoán gần nhất của tài khoản này.");
+      })
+      .catch(() => {
+        if (!isMounted) return;
+        setOcrMessage("");
+        setOcrHasError(false);
+      });
+
+    return () => {
+      isMounted = false;
+    };
+  }, []);
+
   const handleChange = (key: string, value: string) => {
-    setValues((current) => ({ ...current, [key]: value }));
+    setValues((current) => applyDerivedMetrics({ ...current, [key]: value }));
     setError("");
   };
 
@@ -1932,10 +2137,12 @@ const UserHome: React.FC = () => {
     setValues(emptyValues);
     setResult(null);
     setError("");
+    setOcrMessage("");
+    setOcrHasError(false);
   };
 
   const handleUseSample = () => {
-    setValues(sampleValues);
+    setValues(applyDerivedMetrics(sampleValues));
     setError("");
     setOcrMessage("");
     setOcrHasError(false);
@@ -1961,8 +2168,10 @@ const UserHome: React.FC = () => {
         const filledKeys = Object.keys(sevenSegmentVisibleValues);
 
         setValues((current) => ({
-          ...current,
-          ...sevenSegmentVisibleValues,
+          ...applyDerivedMetrics({
+            ...current,
+            ...sevenSegmentVisibleValues,
+          }),
         }));
         setResult(null);
         setOcrHasError(false);
@@ -2003,10 +2212,22 @@ const UserHome: React.FC = () => {
       }
 
       const ocrText = recognizedVariants.map((variant) => variant.text).join("\n");
+      const looksLikeBloodPressureImage =
+        hasBloodPressureContextText(normalizeOcrText(ocrText)) ||
+        /\b(omron|mmhg|sys|dia|pulse|bp|huyet|ap)\b/i.test(file.name);
       const focusedBloodPressureValues = recognizedVariants
         .filter((variant) => variant.numericOnly)
-        .map((variant) => extractBloodPressureFromNumberSequence(variant.text))
+        .map((variant) => ({
+          ...extractBloodPressureFromNumberSequence(variant.text),
+          ...extractBloodPressureFromCompactDigits(variant.text),
+        }))
         .reduce<Record<string, string>>((acc, value) => ({ ...acc, ...value }), {});
+      const focusedGlucoseValues = looksLikeBloodPressureImage
+        ? {}
+        : recognizedVariants
+            .filter((variant) => variant.numericOnly)
+            .map((variant) => extractGlucoseFromNumberSequence(variant.text))
+            .reduce<Record<string, string>>((acc, value) => ({ ...acc, ...value }), {});
 
       const extractedValues = {
         ...extractValuesFromOcrText(ocrText),
@@ -2014,6 +2235,7 @@ const UserHome: React.FC = () => {
         ...extractFocusedOcrValues(ocrText),
         ...sevenSegmentValues,
         ...focusedBloodPressureValues,
+        ...focusedGlucoseValues,
       };
       const visibleValues = Object.fromEntries(
         Object.entries(extractedValues).filter(([key]) => key in emptyValues)
@@ -2021,15 +2243,21 @@ const UserHome: React.FC = () => {
       const filledKeys = Object.keys(visibleValues);
 
       if (!filledKeys.length) {
-        setOcrMessage("OCR cục bộ chưa đọc được số, đang thử OCR máy chủ...");
+        setOcrMessage("OCR cục bộ chưa đọc được đủ số, đang thử Google Vision...");
+        let visionFailureMessage = "";
 
         try {
           const visionText = await ocrWithGoogleVision(file);
+          const visionLooksLikeBloodPressure =
+            hasBloodPressureContextText(normalizeOcrText(visionText)) ||
+            /\b(omron|mmhg|sys|dia|pulse|bp|huyet|ap)\b/i.test(file.name);
           const visionExtractedValues = {
             ...extractValuesFromOcrText(visionText),
             ...extractValuesFromOcrTextRobust(visionText),
             ...extractFocusedOcrValues(visionText),
             ...extractBloodPressureFromNumberSequence(visionText),
+            ...extractBloodPressureFromCompactDigits(visionText),
+            ...(visionLooksLikeBloodPressure ? {} : extractGlucoseFromNumberSequence(visionText)),
           };
           const visionVisibleValues = Object.fromEntries(
             Object.entries(visionExtractedValues).filter(([key]) => key in emptyValues)
@@ -2037,13 +2265,15 @@ const UserHome: React.FC = () => {
 
           if (Object.keys(visionVisibleValues).length) {
             setValues((current) => ({
-              ...current,
-              ...visionVisibleValues,
+              ...applyDerivedMetrics({
+                ...current,
+                ...visionVisibleValues,
+              }),
             }));
             setResult(null);
             setOcrHasError(false);
             setOcrMessage(
-              `OCR máy chủ đã tự điền ${Object.keys(visionVisibleValues).length} chỉ số: ${Object.keys(
+              `Google Vision đã tự điền ${Object.keys(visionVisibleValues).length} chỉ số: ${Object.keys(
                 visionVisibleValues
               )
                 .map((key) => fieldLabels[key] ?? key)
@@ -2051,20 +2281,25 @@ const UserHome: React.FC = () => {
             );
             return;
           }
-        } catch {
-          // Keep falling through to the local error message.
+        } catch (visionError) {
+          visionFailureMessage =
+            visionError instanceof Error ? visionError.message : "Google Vision OCR request failed.";
         }
 
         setOcrHasError(true);
         setOcrMessage(
-          "Không tìm thấy chỉ số phù hợp trong ảnh. Hãy thử ảnh rõ hơn hoặc dùng nhãn gần giống tên ô."
+          visionFailureMessage
+            ? `Không thể đọc OCR từ Google Vision: ${visionFailureMessage}`
+            : "Không tìm thấy chỉ số phù hợp trong ảnh. Hãy thử chụp riêng phần màn hình hiển thị số, đủ sáng và thẳng góc."
         );
         return;
       }
 
       setValues((current) => ({
-        ...current,
-        ...visibleValues,
+        ...applyDerivedMetrics({
+          ...current,
+          ...visibleValues,
+        }),
       }));
       setResult(null);
       setOcrMessage(
@@ -2212,6 +2447,7 @@ const UserHome: React.FC = () => {
                         type="number"
                         step="any"
                         value={values[field.key]}
+                        readOnly={field.readOnly}
                         onChange={(event) => handleChange(field.key, event.target.value)}
                       />
                     )}
@@ -2298,3 +2534,4 @@ const UserHome: React.FC = () => {
 };
 
 export default UserHome;
+

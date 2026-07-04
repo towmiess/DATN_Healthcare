@@ -1,4 +1,5 @@
-import { PREDICTION_API_URL } from "@/config";
+import { apiClient } from "@/api/Fetcher";
+import axios from "axios";
 
 export type PredictionInput = Partial<Record<string, number>>;
 
@@ -13,7 +14,17 @@ export type PredictionResult = Record<
   PredictionTargetResult
 >;
 
-const normalizeBaseUrl = (raw: string) => raw.replace(/\/$/, "");
+export type DiagnosisSnapshot = {
+  has_data: boolean;
+  values: Partial<Record<string, number>>;
+  latest_result: PredictionResult | null;
+  latest_assessment: {
+    id: number;
+    created_at: string;
+    risk_level?: string | null;
+    health_score?: number | null;
+  } | null;
+};
 
 const fileToBase64 = (file: File) =>
   new Promise<string>((resolve, reject) => {
@@ -29,49 +40,48 @@ const fileToBase64 = (file: File) =>
 export const predictAll = async (
   payload: PredictionInput
 ): Promise<PredictionResult> => {
-  const response = await fetch(`${normalizeBaseUrl(PREDICTION_API_URL)}/predict/all`, {
-    method: "POST",
-    headers: {
-      Accept: "application/json",
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify(payload),
-  });
+  const response = await apiClient.post<PredictionResult>("/diagnosis/predict/", payload);
+  return response.data;
+};
 
-  if (!response.ok) {
-    const message = await response.text();
-    throw new Error(message || "Prediction request failed");
-  }
-
-  return response.json();
+export const getDiagnosisSnapshot = async (): Promise<DiagnosisSnapshot> => {
+  const response = await apiClient.get<DiagnosisSnapshot>("/diagnosis/profile/");
+  return response.data;
 };
 
 export const ocrWithGoogleVision = async (file: File): Promise<string> => {
   const controller = new AbortController();
-  const timeoutId = window.setTimeout(() => controller.abort(), 5000);
+  const timeoutId = window.setTimeout(() => controller.abort(), 12000);
 
   try {
     const imageBase64 = await fileToBase64(file);
-    const response = await fetch(`${normalizeBaseUrl(PREDICTION_API_URL)}/ocr/google-vision`, {
-      method: "POST",
-      headers: {
-        Accept: "application/json",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
+    const response = await apiClient.post<{ text?: string }>(
+      "/ocr/google-vision/",
+      {
         image_base64: imageBase64,
         mime_type: file.type || "image/jpeg",
-      }),
-      signal: controller.signal,
-    });
+      },
+      { signal: controller.signal }
+    );
 
-    if (!response.ok) {
-      const message = await response.text();
+    return response.data.text ?? "";
+  } catch (error) {
+    if (axios.isAxiosError(error)) {
+      const message =
+        typeof error.response?.data === "object" &&
+        error.response?.data &&
+        "message" in error.response.data &&
+        typeof error.response.data.message === "string"
+          ? error.response.data.message
+          : error.message;
       throw new Error(message || "Google Vision OCR request failed");
     }
 
-    const data = (await response.json()) as { text?: string };
-    return data.text ?? "";
+    if (error instanceof Error) {
+      throw error;
+    }
+
+    throw new Error("Google Vision OCR request failed");
   } finally {
     window.clearTimeout(timeoutId);
   }

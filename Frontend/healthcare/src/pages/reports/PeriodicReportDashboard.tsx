@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+﻿import React, { useEffect, useMemo, useState } from "react";
 import {
   Activity,
   AlertTriangle,
@@ -13,6 +13,11 @@ import {
   LineChart,
   Target,
 } from "lucide-react";
+import {
+  exportPeriodicReport,
+  getReportDashboard,
+  ReportDashboardData,
+} from "@/services/reports";
 import "./PeriodicReportDashboard.scss";
 
 type PeriodType = "weekly" | "monthly";
@@ -108,11 +113,12 @@ const buildChartPath = (points: TrendPoint[]) => {
   const height = 190;
   const min = Math.min(...points.map((point) => point.glucose)) - 10;
   const max = Math.max(...points.map((point) => point.glucose)) + 10;
-  const stepX = width / (points.length - 1);
+  const stepX = points.length > 1 ? width / (points.length - 1) : 0;
+  const range = Math.max(1, max - min);
 
   const coords = points.map((point, index) => {
-    const x = index * stepX;
-    const y = height - ((point.glucose - min) / (max - min)) * height;
+    const x = points.length === 1 ? width / 2 : index * stepX;
+    const y = height - ((point.glucose - min) / range) * height;
     return { x, y, ...point };
   });
 
@@ -127,9 +133,45 @@ const buildChartPath = (points: TrendPoint[]) => {
 
 const PeriodicReportDashboard: React.FC = () => {
   const [periodType, setPeriodType] = useState<PeriodType>("weekly");
-  const trend = periodType === "weekly" ? weeklyTrend : monthlyTrend;
-  const chart = useMemo(() => buildChartPath(trend), [trend]);
+  const [dashboardData, setDashboardData] = useState<ReportDashboardData | null>(null);
+  const trend = dashboardData
+    ? dashboardData.trend
+    : periodType === "weekly"
+      ? weeklyTrend
+      : monthlyTrend;
+  const chart = useMemo(() => (trend.length ? buildChartPath(trend) : null), [trend]);
   const metrics = getMetrics(periodType);
+  const activeComparisonRows = dashboardData ? dashboardData.comparison : comparisonRows;
+  const activeAchievements = dashboardData ? dashboardData.achievements : achievements;
+  const activeIssues = dashboardData ? dashboardData.issues : issues;
+  const activeReportHistory = dashboardData ? dashboardData.history : reportHistory;
+
+  if (dashboardData?.overview) {
+    metrics[0].value = `${dashboardData.overview.avg_glucose} mg/dL`;
+    metrics[1].value = `${dashboardData.overview.health_score}/100`;
+    metrics[2].value = `${dashboardData.overview.bmi}`;
+    metrics[3].value = `${dashboardData.overview.alerts} lần`;
+  }
+
+  useEffect(() => {
+    let isMounted = true;
+
+    getReportDashboard(periodType)
+      .then((data) => {
+        if (isMounted) setDashboardData(data);
+      })
+      .catch(() => {
+        if (isMounted) setDashboardData(null);
+      });
+
+    return () => {
+      isMounted = false;
+    };
+  }, [periodType]);
+
+  const handleExport = (format: "PDF" | "CSV" | "XLSX") => {
+    void exportPeriodicReport(format);
+  };
 
   return (
     <section className="report-page" aria-labelledby="report-title">
@@ -186,21 +228,30 @@ const PeriodicReportDashboard: React.FC = () => {
           </div>
 
           <div className="report-chart" aria-label="Biểu đồ xu hướng đường huyết">
-            <svg viewBox={`0 0 ${chart.width} ${chart.height + 34}`} role="img">
-              <path className="report-chart__area" d={chart.area} />
-              <path className="report-chart__line" d={chart.line} />
-              {chart.coords.map((point) => (
-                <g key={point.label}>
-                  <circle className="report-chart__dot" cx={point.x} cy={point.y} r="5" />
-                  <text x={point.x} y={chart.height + 26} textAnchor="middle">
-                    {point.label}
-                  </text>
-                  <text x={point.x} y={Math.max(14, point.y - 12)} textAnchor="middle" className="report-chart__value">
-                    {point.glucose}
-                  </text>
-                </g>
-              ))}
-            </svg>
+            {chart ? (
+              <svg viewBox={`0 0 ${chart.width} ${chart.height + 34}`} role="img">
+                <path className="report-chart__area" d={chart.area} />
+                <path className="report-chart__line" d={chart.line} />
+                {chart.coords.map((point) => (
+                  <g key={point.label}>
+                    <circle className="report-chart__dot" cx={point.x} cy={point.y} r="5" />
+                    <text x={point.x} y={chart.height + 26} textAnchor="middle">
+                      {point.label}
+                    </text>
+                    <text
+                      x={point.x}
+                      y={Math.max(14, point.y - 12)}
+                      textAnchor="middle"
+                      className="report-chart__value"
+                    >
+                      {point.glucose}
+                    </text>
+                  </g>
+                ))}
+              </svg>
+            ) : (
+              <div className="report-chart__empty">Chưa có dữ liệu đường huyết cho kỳ này.</div>
+            )}
           </div>
         </section>
 
@@ -217,14 +268,18 @@ const PeriodicReportDashboard: React.FC = () => {
           </div>
 
           <div className="report-comparison">
-            {comparisonRows.map((row) => (
-              <div className="report-comparison__row" key={row.label}>
-                <span>{row.label}</span>
-                <strong>{row.current}</strong>
-                <small>{row.previous}</small>
-                <em className={row.good ? "is-good" : "is-warning"}>{row.delta}</em>
-              </div>
-            ))}
+            {activeComparisonRows.length ? (
+              activeComparisonRows.map((row) => (
+                <div className="report-comparison__row" key={row.label}>
+                  <span>{row.label}</span>
+                  <strong>{row.current}</strong>
+                  <small>{row.previous}</small>
+                  <em className={row.good ? "is-good" : "is-warning"}>{row.delta}</em>
+                </div>
+              ))
+            ) : (
+              <div className="report-chart__empty">Chưa có dữ liệu để so sánh kỳ trước.</div>
+            )}
           </div>
         </section>
 
@@ -238,12 +293,16 @@ const PeriodicReportDashboard: React.FC = () => {
           </div>
 
           <div className="report-list">
-            {achievements.map((item) => (
-              <div className="report-list__item" key={item}>
-                <CheckCircle2 size={17} />
-                <span>{item}</span>
-              </div>
-            ))}
+            {activeAchievements.length ? (
+              activeAchievements.map((item) => (
+                <div className="report-list__item" key={item}>
+                  <CheckCircle2 size={17} />
+                  <span>{item}</span>
+                </div>
+              ))
+            ) : (
+              <div className="report-chart__empty">Chưa có thành tựu được ghi nhận.</div>
+            )}
           </div>
         </section>
 
@@ -257,12 +316,16 @@ const PeriodicReportDashboard: React.FC = () => {
           </div>
 
           <div className="report-list report-list--issues">
-            {issues.map((item) => (
-              <div className="report-list__item" key={item}>
-                <AlertTriangle size={17} />
-                <span>{item}</span>
-              </div>
-            ))}
+            {activeIssues.length ? (
+              activeIssues.map((item) => (
+                <div className="report-list__item" key={item}>
+                  <AlertTriangle size={17} />
+                  <span>{item}</span>
+                </div>
+              ))
+            ) : (
+              <div className="report-chart__empty">Chưa có vấn đề nổi bật cho kỳ này.</div>
+            )}
           </div>
         </section>
       </div>
@@ -274,15 +337,15 @@ const PeriodicReportDashboard: React.FC = () => {
         </div>
 
         <div className="report-export__actions">
-          <button type="button">
+          <button type="button" onClick={() => handleExport("PDF")}>
             <FileText size={17} />
             <span>PDF</span>
           </button>
-          <button type="button">
+          <button type="button" onClick={() => handleExport("CSV")}>
             <FileSpreadsheet size={17} />
             <span>CSV</span>
           </button>
-          <button type="button">
+          <button type="button" onClick={() => handleExport("XLSX")}>
             <Download size={17} />
             <span>Lưu bản nháp</span>
           </button>
@@ -292,19 +355,23 @@ const PeriodicReportDashboard: React.FC = () => {
       <section className="report-history">
         <div className="report-history__header">
           <h2>Lịch sử báo cáo</h2>
-          <span>{reportHistory.length} bản ghi</span>
+          <span>{activeReportHistory.length} bản ghi</span>
         </div>
 
         <div className="report-history__table">
-          {reportHistory.map((report) => (
-            <div className="report-history__row" key={report.period}>
-              <span>{report.period}</span>
-              <strong>{report.type}</strong>
-              <small>{report.score}/100</small>
-              <small>{report.avg} mg/dL</small>
-              <em>{report.status}</em>
-            </div>
-          ))}
+          {activeReportHistory.length ? (
+            activeReportHistory.map((report) => (
+              <div className="report-history__row" key={report.period}>
+                <span>{report.period}</span>
+                <strong>{report.type}</strong>
+                <small>{report.score}/100</small>
+                <small>{report.avg} mg/dL</small>
+                <em>{report.status}</em>
+              </div>
+            ))
+          ) : (
+            <div className="report-chart__empty">Chưa có lịch sử báo cáo cho tài khoản này.</div>
+          )}
         </div>
       </section>
     </section>
@@ -312,3 +379,4 @@ const PeriodicReportDashboard: React.FC = () => {
 };
 
 export default PeriodicReportDashboard;
+
