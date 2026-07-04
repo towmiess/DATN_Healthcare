@@ -21,10 +21,20 @@ import org.springframework.web.filter.OncePerRequestFilter;
 import java.io.IOException;
 import java.util.Base64;
 import java.util.Collection;
+import java.util.Set;
 
 @Component
 @RequiredArgsConstructor
 public class JwtTokenFilter extends OncePerRequestFilter {
+
+    private static final Set<String> PUBLIC_AUTH_PATHS = Set.of(
+            "/api/auth/signup",
+            "/api/auth/signin",
+            "/api/auth/check-mail",
+            "/api/auth/check-otp",
+            "/api/auth/reset-password",
+            "/api/auth/refresh-token"
+    );
 
     private final ObjectMapper objectMapper;
     private final JwtTokenUtil jwtTokenUtil;
@@ -36,6 +46,11 @@ public class JwtTokenFilter extends OncePerRequestFilter {
             @NonNull HttpServletResponse response,
             @NonNull FilterChain filterChain
     ) throws ServletException, IOException {
+
+        if (shouldSkipGatewaySignature(request)) {
+            filterChain.doFilter(request, response);
+            return;
+        }
 
         String encodedPayload = request.getHeader("X-User-Context");
         String signature = request.getHeader("X-User-Context-Signature");
@@ -94,5 +109,10 @@ public class JwtTokenFilter extends OncePerRequestFilter {
         }
 
         filterChain.doFilter(request, response);
+    }
+
+    private boolean shouldSkipGatewaySignature(HttpServletRequest request) {
+        return "POST".equalsIgnoreCase(request.getMethod())
+                && PUBLIC_AUTH_PATHS.contains(request.getRequestURI());
     }
 }

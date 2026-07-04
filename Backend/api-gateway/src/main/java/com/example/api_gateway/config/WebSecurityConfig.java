@@ -24,6 +24,7 @@ public class WebSecurityConfig {
                 .cors(cors -> {})
                 .authorizeExchange(ex -> ex
                         .pathMatchers("/api/auth/**").permitAll()
+                        .pathMatchers("/api/health").permitAll()
                         .anyExchange().authenticated()
                 )
                 .oauth2ResourceServer(oauth2 -> oauth2.jwt(jwt -> {}))
