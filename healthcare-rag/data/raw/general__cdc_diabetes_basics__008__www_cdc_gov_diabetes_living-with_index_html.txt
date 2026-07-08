@@ -1,0 +1,94 @@
+===METADATA===
+{
+  "source_name": "cdc_diabetes_basics",
+  "document_title": "CDC Diabetes Basics",
+  "url": "https://www.cdc.gov/diabetes/living-with/index.html",
+  "parent_url": "https://www.cdc.gov/diabetes/about/index.html",
+  "page_index": 8,
+  "category": "general",
+  "language": "en",
+  "source_type": "government_health",
+  "source_priority": 2,
+  "verified_by_doctor": true,
+  "published_date": "",
+  "condition_tags": [
+    "diabetes"
+  ],
+  "crawled_at": "2026-06-05T17:09:41.373104",
+  "char_count": 3051
+}
+===CONTENT===
+Living with Diabetes
+Jan. 1, 2026
+Español
+Key points
+It takes time and practice to live well with diabetes.
+Everything you do to take care of yourself helps.
+Over time, you'll learn how to make diabetes fit with the rest of your life.
+Diabetes basics
+Remember when you first found out you had diabetes and learned the basics of self-care?
+Make and eat healthy food.
+Be active most days.
+Test your blood sugar often.
+Take medicines as prescribed, even if you feel good.
+Learn ways to manage stress.
+Cope with the emotional side of diabetes and learn to manage stress.
+Go to checkups.
+You've had to make diabetes care fit with family, work, school, holidays, and everything else in your life. Here's our short list of tips to help.
+Keep Reading
+Monitoring Your Blood Sugar
+Tips for living well with diabetes
+Healthy eating
+Take the time to cook. Simple recipes can be healthy and delicious.
+Write down or take photos of meals and snacks to help you stay on track.
+Try an online cooking class to learn how to make veggies taste delicious.
+Skip "diabetic" foods. They tend to be high cost and low flavor.
+Make the same food for you and your family. Healthy eating for everyone!
+Try Meatless Monday. Beans and lentils are cheap, tasty, and good for you.
+Have veggies instead of rice or pasta. You can also blend cooked veggies and add them to sauces.
+Keep Reading
+Healthy Eating
+Being active
+Being active is one of the best tools to manage diabetes, and it's free!
+Find ways to be active throughout the day, like climbing stairs.
+Work out with a friend. You'll be more likely to stick with it.
+Try an activity tracker (many are free) and watch your steps add up.
+Try online workout videos. There's something for every level of fitness.
+Keep Reading
+Get active
+Managing stress
+Try meditation or yoga to relax.
+Get moving! Taking a walk can help you unwind.
+Call or make plans to get together with a friend who understands you.
+Keep Reading
+Diabetes and Mental Health
+Getting enough sleep
+Keep your bedroom dark and cool (65 degrees is recommended).
+Keep TVs, computers, and smartphones out of the bedroom.
+Get some physical activity during the day.
+Mentally unwind and relax before bedtime.
+Have a bedtime routine, like taking a shower or reading.
+Healthy habits
+For new habits, start small. Small successes make bigger goals easier.
+Make goals specific: "I'm going to walk after dinner on weekdays."
+Make good choices easier, such as leaving the dog's leash by the door.
+Keep Reading
+3 Steps to Building a Healthy Habit
+Resources and support
+Diabetes self-management education and support
+(DSMES) can help you:
+Learn practical skills.
+Gain confidence.
+Get support.
+Everyone with diabetes can benefit from DSMES, whether they’re newly diagnosed or have had it for several years.
+DSMES Services
+Ask your doctor to recommend a diabetes educator. You can also search the
+Find a DSMES Program
+for a list of educators in your community.
+Jan. 1, 2026
+Sources
+Print
+Share
+Content Source:
+National Center for Chronic Disease Prevention and Health Promotion
+Diabetes

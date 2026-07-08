@@ -1,0 +1,167 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org/healthy-living/medication-treatments/oral-medication",
+  "title": "Oral Medications - ADA",
+  "category": "medication",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-11T03:11:03.770027",
+  "source_name": "diabetes.org",
+  "document_title": "Oral Medications - ADA",
+  "verified_by_doctor": false
+}
+===CONTENT===
+Oral Medications - ADA
+
+What Are My Options for Type 2 Diabetes Medications? | ADA 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 5) ? true : false; "
+ >
+ 
+ 
+ Skip to Main content
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ main content start 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Health & Wellness
+ 
+ 
+ Oral & Injectable Medications for Type 2 Diabetes
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ People with type 2 diabetes can use various medications other than insulin to help manage their diabetes effectively. However, individuals with type 1 diabetes must rely on insulin for blood glucose (blood sugar) management. Many type 2 diabetes medications, including oral and injectable options, work in different ways to regulate blood glucose levels. Managing type 2 diabetes involves a comprehensive approach that includes meal planning, regular physical activity, and the right diabetes medications. By combining these three strategies, individuals can effectively regulate their blood glucose levels. Oral medications for type 2 diabetes are commonly prescribed as part of a treatment plan to help maintain stable blood glucose levels. Diabetes is a progressive disease and medications sometimes stop working as well over time. When this happens adjustments to your medication or combination therapy can help, which may include adding insulin to your treatment plan. This doesn't mean you're doing something wrong. Even if diabetes other medications do bring your blood glucose levels near the normal range, you may need to take insulin if you have a severe infection or need surgery. Other medications may not be able to keep your blood glucose levels in your target range during these stressful times that affect your blood glucose. Common Type 2 Diabetes Medications There are different types, or classes, of medications that work in different ways to lower blood glucose levels. Some options are taken by mouth and others are injected. Some of the commonly used classes of non-insulin medications include: Metformin Dipeptidyl peptidase 4 (DPP-4) inhibitors Glucagon-like peptide 1 (GLP-1) and dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 receptor agonists Sodium-glucose cotransporter 2 (SGLT2) inhibitors Sulfonylureas Thiazolidinediones (TZDs) Metformin Metformin (Glucophage) is classified as a biguanide medication and is the only available medication in this class. Metformin lowers blood glucose levels primarily by decreasing the amount of glucose produced by the liver. Metformin also helps lower blood glucose levels by making muscle tissue more sensitive to insulin so blood glucose can be used for energy. It is usually taken two times a day. A side effect of metformin may be diarrhea, but this is improved when the drug is taken with food. DPP-4 Inhibitors DPP-4 inhibitors help improve A1C (a measure of average blood glucose levels over two to three months) without causing hypoglycemia (low blood glucose). They work by preventing the breakdown of naturally occurring hormones in the body, GLP-1 and GIP. These hormones reduce blood glucose levels in the body, but they are broken down very quickly so it does not work well when injected as a drug itself. By interfering in the process that breaks down GLP-1 and GIP, DPP-4 inhibitors allow these hormones to remain active in the body longer, lowering blood glucose levels only when they are elevated. DPP-4 inhibitors do not cause weight gain and are usually very well tolerated. There are four DPP-4 inhibitors currently on the market in the U.S.: Alogliptin (Nesina) Linagliptin (Tradjenta) Saxagliptin (Onglyza) Sitagliptin (Januvia) GLP-1 and Dual GLP-1/GIP Receptor Agonists As noted in the description for DPP-4 inhibitors, GLP-1 and GIP are natural hormones in the body that help maintain glucose levels. Use of GLP-1 and dual GLP-1/GIP receptor agonists is another strategy to help use these hormones to improve blood glucose management in people with type 2 diabetes. These medications have similar effects to the GLP-1 and GIP produced in the body but are resistant to being broken down by the DPP-4 enzyme. These medications can result in large benefits on lowering blood glucose and body weight. Some agents in this class have also been shown to prevent heart disease. Most of these medications are injected, with the exception of one that is taken by mouth once daily, called semaglutide (Rybelsus). Injectable GLP-1 receptor agonists currently on the market include: Dulaglutide (Trulicity) Exenatide (Byetta) Exenatide extended-release (Bydureon) Liraglutide (Victoza) Lixisenatide (Adlyxin) Injectable semaglutide (Ozempic) One dual GLP-1/GIP receptor agonist is currently on the market called tirzepatide (Mounjaro). How often you need to inject these medications varies from twice daily to once weekly, depending on the medication. The most common side effect with these medications is nausea and vomiting, which is more common when starting or increasing the dose. SGLT2 Inhibitors Glucose in the bloodstream passes through the kidneys where it can either be excreted in the urine or reabsorbed back into the blood. Sodium-glucose cotransporter 2 (SGLT2) works in the kidney to reabsorb glucose. A new class of medication, SGLT2 inhibitors, block this action, causing excess glucose to be eliminated in the urine. By increasing the amount of glucose excreted in the urine, people can see improved blood glucose, some weight loss, and small decreases in blood pressure. Bexagliflozin (Brenzavvy), canagliflozin (Invokana), dapagliflozin (Farxiga), and empagliflozin (Jardiance) are SGLT2 inhibitors that have been approved by the Food and Drug Administration (FDA) to treat type 2 diabetes. SGLT2 inhibitors are also known to help improve outcomes in people with heart disease, kidney disease, and heart failure. For this reason, these medications are often used in people with type 2 diabetes who also have heart or kidney problems. Because they increase glucose levels in the urine, the most common side effects include genital yeast infections. Sulfonylureas Sulfonylureas have been in use since the 1950s and they stimulate beta cells in the pancreas to release more insulin. There are three main sulfonylurea drugs used today, glimepiride (Amaryl), glipizide (Glucotrol and Glucotrol XL), and glyburide (Micronase, Glynase, and Diabeta). These drugs are generally taken one to two times a day before meals. All sulfonylurea drugs have similar effects on blood glucose levels, but they differ in side effects, how often they are taken, and interactions with other drugs. The most common side effects with sulfonylureas are low blood glucose and weight gain. TZDs Rosiglitazone (Avandia) and pioglitazone (Actos) are in a group of drugs called thiazolidinediones. These drugs help insulin work better in the muscle and fat and reduce glucose production in the liver. A benefit of TZDs is that they lower blood glucose without having a high risk for causing low blood glucose. Both drugs in this class can increase the risk for heart failure in some individuals and can also cause fluid retention (edema) in the legs and feet. Less Commonly Used Medications In addition to the commonly used classes discussed above, there are other less commonly used medications that can work well for some people: Alpha glucosidase inhibitors Bile acid sequestrants Dopamine-2 agonists Meglitinides Alpha-Glucosidase Inhibitors Acarbose (Precose) and miglitol (Glyset) are alpha-glucosidase inhibitors. These drugs help the body lower blood glucose levels by blocking the breakdown of starches, such as bread, potatoes, and pasta in the intestine. By slowing the breakdown of these foods, this slows the rise in blood glucose levels after a meal. These medications should be taken with the first bite of each meal, so they need to be taken multiple times daily. Based on how these medications work, they commonly cause gastrointestinal side effects including gas and diarrhea. Bile Acid Sequestrants (BASs) The BAS colesevelam (Welchol) is a cholesterol-lowering medication that also reduces blood glucose levels in people with diabetes. BASs help remove cholesterol from the body, particularly LDL cholesterol, which is often elevated in people with diabetes. The medications reduce LDL cholesterol by binding with bile acids in the digestive system. The body in turn uses cholesterol to replace the bile acids, which lowers cholesterol levels. The mechanism by which colesevelam lowers glucose levels is not well understood. Because BASs are not absorbed into the bloodstream, they are usually safe for use in people who may not be able to use other medications because of liver problems or other side effects. Because of the way they work, side effects of BASs can include flatulence and constipation, and they can interact with the absorption of other medications taken at the same time. Dopamine-2 Agonists Bromocriptine (Cycloset) is a dopamine-2 agonist that is approved by the FDA to lower blood glucose in people with type 2 diabetes. Bromocriptine is taken once daily in the morning. A common side effect is nausea. Meglitinides Meglitinides are drugs that also stimulate beta cells to release insulin. Nateglinide (Starlix) and repaglinide (Prandin) are both meglitinides. They are taken before each meal to help lower glucose after you eat. Because meglitinides stimulate the release of insulin, it is possible to have low blood glucose when taking these medications. Combination Therapy Because the drugs listed above act in different ways to lower blood glucose levels, they may be used together to help meet your individualized diabetes goals. For example, metformin and a DPP-4 inhibitor may be used together shortly after being diagnosed with type 2 diabetes to help keep blood glucose levels at goal. That said, many combinations can be used. Work with your health care provider to find the combination of medicines that work best for you and your lifestyle and help you meet your health goals. Insulin may also be used to treat type 2 diabetes . Is There a Danger of Interactions? In general, diabetes medications are safe and work well. But like any other medication, they must be used with care. Diabetes medications can interact with other medications. Because of the chance of these interactions, you need to tell your doctor about everything you are taking, including over-the-counter medications and vitamins and other supplements. While you're taking diabetes medications, you should also check with your doctor before starting anything new—even over-the-counter items. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Check Out the New Consumer Guide
+ 
+ 
+ 
+ 
+ 
+ Technology has become an essential part of diabetes management. Compare and learn about continuous glucose monitors (CGMs), insulin pumps, blood glucose meters, and more in the new Consumer Guide! 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ Visit the Consumer Guide
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Give Today and Change lives! 
+ With your support, the American Diabetes Association® can continue our lifesaving work to make breakthroughs in research and provide people with the resources they need to fight diabetes. 
+ 
+ Give Today 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Advertisement 
+ x

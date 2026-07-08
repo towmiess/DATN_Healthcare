@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ingest_state.json
+data/raw/
+# KHÔNG ignore data/pdfs/ — cần giữ PDF
+# KHÔNG ignore data/ hoàn toàn
+venv/
+.venv/
+*.egg-info/
+dist/
+build/

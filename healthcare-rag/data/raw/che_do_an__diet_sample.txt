@@ -1,0 +1,53 @@
+===METADATA===
+{
+  "source_name": "diet_sample",
+  "url": "https://example.com/diet",
+  "category": "che_do_an",
+  "language": "vi",
+  "crawled_at": "2024-01-01T00:00:00",
+  "char_count": 1682
+}
+===CONTENT===
+Chế Độ Ăn Cho Người Tiểu Đường Type 2
+
+NGUYÊN TẮC CƠ BẢN
+Không có chế độ ăn "một size cho tất cả" với tiểu đường. Mục tiêu chính là kiểm soát lượng carbohydrate (tinh bột, đường) để tránh đường huyết tăng đột ngột sau ăn.
+
+CHỈ SỐ GLYCEMIC INDEX (GI)
+GI đo tốc độ thức ăn làm tăng đường huyết:
+- GI thấp (< 55): tốt cho người tiểu đường
+- GI trung bình (55–70): ăn vừa phải
+- GI cao (> 70): hạn chế tối đa
+
+THỰC PHẨM NÊN ĂN
+Rau xanh không tinh bột: rau muống, cải xanh, bông cải, dưa leo, cà chua
+Protein nạc: ức gà, cá (đặc biệt cá béo như cá hồi, cá thu), đậu hũ, trứng
+Ngũ cốc nguyên hạt: gạo lứt, yến mạch, bánh mì nguyên cám
+Chất béo lành mạnh: dầu ô liu, bơ (avocado), hạt óc chó, hạnh nhân
+Trái cây GI thấp: táo, lê, cam, bưởi, dâu tây
+
+THỰC PHẨM CẦN HẠN CHẾ
+Cơm trắng, bánh mì trắng, bún, phở, mì (GI cao)
+Đồ ngọt: bánh kẹo, nước ngọt, chè, kem
+Thức ăn chiên xào nhiều dầu mỡ
+Thịt mỡ, thịt chế biến sẵn (xúc xích, thịt nguội)
+Rượu bia: làm hạ đường huyết đột ngột, nguy hiểm
+
+VÍ DỤ MỘT NGÀY ĂN LÀNH MẠNH
+Bữa sáng: Cháo yến mạch + 1 quả trứng luộc + rau xanh
+Bữa trưa: Cơm gạo lứt (1/2 chén nhỏ) + cá kho + canh rau
+Bữa tối: Bún (nhỏ) hoặc khoai lang + thịt gà + rau xào
+Bữa phụ: Một nắm hạt (hạnh nhân, óc chó) hoặc 1 quả táo
+
+VỀ PHỞ VÀ BÚN
+Phở và bún có GI cao (60–70), làm đường huyết tăng nhanh. Nếu ăn:
+- Chọn phần nhỏ (nửa tô bình thường)
+- Tăng rau giá, rau thơm
+- Giảm nước dùng (nhiều muối và đường)
+- Ăn protein (thịt, trứng) trước để làm chậm hấp thu đường
+- Đo đường huyết sau ăn 1-2 giờ để xem phản ứng cơ thể
+
+PHÂN CHIA BỮA ĂN
+Nên ăn 3 bữa chính + 1-2 bữa phụ nhỏ.
+Không bỏ bữa: dễ gây hạ đường huyết (nếu đang dùng thuốc).
+Ăn đúng giờ giúp ổn định đường huyết.

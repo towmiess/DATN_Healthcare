@@ -1,0 +1,44 @@
+===METADATA===
+{
+  "source_name": "nice_ng28_type2_diabetes",
+  "document_title": "NICE NG28 Type 2 Diabetes in Adults: Management",
+  "url": "https://www.nice.org.uk/guidance/ng28/chapter/Using-this-guideline",
+  "parent_url": "https://www.nice.org.uk/guidance/ng28",
+  "page_index": 6,
+  "category": "medication",
+  "language": "en",
+  "source_type": "official_guideline",
+  "source_priority": 1,
+  "verified_by_doctor": true,
+  "published_date": "",
+  "condition_tags": [
+    "type2_diabetes",
+    "medication"
+  ],
+  "crawled_at": "2026-06-05T17:10:26.679784",
+  "char_count": 986
+}
+===CONTENT===
+Type 2 diabetes in adults: management
+NICE guideline
+Reference number:
+NG28
+Published:
+02 December 2015
+Last updated:
+18 February 2026
+Download guidance (PDF)
+Using this guideline
+People have the right to be involved in discussions and make informed decisions about their care, as described in
+NICE's information on making decisions about your care
+Making decisions using NICE guidelines
+Â explains how we use words to show the strength (or certainty) of our recommendations, and has information about prescribing medicines (including off-label use), professional guidelines, standards and laws (including on consent and mental capacity), and safeguarding.
+Healthcare professionals should follow our general guidelines for people delivering care:
+Patient experience in adult NHS services
+Shared decision making
+Medicines adherence
+Medicines optimisation
+Multimorbidity
+Decision making and mental capacity
+Read this guideline alongside the
+NHS Type 2 diabetes Path to Remission Programme

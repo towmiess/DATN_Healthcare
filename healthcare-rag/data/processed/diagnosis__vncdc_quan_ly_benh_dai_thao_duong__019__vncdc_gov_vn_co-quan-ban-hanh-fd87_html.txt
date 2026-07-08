@@ -1,0 +1,40 @@
+Tin tức
+Văn bản quy phạm pháp luật
+Cơ quan ban hành
+Bộ y tế
+Bộ/Cơ quan ngang bộ
+Chính phủ
+Liên bộ
+Quốc hội
+Thủ tướng Chính phủ
+Loại văn bản
+Hiến pháp
+Sắc lệnh - Sắc luật
+Luật - Pháp lệnh
+Nghị định
+Quyết định
+Thông tư
+Văn bản
+Văn bản chỉ đạo - điều hành
+Chỉ thị
+Công điện
+Văn bản dự thảo - xin ý kiến
+Tài liệu Tập Huấn - Hội nghị
+Thủ tục hành chính
+Văn bản ban hành
+Số/ký hiệu
+Số/ký hiệu
+{{cat}}
+Năm ban hành
+Năm ban hành
+{{cat}}
+Trích yếu
+Tìm kiếm
+Số/ký hiệu
+Năm ban hành
+Trích yếu
+Đính kèm
+{{data.code}}
+{{data.publicdate_time}}
+{{data.display_name}}
+Download
