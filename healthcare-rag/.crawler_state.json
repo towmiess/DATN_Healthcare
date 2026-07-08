@@ -3,27 +3,100 @@
     "url": "https://www.cdc.gov/diabetes/diabetes-testing/index.html",
     "title": "Diabetes Testing - CDC",
     "category": "blood_glucose",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:45:00.353293",
     "file": "blood_glucose__cdc_gov__diabetes_diabetes-testing_indexhtml.pdf"
+=======
+    "saved_at": "2026-06-27T23:04:56.191005",
+    "file": "blood_glucose__cdc_gov__diabetes_diabetes-testing_indexhtml.txt"
+>>>>>>> Stashed changes
   },
   "9f5956829e08": {
     "url": "https://www.hellobacsi.com/dai-thao-duong/song-chung-voi-benh/kiem-tra-duong-huyet/",
     "title": "Kiểm Tra Đường Huyết - HelloBacsi",
     "category": "blood_glucose",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-11T03:09:43.981909",
     "file": "blood_glucose__hellobacsi_com__dai-thao-duong_song-chung-voi-benh_kiem-tra-duong-huyet.txt"
   },
+=======
+    "saved_at": "2026-06-24T10:01:02.293595",
+    "file": "blood_glucose__hellobacsi_com__dai-thao-duong_song-chung-voi-benh_kiem-tra-duong-huyet.txt"
+  },
+  "eb52aadf2c89": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/hba1c",
+    "title": "HbA1c - Diabetes UK",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:05:22.151517",
+    "file": "blood_glucose__diabetes_org_uk__about-diabetes_looking-after-diabetes_hba1c.txt"
+  },
+  "f6f47a667c26": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/blood-sugar-levels",
+    "title": "Blood sugar levels",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:05:28.573818",
+    "file": "blood_glucose__diabetes_org_uk__about-diabetes_looking-after-diabetes_blood-sugar-levels.txt"
+  },
+  "46ea78f8fe8d": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/treatments/insulin/resistance",
+    "title": "Insulin resistance",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:05:35.138350",
+    "file": "blood_glucose__diabetes_org_uk__about-diabetes_looking-after-diabetes_treatments_insulin_res.txt"
+  },
+  "029a0b90dc2b": {
+    "url": "https://www.vinmec.com/vie/bai-viet/mat-kiem-soat-duong-mau-o-nguoi-dai-thao-duong-vi",
+    "title": "Mất kiểm soát đường máu",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:05:38.221320",
+    "file": "blood_glucose__vinmec_com__vie_bai-viet_mat-kiem-soat-duong-mau-o-nguoi-dai-thao-duong-.txt"
+  },
+  "eff333abbff7": {
+    "url": "https://www.vinmec.com/vie/bai-viet/theo-doi-duong-mau-nhu-nao-cho-nguoi-benh-dai-thao-duong-vi",
+    "title": "Theo dõi đường máu",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:05:42.278222",
+    "file": "blood_glucose__vinmec_com__vie_bai-viet_theo-doi-duong-mau-nhu-nao-cho-nguoi-benh-dai-t.txt"
+  },
+  "85c62dc07f41": {
+    "url": "https://www.healthline.com/health/diabetes/how-to-improve-blood-sugar-1-week",
+    "title": "Improve blood sugar in 1 week",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:06:14.220728",
+    "file": "blood_glucose__healthline_com__health_diabetes_how-to-improve-blood-sugar-1-week.txt"
+  },
+  "f0c9fd2c27a2": {
+    "url": "https://www.medicalnewstoday.com/articles/glucose-blood-test",
+    "title": "Glucose blood test",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:06:22.479103",
+    "file": "blood_glucose__medicalnewstoday_com__articles_glucose-blood-test.txt"
+  },
+  "12a174bb84ec": {
+    "url": "https://www.medicalnewstoday.com/articles/how-to-prevent-blood-sugar-spikes",
+    "title": "Prevent blood sugar spikes",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:06:25.523632",
+    "file": "blood_glucose__medicalnewstoday_com__articles_how-to-prevent-blood-sugar-spikes.txt"
+  },
+>>>>>>> Stashed changes
   "b8823af458b0": {
     "url": "https://www.cdc.gov/diabetes/signs-symptoms/index.html",
     "title": "Diabetes Signs & Symptoms - CDC",
     "category": "diagnosis",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:45:25.002618",
     "file": "diagnosis__cdc_gov__diabetes_signs-symptoms_indexhtml.pdf"
+=======
+    "saved_at": "2026-06-27T23:06:31.679847",
+    "file": "diagnosis__cdc_gov__diabetes_signs-symptoms_indexhtml.txt"
+>>>>>>> Stashed changes
   },
   "e0f9c8b4c0bf": {
     "url": "https://www.diabetes.org/diabetes/a1c",
     "title": "A1C and Diagnosis - ADA",
     "category": "diagnosis",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:45:29.157452",
     "file": "diagnosis__diabetes_org__diabetes_a1c.pdf"
   },
@@ -33,11 +106,16 @@
     "category": "diagnosis",
     "saved_at": "2026-06-12T08:45:48.364572",
     "file": "diagnosis__hellobacsi_com__dai-thao-duong_chan-doan-benh_chan-doan-tieu-duong-type-2.txt"
+=======
+    "saved_at": "2026-06-27T23:07:01.375982",
+    "file": "diagnosis__diabetes_org__diabetes_a1c.txt"
+>>>>>>> Stashed changes
   },
   "10acdc1a5302": {
     "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes",
     "title": "What Is Diabetes - NIDDK",
     "category": "diagnosis",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:45:53.462267",
     "file": "diagnosis__niddk_nih_gov__health-information_diabetes_overview_what-is-diabetes.pdf"
   },
@@ -54,25 +132,160 @@
     "category": "diet",
     "saved_at": "2026-06-12T08:46:02.216689",
     "file": "diet__niddk_nih_gov__health-information_diabetes_overview_diet-eating-physical-ac.pdf"
+=======
+    "saved_at": "2026-06-27T23:06:45.623354",
+    "file": "diagnosis__niddk_nih_gov__health-information_diabetes_overview_what-is-diabetes.txt"
+  },
+  "04bea1c43a03": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/type-1-diabetes/symptoms",
+    "title": "Type 1 symptoms",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:07:07.297084",
+    "file": "diagnosis__diabetes_org_uk__about-diabetes_type-1-diabetes_symptoms.txt"
+  },
+  "58e4078b27e1": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/type-1-diabetes/causes",
+    "title": "Type 1 causes",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:07:13.929666",
+    "file": "diagnosis__diabetes_org_uk__about-diabetes_type-1-diabetes_causes.txt"
+  },
+  "c92674ea460d": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/symptoms",
+    "title": "Type 2 symptoms",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:07:19.751513",
+    "file": "diagnosis__diabetes_org_uk__about-diabetes_type-2-diabetes_symptoms.txt"
+  },
+  "a1d597769544": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/causes",
+    "title": "Type 2 causes",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:07:26.385548",
+    "file": "diagnosis__diabetes_org_uk__about-diabetes_type-2-diabetes_causes.txt"
+  },
+  "131c9e85102b": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/prediabetes",
+    "title": "Prediabetes overview",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:07:33.186616",
+    "file": "diagnosis__diabetes_org_uk__about-diabetes_type-2-diabetes_prediabetes.txt"
+  },
+  "25789332b00e": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/test-for-diabetes",
+    "title": "Test for diabetes",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:07:39.923337",
+    "file": "diagnosis__diabetes_org_uk__about-diabetes_test-for-diabetes.txt"
+  },
+  "17dff9db5050": {
+    "url": "https://www.hellobacsi.com/dai-thao-duong/chan-doan-benh/chan-doan-tieu-duong-type-2/",
+    "title": "Chẩn Đoán Tiểu Đường Type 2 - HelloBacsi",
+    "category": "diagnosis",
+    "saved_at": "2026-06-24T10:01:49.813977",
+    "file": "diagnosis__hellobacsi_com__dai-thao-duong_chan-doan-benh_chan-doan-tieu-duong-type-2.txt"
+  },
+  "295ff8d1a3f7": {
+    "url": "https://www.diabetes.org/healthy-living/recipes-nutrition/eating-well",
+    "title": "Eating Well - ADA",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:08:55.564561",
+    "file": "diet__diabetes_org__healthy-living_recipes-nutrition_eating-well.txt"
+  },
+  "b70b198faaf4": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/diet-eating-physical-activity",
+    "title": "Physical Activity - NIDDK",
+    "category": "lifestyle",
+    "saved_at": "2026-06-27T23:13:00.858834",
+    "file": "lifestyle__niddk_nih_gov__health-information_diabetes_overview_diet-eating-physical-ac.txt"
+  },
+  "67ac668beb75": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/prevention/healthy-eating-tips-to-lower-type-2-risk",
+    "title": "Healthy eating tips type 2",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:09:14.804963",
+    "file": "diet__diabetes_org_uk__about-diabetes_type-2-diabetes_prevention_healthy-eating-tip.txt"
+  },
+  "111135dfbbee": {
+    "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/i-have-type-1-diabetes",
+    "title": "Eating guide type 1",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:09:20.891947",
+    "file": "diet__diabetes_org_uk__living-with-diabetes_eating_i-have-type-1-diabetes.txt"
+  },
+  "87a733ea03f9": {
+    "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/i-have-type-2-diabetes",
+    "title": "Eating guide type 2",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:09:26.733771",
+    "file": "diet__diabetes_org_uk__living-with-diabetes_eating_i-have-type-2-diabetes.txt"
+>>>>>>> Stashed changes
   },
   "5926eb090f20": {
     "url": "https://www.hellobacsi.com/dai-thao-duong/an-uong-dinh-duong/",
     "title": "Ăn Uống Dinh Dưỡng Tiểu Đường - HelloBacsi",
     "category": "diet",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:46:07.756264",
     "file": "diet__hellobacsi_com__dai-thao-duong_an-uong-dinh-duong.txt"
   },
+=======
+    "saved_at": "2026-06-24T10:02:07.343360",
+    "file": "diet__hellobacsi_com__dai-thao-duong_an-uong-dinh-duong.txt"
+  },
+  "48dd8cbaf0ce": {
+    "url": "https://www.vinmec.com/vie/bai-viet/dinh-duong-trong-benh-dai-thao-duong-vi",
+    "title": "Dinh dưỡng trong bệnh ĐTĐ",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:09:29.126093",
+    "file": "diet__vinmec_com__vie_bai-viet_dinh-duong-trong-benh-dai-thao-duong-vi.txt"
+  },
+  "077ec160d751": {
+    "url": "https://www.vinmec.com/vie/bai-viet/dinh-duong-trong-dieu-tri-dai-thao-duong",
+    "title": "Dinh dưỡng trong điều trị ĐTĐ",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:09:40.175386",
+    "file": "diet__vinmec_com__vie_bai-viet_dinh-duong-trong-dieu-tri-dai-thao-duong.txt"
+  },
+  "fb745d139722": {
+    "url": "https://www.healthline.com/nutrition/foods-to-avoid-with-diabetes",
+    "title": "Foods to avoid with diabetes",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:10:11.330108",
+    "file": "diet__healthline_com__nutrition_foods-to-avoid-with-diabetes.txt"
+  },
+  "7ba09fc7ea5b": {
+    "url": "https://www.medicalnewstoday.com/articles/317536",
+    "title": "Diet for type 2 diabetes",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:10:24.587922",
+    "file": "diet__medicalnewstoday_com__articles_317536.txt"
+  },
+  "8843c99034f4": {
+    "url": "https://www.cdc.gov/diabetes/treatment/low-blood-sugar.html",
+    "title": "Low Blood Sugar Treatment - CDC",
+    "category": "emergency",
+    "saved_at": "2026-06-27T23:10:34.885990",
+    "file": "emergency__cdc_gov__diabetes_treatment_low-blood-sugarhtml.txt"
+  },
+>>>>>>> Stashed changes
   "0148c55f104d": {
     "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia",
     "title": "Hypoglycemia - NIDDK",
     "category": "emergency",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:46:16.542579",
     "file": "emergency__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_low.pdf"
+=======
+    "saved_at": "2026-06-27T23:10:39.437453",
+    "file": "emergency__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_low.txt"
+>>>>>>> Stashed changes
   },
   "8eb6973eebca": {
     "url": "https://www.hellobacsi.com/dai-thao-duong/bien-chung/ha-duong-huyet-nguy-hiem/",
     "title": "Hạ Đường Huyết Nguy Hiểm - HelloBacsi",
     "category": "emergency",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-11T03:10:31.285780",
     "file": "emergency__hellobacsi_com__dai-thao-duong_bien-chung_ha-duong-huyet-nguy-hiem.txt"
   },
@@ -82,18 +295,99 @@
     "category": "general",
     "saved_at": "2026-06-12T08:46:41.571943",
     "file": "general__who_int__news-room_fact-sheets_detail_diabetes.pdf"
+=======
+    "saved_at": "2026-06-24T10:02:26.334768",
+    "file": "emergency__hellobacsi_com__dai-thao-duong_bien-chung_ha-duong-huyet-nguy-hiem.txt"
+  },
+  "7910c769c5cd": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/bien-chung-tieu-duong/bien-chung-cap-tinh-cua-benh-tieu-duong/",
+    "title": "Biến Chứng Tim Mạch - HelloBacsi",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-06-27T23:16:11.296485",
+    "file": "complication_cardiovascular__hellobacsi_com__tieu-duong-dai-thao-duong_bien-chung-tieu-duong_bien-chung-c.txt"
+  },
+  "c56ad6b44c65": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/treatments/insulin/accidental-overdose",
+    "title": "Insulin accidental overdose",
+    "category": "emergency",
+    "saved_at": "2026-06-27T23:10:54.396490",
+    "file": "emergency__diabetes_org_uk__about-diabetes_looking-after-diabetes_treatments_insulin_acc.txt"
+  },
+  "bb94192c0836": {
+    "url": "https://www.vinmec.com/vie/bai-viet/phat-hien-ha-duong-huyet-o-nguoi-benh-dai-thao-vi",
+    "title": "Phát hiện hạ đường huyết",
+    "category": "emergency",
+    "saved_at": "2026-06-27T23:10:57.715136",
+    "file": "emergency__vinmec_com__vie_bai-viet_phat-hien-ha-duong-huyet-o-nguoi-benh-dai-thao-.txt"
+  },
+  "1cadb878d9ce": {
+    "url": "https://www.medicalnewstoday.com/articles/320739",
+    "title": "Hypoglycemia - MNT",
+    "category": "emergency",
+    "saved_at": "2026-06-27T23:11:16.700848",
+    "file": "emergency__medicalnewstoday_com__articles_320739.txt"
+  },
+  "0c75b18ba134": {
+    "url": "https://www.cdc.gov/diabetes/basics/index.html",
+    "title": "Diabetes Basics - CDC",
+    "category": "general",
+    "saved_at": "2026-06-27T23:11:33.518100",
+    "file": "general__cdc_gov__diabetes_basics_indexhtml.txt"
+>>>>>>> Stashed changes
   },
   "b5d19dec3afe": {
     "url": "https://www.hellobacsi.com/dai-thao-duong/tong-quan/tieu-duong-la-gi/",
     "title": "Tiểu Đường Là Gì - HelloBacsi",
     "category": "general",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:46:58.966600",
     "file": "general__hellobacsi_com__dai-thao-duong_tong-quan_tieu-duong-la-gi.txt"
   },
+=======
+    "saved_at": "2026-06-24T10:02:53.641569",
+    "file": "general__hellobacsi_com__dai-thao-duong_tong-quan_tieu-duong-la-gi.txt"
+  },
+  "f079e40c35a8": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/bien-chung-tieu-duong/benh-tieu-duong-nguy-hiem-nhu-the-nao/",
+    "title": "Bệnh tiểu đường nguy hiểm - HelloBacsi",
+    "category": "general",
+    "saved_at": "2026-06-27T23:12:25.371604",
+    "file": "general__hellobacsi_com__tieu-duong-dai-thao-duong_bien-chung-tieu-duong_benh-tieu-du.txt"
+  },
+  "ee08b77a899f": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications",
+    "title": "Diabetes complications overview",
+    "category": "general",
+    "saved_at": "2026-06-27T23:12:02.986290",
+    "file": "general__diabetes_org_uk__about-diabetes_looking-after-diabetes_complications.txt"
+  },
+  "05bbd8241dd2": {
+    "url": "https://www.vinmec.com/vie/bai-viet/bien-chung-tren-benh-nhan-dai-thao-duong-vi",
+    "title": "Biến chứng tim mạch ĐTĐ - Vinmec",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-06-27T23:16:04.514636",
+    "file": "complication_cardiovascular__vinmec_com__vie_bai-viet_bien-chung-tren-benh-nhan-dai-thao-duong-vi.txt"
+  },
+  "ea3b525418b0": {
+    "url": "https://www.vinmec.com/vie/bai-viet/benh-dai-thao-duong-can-ban-va-cap-nhat-vi",
+    "title": "Bệnh ĐTĐ căn bản và cập nhật",
+    "category": "general",
+    "saved_at": "2026-06-27T23:12:10.683610",
+    "file": "general__vinmec_com__vie_bai-viet_benh-dai-thao-duong-can-ban-va-cap-nhat-vi.txt"
+  },
+  "77b8693dc57e": {
+    "url": "https://www.medicalnewstoday.com/articles/317168",
+    "title": "Diabetes complications overview",
+    "category": "general",
+    "saved_at": "2026-06-27T23:12:44.514711",
+    "file": "general__medicalnewstoday_com__articles_317168.txt"
+  },
+>>>>>>> Stashed changes
   "eea5f5593b09": {
     "url": "https://www.cdc.gov/diabetes/living-with/index.html",
     "title": "Living with Diabetes - CDC",
     "category": "lifestyle",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:47:00.957236",
     "file": "lifestyle__cdc_gov__diabetes_living-with_indexhtml.pdf"
   },
@@ -103,18 +397,85 @@
     "category": "lifestyle",
     "saved_at": "2026-06-12T08:47:04.802084",
     "file": "lifestyle__diabetes_org__healthy-living_fitness.pdf"
+=======
+    "saved_at": "2026-06-27T23:12:56.676007",
+    "file": "lifestyle__cdc_gov__diabetes_living-with_indexhtml.txt"
+  },
+  "badfaae5eff0": {
+    "url": "https://www.diabetes.org/healthy-living/fitness",
+    "title": "Fitness - ADA",
+    "category": "lifestyle",
+    "saved_at": "2026-06-27T23:13:09.728403",
+    "file": "lifestyle__diabetes_org__healthy-living_fitness.txt"
+  },
+  "7e75cb9a3396": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/remission",
+    "title": "Type 2 remission",
+    "category": "lifestyle",
+    "saved_at": "2026-06-27T23:13:26.546662",
+    "file": "lifestyle__diabetes_org_uk__about-diabetes_type-2-diabetes_remission.txt"
+  },
+  "6f6796205518": {
+    "url": "https://www.diabetes.org.uk/living-with-diabetes/emotional-wellbeing",
+    "title": "Emotional wellbeing",
+    "category": "lifestyle",
+    "saved_at": "2026-06-27T23:13:33.868537",
+    "file": "lifestyle__diabetes_org_uk__living-with-diabetes_emotional-wellbeing.txt"
+  },
+  "08a5d760f442": {
+    "url": "https://www.diabetes.org.uk/living-with-diabetes/exercise",
+    "title": "Exercise with diabetes",
+    "category": "lifestyle",
+    "saved_at": "2026-06-27T23:13:41.360847",
+    "file": "lifestyle__diabetes_org_uk__living-with-diabetes_exercise.txt"
+>>>>>>> Stashed changes
   },
   "ce8443685136": {
     "url": "https://www.hellobacsi.com/dai-thao-duong/song-chung-voi-benh/",
     "title": "Sống Chung Với Tiểu Đường - HelloBacsi",
     "category": "lifestyle",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:47:17.142520",
     "file": "lifestyle__hellobacsi_com__dai-thao-duong_song-chung-voi-benh.txt"
   },
+=======
+    "saved_at": "2026-06-24T10:03:16.905666",
+    "file": "lifestyle__hellobacsi_com__dai-thao-duong_song-chung-voi-benh.txt"
+  },
+  "0cc8e208932a": {
+    "url": "https://www.vinmec.com/vie/bai-viet/stress-va-dai-thao-duong-vi",
+    "title": "Stress và ĐTĐ",
+    "category": "lifestyle",
+    "saved_at": "2026-06-27T23:13:43.835917",
+    "file": "lifestyle__vinmec_com__vie_bai-viet_stress-va-dai-thao-duong-vi.txt"
+  },
+  "f2efdecadcf8": {
+    "url": "https://www.healthline.com/health/type-2-diabetes/top-exercises",
+    "title": "Top exercises for type 2 diabetes",
+    "category": "lifestyle",
+    "saved_at": "2026-06-27T23:14:00.258352",
+    "file": "lifestyle__healthline_com__health_type-2-diabetes_top-exercises.txt"
+  },
+  "a44ca30f1197": {
+    "url": "https://www.medicalnewstoday.com/articles/317224",
+    "title": "Exercise for diabetes",
+    "category": "lifestyle",
+    "saved_at": "2026-06-27T23:14:06.342449",
+    "file": "lifestyle__medicalnewstoday_com__articles_317224.txt"
+  },
+  "31cbda8225cf": {
+    "url": "https://www.medicalnewstoday.com/articles/317468",
+    "title": "Lifestyle management diabetes",
+    "category": "lifestyle",
+    "saved_at": "2026-06-27T23:14:09.501154",
+    "file": "lifestyle__medicalnewstoday_com__articles_317468.txt"
+  },
+>>>>>>> Stashed changes
   "431ce9e961ad": {
     "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/insulin-medicines-treatments",
     "title": "Diabetes Medicines - NIDDK",
     "category": "medication",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:47:24.179075",
     "file": "medication__niddk_nih_gov__health-information_diabetes_overview_insulin-medicines-treat.pdf"
   },
@@ -124,18 +485,92 @@
     "category": "medication",
     "saved_at": "2026-06-12T08:47:27.582710",
     "file": "medication__diabetes_org__healthy-living_medication-treatments_oral-medication.pdf"
+=======
+    "saved_at": "2026-06-27T23:14:24.418652",
+    "file": "medication__niddk_nih_gov__health-information_diabetes_overview_insulin-medicines-treat.txt"
+  },
+  "687d987e7648": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/type-1-diabetes/treatments",
+    "title": "Type 1 treatments",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:14:32.868958",
+    "file": "medication__diabetes_org_uk__about-diabetes_type-1-diabetes_treatments.txt"
+  },
+  "a1d42a536858": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/treatments",
+    "title": "Type 2 treatments",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:14:40.050221",
+    "file": "medication__diabetes_org_uk__about-diabetes_type-2-diabetes_treatments.txt"
+  },
+  "01eb8cbc5510": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/treatments/insulin/what-is-insulin",
+    "title": "What is insulin",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:14:46.629375",
+    "file": "medication__diabetes_org_uk__about-diabetes_looking-after-diabetes_treatments_insulin_wha.txt"
+  },
+  "89ac2fa4681d": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/treatments/insulin/types",
+    "title": "Types of insulin",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:14:53.099981",
+    "file": "medication__diabetes_org_uk__about-diabetes_looking-after-diabetes_treatments_insulin_typ.txt"
+  },
+  "e25e37899c27": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/treatments/insulin/side-effects",
+    "title": "Insulin side effects",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:14:59.415824",
+    "file": "medication__diabetes_org_uk__about-diabetes_looking-after-diabetes_treatments_insulin_sid.txt"
+>>>>>>> Stashed changes
   },
   "2b2e978ff7d4": {
     "url": "https://www.hellobacsi.com/thuoc/metformin/",
     "title": "Thuốc Metformin - HelloBacsi",
     "category": "medication",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:47:30.739386",
     "file": "medication__hellobacsi_com__thuoc_metformin.txt"
   },
+=======
+    "saved_at": "2026-06-24T10:03:49.712533",
+    "file": "medication__hellobacsi_com__thuoc_metformin.txt"
+  },
+  "7c66b36f8c2d": {
+    "url": "https://www.vinmec.com/vie/bai-viet/thuoc-dieu-tri-dai-thao-duong-type-2-vi",
+    "title": "Thuốc điều trị ĐTĐ type 2",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:15:02.841396",
+    "file": "medication__vinmec_com__vie_bai-viet_thuoc-dieu-tri-dai-thao-duong-type-2-vi.txt"
+  },
+  "83e16e3a3c04": {
+    "url": "https://www.vinmec.com/vie/bai-viet/cac-nhom-thuoc-dieu-tri-dai-thao-duong-vi",
+    "title": "Các nhóm thuốc điều trị ĐTĐ",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:15:05.885405",
+    "file": "medication__vinmec_com__vie_bai-viet_cac-nhom-thuoc-dieu-tri-dai-thao-duong-vi.txt"
+  },
+  "fd233fa43b8f": {
+    "url": "https://www.vinmec.com/vie/bai-viet/benh-nhan-dai-thao-duong-tiem-insulin-khi-nao-vi",
+    "title": "Bệnh nhân ĐTĐ tiêm insulin khi nào",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:15:08.439345",
+    "file": "medication__vinmec_com__vie_bai-viet_benh-nhan-dai-thao-duong-tiem-insulin-khi-nao-v.txt"
+  },
+  "9668c4aaa93c": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/heart-disease-stroke",
+    "title": "Heart Disease - NIDDK",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-06-27T23:15:51.355384",
+    "file": "complication_cardiovascular__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_hea.txt"
+  },
+>>>>>>> Stashed changes
   "6c13a0ec642e": {
     "url": "https://www.heart.org/en/health-topics/diabetes/diabetes-complications-and-risks",
     "title": "Diabetes and Heart Disease - AHA",
     "category": "complication/cardiovascular",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:47:35.491975",
     "file": "complication_cardiovascular__heart_org__en_health-topics_diabetes_diabetes-complications-and-risks.pdf"
   },
@@ -145,32 +580,74 @@
     "category": "complication/cardiovascular",
     "saved_at": "2026-06-12T08:47:42.967472",
     "file": "complication_cardiovascular__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_hea.pdf"
+=======
+    "saved_at": "2026-06-27T23:15:55.261267",
+    "file": "complication_cardiovascular__heart_org__en_health-topics_diabetes_diabetes-complications-and-risks.txt"
+>>>>>>> Stashed changes
   },
   "65a7f1b80686": {
     "url": "https://www.hellobacsi.com/dai-thao-duong/bien-chung/bien-chung-tim-mach/",
     "title": "Biến Chứng Tim Mạch - HelloBacsi",
     "category": "complication/cardiovascular",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:47:50.440992",
     "file": "complication_cardiovascular__hellobacsi_com__dai-thao-duong_bien-chung_bien-chung-tim-mach.txt"
   },
+=======
+    "saved_at": "2026-06-24T10:04:06.051924",
+    "file": "complication_cardiovascular__hellobacsi_com__dai-thao-duong_bien-chung_bien-chung-tim-mach.txt"
+  },
+  "751eca8323f2": {
+    "url": "https://www.medicalnewstoday.com/articles/317718",
+    "title": "Diabetes and cardiovascular disease",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-06-27T23:16:15.022496",
+    "file": "complication_cardiovascular__medicalnewstoday_com__articles_317718.txt"
+  },
+>>>>>>> Stashed changes
   "a54815a44dda": {
     "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/diabetic-kidney-disease",
     "title": "Diabetic Kidney Disease - NIDDK",
     "category": "complication/nephropathy",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:47:53.774888",
     "file": "complication_nephropathy__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_dia.pdf"
+=======
+    "saved_at": "2026-06-27T23:16:31.670957",
+    "file": "complication_nephropathy__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_dia.txt"
+>>>>>>> Stashed changes
   },
   "72fdb7b2326b": {
     "url": "https://www.kidney.org/diabetes",
     "title": "Diabetes and Kidney Disease - NKF",
     "category": "complication/nephropathy",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:47:56.392342",
     "file": "complication_nephropathy__kidney_org__diabetes.pdf"
+=======
+    "saved_at": "2026-06-27T23:16:35.700815",
+    "file": "complication_nephropathy__kidney_org__diabetes.txt"
+  },
+  "c7cba1c65564": {
+    "url": "https://www.vinmec.com/vie/bai-viet/tai-sao-dai-thao-duong-dan-toi-suy-vi",
+    "title": "Tại sao ĐTĐ dẫn tới suy thận",
+    "category": "complication/nephropathy",
+    "saved_at": "2026-06-27T23:16:37.723999",
+    "file": "complication_nephropathy__vinmec_com__vie_bai-viet_tai-sao-dai-thao-duong-dan-toi-suy-vi.txt"
+  },
+  "eafed0cc118c": {
+    "url": "https://www.medicalnewstoday.com/articles/311204",
+    "title": "Diabetic nephropathy",
+    "category": "complication/nephropathy",
+    "saved_at": "2026-06-27T23:16:44.975095",
+    "file": "complication_nephropathy__medicalnewstoday_com__articles_311204.txt"
+>>>>>>> Stashed changes
   },
   "8c4f0e83b994": {
     "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/nerve-damage-diabetic-neuropathies",
     "title": "Diabetic Neuropathy - NIDDK",
     "category": "complication/neuropathy",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:48:02.476022",
     "file": "complication_neuropathy__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_ner.pdf"
   },
@@ -208,11 +685,37 @@
     "category": "complication/foot_care",
     "saved_at": "2026-06-12T08:48:47.455710",
     "file": "complication_foot_care__hellobacsi_com__dai-thao-duong_bien-chung_bien-chung-ban-chan.txt"
+=======
+    "saved_at": "2026-06-27T23:17:01.222765",
+    "file": "complication_neuropathy__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_ner.txt"
+  },
+  "ff129cf89cef": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/bien-chung-tieu-duong/bien-chung-te-bi-chan-tay-o-nguoi-dai-thao-duong/",
+    "title": "Biến chứng tê bì bàn chân - HelloBacsi",
+    "category": "complication/foot_care",
+    "saved_at": "2026-06-27T23:19:09.235188",
+    "file": "complication_foot_care__hellobacsi_com__tieu-duong-dai-thao-duong_bien-chung-tieu-duong_bien-chung-t.txt"
+  },
+  "60986befbef2": {
+    "url": "https://www.vinmec.com/vie/bai-viet/benh-ly-kinh-dai-thao-duong-nhung-dieu-can-biet-vi",
+    "title": "Bệnh lý kinh ĐTĐ",
+    "category": "complication/neuropathy",
+    "saved_at": "2026-06-27T23:17:04.404751",
+    "file": "complication_neuropathy__vinmec_com__vie_bai-viet_benh-ly-kinh-dai-thao-duong-nhung-dieu-can-biet.txt"
+  },
+  "a094e8ce78e8": {
+    "url": "https://www.medicalnewstoday.com/articles/316427",
+    "title": "Diabetic neuropathy",
+    "category": "complication/neuropathy",
+    "saved_at": "2026-06-27T23:17:12.338562",
+    "file": "complication_neuropathy__medicalnewstoday_com__articles_316427.txt"
+>>>>>>> Stashed changes
   },
   "e872ab9493c8": {
     "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/gestational",
     "title": "Gestational Diabetes - NIDDK",
     "category": "complication/pregnancy",
+<<<<<<< Updated upstream
     "saved_at": "2026-06-12T08:48:52.073759",
     "file": "complication_pregnancy__niddk_nih_gov__health-information_diabetes_overview_what-is-diabetes_gestat.pdf"
   },
@@ -264,5 +767,3117 @@
     "category": "complication/pregnancy",
     "saved_at": "2026-06-11T11:30:51.532318",
     "file": "complication_pregnancy__avakids_com__me-va-be_goi-y-thuc-don-cho-ba-bau-bi-tieu-duong-thai-ky-146.pdf"
+=======
+    "saved_at": "2026-06-27T23:17:35.912316",
+    "file": "complication_pregnancy__niddk_nih_gov__health-information_diabetes_overview_what-is-diabetes_gestat.txt"
+  },
+  "269a7fda0858": {
+    "url": "https://www.cdc.gov/diabetes/risk-factors/gestational-diabetes.html",
+    "title": "Gestational Diabetes - CDC",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-27T23:17:39.215530",
+    "file": "complication_pregnancy__cdc_gov__diabetes_risk-factors_gestational-diabeteshtml.txt"
+  },
+  "2beed81d3dbf": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/gestational-diabetes/symptoms",
+    "title": "Gestational diabetes symptoms",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-27T23:17:45.566814",
+    "file": "complication_pregnancy__diabetes_org_uk__about-diabetes_gestational-diabetes_symptoms.txt"
+  },
+  "d7e98a2748ee": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/gestational-diabetes/treatments",
+    "title": "Gestational diabetes treatments",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-27T23:17:53.101416",
+    "file": "complication_pregnancy__diabetes_org_uk__about-diabetes_gestational-diabetes_treatments.txt"
+  },
+  "6eafda1238fc": {
+    "url": "https://www.vinmec.com/vie/bai-viet/quan-ly-dai-thao-duong-thai-ky-nao-vi",
+    "title": "Quản lý ĐTĐ thai kỳ",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-27T23:17:54.967817",
+    "file": "complication_pregnancy__vinmec_com__vie_bai-viet_quan-ly-dai-thao-duong-thai-ky-nao-vi.txt"
+  },
+  "7713835c697f": {
+    "url": "https://www.vinmec.com/vie/bai-viet/dai-thao-duong-thai-ky-va-che-do-dinh-duong-cho-dai-thao-duong-thai-ky-vi",
+    "title": "ĐTĐ thai kỳ và dinh dưỡng",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-27T23:17:58.821120",
+    "file": "complication_pregnancy__vinmec_com__vie_bai-viet_dai-thao-duong-thai-ky-va-che-do-dinh-duong-cho.txt"
+  },
+  "a63e7a7b8085": {
+    "url": "https://medlatec.vn/tin-tuc/tieu-duong-thai-ky-nen-an-gi-vao-bua-sang-bua-trua-va-toi-de-thai-ky-khoe-manh",
+    "title": "Tiểu đường thai kỳ nên ăn gì",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-27T23:18:01.383723",
+    "file": "complication_pregnancy__medlatec_vn__tin-tuc_tieu-duong-thai-ky-nen-an-gi-vao-bua-sang-bua-trua-v.txt"
+  },
+  "3937674a94e5": {
+    "url": "https://www.medicalnewstoday.com/articles/245310",
+    "title": "Gestational diabetes",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-27T23:18:04.507303",
+    "file": "complication_pregnancy__medicalnewstoday_com__articles_245310.txt"
+  },
+  "6bbf662c7fbe": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/diabetic-eye-disease",
+    "title": "Diabetic Eye Disease - NIDDK",
+    "category": "complication/retinopathy",
+    "saved_at": "2026-06-27T23:18:19.075431",
+    "file": "complication_retinopathy__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_dia.txt"
+  },
+  "a00b5a95625f": {
+    "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/diabetic-retinopathy",
+    "title": "Diabetic Retinopathy - NEI",
+    "category": "complication/retinopathy",
+    "saved_at": "2026-06-27T23:18:23.140696",
+    "file": "complication_retinopathy__nei_nih_gov__learn-about-eye-health_eye-conditions-and-diseases_diabetic-.txt"
+  },
+  "9fbb84ef49b9": {
+    "url": "https://www.medicalnewstoday.com/articles/323387",
+    "title": "Diabetic retinopathy",
+    "category": "complication/retinopathy",
+    "saved_at": "2026-06-27T23:18:31.143621",
+    "file": "complication_retinopathy__medicalnewstoday_com__articles_323387.txt"
+  },
+  "d63733257c54": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/foot-problems",
+    "title": "Diabetic Foot Problems - NIDDK",
+    "category": "complication/foot_care",
+    "saved_at": "2026-06-27T23:18:45.486885",
+    "file": "complication_foot_care__niddk_nih_gov__health-information_diabetes_overview_preventing-problems_foo.txt"
+  },
+  "4bafe64f8f8c": {
+    "url": "https://www.diabetes.org/diabetes/complications/foot-complications",
+    "title": "Foot Complications - ADA",
+    "category": "complication/foot_care",
+    "saved_at": "2026-06-27T23:18:52.182526",
+    "file": "complication_foot_care__diabetes_org__diabetes_complications_foot-complications.txt"
+  },
+  "0c5bb2e2157c": {
+    "url": "https://www.hellobacsi.com/dai-thao-duong/bien-chung/bien-chung-ban-chan/",
+    "title": "Biến Chứng Bàn Chân Tiểu Đường - HelloBacsi",
+    "category": "complication/foot_care",
+    "saved_at": "2026-06-24T10:05:17.577745",
+    "file": "complication_foot_care__hellobacsi_com__dai-thao-duong_bien-chung_bien-chung-ban-chan.txt"
+  },
+  "5af8003b67c2": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/bien-chung-tieu-duong/cham-soc-ban-chan-tieu-duong/",
+    "title": "Chăm sóc bàn chân tiểu đường - HelloBacsi",
+    "category": "complication/foot_care",
+    "saved_at": "2026-06-27T23:19:07.151994",
+    "file": "complication_foot_care__hellobacsi_com__tieu-duong-dai-thao-duong_bien-chung-tieu-duong_cham-soc-ban.txt"
+  },
+  "a051e2e8946e": {
+    "url": "https://www.vinmec.com/vie/bai-viet/benh-ly-ban-chan-o-nguoi-benh-dai-thao-duong-vi",
+    "title": "Bệnh lý bàn chân ở người bệnh ĐTĐ",
+    "category": "complication/foot_care",
+    "saved_at": "2026-06-27T23:19:00.434545",
+    "file": "complication_foot_care__vinmec_com__vie_bai-viet_benh-ly-ban-chan-o-nguoi-benh-dai-thao-duong-vi.txt"
+  },
+  "56bb165334ec": {
+    "url": "https://www.medicalnewstoday.com/articles/317465",
+    "title": "Diabetic foot care",
+    "category": "complication/foot_care",
+    "saved_at": "2026-06-27T23:19:12.314459",
+    "file": "complication_foot_care__medicalnewstoday_com__articles_317465.txt"
+  },
+  "47e2c505910d": {
+    "url": "https://www.vinmec.com/vie/bai-viet/tieu-chuan-chan-doan-dai-thao-duong-va-tien-dai-thao-duong-vi",
+    "title": "Tiêu chuẩn chẩn đoán ĐTĐ",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:07:49.318815",
+    "file": "diagnosis__vinmec_com__vie_bai-viet_tieu-chuan-chan-doan-dai-thao-duong-va-tien-dai.txt"
+  },
+  "523561e44482": {
+    "url": "https://www.vinmec.com/vie/bai-viet/dai-thao-duong-co-may-tuyp-su-khac-nhau-giua-cac-tuyp-la-gi-vi",
+    "title": "ĐTĐ có mấy tuýp",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:07:51.784775",
+    "file": "diagnosis__vinmec_com__vie_bai-viet_dai-thao-duong-co-may-tuyp-su-khac-nhau-giua-ca.txt"
+  },
+  "a3d500a1944e": {
+    "url": "https://www.vinmec.com/vie/bai-viet/ai-co-nguy-co-cao-bi-dai-thao-duong-vi",
+    "title": "Ai có nguy cơ cao bị ĐTĐ",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:07:55.469812",
+    "file": "diagnosis__vinmec_com__vie_bai-viet_ai-co-nguy-co-cao-bi-dai-thao-duong-vi.txt"
+  },
+  "a5dfd720ca3c": {
+    "url": "https://www.healthline.com/health/type-3-diabetes",
+    "title": "Type 3 diabetes",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:08:35.980132",
+    "file": "diagnosis__healthline_com__health_type-3-diabetes.txt"
+  },
+  "937159084c7d": {
+    "url": "https://www.medicalnewstoday.com/articles/322919",
+    "title": "Type 2 diabetes overview",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:08:38.475389",
+    "file": "diagnosis__medicalnewstoday_com__articles_322919.txt"
+  },
+  "67baf47fb609": {
+    "url": "https://www.medicalnewstoday.com/articles/249413",
+    "title": "Type 1 diabetes overview",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:08:41.689759",
+    "file": "diagnosis__medicalnewstoday_com__articles_249413.txt"
+  },
+  "f3c8f4f3437b": {
+    "url": "https://www.medicalnewstoday.com/articles/325177",
+    "title": "Prediabetes",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:08:45.288735",
+    "file": "diagnosis__medicalnewstoday_com__articles_325177.txt"
+  },
+  "00bf78fdd58b": {
+    "url": "https://www.medicalnewstoday.com/articles/323185",
+    "title": "Metformin overview",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:15:33.980402",
+    "file": "medication__medicalnewstoday_com__articles_323185.txt"
+  },
+  "60a22cdb6ff8": {
+    "url": "https://www.medicalnewstoday.com/articles/317483",
+    "title": "Insulin types",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:15:36.663501",
+    "file": "medication__medicalnewstoday_com__articles_317483.txt"
+  },
+  "df03ea1254fa": {
+    "url": "https://www.cdc.gov/diabetes/index.html",
+    "title": "Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T10:47:45.570861",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_indexhtml.txt"
+  },
+  "be394438ca5e": {
+    "url": "https://www.cdc.gov/diabetes/about/index.html",
+    "title": "Diabetes Basics",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T10:47:47.428058",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_about_indexhtml.txt"
+  },
+  "2c0ab0b41d9d": {
+    "url": "https://www.cdc.gov/diabetes/risk-factors/index.html",
+    "title": "Diabetes Risk Factors",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T10:47:49.137651",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_risk-factors_indexhtml.txt"
+  },
+  "58eee523f9ea": {
+    "url": "https://www.cdc.gov/diabetes/prevention-type-2/index.html",
+    "title": "Preventing Type 2 Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T10:47:51.038448",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_prevention-type-2_indexhtml.txt"
+  },
+  "04176a170536": {
+    "url": "https://www.cdc.gov/diabetes/treatment/index.html",
+    "title": "Manage Blood Sugar",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T10:47:53.235778",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_treatment_indexhtml.txt"
+  },
+  "f02f9645eae6": {
+    "url": "https://www.cdc.gov/diabetes/caring/index.html",
+    "title": "Helping Friends and Family With Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T10:47:55.610208",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_caring_indexhtml.txt"
+  },
+  "308eef16edca": {
+    "url": "https://www.cdc.gov/diabetes/hcp/clinical-guidance/index.html",
+    "title": "Clinical Guidance for Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T10:47:57.751959",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_hcp_clinical-guidance_indexhtml.txt"
+  },
+  "bc2c31665812": {
+    "url": "https://www.cdc.gov/diabetes/hcp/dsmes/index.html",
+    "title": "Referring Patients to DSMES",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:00.605758",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_hcp_dsmes_indexhtml.txt"
+  },
+  "2040a8d33142": {
+    "url": "https://www.cdc.gov/diabetes/hcp/lifestyle-change-program/index.html",
+    "title": "Prevent Type 2 Diabetes: Talking to Your Patients About Lifestyle Change",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:02.667537",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_hcp_lifestyle-change-program_indexhtml.txt"
+  },
+  "09a2eaf237fe": {
+    "url": "https://www.cdc.gov/diabetes/hcp/employers/index.html",
+    "title": "Employers and Insurers",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:05.312227",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_hcp_employers_indexhtml.txt"
+  },
+  "95a6a727d747": {
+    "url": "https://www.cdc.gov/diabetes/php/cbo-guidance/index.html",
+    "title": "Community-Based Organizations",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:07.111757",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_php_cbo-guidance_indexhtml.txt"
+  },
+  "5c489bb24dc4": {
+    "url": "https://www.cdc.gov/diabetes/php/toolkits/index.html",
+    "title": "Toolkits for Diabetes Educators and Community Health Workers",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:08.638812",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_php_toolkits_indexhtml.txt"
+  },
+  "cf2c3b01d360": {
+    "url": "https://www.cdc.gov/diabetes/php/data-research/index.html",
+    "title": "National Diabetes Statistics Report",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:09.920301",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_php_data-research_indexhtml.txt"
+  },
+  "9e5028dd95bb": {
+    "url": "https://www.cdc.gov/diabetes/php/data-research/data-statistics/index.html",
+    "title": "Diabetes Data and Statistics",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:13.963914",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_php_data-research_data-statistics_indexhtml.txt"
+  },
+  "590fe239f8d8": {
+    "url": "https://www.cdc.gov/diabetes/php/current-research/index.html",
+    "title": "Current Research Projects",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:16.059903",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_php_current-research_indexhtml.txt"
+  },
+  "9f65eb8da649": {
+    "url": "https://www.cdc.gov/diabetes/prevention-type-2/building-a-healthy-habit.html",
+    "title": "3 Steps to Building a Healthy Habit",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:18.627212",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_prevention-type-2_building-a-healthy-habithtml.txt"
+  },
+  "7449ac5cb63a": {
+    "url": "https://www.cdc.gov/diabetes/education-support-programs/find-a-dsmes-program.html",
+    "title": "Find a DSMES Program",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:19.955043",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_education-support-programs_find-a-dsmes-programhtm.txt"
+  },
+  "c353957a5520": {
+    "url": "https://www.cdc.gov/diabetes/prevention-type-2/prediabetes-prevent-type-2.html",
+    "title": "Prediabetes – Your Chance to Prevent Type 2 Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:22.237702",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_prevention-type-2_prediabetes-prevent-type-2html.txt"
+  },
+  "d3021225078c": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-immune-system.html",
+    "title": "Your Immune System and Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:24.738034",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-complications_diabetes-immune-systemhtml.txt"
+  },
+  "e74ba14a4352": {
+    "url": "https://www.cdc.gov/diabetes/hcp/clinical-guidance/how-to-promote-ear-health-for-people-with-diabetes.html",
+    "title": "Promoting Ear Health",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:26.728737",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_hcp_clinical-guidance_how-to-promote-ear-health-for.txt"
+  },
+  "a3ef8ff1fd11": {
+    "url": "https://www.cdc.gov/diabetes/hcp/clinical-guidance/promote-eye-health.html",
+    "title": "Promoting Eye Health",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:29.437132",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_hcp_clinical-guidance_promote-eye-healthhtml.txt"
+  },
+  "609978b0618e": {
+    "url": "https://www.cdc.gov/diabetes/hcp/clinical-guidance/diabetes-podiatrist-health.html",
+    "title": "Promoting Foot Health",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:30.983179",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_hcp_clinical-guidance_diabetes-podiatrist-healthht.txt"
+  },
+  "550a38342cbd": {
+    "url": "https://www.cdc.gov/diabetes/hcp/clinical-guidance/promote-medication-management.html",
+    "title": "Promoting Medication Management",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:32.612087",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_hcp_clinical-guidance_promote-medication-management.txt"
+  },
+  "513592d924a3": {
+    "url": "https://www.cdc.gov/diabetes/hcp/clinical-guidance/how-to-promote-oral-health-for-people-with-diabetes.html",
+    "title": "Promoting Oral Health",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:34.932595",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_hcp_clinical-guidance_how-to-promote-oral-health-fo.txt"
+  },
+  "852e55c0bf29": {
+    "url": "https://www.cdc.gov/diabetes/complications/index.html",
+    "title": "Diabetes Complications",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:36.480101",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_complications_indexhtml.txt"
+  },
+  "f8b5c15dd544": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/index.html",
+    "title": "Healthy Eating",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:38.065977",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_healthy-eating_indexhtml.txt"
+  },
+  "8f69631f5aec": {
+    "url": "https://www.cdc.gov/diabetes/living-with/healthy-weight.html",
+    "title": "Healthy Weight",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:39.728903",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_living-with_healthy-weighthtml.txt"
+  },
+  "423de20bdb94": {
+    "url": "https://www.cdc.gov/diabetes/caring/5-questions-health-care-team.html",
+    "title": "5 Questions to Ask Your Health Care Team",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:41.878904",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_caring_5-questions-health-care-teamhtml.txt"
+  },
+  "7a653f6bd0c3": {
+    "url": "https://www.cdc.gov/diabetes/site.html",
+    "title": "Site Index",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:43.681299",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_sitehtml.txt"
+  },
+  "4b102cc80a8d": {
+    "url": "https://www.cdc.gov/diabetes/es/about/acerca-de-la-diabetes.html",
+    "title": "Acerca de la diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:44.941510",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_es_about_acerca-de-la-diabeteshtml.txt"
+  },
+  "454f86670963": {
+    "url": "https://www.cdc.gov/diabetes/about/insulin-resistance-type-2-diabetes.html",
+    "title": "About Insulin Resistance and Type 2 Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:46.366720",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_about_insulin-resistance-type-2-diabeteshtml.txt"
+  },
+  "0fa23b0309b1": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-your-heart.html",
+    "title": "Diabetes and Your Heart",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:48.638609",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-complications_diabetes-and-your-hearthtml.txt"
+  },
+  "6c136f9d09f3": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-vision-loss.html",
+    "title": "Vision Loss and Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:49.954122",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-complications_diabetes-and-vision-losshtm.txt"
+  },
+  "7a79d9d2a677": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-chronic-kidney-disease.html",
+    "title": "Chronic Kidney Disease",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:51.416531",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-complications_diabetes-and-chronic-kidney-.txt"
+  },
+  "8bc19b5cbbca": {
+    "url": "https://www.cdc.gov/diabetes/education-support-programs/index.html",
+    "title": "About Diabetes Self-Management Education and Support",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:54.024908",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_education-support-programs_indexhtml.txt"
+  },
+  "1c7c12e651b3": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-testing/screening-type-1-diabetes.html",
+    "title": "Screening for Type 1 Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:55.296797",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-testing_screening-type-1-diabeteshtml.txt"
+  },
+  "cd5659d3b73e": {
+    "url": "https://www.cdc.gov/diabetes/about/about-type-1-diabetes.html",
+    "title": "Type 1 Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:56.983552",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_about_about-type-1-diabeteshtml.txt"
+  },
+  "f3f1856836f2": {
+    "url": "https://www.cdc.gov/diabetes/about/about-type-2-diabetes.html",
+    "title": "Type 2 Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:11:58.941357",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_about_about-type-2-diabeteshtml.txt"
+  },
+  "fa754536c766": {
+    "url": "https://www.cdc.gov/diabetes/about/gestational-diabetes.html",
+    "title": "Gestational Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:01.190762",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_about_gestational-diabeteshtml.txt"
+  },
+  "af545651023b": {
+    "url": "https://www.cdc.gov/diabetes/communication-resources/diabetes-statistics.html",
+    "title": "A U.S. Report Card",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:02.651662",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_communication-resources_diabetes-statisticshtml.txt"
+  },
+  "527a6ba00f1b": {
+    "url": "https://www.cdc.gov/diabetes/living-with/physical-activity.html",
+    "title": "Get Active",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:05.155339",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_living-with_physical-activityhtml.txt"
+  },
+  "cb9d92ee6c44": {
+    "url": "https://www.cdc.gov/diabetes/es/signs-symptoms/sintomas-de-la-diabetes.html",
+    "title": "Síntomas de la diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:07.697298",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_es_signs-symptoms_sintomas-de-la-diabeteshtml.txt"
+  },
+  "145ebabea9c6": {
+    "url": "https://www.cdc.gov/diabetes/signs-symptoms/just-diagnosed-type-1.html",
+    "title": "Just Diagnosed With Type 1 Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:09.275957",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_signs-symptoms_just-diagnosed-type-1html.txt"
+  },
+  "66ce70e1d7a8": {
+    "url": "https://www.cdc.gov/diabetes/prevention-type-2/type-2-diabetes-in-kids.html",
+    "title": "Preventing Type 2 Diabetes in Kids",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:11.878572",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_prevention-type-2_type-2-diabetes-in-kidshtml.txt"
+  },
+  "a09692bc91bb": {
+    "url": "https://www.cdc.gov/diabetes/about/diabetic-ketoacidosis.html",
+    "title": "Diabetic Ketoacidosis",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:14.062161",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_about_diabetic-ketoacidosishtml.txt"
+  },
+  "52a185bd843e": {
+    "url": "https://www.cdc.gov/diabetes/es/diabetes-testing/pruebas-de-diabetes.html",
+    "title": "Pruebas de diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:15.614374",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_es_diabetes-testing_pruebas-de-diabeteshtml.txt"
+  },
+  "41bee38b01f6": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-testing/prediabetes-a1c-test.html",
+    "title": "A1C Test for Diabetes and Prediabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:17.848615",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-testing_prediabetes-a1c-testhtml.txt"
+  },
+  "1431636aabc6": {
+    "url": "https://www.cdc.gov/diabetes/es/risk-factors/factores-de-riesgo-de-la-diabetes.html",
+    "title": "Factores de riesgo de la diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:19.421183",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_es_risk-factors_factores-de-riesgo-de-la-diabetesh.txt"
+  },
+  "2646debbb92d": {
+    "url": "https://www.cdc.gov/diabetes/risk-factors/pcos-polycystic-ovary-syndrome.html",
+    "title": "Diabetes and Polycystic Ovary Syndrome (PCOS)",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:20.725916",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_risk-factors_pcos-polycystic-ovary-syndromehtml.txt"
+  },
+  "deb39e8f6fcc": {
+    "url": "https://www.cdc.gov/diabetes/es/prevention-type-2/prevenir-la-diabetes-tipo-2.html",
+    "title": "Prevenir la diabetes tipo 2",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:22.987179",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_es_prevention-type-2_prevenir-la-diabetes-tipo-2ht.txt"
+  },
+  "413842c07d28": {
+    "url": "https://www.cdc.gov/diabetes/prevention-type-2/truth-about-prediabetes.html",
+    "title": "The Surprising Truth About Prediabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:24.529376",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_prevention-type-2_truth-about-prediabeteshtml.txt"
+  },
+  "09f147598bba": {
+    "url": "https://www.cdc.gov/diabetes/es/treatment/manejo-de-los-niveles-de-azucar-en-la-sangre.html",
+    "title": "Manejo de los niveles de azúcar en la sangre",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:26.595343",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_es_treatment_manejo-de-los-niveles-de-azucar-en-la-.txt"
+  },
+  "6856a3cdd166": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-testing/monitoring-blood-sugar.html",
+    "title": "Monitoring Your Blood Sugar",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:28.528679",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-testing_monitoring-blood-sugarhtml.txt"
+  },
+  "7ac02ac4084f": {
+    "url": "https://www.cdc.gov/diabetes/about/low-blood-sugar-hypoglycemia.html",
+    "title": "Low Blood Sugar (Hypoglycemia)",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:30.600618",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_about_low-blood-sugar-hypoglycemiahtml.txt"
+  },
+  "a08ccf1d174c": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/diabetes-meal-planning.html",
+    "title": "Diabetes Meal Planning",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:31.859333",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_healthy-eating_diabetes-meal-planninghtml.txt"
+  },
+  "795078840a1c": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/carb-counting-manage-blood-sugar.html",
+    "title": "Carb Counting",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:33.504087",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_healthy-eating_carb-counting-manage-blood-sugarhtm.txt"
+  },
+  "6754671f329a": {
+    "url": "https://www.cdc.gov/diabetes/es/caring/ayude-a-amigos-y-familiares-con-diabetes.html",
+    "title": "Cómo ayudar a los amigos y familiares con diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:35.010514",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_es_caring_ayude-a-amigos-y-familiares-con-diabetes.txt"
+  },
+  "625aa9ff048a": {
+    "url": "https://www.cdc.gov/diabetes/living-with/mental-health.html",
+    "title": "Diabetes and Mental Health",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:36.852724",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_living-with_mental-healthhtml.txt"
+  },
+  "5f1e06b62055": {
+    "url": "https://www.cdc.gov/diabetes/caring/help-diabetes-when-you-live-apart.html",
+    "title": "Helping a Loved One With Diabetes When You Live Far Apart",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:39.259727",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_caring_help-diabetes-when-you-live-aparthtml.txt"
+  },
+  "f86cccc2cda0": {
+    "url": "https://www.cdc.gov/diabetes/caring/3-ways-help-manage-childs-type-1.html",
+    "title": "3 Ways to Help Manage Your Child's Type 1 Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:41.032695",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_caring_3-ways-help-manage-childs-type-1html.txt"
+  },
+  "ef4c64632084": {
+    "url": "https://www.cdc.gov/diabetes/caring/managing-diabetes-at-school.html",
+    "title": "Managing Diabetes at School",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:43.759750",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_caring_managing-diabetes-at-schoolhtml.txt"
+  },
+  "98eb583c725b": {
+    "url": "https://www.cdc.gov/diabetes/es/living-with/vivir-con-diabetes.html",
+    "title": "Vivir con diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:45.354967",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_es_living-with_vivir-con-diabeteshtml.txt"
+  },
+  "bb4f1f4e325b": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-tv/diabetes-kickstart.html",
+    "title": "Diabetes Kickstart Video Series",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:46.826332",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-tv_diabetes-kickstarthtml.txt"
+  },
+  "8463a5fc0a35": {
+    "url": "https://www.cdc.gov/diabetes/php/cbo-guidance/faith-leaders-diabetes-prevention-management.html",
+    "title": "Faith Leaders Toolkit: Diabetes Management and Type 2 Diabetes Prevention",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:48.811092",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_php_cbo-guidance_faith-leaders-diabetes-prevention-.txt"
+  },
+  "cd50e33c75e2": {
+    "url": "https://www.cdc.gov/diabetes/php/toolkits/new-beginnings-overview.html",
+    "title": "New Beginnings Toolkit: Overview",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:50.123812",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_php_toolkits_new-beginnings-overviewhtml.txt"
+  },
+  "e6dfb2059c9e": {
+    "url": "https://www.cdc.gov/diabetes/php/toolkits/road-to-health.html",
+    "title": "Road to Health Toolkit",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:51.546399",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_php_toolkits_road-to-healthhtml.txt"
+  },
+  "f5dcb7b3fa91": {
+    "url": "https://www.cdc.gov/diabetes/php/data-research/publications-1.html",
+    "title": "Publications",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:52.959387",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_php_data-research_publications-1html.txt"
+  },
+  "610d8742e8fc": {
+    "url": "https://www.cdc.gov/diabetes/es/prevention-type-2/la-prediabetes-su-oportunidad-para-prevenir-la-diabetes-tipo-2.html",
+    "title": "La prediabetes: su oportunidad para prevenir la diabetes tipo 2",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:12:54.636544",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_es_prevention-type-2_la-prediabetes-su-oportunidad-.txt"
+  },
+  "c15d118b31df": {
+    "url": "https://www.cdc.gov/diabetes/videos/national-dpp-promo/CDC_DDT_NationalDPP-Video_ImagineYou_SD540p.mp4",
+    "title": "CDC Diabetes Article",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:16.547795",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_videos_national-dpp-promo_CDC_DDT_NationalDPP-Video.txt"
+  },
+  "530baec5397f": {
+    "url": "https://www.cdc.gov/diabetes/living-with/managing-sick-days.html",
+    "title": "Managing Sick Days",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:19.224897",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_living-with_managing-sick-dayshtml.txt"
+  },
+  "3722aed9e3f2": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-hearing-loss.html",
+    "title": "Hearing Loss",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:20.955112",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-complications_diabetes-and-hearing-lossht.txt"
+  },
+  "1746cbb489b1": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-your-feet.html",
+    "title": "Your Feet and Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:23.386217",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-complications_diabetes-and-your-feethtml.txt"
+  },
+  "edde8a6ba04d": {
+    "url": "https://www.cdc.gov/diabetes/communication-resources/tips-for-healthy-feet.html",
+    "title": "Tips for Healthy Feet Graphic",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:25.796319",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_communication-resources_tips-for-healthy-feethtml.txt"
+  },
+  "164145f85754": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/preventing-diabetes-related-amputations.html",
+    "title": "Preventing Diabetes-Related Amputations",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:27.256092",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-complications_preventing-diabetes-related-.txt"
+  },
+  "ea7a57590235": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-oral-health.html",
+    "title": "Oral Health and Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:30.176125",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-complications_diabetes-and-oral-healthhtm.txt"
+  },
+  "2856e1ab7e16": {
+    "url": "https://www.cdc.gov/diabetes/es/complications/complicaciones-de-la-diabetes.html",
+    "title": "Complicaciones de la diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:31.434384",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_es_complications_complicaciones-de-la-diabeteshtml.txt"
+  },
+  "d6006acfc342": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-nerve-damage.html",
+    "title": "Nerve Damage",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:32.630398",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-complications_diabetes-and-nerve-damageht.txt"
+  },
+  "6880838d3255": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/recovering-from-a-diabetes-related-amputation.html",
+    "title": "Recovering From a Diabetes-Related Amputation",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:35.098772",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-complications_recovering-from-a-diabetes-r.txt"
+  },
+  "e4baf77d22db": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-related-amputations-and-mental-health.html",
+    "title": "Diabetes-Related Amputations and Mental Health",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:36.915179",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-complications_diabetes-related-amputations.txt"
+  },
+  "ebe0e23b3e4d": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-digestion.html",
+    "title": "Digestion and Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:38.507511",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-complications_diabetes-and-digestionhtml.txt"
+  },
+  "cbeca3640891": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/type-2-diabetes-liver-disease.html",
+    "title": "Type 2 Diabetes and Your Liver",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:40.651805",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-complications_type-2-diabetes-liver-diseas.txt"
+  },
+  "48fa43d06b49": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/effects-of-diabetes-brain.html",
+    "title": "Your Brain and Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:43.025211",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-complications_effects-of-diabetes-brainht.txt"
+  },
+  "05f80b8cad4d": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-complications/statins-and-diabetes.html",
+    "title": "Statins and Diabetes: What You Should Know",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:45.077967",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_diabetes-complications_statins-and-diabeteshtml.txt"
+  },
+  "df129cc63474": {
+    "url": "https://www.cdc.gov/diabetes/es/healthy-eating/alimentacion-saludable.html",
+    "title": "Alimentación saludable",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:46.415609",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_es_healthy-eating_alimentacion-saludablehtml.txt"
+  },
+  "392eb2d7d4cb": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/carbohydrate-lists-starchy-foods.html",
+    "title": "Carb Choices",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:48.643002",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_healthy-eating_carbohydrate-lists-starchy-foodshtm.txt"
+  },
+  "ee675e96692d": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/eating-out.html",
+    "title": "Eating Out",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:50.525364",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_healthy-eating_eating-outhtml.txt"
+  },
+  "a6c85a58d301": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/people-with-diabetes-dessert.html",
+    "title": "Can People With Diabetes Have Dessert?",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:51.955857",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_healthy-eating_people-with-diabetes-desserthtml.txt"
+  },
+  "9077564ac424": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/5-healthy-eating-tips-holidays.html",
+    "title": "Healthy Eating and the Holidays",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:53.137623",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_healthy-eating_5-healthy-eating-tips-holidayshtml.txt"
+  },
+  "89598f845775": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/diabetes-cultural-foods.html",
+    "title": "Diabetes and Cultural Foods",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:55.070166",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_healthy-eating_diabetes-cultural-foodshtml.txt"
+  },
+  "4443f96da75b": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/diabetes-and-cancer-what-to-eat.html",
+    "title": "I Have Diabetes and Cancer. What Can I Eat?",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:57.331993",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_healthy-eating_diabetes-and-cancer-what-to-eathtml.txt"
+  },
+  "b3a1c36fa4a0": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/diabetes-and-kidney-disease-food.html",
+    "title": "Diabetes and Kidney Disease: What to Eat?",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:13:59.161969",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_healthy-eating_diabetes-and-kidney-disease-foodhtm.txt"
+  },
+  "99d10f9c9181": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/fiber-helps-diabetes.html",
+    "title": "Fiber: The Carb That Helps You Manage Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:14:00.626146",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_healthy-eating_fiber-helps-diabeteshtml.txt"
+  },
+  "a4493a5761f4": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/diabetes-food-insecurity.html",
+    "title": "Diabetes and Food Insecurity",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:14:01.883108",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_healthy-eating_diabetes-food-insecurityhtml.txt"
+  },
+  "0c78c4df769d": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/6-tips-eating-healthy-on-budget.html",
+    "title": "6 Tips for Eating Healthy on a Budget",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:14:04.402891",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_healthy-eating_6-tips-eating-healthy-on-budgethtml.txt"
+  },
+  "77ca0423414c": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/choosing-healthy-foods-holidays.html",
+    "title": "Buffet Table Tips for People with Diabetes",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:14:06.574747",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_healthy-eating_choosing-healthy-foods-holidayshtml.txt"
+  },
+  "f3363d0ce0f1": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/choosing-healthy-carbs.html",
+    "title": "Choosing Healthy Carbs",
+    "category": "cdc_auto_crawl",
+    "saved_at": "2026-06-24T11:14:07.945895",
+    "file": "cdc_auto_crawl__cdc_gov__diabetes_healthy-eating_choosing-healthy-carbshtml.txt"
+  },
+  "349beaa7e522": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/managing-diabetes",
+    "title": "Managing Diabetes - NIDDK",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:05:00.244955",
+    "file": "blood_glucose__niddk_nih_gov__health-information_diabetes_overview_managing-diabetes.txt"
+  },
+  "e8d82432f0d8": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis/a1c-test",
+    "title": "A1C Test - NIDDK",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:05:04.967921",
+    "file": "blood_glucose__niddk_nih_gov__health-information_diabetes_overview_tests-diagnosis_a1c-tes.txt"
+  },
+  "c30918642a37": {
+    "url": "https://www.vinmec.com/vie/bai-viet/chi-so-duong-huyet-cua-nguoi-binh-thuong-la-bao-nhieu-vi",
+    "title": "Chỉ số đường huyết bình thường",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:05:44.816513",
+    "file": "blood_glucose__vinmec_com__vie_bai-viet_chi-so-duong-huyet-cua-nguoi-binh-thuong-la-bao.txt"
+  },
+  "ffbdd93592e9": {
+    "url": "https://www.vinmec.com/vie/bai-viet/huong-dan-kiem-soat-theo-doi-duong-huyet-tai-nha-vi",
+    "title": "Hướng dẫn kiểm soát đường huyết tại nhà",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:05:46.693662",
+    "file": "blood_glucose__vinmec_com__vie_bai-viet_huong-dan-kiem-soat-theo-doi-duong-huyet-tai-nh.txt"
+  },
+  "655b806b9681": {
+    "url": "https://www.vinmec.com/vie/bai-viet/nen-do-duong-huyet-bao-lau-1-lan-vi",
+    "title": "Nên đo đường huyết bao lâu 1 lần",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:05:49.071714",
+    "file": "blood_glucose__vinmec_com__vie_bai-viet_nen-do-duong-huyet-bao-lau-1-lan-vi.txt"
+  },
+  "644ce7ad25be": {
+    "url": "https://www.vinmec.com/vie/bai-viet/xu-ly-ha-duong-huyet-o-nguoi-tieu-duong-vi",
+    "title": "Xử lý hạ đường huyết ở người tiểu đường",
+    "category": "emergency",
+    "saved_at": "2026-06-27T23:11:00.262303",
+    "file": "emergency__vinmec_com__vie_bai-viet_xu-ly-ha-duong-huyet-o-nguoi-tieu-duong-vi.txt"
+  },
+  "f69847dd3f80": {
+    "url": "https://www.vinmec.com/vie/bai-viet/duong-huyet-luc-doi-binh-thuong-vi",
+    "title": "Đường huyết lúc đói bình thường",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:05:54.340735",
+    "file": "blood_glucose__vinmec_com__vie_bai-viet_duong-huyet-luc-doi-binh-thuong-vi.txt"
+  },
+  "8231173d793b": {
+    "url": "https://medlatec.vn/tin-tuc/chi-so-tieu-duong-la-gi-khi-nao-ban-can-luu-y-ve-chi-so-tieu-duong",
+    "title": "Chỉ số tiểu đường là gì - Medlatec",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:05:57.080724",
+    "file": "blood_glucose__medlatec_vn__tin-tuc_chi-so-tieu-duong-la-gi-khi-nao-ban-can-luu-y-ve-chi.txt"
+  },
+  "0c5254160173": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/benh-nhan-tieu-duong-nen-do-duong-huyet-bao-lau-1-lan/",
+    "title": "Đo đường huyết bao lâu 1 lần - HelloBacsi",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:06:00.773426",
+    "file": "blood_glucose__hellobacsi_com__tieu-duong-dai-thao-duong_benh-nhan-tieu-duong-nen-do-duong-.txt"
+  },
+  "78123b977739": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/tieu-duong-type-2/chi-so-duong-huyet-an-toan/",
+    "title": "Chỉ số đường huyết an toàn - HelloBacsi",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:06:03.915061",
+    "file": "blood_glucose__hellobacsi_com__tieu-duong-dai-thao-duong_tieu-duong-type-2_chi-so-duong-huy.txt"
+  },
+  "c8fffbe53607": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/xet-nghiem-huyet-sac-to-a1c-kiem-tra-benh-tieu-duong",
+    "title": "Xét nghiệm HbA1c - HelloBacsi",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:06:06.665457",
+    "file": "blood_glucose__hellobacsi_com__tieu-duong-dai-thao-duong_xet-nghiem-huyet-sac-to-a1c-kiem-t.txt"
+  },
+  "3dbeac627f63": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/bat-mi-6-thoi-quen-giup-ban-kiem-soat-benh-tieu-duong/",
+    "title": "6 thói quen kiểm soát tiểu đường - HelloBacsi",
+    "category": "lifestyle",
+    "saved_at": "2026-06-27T23:13:51.920060",
+    "file": "lifestyle__hellobacsi_com__tieu-duong-dai-thao-duong_bat-mi-6-thoi-quen-giup-ban-kiem-s.txt"
+  },
+  "6022ba5e9fbc": {
+    "url": "https://www.healthline.com/health/blood-sugar-spike",
+    "title": "Blood sugar spike",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:06:17.158587",
+    "file": "blood_glucose__healthline_com__health_blood-sugar-spike.txt"
+  },
+  "bf1bc2676bed": {
+    "url": "https://www.healthline.com/health/hypoglycemia",
+    "title": "Hypoglycemia - Healthline",
+    "category": "emergency",
+    "saved_at": "2026-06-27T23:11:24.069418",
+    "file": "emergency__healthline_com__health_hypoglycemia.txt"
+  },
+  "cdc4f641d41d": {
+    "url": "https://www.medicalnewstoday.com/articles/311240",
+    "title": "What is hypoglycemia",
+    "category": "blood_glucose",
+    "saved_at": "2026-06-27T23:06:29.066732",
+    "file": "blood_glucose__medicalnewstoday_com__articles_311240.txt"
+  },
+  "2a394203902f": {
+    "url": "https://www.cdc.gov/diabetes/basics/type2.html",
+    "title": "Type 2 Diabetes Basics - CDC",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:06:35.161224",
+    "file": "diagnosis__cdc_gov__diabetes_basics_type2html.txt"
+  },
+  "6846694b85f9": {
+    "url": "https://www.cdc.gov/diabetes/basics/type1.html",
+    "title": "Type 1 Diabetes Basics - CDC",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:06:38.750379",
+    "file": "diagnosis__cdc_gov__diabetes_basics_type1html.txt"
+  },
+  "a23cf92e11b4": {
+    "url": "https://www.cdc.gov/diabetes/basics/prediabetes.html",
+    "title": "Prediabetes - CDC",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:06:41.634169",
+    "file": "diagnosis__cdc_gov__diabetes_basics_prediabeteshtml.txt"
+  },
+  "5a8f29887b6c": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/symptoms-causes",
+    "title": "Symptoms & Causes - NIDDK",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:06:49.465503",
+    "file": "diagnosis__niddk_nih_gov__health-information_diabetes_overview_symptoms-causes.txt"
+  },
+  "d8c6339233e3": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis",
+    "title": "Tests & Diagnosis - NIDDK",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:06:53.197518",
+    "file": "diagnosis__niddk_nih_gov__health-information_diabetes_overview_tests-diagnosis.txt"
+  },
+  "e821828f499d": {
+    "url": "https://www.vinmec.com/vie/bai-viet/tong-quan-ve-benh-dai-thao-duong-vi",
+    "title": "Tổng quan về bệnh ĐTĐ",
+    "category": "general",
+    "saved_at": "2026-06-27T23:12:05.541849",
+    "file": "general__vinmec_com__vie_bai-viet_tong-quan-ve-benh-dai-thao-duong-vi.txt"
+  },
+  "2378d632c2c3": {
+    "url": "https://www.vinmec.com/vie/bai-viet/tien-dai-thao-duong-nhung-dieu-can-biet-vi",
+    "title": "Tiền đái tháo đường - những điều cần biết",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:08:02.649941",
+    "file": "diagnosis__vinmec_com__vie_bai-viet_tien-dai-thao-duong-nhung-dieu-can-biet-vi.txt"
+  },
+  "7f863c750612": {
+    "url": "https://www.vinmec.com/vie/bai-viet/dau-hieu-som-bao-hieu-benh-tieu-duong-vi",
+    "title": "Dấu hiệu sớm bệnh tiểu đường",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:08:05.780635",
+    "file": "diagnosis__vinmec_com__vie_bai-viet_dau-hieu-som-bao-hieu-benh-tieu-duong-vi.txt"
+  },
+  "9a90eea71d91": {
+    "url": "https://medlatec.vn/tin-tuc/dai-thao-duong-trieu-chung-nguyen-nhan-va-cach-phong-ngua",
+    "title": "ĐTĐ triệu chứng nguyên nhân phòng ngừa",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:08:08.491219",
+    "file": "diagnosis__medlatec_vn__tin-tuc_dai-thao-duong-trieu-chung-nguyen-nhan-va-cach-phong.txt"
+  },
+  "361ba7eab75a": {
+    "url": "https://medlatec.vn/tin-tuc/benh-dai-thao-duong-va-nhung-kien-thuc-co-ban-ai-cung-nen-biet-s62-n33632",
+    "title": "Bệnh ĐTĐ kiến thức cơ bản",
+    "category": "general",
+    "saved_at": "2026-06-27T23:12:13.775644",
+    "file": "general__medlatec_vn__tin-tuc_benh-dai-thao-duong-va-nhung-kien-thuc-co-ban-ai-cun.txt"
+  },
+  "444b01d1410f": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/tieu-duong-type-2/chan-doan-tieu-duong-tuyp-2/",
+    "title": "Chẩn Đoán Tiểu Đường Type 2 - HelloBacsi",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:08:13.522070",
+    "file": "diagnosis__hellobacsi_com__tieu-duong-dai-thao-duong_tieu-duong-type-2_chan-doan-tieu-d.txt"
+  },
+  "9372b858728a": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/tieu-duong/",
+    "title": "Tiểu Đường Là Gì - HelloBacsi",
+    "category": "general",
+    "saved_at": "2026-06-27T23:12:23.586255",
+    "file": "general__hellobacsi_com__tieu-duong-dai-thao-duong_tieu-duong.txt"
+  },
+  "dd7e8df8892e": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/tieu-chuan-chan-doan-tieu-duong/",
+    "title": "Tiêu chuẩn chẩn đoán tiểu đường - HelloBacsi",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:08:19.686717",
+    "file": "diagnosis__hellobacsi_com__tieu-duong-dai-thao-duong_tieu-chuan-chan-doan-tieu-duong.txt"
+  },
+  "3fc984374409": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/tieu-duong-type-2/benh-tieu-duong-tuyp-2/",
+    "title": "Tiểu đường tuýp 2 là gì - HelloBacsi",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:08:24.462086",
+    "file": "diagnosis__hellobacsi_com__tieu-duong-dai-thao-duong_tieu-duong-type-2_benh-tieu-duong-.txt"
+  },
+  "279b90bf6883": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/khi-mac-benh-tieu-duong/",
+    "title": "Phân biệt tiểu đường tuýp 1 và tuýp 2 - HelloBacsi",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:08:29.244926",
+    "file": "diagnosis__hellobacsi_com__tieu-duong-dai-thao-duong_khi-mac-benh-tieu-duong.txt"
+  },
+  "63a860cd0c6a": {
+    "url": "https://www.healthline.com/health/type-2-diabetes/diagnosis",
+    "title": "Type 2 diabetes diagnosis",
+    "category": "diagnosis",
+    "saved_at": "2026-06-27T23:08:32.522913",
+    "file": "diagnosis__healthline_com__health_type-2-diabetes_diagnosis.txt"
+  },
+  "9a9acb54057d": {
+    "url": "https://www.diabetes.org/healthy-living/recipes-nutrition/understanding-carbs",
+    "title": "Understanding Carbs - ADA",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:09:03.660218",
+    "file": "diet__diabetes_org__healthy-living_recipes-nutrition_understanding-carbs.txt"
+  },
+  "1445f947c85c": {
+    "url": "https://medlatec.vn/tin-tuc/nguoi-bi-tieu-duong-tuyp-2-nen-an-gi-de-cai-thien-benh-s62-n27831",
+    "title": "Tiểu đường type 2 nên ăn gì - Medlatec",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:09:43.541019",
+    "file": "diet__medlatec_vn__tin-tuc_nguoi-bi-tieu-duong-tuyp-2-nen-an-gi-de-cai-thien-be.txt"
+  },
+  "1595448d7984": {
+    "url": "https://medlatec.vn/tin-tuc/che-do-an-cua-nguoi-tieu-duong-chuan-theo-huong-dan-cua-bac-si-s62-n29226",
+    "title": "Chế độ ăn tiểu đường chuẩn",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:09:50.853431",
+    "file": "diet__medlatec_vn__tin-tuc_che-do-an-cua-nguoi-tieu-duong-chuan-theo-huong-dan-.txt"
+  },
+  "39fefd62a226": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/top-15-thuc-pham-kiem-soat-benh-tieu-duong-tot-nhat/",
+    "title": "15 thực phẩm kiểm soát tiểu đường - HelloBacsi",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:09:54.987318",
+    "file": "diet__hellobacsi_com__tieu-duong-dai-thao-duong_top-15-thuc-pham-kiem-soat-benh-ti.txt"
+  },
+  "2fee3286e362": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/tieu-duong-type-2/che-do-an-danh-cho-nguoi-bi-tieu-duong-type-2/",
+    "title": "Chế độ ăn tiểu đường type 2 - HelloBacsi",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:09:58.791715",
+    "file": "diet__hellobacsi_com__tieu-duong-dai-thao-duong_tieu-duong-type-2_che-do-an-danh-c.txt"
+  },
+  "677bb9205155": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/kiem-soat-benh-tieu-duong-voi-chi-so-duong-huyet-o-thuc-pham/",
+    "title": "Thực phẩm GI thấp cho tiểu đường - HelloBacsi",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:10:02.848569",
+    "file": "diet__hellobacsi_com__tieu-duong-dai-thao-duong_kiem-soat-benh-tieu-duong-voi-chi-.txt"
+  },
+  "b91dca488410": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/bua-sang-cho-nguoi-tieu-duong/",
+    "title": "Bữa sáng cho người tiểu đường - HelloBacsi",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:10:05.795622",
+    "file": "diet__hellobacsi_com__tieu-duong-dai-thao-duong_bua-sang-cho-nguoi-tieu-duong.txt"
+  },
+  "ed8e97c4f300": {
+    "url": "https://www.healthline.com/nutrition/16-best-foods-for-diabetics",
+    "title": "Best foods for diabetics",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:10:14.858060",
+    "file": "diet__healthline_com__nutrition_16-best-foods-for-diabetics.txt"
+  },
+  "d500e657e41d": {
+    "url": "https://www.healthline.com/nutrition/low-carb-diet-for-diabetes",
+    "title": "Low carb diet for diabetes",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:10:18.298941",
+    "file": "diet__healthline_com__nutrition_low-carb-diet-for-diabetes.txt"
+  },
+  "5ee0e2d6fcf2": {
+    "url": "https://www.healthline.com/health/diabetes/breakfast-ideas",
+    "title": "Breakfast ideas for diabetes",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:10:21.351706",
+    "file": "diet__healthline_com__health_diabetes_breakfast-ideas.txt"
+  },
+  "dd666ba13081": {
+    "url": "https://www.diabetes.org/diabetes/complications/dka-ketoacidosis-ketones",
+    "title": "DKA - ADA",
+    "category": "emergency",
+    "saved_at": "2026-06-27T23:10:47.266937",
+    "file": "emergency__diabetes_org__diabetes_complications_dka-ketoacidosis-ketones.txt"
+  },
+  "4c9aacd9082b": {
+    "url": "https://www.vinmec.com/vie/bai-viet/hay-ha-duong-huyet-co-phai-bi-tieu-duong-vi",
+    "title": "Hạ đường huyết có phải bị tiểu đường",
+    "category": "emergency",
+    "saved_at": "2026-06-27T23:11:02.980343",
+    "file": "emergency__vinmec_com__vie_bai-viet_hay-ha-duong-huyet-co-phai-bi-tieu-duong-vi.txt"
+  },
+  "264a01d920e0": {
+    "url": "https://medlatec.vn/tin-tuc/thuoc-chong-bien-chung-tieu-duong-phan-loai-va-luu-y-su-dung-s62-n33463",
+    "title": "Thuốc chống biến chứng tiểu đường",
+    "category": "emergency",
+    "saved_at": "2026-06-27T23:11:04.925097",
+    "file": "emergency__medlatec_vn__tin-tuc_thuoc-chong-bien-chung-tieu-duong-phan-loai-va-luu-y.txt"
+  },
+  "ed812e1d28d1": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems",
+    "title": "Preventing Diabetes Problems - NIDDK",
+    "category": "general",
+    "saved_at": "2026-06-27T23:11:47.714469",
+    "file": "general__niddk_nih_gov__health-information_diabetes_overview_preventing-problems.txt"
+  },
+  "481e0243828e": {
+    "url": "https://www.diabetes.org/diabetes/complications",
+    "title": "Diabetes Complications - ADA",
+    "category": "general",
+    "saved_at": "2026-06-27T23:11:55.920614",
+    "file": "general__diabetes_org__diabetes_complications.txt"
+  },
+  "e2eb557415d4": {
+    "url": "https://medlatec.vn/tin-tuc/nhung-bien-chung-cua-benh-tieu-duong-ban-nen-biet-de-phong-ngua",
+    "title": "Biến chứng bàn chân ĐTĐ - Medlatec",
+    "category": "complication/foot_care",
+    "saved_at": "2026-06-27T23:19:02.772427",
+    "file": "complication_foot_care__medlatec_vn__tin-tuc_nhung-bien-chung-cua-benh-tieu-duong-ban-nen-biet-de.txt"
+  },
+  "5fdf30b532f5": {
+    "url": "https://medlatec.vn/tin-tuc/cac-bien-chung-cua-benh-tieu-duong-tuyet-doi-khong-chu-quan",
+    "title": "Các biến chứng ĐTĐ không chủ quan",
+    "category": "general",
+    "saved_at": "2026-06-27T23:12:19.466028",
+    "file": "general__medlatec_vn__tin-tuc_cac-bien-chung-cua-benh-tieu-duong-tuyet-doi-khong-c.txt"
+  },
+  "a1fef31f4f3c": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/tieu-duong-type-2/dai-thao-duong-tip-2-co-nguy-hiem-khong/",
+    "title": "Tiểu đường type 2 có nguy hiểm không - HelloBacsi",
+    "category": "general",
+    "saved_at": "2026-06-27T23:12:36.632726",
+    "file": "general__hellobacsi_com__tieu-duong-dai-thao-duong_tieu-duong-type-2_dai-thao-duong-t.txt"
+  },
+  "2be94239dd1f": {
+    "url": "https://www.healthline.com/health/diabetes",
+    "title": "Diabetes overview - Healthline",
+    "category": "general",
+    "saved_at": "2026-06-27T23:12:39.487395",
+    "file": "general__healthline_com__health_diabetes.txt"
+  },
+  "02de3bbd94a9": {
+    "url": "https://www.healthline.com/health/diabetes/effects-on-body",
+    "title": "How diabetes affects your body",
+    "category": "general",
+    "saved_at": "2026-06-27T23:12:42.361552",
+    "file": "general__healthline_com__health_diabetes_effects-on-body.txt"
+  },
+  "14c89665b55c": {
+    "url": "https://www.diabetes.org/healthy-living/mental-health",
+    "title": "Mental Health - ADA",
+    "category": "lifestyle",
+    "saved_at": "2026-06-27T23:13:19.127084",
+    "file": "lifestyle__diabetes_org__healthy-living_mental-health.txt"
+  },
+  "e0d12a8ff49a": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/tieu-duong-type-2/cach-dieu-tri-benh-tieu-duong-giai-doan-dau/",
+    "title": "Điều trị tiểu đường giai đoạn đầu - HelloBacsi",
+    "category": "lifestyle",
+    "saved_at": "2026-06-27T23:13:48.495700",
+    "file": "lifestyle__hellobacsi_com__tieu-duong-dai-thao-duong_tieu-duong-type-2_cach-dieu-tri-be.txt"
+  },
+  "4af2c26fafcf": {
+    "url": "https://hellobacsi.com/chuyen-de/tieu-duong-dai-thao-duong/tap-the-duc-giup-kiem-soat-duong-huyet/",
+    "title": "Tập thể dục kiểm soát đường huyết - HelloBacsi",
+    "category": "lifestyle",
+    "saved_at": "2026-06-27T23:13:54.341748",
+    "file": "lifestyle__hellobacsi_com__chuyen-de_tieu-duong-dai-thao-duong_tap-the-duc-giup-kiem-so.txt"
+  },
+  "ea1e15dc2a4d": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/tieu-duong-type-2/kiem-soat-tieu-duong-tuyp-2/",
+    "title": "Kiểm soát tiểu đường tuýp 2 - HelloBacsi",
+    "category": "lifestyle",
+    "saved_at": "2026-06-27T23:13:57.454152",
+    "file": "lifestyle__hellobacsi_com__tieu-duong-dai-thao-duong_tieu-duong-type-2_kiem-soat-tieu-d.txt"
+  },
+  "80be3c6752c9": {
+    "url": "https://www.vinmec.com/vie/bai-viet/metformin-la-thuoc-tri-benh-tieu-duong-vi",
+    "title": "Metformin là thuốc trị bệnh tiểu đường",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:15:11.294778",
+    "file": "medication__vinmec_com__vie_bai-viet_metformin-la-thuoc-tri-benh-tieu-duong-vi.txt"
+  },
+  "164a37673d54": {
+    "url": "https://www.vinmec.com/vie/bai-viet/thuoc-metformin-luu-y-khi-dieu-tri-tieu-duong-type-2-vi",
+    "title": "Thuốc metformin lưu ý điều trị",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:15:14.469255",
+    "file": "medication__vinmec_com__vie_bai-viet_thuoc-metformin-luu-y-khi-dieu-tri-tieu-duong-t.txt"
+  },
+  "5332417fb09b": {
+    "url": "https://www.vinmec.com/vie/bai-viet/phac-do-dieu-tri-tieu-duong-type-2-vi",
+    "title": "Phác đồ điều trị tiểu đường type 2",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:15:16.425431",
+    "file": "medication__vinmec_com__vie_bai-viet_phac-do-dieu-tri-tieu-duong-type-2-vi.txt"
+  },
+  "4b04a68fa377": {
+    "url": "https://medlatec.vn/tin-tuc/thuoc-tieu-duong-co-nhung-nhom-thuoc-nao-dung-ra-sao",
+    "title": "Thuốc tiểu đường nhóm nào - Medlatec",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:15:19.646349",
+    "file": "medication__medlatec_vn__tin-tuc_thuoc-tieu-duong-co-nhung-nhom-thuoc-nao-dung-ra-sao.txt"
+  },
+  "5e4b4c88ff82": {
+    "url": "https://medlatec.vn/tin-tuc/tim-hieu-cu-the-ve-phac-do-dieu-tri-dai-thao-duong",
+    "title": "Phác đồ điều trị ĐTĐ - Medlatec",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:15:22.333736",
+    "file": "medication__medlatec_vn__tin-tuc_tim-hieu-cu-the-ve-phac-do-dieu-tri-dai-thao-duong.txt"
+  },
+  "e31d8f298367": {
+    "url": "https://medlatec.vn/tin-tuc/mot-so-loai-thuoc-tay-tri-tieu-duong-tot-nhat-hien-nay",
+    "title": "Thuốc tây trị tiểu đường tốt nhất",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:15:25.059442",
+    "file": "medication__medlatec_vn__tin-tuc_mot-so-loai-thuoc-tay-tri-tieu-duong-tot-nhat-hien-n.txt"
+  },
+  "3957d8bcce0e": {
+    "url": "https://hellobacsi.com/thuoc/metformin/",
+    "title": "Thuốc Metformin - HelloBacsi",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:15:28.661011",
+    "file": "medication__hellobacsi_com__thuoc_metformin.txt"
+  },
+  "fb61a2597a6b": {
+    "url": "https://hellobacsi.com/tieu-duong-dai-thao-duong/thuoc-dieu-tri-dai-thao-duong/",
+    "title": "Thuốc điều trị ĐTĐ - HelloBacsi",
+    "category": "medication",
+    "saved_at": "2026-06-27T23:15:31.315041",
+    "file": "medication__hellobacsi_com__tieu-duong-dai-thao-duong_thuoc-dieu-tri-dai-thao-duong.txt"
+  },
+  "68a5ba9c1dc5": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/complications/stroke",
+    "title": "Stroke and diabetes",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-06-27T23:16:02.291949",
+    "file": "complication_cardiovascular__diabetes_org_uk__about-diabetes_complications_stroke.txt"
+  },
+  "8218ac1e03c1": {
+    "url": "https://medlatec.vn/tin-tuc/tim-hieu-chi-tiet-ve-dai-thao-duong-gay-bien-chung-mach-mau-s195-n27219",
+    "title": "ĐTĐ biến chứng mạch máu - Medlatec",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-06-27T23:16:08.164199",
+    "file": "complication_cardiovascular__medlatec_vn__tin-tuc_tim-hieu-chi-tiet-ve-dai-thao-duong-gay-bien-chung-m.txt"
+  },
+  "616093b8001e": {
+    "url": "https://www.healthline.com/health/type-2-diabetes/hypertension",
+    "title": "Hypertension and diabetes",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-06-27T23:16:18.491949",
+    "file": "complication_cardiovascular__healthline_com__health_type-2-diabetes_hypertension.txt"
+  },
+  "047af0c5d96b": {
+    "url": "https://medlatec.vn/tu-dien-benh-ly/bien-chung-cua-dai-thao-duong-nen-tam-soat-khi-nao-va-o-dau-solqy",
+    "title": "Biến chứng ĐTĐ tầm soát thận",
+    "category": "complication/nephropathy",
+    "saved_at": "2026-06-27T23:16:41.202121",
+    "file": "complication_nephropathy__medlatec_vn__tu-dien-benh-ly_bien-chung-cua-dai-thao-duong-nen-tam-soat-k.txt"
+  },
+  "ad1d1b2948db": {
+    "url": "https://www.healthline.com/health/type-2-diabetes/nephropathy",
+    "title": "Diabetic Nephropathy - Healthline",
+    "category": "complication/nephropathy",
+    "saved_at": "2026-06-27T23:16:48.666558",
+    "file": "complication_nephropathy__healthline_com__health_type-2-diabetes_nephropathy.txt"
+  },
+  "86a8b7a99281": {
+    "url": "https://www.healthline.com/health/type-2-diabetes/diabetic-neuropathy",
+    "title": "Diabetic neuropathy - Healthline",
+    "category": "complication/neuropathy",
+    "saved_at": "2026-06-27T23:17:14.596579",
+    "file": "complication_neuropathy__healthline_com__health_type-2-diabetes_diabetic-neuropathy.txt"
+  },
+  "ca41c00e5049": {
+    "url": "https://www.healthline.com/health/peripheral-neuropathy",
+    "title": "Peripheral neuropathy",
+    "category": "complication/neuropathy",
+    "saved_at": "2026-06-27T23:17:19.581879",
+    "file": "complication_neuropathy__healthline_com__health_peripheral-neuropathy.txt"
+  },
+  "8c68117ee5a2": {
+    "url": "https://www.healthline.com/health/autonomic-neuropathy",
+    "title": "Autonomic neuropathy",
+    "category": "complication/neuropathy",
+    "saved_at": "2026-06-27T23:17:22.196538",
+    "file": "complication_neuropathy__healthline_com__health_autonomic-neuropathy.txt"
+  },
+  "49517edcf1e9": {
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetic-neuropathy/symptoms-causes/syc-20371580",
+    "title": "Diabetic neuropathy - Mayo",
+    "category": "complication/neuropathy",
+    "saved_at": "2026-06-26T03:28:46.541176",
+    "file": "complication_neuropathy__mayoclinic_org__diseases-conditions_diabetic-neuropathy_symptoms-causes_syc-.txt"
+  },
+  "36da70429a72": {
+    "url": "https://www.healthline.com/health/gestational-diabetes",
+    "title": "Gestational Diabetes - Healthline",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-06-27T23:18:07.428785",
+    "file": "complication_pregnancy__healthline_com__health_gestational-diabetes.txt"
+  },
+  "49d37dd8f892": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/complications/retinopathy",
+    "title": "Retinopathy - Diabetes UK",
+    "category": "complication/retinopathy",
+    "saved_at": "2026-06-27T23:18:28.653622",
+    "file": "complication_retinopathy__diabetes_org_uk__about-diabetes_complications_retinopathy.txt"
+  },
+  "cc6bce233d10": {
+    "url": "https://www.healthline.com/health/type-2-diabetes/retinopathy",
+    "title": "Diabetic Retinopathy - Healthline",
+    "category": "complication/retinopathy",
+    "saved_at": "2026-06-27T23:18:33.628164",
+    "file": "complication_retinopathy__healthline_com__health_type-2-diabetes_retinopathy.txt"
+  },
+  "2c0b3d7a61b8": {
+    "url": "https://www.diabetes.org.uk/about-diabetes/complications/feet",
+    "title": "Diabetic feet - Diabetes UK",
+    "category": "complication/foot_care",
+    "saved_at": "2026-06-27T23:18:57.813401",
+    "file": "complication_foot_care__diabetes_org_uk__about-diabetes_complications_feet.txt"
+  },
+  "42a58af23a1d": {
+    "url": "https://www.healthline.com/health/charcot-foot",
+    "title": "Charcot foot in diabetes",
+    "category": "complication/foot_care",
+    "saved_at": "2026-06-27T23:19:16.389224",
+    "file": "complication_foot_care__healthline_com__health_charcot-foot.txt"
+  },
+  "6a38dbe0f277": {
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview",
+    "title": "Diabetes Overview - NIDDK",
+    "category": "general",
+    "saved_at": "2026-06-27T23:11:41.935856",
+    "file": "general__niddk_nih_gov__health-information_diabetes_overview.txt"
+  },
+  "4305dc1275d7": {
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-and-heart-disease/art-20047034",
+    "title": "Diabetes and heart disease - Mayo",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-06-26T06:03:06.739594",
+    "file": "complication_cardiovascular__mayoclinic_org__diseases-conditions_diabetes_in-depth_diabetes-and-heart-dis.txt"
+  },
+  "a546a6df83e9": {
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetic-retinopathy/symptoms-causes/syc-20371611",
+    "title": "Diabetic retinopathy - Mayo",
+    "category": "complication/retinopathy",
+    "saved_at": "2026-06-26T06:23:46.072647",
+    "file": "complication_retinopathy__mayoclinic_org__diseases-conditions_diabetic-retinopathy_symptoms-causes_syc.txt"
+  },
+  "fefc697243fb": {
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/amputation-and-diabetes/art-20048262",
+    "title": "Amputation and diabetes - Mayo",
+    "category": "complication/foot_care",
+    "saved_at": "2026-06-26T06:24:13.671140",
+    "file": "complication_foot_care__mayoclinic_org__diseases-conditions_diabetes_in-depth_amputation-and-diabete.txt"
+  },
+  "145534d6f9a7": {
+    "url": "https://nutrihome.vn/trai-cay-danh-cho-nguoi-tieu-duong/",
+    "title": "20 loại trái cây dành cho người tiểu đường và lưu ý khi ăn",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:09:32.567012",
+    "file": "diet__nutrihome_vn__trai-cay-danh-cho-nguoi-tieu-duong.txt"
+  },
+  "3d503de2d074": {
+    "url": "https://nutricare.com.vn/16-loai-trai-cay-tot-cho-benh-tieu-duong-6-loai-trai-cay-kieng-an-can-tranh/",
+    "title": "16 +loại trái cây tốt cho bệnh tiểu đường & 6 loại trái cây kiêng ăn cần tránh",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:09:37.873785",
+    "file": "diet__nutricare_com_vn__16-loai-trai-cay-tot-cho-benh-tieu-duong-6-loai-trai-cay-kie.txt"
+  },
+  "bc0b440e0ee9": {
+    "url": "https://medlatec.vn/tin-tuc/goi-y-danh-sach-nhung-loai-trai-cay-danh-cho-nguoi-tieu-duong-s51-n30092",
+    "title": "Gợi ý danh sách những loại trái cây dành cho người tiểu đường",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:09:46.357995",
+    "file": "diet__medlatec_vn__tin-tuc_goi-y-danh-sach-nhung-loai-trai-cay-danh-cho-nguoi-t.txt"
+  },
+  "c28f134a7ea1": {
+    "url": "https://www.vinmec.com/vie/bai-viet/vitamin-va-khoang-chat-tren-benh-nhan-dai-thao-duong-tuyp-2-vi",
+    "title": "Vitamin và khoáng chất trên bệnh nhân đái tháo đường tuýp 2",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:09:48.379080",
+    "file": "diet__vinmec_com__vie_bai-viet_vitamin-va-khoang-chat-tren-benh-nhan-dai-thao-.txt"
+  },
+  "4ccfb78c83ea": {
+    "url": "https://www.vinmec.com/vie/bai-viet/benh-dai-thao-duong-che-do-nhu-nao-vi",
+    "title": "Bệnh đái tháo đường: chế độ ăn như thế nào?",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:10:07.887722",
+    "file": "diet__vinmec_com__vie_bai-viet_benh-dai-thao-duong-che-do-nhu-nao-vi.txt"
+  },
+  "cd1c0522681f": {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "title": "Diabetes Fact Sheet - WHO",
+    "category": "general",
+    "saved_at": "2026-06-27T23:11:31.424698",
+    "file": "general__who_int__news-room_fact-sheets_detail_diabetes.txt"
+  },
+  "41a2ba0a3792": {
+    "url": "https://www.medicalnewstoday.com/articles/318727",
+    "title": "Best drinks for diabetics",
+    "category": "diet",
+    "saved_at": "2026-06-27T23:10:31.505355",
+    "file": "diet__medicalnewstoday_com__articles_318727.txt"
+  },
+  "931d89f7d207": {
+    "url": "https://www.cdc.gov/diabetes/treatment/continuous-glucose-monitors.html",
+    "title": "Continuous Glucose Monitors - CDC",
+    "category": "blood_glucose",
+    "saved_at": "2026-07-03T10:01:02.003060",
+    "file": "blood_glucose__cdc_gov__diabetes_treatment_continuous-glucose-monitorshtml.txt"
+  },
+  "1db279d1ecf8": {
+    "url": "https://www.cdc.gov/diabetes/living-with/10-things-that-spike-blood-sugar.html",
+    "title": "10 Things That Can Spike Blood Sugar - CDC",
+    "category": "blood_glucose",
+    "saved_at": "2026-07-03T10:01:04.426004",
+    "file": "blood_glucose__cdc_gov__diabetes_living-with_10-things-that-spike-blood-sugarhtml.txt"
+  },
+  "488acf68f47e": {
+    "url": "https://www.diabetes.co.uk/blood-glucose/blood-glucose-testing.html",
+    "title": "Blood glucose testing overview - Diabetes.co.uk",
+    "category": "blood_glucose",
+    "saved_at": "2026-07-03T10:01:07.355647",
+    "file": "blood_glucose__diabetes_co_uk__blood-glucose_blood-glucose-testinghtml.txt"
+  },
+  "0ae2b681533c": {
+    "url": "https://www.diabetes.co.uk/diabetes_care/blood_glucose_monitor_guide.html",
+    "title": "Blood glucose meter guide - Diabetes.co.uk",
+    "category": "blood_glucose",
+    "saved_at": "2026-07-03T10:01:10.886934",
+    "file": "blood_glucose__diabetes_co_uk__diabetes_care_blood_glucose_monitor_guidehtml.txt"
+  },
+  "c2e74c50b9ce": {
+    "url": "https://www.diabetes.co.uk/diabetes_care/diabetes-test-strips.html",
+    "title": "Blood glucose test strips - Diabetes.co.uk",
+    "category": "blood_glucose",
+    "saved_at": "2026-07-03T10:01:13.860666",
+    "file": "blood_glucose__diabetes_co_uk__diabetes_care_diabetes-test-stripshtml.txt"
+  },
+  "ee41809bcd99": {
+    "url": "https://www.diabetes.co.uk/cgm/continuous-glucose-monitoring.html",
+    "title": "Continuous glucose monitoring - Diabetes.co.uk",
+    "category": "blood_glucose",
+    "saved_at": "2026-07-03T10:01:16.588896",
+    "file": "blood_glucose__diabetes_co_uk__cgm_continuous-glucose-monitoringhtml.txt"
+  },
+  "6c82ec78029d": {
+    "url": "https://www.diabetes.co.uk/glucose-intolerance.html",
+    "title": "Glucose intolerance - Diabetes.co.uk",
+    "category": "blood_glucose",
+    "saved_at": "2026-07-03T10:01:20.379716",
+    "file": "blood_glucose__diabetes_co_uk__glucose-intolerancehtml.txt"
+  },
+  "22f04ab5721c": {
+    "url": "https://www.diabetes.co.uk/blood-glucose/how-to-test-blood-glucose-levels.html",
+    "title": "How to test your blood glucose - Diabetes.co.uk",
+    "category": "blood_glucose",
+    "saved_at": "2026-07-03T10:01:23.602281",
+    "file": "blood_glucose__diabetes_co_uk__blood-glucose_how-to-test-blood-glucose-levelshtml.txt"
+  },
+  "3d7121c856f6": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-ketones.html",
+    "title": "Ketones - Diabetes.co.uk",
+    "category": "blood_glucose",
+    "saved_at": "2026-07-03T10:01:25.998218",
+    "file": "blood_glucose__diabetes_co_uk__diabetes-and-ketoneshtml.txt"
+  },
+  "387ba042394a": {
+    "url": "https://www.diabetes.co.uk/diabetes_care/testing-for-ketones.html",
+    "title": "Ketone testing - Diabetes.co.uk",
+    "category": "blood_glucose",
+    "saved_at": "2026-07-03T10:01:29.478868",
+    "file": "blood_glucose__diabetes_co_uk__diabetes_care_testing-for-ketoneshtml.txt"
+  },
+  "86c2b12f7151": {
+    "url": "https://www.diabetes.co.uk/blood-glucose/ketosis.html",
+    "title": "Ketosis - Diabetes.co.uk",
+    "category": "blood_glucose",
+    "saved_at": "2026-07-03T10:01:32.024005",
+    "file": "blood_glucose__diabetes_co_uk__blood-glucose_ketosishtml.txt"
+  },
+  "ea871a57e4b9": {
+    "url": "https://www.diabetes.co.uk/diabetes_care/blood-sugar-level-ranges.html",
+    "title": "Blood glucose level ranges - Diabetes.co.uk",
+    "category": "blood_glucose",
+    "saved_at": "2026-07-03T10:01:34.787662",
+    "file": "blood_glucose__diabetes_co_uk__diabetes_care_blood-sugar-level-rangeshtml.txt"
+  },
+  "55964efdfb57": {
+    "url": "https://www.diabetes.co.uk/diabetes_care/fasting-blood-sugar-levels.html",
+    "title": "Fasting blood glucose levels - Diabetes.co.uk",
+    "category": "blood_glucose",
+    "saved_at": "2026-07-03T10:01:39.278323",
+    "file": "blood_glucose__diabetes_co_uk__diabetes_care_fasting-blood-sugar-levelshtml.txt"
+  },
+  "b7422028da96": {
+    "url": "https://www.diabetes.co.uk/what-is-hba1c.html",
+    "title": "HbA1c - Diabetes.co.uk",
+    "category": "blood_glucose",
+    "saved_at": "2026-07-03T10:01:42.199738",
+    "file": "blood_glucose__diabetes_co_uk__what-is-hba1chtml.txt"
+  },
+  "781fa8b11b9a": {
+    "url": "https://www.cdc.gov/diabetes/signs-symptoms/coping-with-type-2-diagnosis.html",
+    "title": "Coping With a Type 2 Diabetes Diagnosis - CDC",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:01:44.722971",
+    "file": "diagnosis__cdc_gov__diabetes_signs-symptoms_coping-with-type-2-diagnosishtml.txt"
+  },
+  "65d8a6567b75": {
+    "url": "https://www.cdc.gov/diabetes/data-research/research/diabetes-screening-eligible.html",
+    "title": "12 Million More Adults Eligible for Diabetes Screening - CDC",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:01:47.583610",
+    "file": "diagnosis__cdc_gov__diabetes_data-research_research_diabetes-screening-eligible.txt"
+  },
+  "356c879286af": {
+    "url": "https://www.cdc.gov/diabetes/communication-resources/prediabetes-statistics.html",
+    "title": "Prediabetes: Could It Be You? - CDC",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:01:50.200577",
+    "file": "diagnosis__cdc_gov__diabetes_communication-resources_prediabetes-statisticshtml.txt"
+  },
+  "d2cdf7c68cfb": {
+    "url": "https://www.cdc.gov/diabetes/awareness-campaigns/prediabetes-awareness-campaign.html",
+    "title": "Do I Have Prediabetes Campaign - CDC",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:01:53.516766",
+    "file": "diagnosis__cdc_gov__diabetes_awareness-campaigns_prediabetes-awareness-campaign.txt"
+  },
+  "f04b552b1a12": {
+    "url": "https://www.cdc.gov/diabetes/awareness-campaigns/cdc-national-prediabetes-awareness-campaign.html",
+    "title": "First National Prediabetes Awareness Campaign - CDC",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:01:56.460897",
+    "file": "diagnosis__cdc_gov__diabetes_awareness-campaigns_cdc-national-prediabetes-awaren.txt"
+  },
+  "fa5c25345773": {
+    "url": "https://www.diabetes.co.uk/diabetes-symptoms.html",
+    "title": "Symptoms of diabetes - Diabetes.co.uk",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:01:59.494775",
+    "file": "diagnosis__diabetes_co_uk__diabetes-symptomshtml.txt"
+  },
+  "ff1ba8932685": {
+    "url": "https://www.diabetes.co.uk/type1-diabetes-symptoms.html",
+    "title": "Type 1 diabetes symptoms - Diabetes.co.uk",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:02:02.791718",
+    "file": "diagnosis__diabetes_co_uk__type1-diabetes-symptomshtml.txt"
+  },
+  "5c3244643048": {
+    "url": "https://www.diabetes.co.uk/type2-diabetes-symptoms.html",
+    "title": "Type 2 diabetes symptoms - Diabetes.co.uk",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:02:04.996094",
+    "file": "diagnosis__diabetes_co_uk__type2-diabetes-symptomshtml.txt"
+  },
+  "2165e6308dd6": {
+    "url": "https://www.diabetes.co.uk/diabetes-types.html",
+    "title": "Types of diabetes - Diabetes.co.uk",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:02:08.009081",
+    "file": "diagnosis__diabetes_co_uk__diabetes-typeshtml.txt"
+  },
+  "653322deb71f": {
+    "url": "https://www.diabetes.co.uk/type1-diabetes.html",
+    "title": "Type 1 diabetes overview - Diabetes.co.uk",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:02:10.937138",
+    "file": "diagnosis__diabetes_co_uk__type1-diabeteshtml.txt"
+  },
+  "7da613d7fad7": {
+    "url": "https://www.diabetes.co.uk/newly-diagnosed-with-type1-diabetes.html",
+    "title": "Newly diagnosed with Type 1 - Diabetes.co.uk",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:02:14.125976",
+    "file": "diagnosis__diabetes_co_uk__newly-diagnosed-with-type1-diabeteshtml.txt"
+  },
+  "031f5ea9be8c": {
+    "url": "https://www.diabetes.co.uk/causes-of-type1-diabetes.html",
+    "title": "Causes of type 1 diabetes - Diabetes.co.uk",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:02:17.530787",
+    "file": "diagnosis__diabetes_co_uk__causes-of-type1-diabeteshtml.txt"
+  },
+  "ea681b47aa17": {
+    "url": "https://www.diabetes.co.uk/pre-diabetes.html",
+    "title": "Prediabetes - Diabetes.co.uk",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:02:20.624977",
+    "file": "diagnosis__diabetes_co_uk__pre-diabeteshtml.txt"
+  },
+  "d82be1e16a59": {
+    "url": "https://www.diabetes.co.uk/Diabetes-Risk-factors.html",
+    "title": "Diabetes risk factors - Diabetes.co.uk",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:02:23.799017",
+    "file": "diagnosis__diabetes_co_uk__Diabetes-Risk-factorshtml.txt"
+  },
+  "6696ead7391b": {
+    "url": "https://www.diabetes.co.uk/skinny-type2-diabetes.html",
+    "title": "Lean type 2 diabetes - Diabetes.co.uk",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:02:27.526426",
+    "file": "diagnosis__diabetes_co_uk__skinny-type2-diabeteshtml.txt"
+  },
+  "bbb41a27945f": {
+    "url": "https://www.diabetes.co.uk/newly-diagnosed-with-type2-diabetes.html",
+    "title": "Newly diagnosed with type 2 - Diabetes.co.uk",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:02:30.021400",
+    "file": "diagnosis__diabetes_co_uk__newly-diagnosed-with-type2-diabeteshtml.txt"
+  },
+  "dc1a97384366": {
+    "url": "https://www.diabetes.co.uk/causes-of-type2-diabetes.html",
+    "title": "Causes of type 2 diabetes - Diabetes.co.uk",
+    "category": "diagnosis",
+    "saved_at": "2026-07-03T10:02:32.881005",
+    "file": "diagnosis__diabetes_co_uk__causes-of-type2-diabeteshtml.txt"
+  },
+  "0a38b0478a75": {
+    "url": "https://www.cdc.gov/diabetes/healthy-eating/spotting-hidden-sugars-in-everyday-foods.html",
+    "title": "Spotting Hidden Sugars in Everyday Foods - CDC",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:02:36.135732",
+    "file": "diet__cdc_gov__diabetes_healthy-eating_spotting-hidden-sugars-in-everyday-f.txt"
+  },
+  "5bf00dbd0c19": {
+    "url": "https://www.diabetes.co.uk/diet-for-type1-diabetes.html",
+    "title": "Diet for type 1 diabetes - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:02:39.578695",
+    "file": "diet__diabetes_co_uk__diet-for-type1-diabeteshtml.txt"
+  },
+  "123f4ea8b3f5": {
+    "url": "https://www.diabetes.co.uk/diet-for-type2-diabetes.html",
+    "title": "Diet for type 2 diabetes - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:02:42.245230",
+    "file": "diet__diabetes_co_uk__diet-for-type2-diabeteshtml.txt"
+  },
+  "c8fa3ba10968": {
+    "url": "https://www.diabetes.co.uk/food/which-foods-help-diabetes.html",
+    "title": "Blood glucose friendly foods - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:02:44.851661",
+    "file": "diet__diabetes_co_uk__food_which-foods-help-diabeteshtml.txt"
+  },
+  "1c788722de36": {
+    "url": "https://www.diabetes.co.uk/diabetic-food.html",
+    "title": "Diabetic food - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:02:47.303753",
+    "file": "diet__diabetes_co_uk__diabetic-foodhtml.txt"
+  },
+  "8c3a19c6aa47": {
+    "url": "https://www.diabetes.co.uk/diet-basics.html",
+    "title": "Diet guides overview - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:02:50.062293",
+    "file": "diet__diabetes_co_uk__diet-basicshtml.txt"
+  },
+  "8b565f38967c": {
+    "url": "https://www.diabetes.co.uk/diet/nhs-diet-advice.html",
+    "title": "NHS diet advice - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:02:53.029060",
+    "file": "diet__diabetes_co_uk__diet_nhs-diet-advicehtml.txt"
+  },
+  "93fb454ad277": {
+    "url": "https://www.diabetes.co.uk/diet/newcastle-study-600-calorie-diet",
+    "title": "800 calorie shake diet - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:02:55.684002",
+    "file": "diet__diabetes_co_uk__diet_newcastle-study-600-calorie-diet.txt"
+  },
+  "9947e8f377b6": {
+    "url": "https://www.diabetes.co.uk/diet/fasting-and-diabetes.html",
+    "title": "Fasting and diabetes - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:02:59.048182",
+    "file": "diet__diabetes_co_uk__diet_fasting-and-diabeteshtml.txt"
+  },
+  "a375a682cec1": {
+    "url": "https://www.diabetes.co.uk/diet/glycaemic-index-diet-and-diabetes.html",
+    "title": "Glycemic index - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:02.154264",
+    "file": "diet__diabetes_co_uk__diet_glycaemic-index-diet-and-diabeteshtml.txt"
+  },
+  "55bcef5a0df2": {
+    "url": "https://www.diabetes.co.uk/keto/",
+    "title": "Ketogenic diet - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:04.724457",
+    "file": "diet__diabetes_co_uk__keto.txt"
+  },
+  "bfcb10a37284": {
+    "url": "https://www.diabetes.co.uk/diet/low-calorie-diets.html",
+    "title": "Low calorie diet - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:10.200372",
+    "file": "diet__diabetes_co_uk__diet_low-calorie-dietshtml.txt"
+  },
+  "9989de17f134": {
+    "url": "https://www.diabetes.co.uk/diet/low-carb-diabetes-diet.html",
+    "title": "Low carb diet - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:13.449196",
+    "file": "diet__diabetes_co_uk__diet_low-carb-diabetes-diethtml.txt"
+  },
+  "657dddcc06f0": {
+    "url": "https://www.diabetes.co.uk/diet/mediterranean-diet.html",
+    "title": "Mediterranean diet - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:16.308174",
+    "file": "diet__diabetes_co_uk__diet_mediterranean-diethtml.txt"
+  },
+  "89a68a7e0040": {
+    "url": "https://www.diabetes.co.uk/diet/paleolithic-diet.html",
+    "title": "Paleo diet - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:19.062606",
+    "file": "diet__diabetes_co_uk__diet_paleolithic-diethtml.txt"
+  },
+  "58ac2d7828f4": {
+    "url": "https://www.diabetes.co.uk/diet/very-low-calorie-diet.html",
+    "title": "Very low calorie diet - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:25.007254",
+    "file": "diet__diabetes_co_uk__diet_very-low-calorie-diethtml.txt"
+  },
+  "449618fd6e50": {
+    "url": "https://www.diabetes.co.uk/diet/vegan-diet.html",
+    "title": "Vegan diet - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:29.708445",
+    "file": "diet__diabetes_co_uk__diet_vegan-diethtml.txt"
+  },
+  "4dc976c01757": {
+    "url": "https://www.diabetes.co.uk/vegetarian-diet.html",
+    "title": "Vegetarian diet - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:32.432389",
+    "file": "diet__diabetes_co_uk__vegetarian-diethtml.txt"
+  },
+  "3e498868379c": {
+    "url": "https://www.diabetes.co.uk/food/diabetic-breakfast.html",
+    "title": "Breakfast ideas - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:35.870697",
+    "file": "diet__diabetes_co_uk__food_diabetic-breakfasthtml.txt"
+  },
+  "adc555f21c34": {
+    "url": "https://www.diabetes.co.uk/food/low-carb-lunch.html",
+    "title": "Lunch ideas - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:41.869244",
+    "file": "diet__diabetes_co_uk__food_low-carb-lunchhtml.txt"
+  },
+  "888d6b8cb07d": {
+    "url": "https://www.diabetes.co.uk/food/low-carb-dinner.html",
+    "title": "Dinner ideas - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:44.229157",
+    "file": "diet__diabetes_co_uk__food_low-carb-dinnerhtml.txt"
+  },
+  "90c7a7c95eca": {
+    "url": "https://www.diabetes.co.uk/diet/ramadan-and-diabetes.html",
+    "title": "Ramadan and diabetes - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:46.790406",
+    "file": "diet__diabetes_co_uk__diet_ramadan-and-diabeteshtml.txt"
+  },
+  "7a72edf2ee98": {
+    "url": "https://www.diabetes.co.uk/food/what-can-i-drink.html",
+    "title": "Drinks overview - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:49.990056",
+    "file": "diet__diabetes_co_uk__food_what-can-i-drinkhtml.txt"
+  },
+  "92856716102b": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-alcohol.html",
+    "title": "Alcohol and diabetes - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:52.993017",
+    "file": "diet__diabetes_co_uk__diabetes-and-alcoholhtml.txt"
+  },
+  "8d3a64db6c5f": {
+    "url": "https://www.diabetes.co.uk/sweeteners/sugar-alcohols.html",
+    "title": "Sugar alcohols - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:03:57.738516",
+    "file": "diet__diabetes_co_uk__sweeteners_sugar-alcoholshtml.txt"
+  },
+  "3ae284298fac": {
+    "url": "https://www.diabetes.co.uk/alcohol-and-blood-sugar.html",
+    "title": "Alcohol and blood sugar - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:04.195432",
+    "file": "diet__diabetes_co_uk__alcohol-and-blood-sugarhtml.txt"
+  },
+  "f7b391e27a79": {
+    "url": "https://www.diabetes.co.uk/food/coffee-and-diabetes.html",
+    "title": "Coffee and diabetes - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:07.175082",
+    "file": "diet__diabetes_co_uk__food_coffee-and-diabeteshtml.txt"
+  },
+  "16e29320599e": {
+    "url": "https://www.diabetes.co.uk/diet-soft-drinks.html",
+    "title": "Diet soft drinks - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:09.541657",
+    "file": "diet__diabetes_co_uk__diet-soft-drinkshtml.txt"
+  },
+  "330564d6f26e": {
+    "url": "https://www.diabetes.co.uk/food/juice-and-diabetes.html",
+    "title": "Fruit juice and diabetes - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:12.035131",
+    "file": "diet__diabetes_co_uk__food_juice-and-diabeteshtml.txt"
+  },
+  "82365b2a5b0f": {
+    "url": "https://www.diabetes.co.uk/food/tea-and-diabetes.html",
+    "title": "Tea and diabetes - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:15.070440",
+    "file": "diet__diabetes_co_uk__food_tea-and-diabeteshtml.txt"
+  },
+  "bc1a12f98986": {
+    "url": "https://www.diabetes.co.uk/sports-drinks.html",
+    "title": "Sports drinks - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:17.746038",
+    "file": "diet__diabetes_co_uk__sports-drinkshtml.txt"
+  },
+  "04b25ecd26f9": {
+    "url": "https://www.diabetes.co.uk/sugary-soft-drinks.html",
+    "title": "Sugary soft drinks - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:20.395164",
+    "file": "diet__diabetes_co_uk__sugary-soft-drinkshtml.txt"
+  },
+  "b8daf0908aa7": {
+    "url": "https://www.diabetes.co.uk/nutrition.html",
+    "title": "Nutrition overview - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:22.882580",
+    "file": "diet__diabetes_co_uk__nutritionhtml.txt"
+  },
+  "87c759ce3cb0": {
+    "url": "https://www.diabetes.co.uk/diabetes_care/Diabetes_and_low_calorie_sweeteners.html",
+    "title": "Artificial sweeteners - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:26.268490",
+    "file": "diet__diabetes_co_uk__diabetes_care_Diabetes_and_low_calorie_sweetenershtml.txt"
+  },
+  "3f6c9f768694": {
+    "url": "https://www.diabetes.co.uk/nutrition/carbohydrates-and-diabetes.html",
+    "title": "Carbohydrates and diabetes - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:28.718273",
+    "file": "diet__diabetes_co_uk__nutrition_carbohydrates-and-diabeteshtml.txt"
+  },
+  "7ea694f6f290": {
+    "url": "https://www.diabetes.co.uk/diet/carbohydrate-counting.html",
+    "title": "Carb counting - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:31.358672",
+    "file": "diet__diabetes_co_uk__diet_carbohydrate-countinghtml.txt"
+  },
+  "f88f0538b703": {
+    "url": "https://www.diabetes.co.uk/nutrition/simple-carbs-vs-complex-carbs.html",
+    "title": "Simple vs complex carbs - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:34.605867",
+    "file": "diet__diabetes_co_uk__nutrition_simple-carbs-vs-complex-carbshtml.txt"
+  },
+  "5f2821338472": {
+    "url": "https://www.diabetes.co.uk/nutrition/dietary-supplements.html",
+    "title": "Dietary supplements - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:40.210831",
+    "file": "diet__diabetes_co_uk__nutrition_dietary-supplementshtml.txt"
+  },
+  "e8cd0118640d": {
+    "url": "https://www.diabetes.co.uk/nutrition/fat-and-diabetes.html",
+    "title": "Fat and diabetes - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:43.832594",
+    "file": "diet__diabetes_co_uk__nutrition_fat-and-diabeteshtml.txt"
+  },
+  "3ca8ded0092d": {
+    "url": "https://www.diabetes.co.uk/nutrition/sugar-vs-fat.html",
+    "title": "Sugar vs fat - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:46.813138",
+    "file": "diet__diabetes_co_uk__nutrition_sugar-vs-fathtml.txt"
+  },
+  "d18e8dab684c": {
+    "url": "https://www.diabetes.co.uk/food/food-diary.html",
+    "title": "Food diary - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:50.303595",
+    "file": "diet__diabetes_co_uk__food_food-diaryhtml.txt"
+  },
+  "58d03f759fb8": {
+    "url": "https://www.diabetes.co.uk/Food-tips-for-diabetics.html",
+    "title": "Food tips for diabetics - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:53.263098",
+    "file": "diet__diabetes_co_uk__Food-tips-for-diabeticshtml.txt"
+  },
+  "815494a4a0f7": {
+    "url": "https://www.diabetes.co.uk/food/fruit.html",
+    "title": "Fruit and diabetes - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:56.328412",
+    "file": "diet__diabetes_co_uk__food_fruithtml.txt"
+  },
+  "124a22de3223": {
+    "url": "https://www.diabetes.co.uk/portion-control.html",
+    "title": "Portion control - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:04:59.233223",
+    "file": "diet__diabetes_co_uk__portion-controlhtml.txt"
+  },
+  "69e077f30960": {
+    "url": "https://www.diabetes.co.uk/food/processed-foods.html",
+    "title": "Processed foods - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:05:01.448658",
+    "file": "diet__diabetes_co_uk__food_processed-foodshtml.txt"
+  },
+  "abc82609dabe": {
+    "url": "https://www.diabetes.co.uk/nutrition/protein-and-diabetes.html",
+    "title": "Protein and diabetes - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:05:04.383208",
+    "file": "diet__diabetes_co_uk__nutrition_protein-and-diabeteshtml.txt"
+  },
+  "0690d3f572bf": {
+    "url": "https://www.diabetes.co.uk/nutrition/sugar.html",
+    "title": "Sugar and diabetes - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:05:07.445065",
+    "file": "diet__diabetes_co_uk__nutrition_sugarhtml.txt"
+  },
+  "2e8779acbcd9": {
+    "url": "https://www.diabetes.co.uk/vitamins-supplements.html",
+    "title": "Vitamins and minerals - Diabetes.co.uk",
+    "category": "diet",
+    "saved_at": "2026-07-03T10:05:13.619378",
+    "file": "diet__diabetes_co_uk__vitamins-supplementshtml.txt"
+  },
+  "1fdf2d7f7e24": {
+    "url": "https://www.cdc.gov/diabetes/treatment/treatment-low-blood-sugar-hypoglycemia.html",
+    "title": "Treatment for Low Blood Sugar - CDC",
+    "category": "emergency",
+    "saved_at": "2026-07-03T10:05:16.884052",
+    "file": "emergency__cdc_gov__diabetes_treatment_treatment-low-blood-sugar-hypoglycemiaht.txt"
+  },
+  "aa769ab2ae61": {
+    "url": "https://www.cdc.gov/diabetes/articles/managing-insulin-in-emergency.html",
+    "title": "Managing Insulin in an Emergency - CDC",
+    "category": "emergency",
+    "saved_at": "2026-07-03T10:05:20.079901",
+    "file": "emergency__cdc_gov__diabetes_articles_managing-insulin-in-emergencyhtml.txt"
+  },
+  "26caa41f1e06": {
+    "url": "https://www.cdc.gov/diabetes/articles/diabetes-care-emergencies.html",
+    "title": "Diabetes Care During Emergencies - CDC",
+    "category": "emergency",
+    "saved_at": "2026-07-03T10:05:23.980177",
+    "file": "emergency__cdc_gov__diabetes_articles_diabetes-care-emergencieshtml.txt"
+  },
+  "cb75f4c02867": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/diabetic-ketoacidosis.html",
+    "title": "Diabetic ketoacidosis (DKA) - Diabetes.co.uk",
+    "category": "emergency",
+    "saved_at": "2026-07-03T10:05:26.313596",
+    "file": "emergency__diabetes_co_uk__diabetes-complications_diabetic-ketoacidosishtml.txt"
+  },
+  "b4e17ad8e24b": {
+    "url": "https://www.diabetes.co.uk/Diabetes-and-Hypoglycaemia.html",
+    "title": "Hypoglycemia (low blood glucose) - Diabetes.co.uk",
+    "category": "emergency",
+    "saved_at": "2026-07-03T10:05:29.138235",
+    "file": "emergency__diabetes_co_uk__Diabetes-and-Hypoglycaemiahtml.txt"
+  },
+  "df87577bee87": {
+    "url": "https://www.diabetes.co.uk/how-to/treat-a-hypo.html",
+    "title": "How to treat a hypo - Diabetes.co.uk",
+    "category": "emergency",
+    "saved_at": "2026-07-03T10:05:32.708656",
+    "file": "emergency__diabetes_co_uk__how-to_treat-a-hypohtml.txt"
+  },
+  "cad981909fba": {
+    "url": "https://www.diabetes.co.uk/Diabetes-and-Hyperglycaemia.html",
+    "title": "Hyperglycemia (high blood glucose) - Diabetes.co.uk",
+    "category": "emergency",
+    "saved_at": "2026-07-03T10:05:35.686400",
+    "file": "emergency__diabetes_co_uk__Diabetes-and-Hyperglycaemiahtml.txt"
+  },
+  "f03532a95404": {
+    "url": "https://www.diabetes.co.uk/how-to/bring-down-high-blood-sugar-levels.html",
+    "title": "How to bring down high blood sugar - Diabetes.co.uk",
+    "category": "emergency",
+    "saved_at": "2026-07-03T10:05:38.325304",
+    "file": "emergency__diabetes_co_uk__how-to_bring-down-high-blood-sugar-levelshtml.txt"
+  },
+  "69e4cbd3619a": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/hyperosmolar-hyperglycemic-nonketotic-syndrome.html",
+    "title": "Hyperosmolar hyperglycemic nonketotic syndrome - Diabetes.co.uk",
+    "category": "emergency",
+    "saved_at": "2026-07-03T10:05:41.320511",
+    "file": "emergency__diabetes_co_uk__diabetes-complications_hyperosmolar-hyperglycemic-nonketotic.txt"
+  },
+  "99472783aaf7": {
+    "url": "https://www.diabetes.co.uk/nocturnal-hypoglycemia.html",
+    "title": "Nocturnal hypoglycemia - Diabetes.co.uk",
+    "category": "emergency",
+    "saved_at": "2026-07-03T10:05:43.484017",
+    "file": "emergency__diabetes_co_uk__nocturnal-hypoglycemiahtml.txt"
+  },
+  "58ab8b167867": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/diabetic-coma.html",
+    "title": "Diabetic coma - Diabetes.co.uk",
+    "category": "emergency",
+    "saved_at": "2026-07-03T10:05:48.513575",
+    "file": "emergency__diabetes_co_uk__diabetes-complications_diabetic-comahtml.txt"
+  },
+  "699fad631edb": {
+    "url": "https://www.diabetes.co.uk/alcohol-and-hypoglycemia.html",
+    "title": "Alcohol and hypoglycemia - Diabetes.co.uk",
+    "category": "emergency",
+    "saved_at": "2026-07-03T10:05:53.263155",
+    "file": "emergency__diabetes_co_uk__alcohol-and-hypoglycemiahtml.txt"
+  },
+  "c0531ab15dd7": {
+    "url": "https://www.cdc.gov/diabetes/about/type-1-teen-adult.html",
+    "title": "Make the Leap From Type 1 Teen to Adult - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:03.481402",
+    "file": "general__cdc_gov__diabetes_about_type-1-teen-adulthtml.txt"
+  },
+  "c8211078ab0d": {
+    "url": "https://www.cdc.gov/diabetes/signs-symptoms/diabetes-and-your-skin.html",
+    "title": "Diabetes and Your Skin - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:06.891786",
+    "file": "general__cdc_gov__diabetes_signs-symptoms_diabetes-and-your-skinhtml.txt"
+  },
+  "b8e1bce591fc": {
+    "url": "https://www.cdc.gov/diabetes/risk-factors/diabetes-and-smoking.html",
+    "title": "Diabetes and Smoking - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:10.645228",
+    "file": "general__cdc_gov__diabetes_risk-factors_diabetes-and-smokinghtml.txt"
+  },
+  "1fd620337bd3": {
+    "url": "https://www.cdc.gov/diabetes/risk-factors/diabetes-and-men.html",
+    "title": "Diabetes and Men - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:13.399163",
+    "file": "general__cdc_gov__diabetes_risk-factors_diabetes-and-menhtml.txt"
+  },
+  "9212811eab61": {
+    "url": "https://www.cdc.gov/diabetes/risk-factors/diabetes-and-women-1.html",
+    "title": "Diabetes and Women - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:16.018159",
+    "file": "general__cdc_gov__diabetes_risk-factors_diabetes-and-women-1html.txt"
+  },
+  "1251da808828": {
+    "url": "https://www.cdc.gov/diabetes/risk-factors/diabetes-risk-lgbtq.html",
+    "title": "Diabetes and the LGBTQ Community - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:22.459420",
+    "file": "general__cdc_gov__diabetes_risk-factors_diabetes-risk-lgbtqhtml.txt"
+  },
+  "9b8de9dfc29d": {
+    "url": "https://www.cdc.gov/diabetes/treatment/diabetes-doctors.html",
+    "title": "Your Diabetes Care Team - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:24.512401",
+    "file": "general__cdc_gov__diabetes_treatment_diabetes-doctorshtml.txt"
+  },
+  "ee2b948c0fa9": {
+    "url": "https://www.cdc.gov/diabetes/treatment/your-diabetes-care-schedule.html",
+    "title": "Your Diabetes Care Schedule - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:27.605074",
+    "file": "general__cdc_gov__diabetes_treatment_your-diabetes-care-schedulehtml.txt"
+  },
+  "d29b0aaf5d6e": {
+    "url": "https://www.cdc.gov/diabetes/caring/steps-to-help-you-stay-healthy-with-diabetes.html",
+    "title": "Steps to Help You Stay Healthy With Diabetes - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:30.480775",
+    "file": "general__cdc_gov__diabetes_caring_steps-to-help-you-stay-healthy-with-diabetes.txt"
+  },
+  "87ef1c4a9392": {
+    "url": "https://www.cdc.gov/diabetes/health-equity/improving-access-education.html",
+    "title": "Improving Access to Diabetes Education - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:33.045388",
+    "file": "general__cdc_gov__diabetes_health-equity_improving-access-educationhtml.txt"
+  },
+  "1abfb016676a": {
+    "url": "https://www.cdc.gov/diabetes/health-equity/improving-health-appalachia.html",
+    "title": "Improving Health in Appalachia - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:35.443440",
+    "file": "general__cdc_gov__diabetes_health-equity_improving-health-appalachiahtml.txt"
+  },
+  "dc22ca4f3c33": {
+    "url": "https://www.cdc.gov/diabetes/health-equity/health-american-indian.html",
+    "title": "Improving Health in Indian Country - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:37.840698",
+    "file": "general__cdc_gov__diabetes_health-equity_health-american-indianhtml.txt"
+  },
+  "2a5cfe62b6d8": {
+    "url": "https://www.cdc.gov/diabetes/data-research/research/treatment-goals.html",
+    "title": "How People with Type 2 Diabetes Can Live Longer - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:40.209762",
+    "file": "general__cdc_gov__diabetes_data-research_research_treatment-goalshtml.txt"
+  },
+  "293909c5b16c": {
+    "url": "https://www.cdc.gov/diabetes/data-research/research/diabetes-education.html",
+    "title": "Diabetes Education Linked to Better Care - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:43.460843",
+    "file": "general__cdc_gov__diabetes_data-research_research_diabetes-educationhtml.txt"
+  },
+  "65a3a94e2e72": {
+    "url": "https://www.cdc.gov/diabetes/data-research/research/young-people-mental-health.html",
+    "title": "Mental Health for Kids and Teens With Diabetes - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:46.261213",
+    "file": "general__cdc_gov__diabetes_data-research_research_young-people-mental-healthh.txt"
+  },
+  "1fb05595581b": {
+    "url": "https://www.cdc.gov/diabetes/data-research/research/older-adults.html",
+    "title": "Cost of Diabetes Complications for Medicare Beneficiaries - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:48.760621",
+    "file": "general__cdc_gov__diabetes_data-research_research_older-adultshtml.txt"
+  },
+  "899782355931": {
+    "url": "https://www.cdc.gov/diabetes/data-research/research/young-people-diabetes-on-rise.html",
+    "title": "Diabetes in Young People Is on the Rise - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:51.108650",
+    "file": "general__cdc_gov__diabetes_data-research_research_young-people-diabetes-on-ris.txt"
+  },
+  "1af4141356e1": {
+    "url": "https://www.cdc.gov/diabetes/data-research/research/trends-new-diabetes-cases-young-people.html",
+    "title": "Trends in Diabetes Among Young People - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:06:54.101762",
+    "file": "general__cdc_gov__diabetes_data-research_research_trends-new-diabetes-cases-yo.txt"
+  },
+  "e897fd75a55f": {
+    "url": "https://www.cdc.gov/diabetes/communication-resources/how-diabetes-can-affect-your-body.html",
+    "title": "How Diabetes Can Affect Your Body - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:00.449416",
+    "file": "general__cdc_gov__diabetes_communication-resources_how-diabetes-can-affect-you.txt"
+  },
+  "8f676a3385db": {
+    "url": "https://www.cdc.gov/diabetes/communication-resources/social-media-graphics.html",
+    "title": "Social Media Graphics - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:06.906027",
+    "file": "general__cdc_gov__diabetes_communication-resources_social-media-graphicshtml.txt"
+  },
+  "1ddd75f1761a": {
+    "url": "https://www.cdc.gov/diabetes/communication-resources/diabetes-complications-social-media-graphics.html",
+    "title": "Diabetes Complications Social Media Graphics - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:09.732668",
+    "file": "general__cdc_gov__diabetes_communication-resources_diabetes-complications-soci.txt"
+  },
+  "33f5fc8fae82": {
+    "url": "https://www.cdc.gov/diabetes/communication-resources/2-in-5-americans.html",
+    "title": "2 in 5 Americans - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:12.313319",
+    "file": "general__cdc_gov__diabetes_communication-resources_2-in-5-americanshtml.txt"
+  },
+  "91162f69dc71": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-tv/your-health-with-joan-lunden.html",
+    "title": "Your Health With Joan Lunden Video Series - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:14.932056",
+    "file": "general__cdc_gov__diabetes_diabetes-tv_your-health-with-joan-lundenhtml.txt"
+  },
+  "815b6eb5a7ce": {
+    "url": "https://www.cdc.gov/diabetes/articles/the-diabetes-journey-to-purpose.html",
+    "title": "The Diabetes Journey to Purpose - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:19.474575",
+    "file": "general__cdc_gov__diabetes_articles_the-diabetes-journey-to-purposehtml.txt"
+  },
+  "e93dcf9666fc": {
+    "url": "https://www.cdc.gov/diabetes/articles/healthy-family-kids.html",
+    "title": "Healthy on the Inside - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:21.867220",
+    "file": "general__cdc_gov__diabetes_articles_healthy-family-kidshtml.txt"
+  },
+  "dcc4797424fb": {
+    "url": "https://www.cdc.gov/diabetes/articles/diabetes-stigma.html",
+    "title": "Diabetes Stigma - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:25.778540",
+    "file": "general__cdc_gov__diabetes_articles_diabetes-stigmahtml.txt"
+  },
+  "4e5557ae0a14": {
+    "url": "https://www.cdc.gov/diabetes/articles/10-tips-coping-diabetes-distress.html",
+    "title": "10 Tips for Coping with Diabetes Distress - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:28.084398",
+    "file": "general__cdc_gov__diabetes_articles_10-tips-coping-diabetes-distresshtml.txt"
+  },
+  "96bb3036dc6c": {
+    "url": "https://www.cdc.gov/diabetes/articles/diabetes-and-hormonal-birth-control.html",
+    "title": "Diabetes and Hormonal Birth Control - CDC",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:31.748536",
+    "file": "general__cdc_gov__diabetes_articles_diabetes-and-hormonal-birth-controlhtml.txt"
+  },
+  "f859d57c677f": {
+    "url": "https://www.diabetes.co.uk/having-diabetes.html",
+    "title": "Having diabetes - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:36.756579",
+    "file": "general__diabetes_co_uk__having-diabeteshtml.txt"
+  },
+  "763d0b5a50c3": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-life.html",
+    "title": "Living with diabetes overview - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:39.731314",
+    "file": "general__diabetes_co_uk__diabetes-and-lifehtml.txt"
+  },
+  "a0e13b15488c": {
+    "url": "https://www.diabetes.co.uk/type2-diabetes.html",
+    "title": "Type 2 diabetes overview - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:43.253540",
+    "file": "general__diabetes_co_uk__type2-diabeteshtml.txt"
+  },
+  "704cbb9f19bc": {
+    "url": "https://www.diabetes.co.uk/kids/type-1-diabetes-and-children.html",
+    "title": "Type 1 diabetes in children - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:45.834269",
+    "file": "general__diabetes_co_uk__kids_type-1-diabetes-and-childrenhtml.txt"
+  },
+  "eae2a14f0ee7": {
+    "url": "https://www.diabetes.co.uk/nhs/diabetes-health-checks.html",
+    "title": "Annual diabetes checks - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:48.431968",
+    "file": "general__diabetes_co_uk__nhs_diabetes-health-checkshtml.txt"
+  },
+  "59935b4ab7f4": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-discrimination.html",
+    "title": "Discrimination - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:50.776772",
+    "file": "general__diabetes_co_uk__diabetes-and-discriminationhtml.txt"
+  },
+  "ae685d8429ca": {
+    "url": "https://www.diabetes.co.uk/driving-with-diabetes.html",
+    "title": "Driving with diabetes - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:53.941274",
+    "file": "general__diabetes_co_uk__driving-with-diabeteshtml.txt"
+  },
+  "380346c1358d": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-illness.html",
+    "title": "Illness and diabetes - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:07:57.495651",
+    "file": "general__diabetes_co_uk__diabetes-and-illnesshtml.txt"
+  },
+  "17ff61c5f542": {
+    "url": "https://www.diabetes.co.uk/flu-and-diabetes.html",
+    "title": "Flu and diabetes - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:00.389107",
+    "file": "general__diabetes_co_uk__flu-and-diabeteshtml.txt"
+  },
+  "908d3561faef": {
+    "url": "https://www.diabetes.co.uk/diabetes-life-expectancy.html",
+    "title": "Life expectancy - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:02.933732",
+    "file": "general__diabetes_co_uk__diabetes-life-expectancyhtml.txt"
+  },
+  "95fd29a0b338": {
+    "url": "https://www.diabetes.co.uk/emotions/",
+    "title": "Mental health overview - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:06.522955",
+    "file": "general__diabetes_co_uk__emotions.txt"
+  },
+  "48a6f20023f2": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-depression.html",
+    "title": "Depression - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:08.909151",
+    "file": "general__diabetes_co_uk__diabetes-and-depressionhtml.txt"
+  },
+  "62d462189bde": {
+    "url": "https://www.diabetes.co.uk/diabetes-destress.html",
+    "title": "Managing stress - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:11.234998",
+    "file": "general__diabetes_co_uk__diabetes-destresshtml.txt"
+  },
+  "be82d2d76908": {
+    "url": "https://www.diabetes.co.uk/recreational-drugs/index.html",
+    "title": "Recreational drugs - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:14.484738",
+    "file": "general__diabetes_co_uk__recreational-drugs_indexhtml.txt"
+  },
+  "ac8995eb2f1b": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-sex.html",
+    "title": "Sex and diabetes - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:19.019319",
+    "file": "general__diabetes_co_uk__diabetes-and-sexhtml.txt"
+  },
+  "b59d37644158": {
+    "url": "https://www.diabetes.co.uk/features/diabetes-and-sexual-health.html",
+    "title": "Sexual health - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:22.745078",
+    "file": "general__diabetes_co_uk__features_diabetes-and-sexual-healthhtml.txt"
+  },
+  "e954aa06f51c": {
+    "url": "https://www.diabetes.co.uk/beating-sexual-problems.html",
+    "title": "Beating sexual problems - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:25.107567",
+    "file": "general__diabetes_co_uk__beating-sexual-problemshtml.txt"
+  },
+  "4bf5d16cea0f": {
+    "url": "https://www.diabetes.co.uk/Diabetes-Impotence-and-Sexual-Dysfunction.html",
+    "title": "Impotence - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:28.434972",
+    "file": "general__diabetes_co_uk__Diabetes-Impotence-and-Sexual-Dysfunctionhtml.txt"
+  },
+  "bb25cbd71bf7": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-skin-care.html",
+    "title": "Skin care - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:30.681151",
+    "file": "general__diabetes_co_uk__diabetes-and-skin-carehtml.txt"
+  },
+  "1faa514ede1c": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-smoking.html",
+    "title": "Smoking - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:32.907430",
+    "file": "general__diabetes_co_uk__diabetes-and-smokinghtml.txt"
+  },
+  "97d03d43da6b": {
+    "url": "https://www.diabetes.co.uk/how-does-diabetes-affect-the-body.html",
+    "title": "How diabetes affects the body - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:36.085351",
+    "file": "general__diabetes_co_uk__how-does-diabetes-affect-the-bodyhtml.txt"
+  },
+  "c82b7cd90bfd": {
+    "url": "https://www.diabetes.co.uk/embarrassing-conditions.html",
+    "title": "Embarrassing conditions overview - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:39.594618",
+    "file": "general__diabetes_co_uk__embarrassing-conditionshtml.txt"
+  },
+  "b1cb25130463": {
+    "url": "https://www.diabetes.co.uk/conditions/diabetes-and-constipation.html",
+    "title": "Constipation - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:42.373111",
+    "file": "general__diabetes_co_uk__conditions_diabetes-and-constipationhtml.txt"
+  },
+  "cfa33dc4be64": {
+    "url": "https://www.diabetes.co.uk/conditions/diabetic-diarrhoea.html",
+    "title": "Diarrhoea - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:45.346198",
+    "file": "general__diabetes_co_uk__conditions_diabetic-diarrhoeahtml.txt"
+  },
+  "193f4fb37326": {
+    "url": "https://www.diabetes.co.uk/diabetes-erectile-dysfunction.html",
+    "title": "Erectile dysfunction - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:48.984709",
+    "file": "general__diabetes_co_uk__diabetes-erectile-dysfunctionhtml.txt"
+  },
+  "583b791ed66a": {
+    "url": "https://www.diabetes.co.uk/conditions/hayfever-and-seasonal-allergies.html",
+    "title": "Hay fever - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:52.043569",
+    "file": "general__diabetes_co_uk__conditions_hayfever-and-seasonal-allergieshtml.txt"
+  },
+  "782869769936": {
+    "url": "https://www.diabetes.co.uk/Diabetes-and-Nocturia.html",
+    "title": "Nocturia - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:55.662188",
+    "file": "general__diabetes_co_uk__Diabetes-and-Nocturiahtml.txt"
+  },
+  "a61b744b3c0a": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/diabetes-and-yeast-infections.html",
+    "title": "Thrush - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:08:58.247027",
+    "file": "general__diabetes_co_uk__diabetes-complications_diabetes-and-yeast-infectionshtml.txt"
+  },
+  "736af8ecf611": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/urinary-tract-infections.html",
+    "title": "UTIs - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:09:01.131116",
+    "file": "general__diabetes_co_uk__diabetes-complications_urinary-tract-infectionshtml.txt"
+  },
+  "369bf1d07447": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/short-term-complications.html",
+    "title": "Short term complications overview - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:09:04.450331",
+    "file": "general__diabetes_co_uk__diabetes-complications_short-term-complicationshtml.txt"
+  },
+  "17dac8c03b2f": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/muscle-cramp-and-diabetes.html",
+    "title": "Muscle cramps - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:09:07.170583",
+    "file": "general__diabetes_co_uk__diabetes-complications_muscle-cramp-and-diabeteshtml.txt"
+  },
+  "bfe29f573aa4": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/edema-and-diabetes.html",
+    "title": "Swelling - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:09:09.430277",
+    "file": "general__diabetes_co_uk__diabetes-complications_edema-and-diabeteshtml.txt"
+  },
+  "1e03395ced3f": {
+    "url": "https://www.diabetes.co.uk/emotions/fear-of-long-term-diabetes-complications.html",
+    "title": "Long term complications overview - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:09:13.182533",
+    "file": "general__diabetes_co_uk__emotions_fear-of-long-term-diabetes-complicationshtml.txt"
+  },
+  "d6d6a286397a": {
+    "url": "https://www.diabetes.co.uk/conditions/alzheimers-and-diabetes.html",
+    "title": "Alzheimer's disease - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:09:16.072824",
+    "file": "general__diabetes_co_uk__conditions_alzheimers-and-diabeteshtml.txt"
+  },
+  "216580322f05": {
+    "url": "https://www.diabetes.co.uk/binge-eating-disorders.html",
+    "title": "Binge eating - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:09:18.640029",
+    "file": "general__diabetes_co_uk__binge-eating-disordershtml.txt"
+  },
+  "8b9335389f2d": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/diabetes-and-cancer.html",
+    "title": "Cancer guide - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:09:22.098671",
+    "file": "general__diabetes_co_uk__diabetes-complications_diabetes-and-cancerhtml.txt"
+  },
+  "4d74213e164b": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-coeliac.html",
+    "title": "Coeliac disease - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:09:25.803829",
+    "file": "general__diabetes_co_uk__diabetes-and-coeliachtml.txt"
+  },
+  "8c88557d22db": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/diabetes-and-fatty-liver-disease.html",
+    "title": "Non-alcoholic fatty liver disease - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:09:29.477540",
+    "file": "general__diabetes_co_uk__diabetes-complications_diabetes-and-fatty-liver-diseasehtml.txt"
+  },
+  "827af4f7a3ed": {
+    "url": "https://www.diabetes.co.uk/conditions/polycystic-ovary-syndrome.html",
+    "title": "Polycystic ovary syndrome - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:09:32.634161",
+    "file": "general__diabetes_co_uk__conditions_polycystic-ovary-syndromehtml.txt"
+  },
+  "b8146a9416ea": {
+    "url": "https://www.diabetes.co.uk/caring-for-someone-with-diabetes.html",
+    "title": "Caring for someone with diabetes - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:09:35.707033",
+    "file": "general__diabetes_co_uk__caring-for-someone-with-diabeteshtml.txt"
+  },
+  "29c47eba0fdb": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-the-elderly.html",
+    "title": "Caring for the elderly - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:09:38.504870",
+    "file": "general__diabetes_co_uk__diabetes-and-the-elderlyhtml.txt"
+  },
+  "a80c4d383756": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-parenting.html",
+    "title": "Parenting a child with diabetes - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:09:41.595131",
+    "file": "general__diabetes_co_uk__diabetes-and-parentinghtml.txt"
+  },
+  "d512b1e16d3d": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-employment.html",
+    "title": "Diabetes and employment - Diabetes.co.uk",
+    "category": "general",
+    "saved_at": "2026-07-03T10:09:44.409965",
+    "file": "general__diabetes_co_uk__diabetes-and-employmenthtml.txt"
+  },
+  "09f4a35d302a": {
+    "url": "https://www.cdc.gov/diabetes/about/tips-for-traveling-with-diabetes.html",
+    "title": "Tips for Traveling With Diabetes - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:09:55.262580",
+    "file": "lifestyle__cdc_gov__diabetes_about_tips-for-traveling-with-diabeteshtml.txt"
+  },
+  "3f9bbdf664d4": {
+    "url": "https://www.cdc.gov/diabetes/prevention-type-2/type-2-diabetes-prevention-guide.html",
+    "title": "On Your Way to Preventing Type 2 Diabetes - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:09:57.942956",
+    "file": "lifestyle__cdc_gov__diabetes_prevention-type-2_type-2-diabetes-prevention-guide.txt"
+  },
+  "5f5d576b040f": {
+    "url": "https://www.cdc.gov/diabetes/prevention-type-2/reaching-goals.html",
+    "title": "Change Negative Thoughts to Reach Goals - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:01.160252",
+    "file": "lifestyle__cdc_gov__diabetes_prevention-type-2_reaching-goalshtml.txt"
+  },
+  "819c905a4b7c": {
+    "url": "https://www.cdc.gov/diabetes/prevention-type-2/new-healthy-habits.html",
+    "title": "Fitting a New Habit into Your Life - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:04.377466",
+    "file": "lifestyle__cdc_gov__diabetes_prevention-type-2_new-healthy-habitshtml.txt"
+  },
+  "b525c551d052": {
+    "url": "https://www.cdc.gov/diabetes/prevention-type-2/stop-diabetes-complications.html",
+    "title": "Put the Brakes on Diabetes Complications - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:07.753927",
+    "file": "lifestyle__cdc_gov__diabetes_prevention-type-2_stop-diabetes-complicationshtml.txt"
+  },
+  "27bfcdaa5ba7": {
+    "url": "https://www.cdc.gov/diabetes/health-equity/improving-access-type-2-diabetes-prevention-program.html",
+    "title": "Improving Access to Diabetes Prevention - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:11.906297",
+    "file": "lifestyle__cdc_gov__diabetes_health-equity_improving-access-type-2-diabetes-prev.txt"
+  },
+  "0bbfc25e8b4e": {
+    "url": "https://www.cdc.gov/diabetes/communication-resources/ndpp-prevent-type-2-diabetes.html",
+    "title": "National Diabetes Prevention Program Infographic - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:14.876085",
+    "file": "lifestyle__cdc_gov__diabetes_communication-resources_ndpp-prevent-type-2-diabete.txt"
+  },
+  "d4382542af82": {
+    "url": "https://www.cdc.gov/diabetes/communication-resources/3-steps-healthy-habits.html",
+    "title": "3 Steps to Building Healthy Habits - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:17.829638",
+    "file": "lifestyle__cdc_gov__diabetes_communication-resources_3-steps-healthy-habitshtml.txt"
+  },
+  "85a3d8c93287": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-tv/kickstart-handouts.html",
+    "title": "Diabetes Kickstart Handouts - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:21.496581",
+    "file": "lifestyle__cdc_gov__diabetes_diabetes-tv_kickstart-handoutshtml.txt"
+  },
+  "61fba2ecff45": {
+    "url": "https://www.cdc.gov/diabetes/diabetes-tv/imagine-you-preventing-type-2.html",
+    "title": "Imagine You Preventing Type 2 Videos - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:24.484137",
+    "file": "lifestyle__cdc_gov__diabetes_diabetes-tv_imagine-you-preventing-type-2html.txt"
+  },
+  "47b9ec1708e7": {
+    "url": "https://www.cdc.gov/diabetes/articles/weight-loss-stories.html",
+    "title": "Weight Loss: What Works for Me - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:26.330474",
+    "file": "lifestyle__cdc_gov__diabetes_articles_weight-loss-storieshtml.txt"
+  },
+  "b12cc26a842e": {
+    "url": "https://www.cdc.gov/diabetes/articles/diabetes-shift-work.html",
+    "title": "Diabetes and Shift Work - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:29.049245",
+    "file": "lifestyle__cdc_gov__diabetes_articles_diabetes-shift-workhtml.txt"
+  },
+  "436917d8a37d": {
+    "url": "https://www.cdc.gov/diabetes/articles/weight-loss-story.html",
+    "title": "Lost 170 Pounds and Regained His Life - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:32.334181",
+    "file": "lifestyle__cdc_gov__diabetes_articles_weight-loss-storyhtml.txt"
+  },
+  "1130061d315c": {
+    "url": "https://www.cdc.gov/diabetes/articles/managing-diabetes-in-the-heat.html",
+    "title": "Managing Diabetes in the Heat - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:34.585405",
+    "file": "lifestyle__cdc_gov__diabetes_articles_managing-diabetes-in-the-heathtml.txt"
+  },
+  "128ce5a671b9": {
+    "url": "https://www.cdc.gov/diabetes/articles/managing-diabetes-cold-weather.html",
+    "title": "Managing Diabetes in Cold Weather - CDC",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:36.917345",
+    "file": "lifestyle__cdc_gov__diabetes_articles_managing-diabetes-cold-weatherhtml.txt"
+  },
+  "e2570f7ebff3": {
+    "url": "https://www.diabetes.co.uk/controlling-type1-diabetes.html",
+    "title": "Controlling type 1 diabetes - Diabetes.co.uk",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:39.598280",
+    "file": "lifestyle__diabetes_co_uk__controlling-type1-diabeteshtml.txt"
+  },
+  "36cbf02d53e8": {
+    "url": "https://www.diabetes.co.uk/controlling-type2-diabetes.html",
+    "title": "Controlling type 2 diabetes - Diabetes.co.uk",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:43.178986",
+    "file": "lifestyle__diabetes_co_uk__controlling-type2-diabeteshtml.txt"
+  },
+  "cf03fd5b1d01": {
+    "url": "https://www.diabetes.co.uk/reversing-diabetes.html",
+    "title": "Reversing type 2 diabetes - Diabetes.co.uk",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:46.083144",
+    "file": "lifestyle__diabetes_co_uk__reversing-diabeteshtml.txt"
+  },
+  "0d6c2b6a5530": {
+    "url": "https://www.diabetes.co.uk/body-piercing-and-diabetes.html",
+    "title": "Body piercing and diabetes - Diabetes.co.uk",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:49.617301",
+    "file": "lifestyle__diabetes_co_uk__body-piercing-and-diabeteshtml.txt"
+  },
+  "69713ee89026": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-cold-weather.html",
+    "title": "Cold weather and diabetes management - Diabetes.co.uk",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:52.642751",
+    "file": "lifestyle__diabetes_co_uk__diabetes-and-cold-weatherhtml.txt"
+  },
+  "9902dad68a37": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-hot-weather.html",
+    "title": "Hot weather and diabetes management - Diabetes.co.uk",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:55.438445",
+    "file": "lifestyle__diabetes_co_uk__diabetes-and-hot-weatherhtml.txt"
+  },
+  "aba14caaf038": {
+    "url": "https://www.diabetes.co.uk/tattoos-and-diabetes.html",
+    "title": "Tattoos and diabetes - Diabetes.co.uk",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:10:58.841735",
+    "file": "lifestyle__diabetes_co_uk__tattoos-and-diabeteshtml.txt"
+  },
+  "8bd5357a9f08": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-keeping-active.html",
+    "title": "Keeping active overview - Diabetes.co.uk",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:11:01.395514",
+    "file": "lifestyle__diabetes_co_uk__diabetes-and-keeping-activehtml.txt"
+  },
+  "e84be911102b": {
+    "url": "https://www.diabetes.co.uk/exercise-for-diabetics.html",
+    "title": "Exercise - Diabetes.co.uk",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:11:03.700979",
+    "file": "lifestyle__diabetes_co_uk__exercise-for-diabeticshtml.txt"
+  },
+  "d7af3c1ff03d": {
+    "url": "https://www.diabetes.co.uk/gym-and-diabetes.html",
+    "title": "Going to the gym - Diabetes.co.uk",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:11:06.137764",
+    "file": "lifestyle__diabetes_co_uk__gym-and-diabeteshtml.txt"
+  },
+  "7aee1382613b": {
+    "url": "https://www.diabetes.co.uk/healthy-lifestyle.html",
+    "title": "Healthy lifestyle - Diabetes.co.uk",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:11:09.745923",
+    "file": "lifestyle__diabetes_co_uk__healthy-lifestylehtml.txt"
+  },
+  "17fa49f4fc63": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-sport.html",
+    "title": "Sport and diabetes - Diabetes.co.uk",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:11:12.171796",
+    "file": "lifestyle__diabetes_co_uk__diabetes-and-sporthtml.txt"
+  },
+  "359176da99e2": {
+    "url": "https://www.diabetes.co.uk/Diabetes-and-Weight-Loss.html",
+    "title": "Weight loss - Diabetes.co.uk",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:11:15.247720",
+    "file": "lifestyle__diabetes_co_uk__Diabetes-and-Weight-Losshtml.txt"
+  },
+  "6fa9367d2bb5": {
+    "url": "https://www.diabetes.co.uk/travel-guides/",
+    "title": "Travelling with diabetes - Diabetes.co.uk",
+    "category": "lifestyle",
+    "saved_at": "2026-07-03T10:11:19.740328",
+    "file": "lifestyle__diabetes_co_uk__travel-guides.txt"
+  },
+  "e5435001346a": {
+    "url": "https://www.cdc.gov/diabetes/about/how-to-use-insulin.html",
+    "title": "Insulin: How to Use It - CDC",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:11:31.092077",
+    "file": "medication__cdc_gov__diabetes_about_how-to-use-insulinhtml.txt"
+  },
+  "b127474cf84e": {
+    "url": "https://www.cdc.gov/diabetes/about/4-ways-to-take-insulin.html",
+    "title": "4 Ways To Take Insulin - CDC",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:11:33.390396",
+    "file": "medication__cdc_gov__diabetes_about_4-ways-to-take-insulinhtml.txt"
+  },
+  "50df84d77a57": {
+    "url": "https://www.cdc.gov/diabetes/treatment/type-1-diabetes-early-treatment.html",
+    "title": "Early Treatment for Type 1 Diabetes - CDC",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:11:36.630364",
+    "file": "medication__cdc_gov__diabetes_treatment_type-1-diabetes-early-treatmenthtml.txt"
+  },
+  "fc5c34ae55f8": {
+    "url": "https://www.cdc.gov/diabetes/data-research/research/new-diabetes-medicines.html",
+    "title": "Use of New Diabetes Medicines - CDC",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:11:39.441959",
+    "file": "medication__cdc_gov__diabetes_data-research_research_new-diabetes-medicineshtml.txt"
+  },
+  "988c491868b7": {
+    "url": "https://www.cdc.gov/diabetes/articles/diabetes-and-your-medicines.html",
+    "title": "Take Charge of Your Diabetes Medicines - CDC",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:11:42.041101",
+    "file": "medication__cdc_gov__diabetes_articles_diabetes-and-your-medicineshtml.txt"
+  },
+  "eb77fa832cab": {
+    "url": "https://www.diabetes.co.uk/treatment-for-type1-diabetes.html",
+    "title": "Treatment for type 1 diabetes - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:11:44.888059",
+    "file": "medication__diabetes_co_uk__treatment-for-type1-diabeteshtml.txt"
+  },
+  "0e4ea3d50e9b": {
+    "url": "https://www.diabetes.co.uk/treatment-for-type2-diabetes.html",
+    "title": "Treatment for type 2 diabetes - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:11:47.567887",
+    "file": "medication__diabetes_co_uk__treatment-for-type2-diabeteshtml.txt"
+  },
+  "3e5260fb3b02": {
+    "url": "https://www.diabetes.co.uk/insulin-resistance.html",
+    "title": "Insulin resistance - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:11:49.772552",
+    "file": "medication__diabetes_co_uk__insulin-resistancehtml.txt"
+  },
+  "42e88aad2b09": {
+    "url": "https://www.diabetes.co.uk/Diabetes-drugs.html",
+    "title": "Diabetes medication A to Z - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:11:53.631451",
+    "file": "medication__diabetes_co_uk__Diabetes-drugshtml.txt"
+  },
+  "2e29713cb2cb": {
+    "url": "https://www.diabetes.co.uk/diabetes-medication/diabetes-and-byetta.html",
+    "title": "Byetta (Exenatide) - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:11:56.653426",
+    "file": "medication__diabetes_co_uk__diabetes-medication_diabetes-and-byettahtml.txt"
+  },
+  "24b5242bc186": {
+    "url": "https://www.diabetes.co.uk/diabetes-medication/forxiga-dapagliflozin.html",
+    "title": "Forxiga (Dapagliflozin) - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:12:01.928028",
+    "file": "medication__diabetes_co_uk__diabetes-medication_forxiga-dapagliflozinhtml.txt"
+  },
+  "cf25a6e1c04b": {
+    "url": "https://www.diabetes.co.uk/about-insulin.html",
+    "title": "Insulin - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:12:07.994014",
+    "file": "medication__diabetes_co_uk__about-insulinhtml.txt"
+  },
+  "da0636728bce": {
+    "url": "https://www.diabetes.co.uk/insulin/adjusting-basal-bolus-insulin-doses.html",
+    "title": "Adjusting basal and bolus insulin - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:12:11.365564",
+    "file": "medication__diabetes_co_uk__insulin_adjusting-basal-bolus-insulin-doseshtml.txt"
+  },
+  "d81ef33ed548": {
+    "url": "https://www.diabetes.co.uk/insulin/how-to-inject-insulin.html",
+    "title": "How to inject insulin - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:12:14.491763",
+    "file": "medication__diabetes_co_uk__insulin_how-to-inject-insulinhtml.txt"
+  },
+  "2399b8a55422": {
+    "url": "https://www.diabetes.co.uk/insulin/Insulin-pumps.html",
+    "title": "Insulin pumps - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:12:18.219472",
+    "file": "medication__diabetes_co_uk__insulin_Insulin-pumpshtml.txt"
+  },
+  "eb6bdb79a8c5": {
+    "url": "https://www.diabetes.co.uk/insulin/Getting-an-insulin-pump.html",
+    "title": "Getting an insulin pump - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:12:23.847829",
+    "file": "medication__diabetes_co_uk__insulin_Getting-an-insulin-pumphtml.txt"
+  },
+  "946277a1811d": {
+    "url": "https://www.diabetes.co.uk/insulin/how-insulin-pumps-work.html",
+    "title": "How insulin pumps work - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:12:27.448050",
+    "file": "medication__diabetes_co_uk__insulin_how-insulin-pumps-workhtml.txt"
+  },
+  "fbb5c9dfb2a8": {
+    "url": "https://www.diabetes.co.uk/diabetes-medication/diabetes-and-januvia.html",
+    "title": "Januvia (Sitagliptin) - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:12:29.969214",
+    "file": "medication__diabetes_co_uk__diabetes-medication_diabetes-and-januviahtml.txt"
+  },
+  "bdb95ca6b226": {
+    "url": "https://www.diabetes.co.uk/diabetes-medication/diabetes-and-metformin.html",
+    "title": "Metformin: Uses, Dosages, Side Effects - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:12:33.445296",
+    "file": "medication__diabetes_co_uk__diabetes-medication_diabetes-and-metforminhtml.txt"
+  },
+  "5b0f1f1f0717": {
+    "url": "https://www.diabetes.co.uk/diabetes-medication/sulphonylureas.html",
+    "title": "Sulphonylureas - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:12:37.104622",
+    "file": "medication__diabetes_co_uk__diabetes-medication_sulphonylureashtml.txt"
+  },
+  "704b2769185a": {
+    "url": "https://www.diabetes.co.uk/diabetes-medication/diabetes-and-victoza.html",
+    "title": "Victoza - Diabetes.co.uk",
+    "category": "medication",
+    "saved_at": "2026-07-03T10:12:42.043050",
+    "file": "medication__diabetes_co_uk__diabetes-medication_diabetes-and-victozahtml.txt"
+  },
+  "57246cba5194": {
+    "url": "https://www.cdc.gov/diabetes/communication-resources/diabetes-heart-disease-chronic-kidney.html",
+    "title": "The Diabetes, Heart Disease, and CKD Triangle - CDC",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-07-03T10:12:45.217990",
+    "file": "complication_cardiovascular__cdc_gov__diabetes_communication-resources_diabetes-heart-disease-chro.txt"
+  },
+  "ee55c5466424": {
+    "url": "https://www.diabetes.co.uk/dyslipidemia.html",
+    "title": "Dyslipidemia - Diabetes.co.uk",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-07-03T10:12:48.454648",
+    "file": "complication_cardiovascular__diabetes_co_uk__dyslipidemiahtml.txt"
+  },
+  "f4363bd83631": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/heart-disease.html",
+    "title": "Heart disease - Diabetes.co.uk",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-07-03T10:12:51.726426",
+    "file": "complication_cardiovascular__diabetes_co_uk__diabetes-complications_heart-diseasehtml.txt"
+  },
+  "5d25dd0fafd5": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/high-blood-pressure.html",
+    "title": "High blood pressure - Diabetes.co.uk",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-07-03T10:12:54.775364",
+    "file": "complication_cardiovascular__diabetes_co_uk__diabetes-complications_high-blood-pressurehtml.txt"
+  },
+  "193ef9afee22": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/high-triglyceride-levels.html",
+    "title": "High triglyceride levels - Diabetes.co.uk",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-07-03T10:12:56.945488",
+    "file": "complication_cardiovascular__diabetes_co_uk__diabetes-complications_high-triglyceride-levelshtml.txt"
+  },
+  "813a02403b99": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/diabetes-and-stroke.html",
+    "title": "Stroke - Diabetes.co.uk",
+    "category": "complication/cardiovascular",
+    "saved_at": "2026-07-03T10:12:59.671323",
+    "file": "complication_cardiovascular__diabetes_co_uk__diabetes-complications_diabetes-and-strokehtml.txt"
+  },
+  "607b06532938": {
+    "url": "https://www.cdc.gov/diabetes/data-research/research/kidney-failure-diabetes.html",
+    "title": "Kidney Failure and Diabetes - CDC",
+    "category": "complication/nephropathy",
+    "saved_at": "2026-07-03T10:13:15.446442",
+    "file": "complication_nephropathy__cdc_gov__diabetes_data-research_research_kidney-failure-diabeteshtml.txt"
+  },
+  "7c35504ed022": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/kidney-disease.html",
+    "title": "Diabetic nephropathy - Diabetes.co.uk",
+    "category": "complication/nephropathy",
+    "saved_at": "2026-07-03T10:13:18.579936",
+    "file": "complication_nephropathy__diabetes_co_uk__diabetes-complications_kidney-diseasehtml.txt"
+  },
+  "2bcc82f82d4f": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/diabetes-neuropathy.html",
+    "title": "Diabetic neuropathy - Diabetes.co.uk",
+    "category": "complication/neuropathy",
+    "saved_at": "2026-07-03T10:13:21.891704",
+    "file": "complication_neuropathy__diabetes_co_uk__diabetes-complications_diabetes-neuropathyhtml.txt"
+  },
+  "3fccbc14a0d2": {
+    "url": "https://www.cdc.gov/diabetes/about/type-1-diabetes-pregnancy.html",
+    "title": "Type 1 Diabetes and Pregnancy - CDC",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-07-03T10:13:32.856878",
+    "file": "complication_pregnancy__cdc_gov__diabetes_about_type-1-diabetes-pregnancyhtml.txt"
+  },
+  "34e4e8e53537": {
+    "url": "https://www.cdc.gov/diabetes/about/gestational-diabetes-postpartum-depression.html",
+    "title": "Gestational Diabetes and Postpartum Depression - CDC",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-07-03T10:13:35.007837",
+    "file": "complication_pregnancy__cdc_gov__diabetes_about_gestational-diabetes-postpartum-depressionht.txt"
+  },
+  "43d6ab884b80": {
+    "url": "https://www.diabetes.co.uk/pregnancy-complications/fertility-and-diabetes.html",
+    "title": "Fertility and diabetes - Diabetes.co.uk",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-07-03T10:13:38.362531",
+    "file": "complication_pregnancy__diabetes_co_uk__pregnancy-complications_fertility-and-diabeteshtml.txt"
+  },
+  "a84f8adddf6f": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-pregnancy.html",
+    "title": "Pregnancy and diabetes - Diabetes.co.uk",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-07-03T10:13:41.187397",
+    "file": "complication_pregnancy__diabetes_co_uk__diabetes-and-pregnancyhtml.txt"
+  },
+  "cf02944959ed": {
+    "url": "https://www.diabetes.co.uk/diabetes_care/blood-sugar-levels-during-pregnancy.html",
+    "title": "Blood glucose levels during pregnancy - Diabetes.co.uk",
+    "category": "complication/pregnancy",
+    "saved_at": "2026-07-03T10:13:44.544678",
+    "file": "complication_pregnancy__diabetes_co_uk__diabetes_care_blood-sugar-levels-during-pregnancyhtml.txt"
+  },
+  "4b3071c3344b": {
+    "url": "https://www.cdc.gov/diabetes/data-research/research/eye-complications.html",
+    "title": "Treatments for Diabetes Eye Complications - CDC",
+    "category": "complication/retinopathy",
+    "saved_at": "2026-07-03T10:13:47.433508",
+    "file": "complication_retinopathy__cdc_gov__diabetes_data-research_research_eye-complicationshtml.txt"
+  },
+  "4abe6862b771": {
+    "url": "https://www.cdc.gov/diabetes/communication-resources/14-million-people-diabetic-retinopathy-2050.html",
+    "title": "Diabetic Retinopathy by 2050 - CDC",
+    "category": "complication/retinopathy",
+    "saved_at": "2026-07-03T10:13:50.979093",
+    "file": "complication_retinopathy__cdc_gov__diabetes_communication-resources_14-million-people-diabetic-.txt"
+  },
+  "4e0276104ba6": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/diabetes-and-blindness.html",
+    "title": "Blindness - Diabetes.co.uk",
+    "category": "complication/retinopathy",
+    "saved_at": "2026-07-03T10:13:53.925885",
+    "file": "complication_retinopathy__diabetes_co_uk__diabetes-complications_diabetes-and-blindnesshtml.txt"
+  },
+  "7935dc29fe2c": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/diabetic-retinopathy.html",
+    "title": "Diabetic retinopathy - Diabetes.co.uk",
+    "category": "complication/retinopathy",
+    "saved_at": "2026-07-03T10:13:57.413412",
+    "file": "complication_retinopathy__diabetes_co_uk__diabetes-complications_diabetic-retinopathyhtml.txt"
+  },
+  "4ae887623e20": {
+    "url": "https://www.cdc.gov/diabetes/communication-resources/diabetes-foot-problems-when-to-see-your-doctor.html",
+    "title": "Diabetes Foot Problems: When to See Your Doctor - CDC",
+    "category": "complication/foot_care",
+    "saved_at": "2026-07-03T10:14:00.659182",
+    "file": "complication_foot_care__cdc_gov__diabetes_communication-resources_diabetes-foot-problems-when.txt"
+  },
+  "4dbbeeb963ec": {
+    "url": "https://www.cdc.gov/diabetes/communication-resources/diabetes-related-amputations.html",
+    "title": "Diabetes-Related Amputations - CDC",
+    "category": "complication/foot_care",
+    "saved_at": "2026-07-03T10:14:03.065283",
+    "file": "complication_foot_care__cdc_gov__diabetes_communication-resources_diabetes-related-amputation.txt"
+  },
+  "5a682a4617b6": {
+    "url": "https://www.diabetes.co.uk/diabetes-footcare.html",
+    "title": "Looking after your feet - Diabetes.co.uk",
+    "category": "complication/foot_care",
+    "saved_at": "2026-07-03T10:14:06.566611",
+    "file": "complication_foot_care__diabetes_co_uk__diabetes-footcarehtml.txt"
+  },
+  "4519b3d917ef": {
+    "url": "https://www.diabetes.co.uk/diabetes-and-amputation.html",
+    "title": "Amputation - Diabetes.co.uk",
+    "category": "complication/foot_care",
+    "saved_at": "2026-07-03T10:14:08.934631",
+    "file": "complication_foot_care__diabetes_co_uk__diabetes-and-amputationhtml.txt"
+  },
+  "84c011967973": {
+    "url": "https://www.diabetes.co.uk/diabetes-complications/diabetic-foot-ulcers.html",
+    "title": "Foot ulcers - Diabetes.co.uk",
+    "category": "complication/foot_care",
+    "saved_at": "2026-07-03T10:14:11.795990",
+    "file": "complication_foot_care__diabetes_co_uk__diabetes-complications_diabetic-foot-ulcershtml.txt"
+>>>>>>> Stashed changes
   }
 }
