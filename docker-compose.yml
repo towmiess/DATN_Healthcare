@@ -8,7 +8,7 @@
       POSTGRES_USER: ${POSTGRES_USER:-postgres}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-123456}
     ports:
-      - "${POSTGRES_PORT:-5432}:5432"
+      - "${POSTGRES_PORT:-5434}:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
       - ./docker/postgres/init:/docker-entrypoint-initdb.d:ro
@@ -92,6 +92,15 @@
     ports:
       - "${USERS_SERVICE_PORT:-8081}:8081"
 
+  model-api:
+    build:
+      context: ./model_api
+      dockerfile: Dockerfile
+    container_name: healthcare-model-api
+    restart: unless-stopped
+    ports:
+      - "${MODEL_API_PORT:-8010}:8000"
+
   health-service:
     build:
       context: ./Backend/health-service
@@ -101,6 +110,8 @@
     depends_on:
       health-postgres:
         condition: service_healthy
+      model-api:
+        condition: service_started
     environment:
       POSTGRES_DB: ${HEALTH_POSTGRES_DB:-healthcare_db}
       POSTGRES_USER: ${HEALTH_POSTGRES_USER:-postgres}
@@ -110,7 +121,7 @@
       CORS_ALLOWED_ORIGINS: ${CORS_ALLOWED_ORIGINS:-http://localhost:5173,http://127.0.0.1:5173}
       GATEWAY_INTERNAL_SECRET: ${GATEWAY_INTERNAL_SECRET:-change-me}
       JWT_ACCESS_SECRET: ${JWT_ACCESS_SECRET:-S1TZnHDnQS6ojlPYPI+bjd6CXxYhBP/eYmubZsRSANY=}
-      MODEL_API_URL: ${MODEL_API_URL:-}
+      MODEL_API_URL: ${MODEL_API_URL:-http://model-api:8000}
       GOOGLE_VISION_API_KEY: ${GOOGLE_VISION_API_KEY:-}
       GOOGLE_APPLICATION_CREDENTIALS: ${GOOGLE_APPLICATION_CREDENTIALS:-}
       GOOGLE_APPLICATION_CREDENTIALS_JSON: ${GOOGLE_APPLICATION_CREDENTIALS_JSON:-}

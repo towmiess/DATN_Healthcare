@@ -8,18 +8,22 @@ SECRET_KEY = os.getenv("DJANGO_SECRET_KEY", "health-service-dev-secret")
 DEBUG = os.getenv("DJANGO_DEBUG", "false").lower() == "true"
 ALLOWED_HOSTS = [host.strip() for host in os.getenv("DJANGO_ALLOWED_HOSTS", "*").split(",")]
 
+ENABLE_CORS = os.getenv("HEALTH_SERVICE_ENABLE_CORS", "false").lower() == "true"
+
 INSTALLED_APPS = [
     "django.contrib.auth",
     "django.contrib.contenttypes",
-    "corsheaders",
     "rest_framework",
     "health",
 ]
 
-MIDDLEWARE = [
-    "corsheaders.middleware.CorsMiddleware",
-    "django.middleware.common.CommonMiddleware",
-]
+if ENABLE_CORS:
+    INSTALLED_APPS.insert(2, "corsheaders")
+
+MIDDLEWARE = ["django.middleware.common.CommonMiddleware"]
+
+if ENABLE_CORS:
+    MIDDLEWARE.insert(0, "corsheaders.middleware.CorsMiddleware")
 
 ROOT_URLCONF = "health_service.urls"
 WSGI_APPLICATION = "health_service.wsgi.application"

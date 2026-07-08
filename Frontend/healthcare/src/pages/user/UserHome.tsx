@@ -11,7 +11,9 @@ import {
 import Tesseract, { PSM } from "tesseract.js";
 import {
   getDiagnosisSnapshot,
+  getOcrStatus,
   ocrWithGoogleVision,
+  OcrStatus,
   predictAll,
   PredictionInput,
   PredictionResult,
@@ -538,6 +540,15 @@ const formatOcrNumber = (value: number) => {
 };
 
 const glucoseConversionFactor = 18.0182;
+const maleWaistHeightRatio = 0.45;
+const femaleWaistHeightRatio = 0.4;
+const maleHipWaistDivisor = 0.9;
+const femaleHipWaistDivisor = 0.7;
+
+const normalizeSexValue = (sexValue?: string) => {
+  const sex = Number(normalizeNumber(String(sexValue ?? "")));
+  return Number.isFinite(sex) ? Math.trunc(sex) : 0;
+};
 
 const calculateBmi = (weightValue?: string, heightValue?: string) => {
   const weight = Number(normalizeNumber(String(weightValue ?? "")));
@@ -551,51 +562,76 @@ const calculateBmi = (weightValue?: string, heightValue?: string) => {
 };
 
 const calculateExpectedWaist = (sexValue?: string, heightValue?: string) => {
-  const sex = String(sexValue ?? "").trim();
+  const sex = normalizeSexValue(sexValue);
   const height = Number(normalizeNumber(String(heightValue ?? "")));
 
   if (!Number.isFinite(height) || height <= 0) {
     return "";
   }
 
-  if (sex === "1") {
-    return formatOcrNumber(height * 0.45);
+  if (sex === 1) {
+    return formatOcrNumber(height * maleWaistHeightRatio);
   }
 
-  if (sex === "2") {
-    return formatOcrNumber(height * 0.4);
+  if (sex === 2) {
+    return formatOcrNumber(height * femaleWaistHeightRatio);
   }
 
   return "";
 };
 
 const calculateExpectedHip = (sexValue?: string, waistValue?: string) => {
-  const sex = String(sexValue ?? "").trim();
+  const sex = normalizeSexValue(sexValue);
   const waist = Number(normalizeNumber(String(waistValue ?? "")));
 
   if (!Number.isFinite(waist) || waist <= 0) {
     return "";
   }
 
-  if (sex === "1") {
-    return formatOcrNumber(waist / 0.9);
+  if (sex === 1) {
+    return formatOcrNumber(waist / maleHipWaistDivisor);
   }
 
-  if (sex === "2") {
-    return formatOcrNumber(waist / 0.7);
+  if (sex === 2) {
+    return formatOcrNumber(waist / femaleHipWaistDivisor);
   }
 
   return "";
 };
 
-const applyDerivedMetrics = (values: Record<string, string>) => {
-  const bmi = calculateBmi(values.weight_kg, values.height_cm);
-  const waist = values.waist_cm || calculateExpectedWaist(values.sex, values.height_cm);
-  const hip = values.hip_cm || calculateExpectedHip(values.sex, waist);
+const getPreviousDerivedWaist = (values: Record<string, string>) =>
+  calculateExpectedWaist(values.sex, values.height_cm);
+
+const getPreviousDerivedHip = (values: Record<string, string>) => {
+  const priorWaist = values.waist_cm || getPreviousDerivedWaist(values);
+  return calculateExpectedHip(values.sex, priorWaist);
+};
+
+const applyDerivedMetrics = (
+  nextValues: Record<string, string>,
+  previousValues?: Record<string, string>,
+  changedKey?: string
+) => {
+  const bmi = calculateBmi(nextValues.weight_kg, nextValues.height_cm);
+  const previousWaistDerived = previousValues ? getPreviousDerivedWaist(previousValues) : "";
+  const shouldRefreshWaist =
+    changedKey !== "waist_cm" &&
+    (!nextValues.waist_cm ||
+      (previousValues !== undefined && nextValues.waist_cm === previousValues.waist_cm && nextValues.waist_cm === previousWaistDerived));
+  const waist = shouldRefreshWaist
+    ? calculateExpectedWaist(nextValues.sex, nextValues.height_cm)
+    : nextValues.waist_cm;
+
+  const previousHipDerived = previousValues ? getPreviousDerivedHip(previousValues) : "";
+  const shouldRefreshHip =
+    changedKey !== "hip_cm" &&
+    (!nextValues.hip_cm ||
+      (previousValues !== undefined && nextValues.hip_cm === previousValues.hip_cm && nextValues.hip_cm === previousHipDerived));
+  const hip = shouldRefreshHip ? calculateExpectedHip(nextValues.sex, waist) : nextValues.hip_cm;
 
   return {
-    ...values,
-    bmi: bmi || values.bmi,
+    ...nextValues,
+    bmi: bmi || nextValues.bmi,
     waist_cm: waist,
     hip_cm: hip,
   };
@@ -961,7 +997,7 @@ const sevenSegmentMap: Record<string, string> = {
   "1111011": "9",
 };
 
-const sevenSegmentPatterns = Object.entries(sevenSegmentMap).map(([digit, pattern]) => ({
+const sevenSegmentPatterns = Object.entries(sevenSegmentMap).map(([pattern, digit]) => ({
   digit,
   pattern,
 }));
@@ -1305,6 +1341,16 @@ type OmronCandidate = {
   score: number;
 };
 
+type OmronPulseCandidate = {
+  value: string;
+  score: number;
+};
+
+type OmronExtraction = {
+  candidate: OmronCandidate | null;
+  pulseCandidates: OmronPulseCandidate[];
+};
+
 const omronRowProfiles = [
   {
     scoreBias: 0.5,
@@ -1376,10 +1422,10 @@ const groupComponentsByX = (components: DarkComponent[], maxGap: number) => {
   return groups;
 };
 
-const classifyOmronDigitGroup = (
+const classifySingleOmronDigit = (
   data: Uint8ClampedArray,
   imageWidth: number,
-  group: DigitGroup,
+  group: Pick<DigitGroup, "x" | "y" | "width" | "height">,
   darkThreshold: number
 ) => {
   if (group.width / Math.max(1, group.height) < 0.38) return "1";
@@ -1402,6 +1448,120 @@ const classifyOmronDigitGroup = (
       regions: omronSevenSegmentRegions,
     }
   );
+};
+
+const classifyOmronDigitGroup = (
+  data: Uint8ClampedArray,
+  imageWidth: number,
+  group: DigitGroup,
+  darkThreshold: number
+) => {
+  const aspectRatio = group.width / Math.max(1, group.height);
+
+  if (
+    aspectRatio >= 1.05 &&
+    group.width >= Math.max(58, Math.round(imageWidth * 0.12))
+  ) {
+    const firstWidth = Math.round(group.width * 0.48);
+    const secondX = group.x + Math.round(group.width * 0.5);
+    const secondWidth = group.x + group.width - secondX;
+    const splitDigits = [
+      classifySingleOmronDigit(
+        data,
+        imageWidth,
+        {
+          x: group.x,
+          y: group.y,
+          width: firstWidth,
+          height: group.height,
+        },
+        darkThreshold
+      ),
+      classifySingleOmronDigit(
+        data,
+        imageWidth,
+        {
+          x: secondX,
+          y: group.y,
+          width: secondWidth,
+          height: group.height,
+        },
+        darkThreshold
+      ),
+    ];
+
+    if (splitDigits.every(Boolean)) {
+      return splitDigits.join("");
+    }
+  }
+
+  return classifySingleOmronDigit(data, imageWidth, group, darkThreshold);
+};
+
+const collectOmronPulseCandidates = (
+  pulseText: string,
+  scoreBias = 0
+): OmronPulseCandidate[] => {
+  const digits = pulseText.replace(/\D/g, "");
+  const candidates: OmronPulseCandidate[] = [];
+
+  const addCandidate = (valueText: string, score: number) => {
+    if (!/^\d{2,3}$/.test(valueText)) return;
+
+    const value = Number(valueText);
+    if (!clampOcrValue(value, 45, 130)) return;
+
+    const normalizedValue = String(value);
+    const distinctDigits = new Set(normalizedValue.split("")).size;
+    candidates.push({
+      value: normalizedValue,
+      score: score + scoreBias + (distinctDigits > 1 ? 1.1 : -0.7),
+    });
+  };
+
+  if (/^\d{2,3}$/.test(digits)) {
+    addCandidate(digits, digits.length === 2 ? 4 : 2.2);
+  }
+
+  if (digits.length >= 3) {
+    addCandidate(digits.slice(0, 2), 2.8);
+    addCandidate(digits.slice(-2), 2.2);
+  }
+
+  if (digits.length > 3) {
+    for (let index = 1; index <= digits.length - 2; index += 1) {
+      addCandidate(digits.slice(index, index + 2), 1.4);
+    }
+  }
+
+  return candidates;
+};
+
+const pickBestOmronPulse = (candidates: OmronPulseCandidate[]) => {
+  if (!candidates.length) return null;
+
+  const grouped = candidates.reduce<Record<string, { count: number; score: number }>>(
+    (acc, candidate) => {
+      acc[candidate.value] ??= { count: 0, score: 0 };
+      acc[candidate.value].count += 1;
+      acc[candidate.value].score += candidate.score;
+      return acc;
+    },
+    {}
+  );
+
+  const sorted = Object.entries(grouped)
+    .map(([value, meta]) => ({ value, ...meta }))
+    .sort((left, right) => {
+      const leftRepeated = new Set(left.value.split("")).size === 1;
+      const rightRepeated = new Set(right.value.split("")).size === 1;
+
+      if (leftRepeated !== rightRepeated) return leftRepeated ? 1 : -1;
+      if (right.score !== left.score) return right.score - left.score;
+      return right.count - left.count;
+    });
+
+  return sorted[0] ?? null;
 };
 
 const candidateFromOmronRows = (
@@ -1432,13 +1592,10 @@ const candidateFromOmronRows = (
   };
   let score = 100 + (usedArea / imageArea) * 25;
 
-  if (/^\d{2,3}$/.test(pulseText)) {
-    const pulse = Number(pulseText);
-    const hasMoreThanOneDigitShape = new Set(pulseText.split("")).size > 1;
-    if (clampOcrValue(pulse, 45, 130) && hasMoreThanOneDigitShape) {
-      values.pulse_mean = String(pulse);
-      score += 1;
-    }
+  const pulse = pickBestOmronPulse(collectOmronPulseCandidates(pulseText, 0.2));
+  if (pulse) {
+    values.pulse_mean = pulse.value;
+    score += Math.min(3, pulse.score / 2);
   }
 
   return { values, score };
@@ -1449,7 +1606,7 @@ const extractOmronBloodPressureFromData = (
   imageWidth: number,
   imageHeight: number,
   darkThreshold: number
-) => {
+): OmronExtraction => {
   const minArea = Math.max(80, Math.round(imageWidth * imageHeight * 0.0008));
   const components = findDarkComponents(data, imageWidth, imageHeight, darkThreshold, {
     maxXRatio: 0.96,
@@ -1463,8 +1620,9 @@ const extractOmronBloodPressureFromData = (
   );
 
   let bestCandidate: OmronCandidate | null = null;
+  const pulseCandidates: OmronPulseCandidate[] = [];
 
-  for (const profile of omronRowProfiles) {
+  for (const [profileIndex, profile] of omronRowProfiles.entries()) {
     const rowValues: string[] = [];
     let usedArea = 0;
 
@@ -1485,6 +1643,12 @@ const extractOmronBloodPressureFromData = (
       rowValues.push(value);
     }
 
+    if (profileIndex === 0) {
+      pulseCandidates.push(
+        ...collectOmronPulseCandidates(rowValues[2] ?? "", profile.scoreBias)
+      );
+    }
+
     const candidate = candidateFromOmronRows(rowValues, usedArea, imageWidth * imageHeight);
     if (!candidate) continue;
     candidate.score += profile.scoreBias;
@@ -1494,11 +1658,15 @@ const extractOmronBloodPressureFromData = (
     }
   }
 
-  return bestCandidate;
+  return {
+    candidate: bestCandidate,
+    pulseCandidates,
+  };
 };
 
 const extractOmronBloodPressure = (image: HTMLImageElement) => {
   let bestCandidate: OmronCandidate | null = null;
+  const pulseCandidates: OmronPulseCandidate[] = [];
 
   for (const crop of omronLcdCrops) {
     const sourceX = Math.max(0, Math.round(image.width * crop.x));
@@ -1542,18 +1710,29 @@ const extractOmronBloodPressure = (image: HTMLImageElement) => {
     }
 
     for (const darkThreshold of [75, 85, 95]) {
-      const candidate = extractOmronBloodPressureFromData(
+      const extraction = extractOmronBloodPressureFromData(
         grayscaleData,
         canvas.width,
         canvas.height,
         darkThreshold
       );
+      pulseCandidates.push(...extraction.pulseCandidates);
+      const candidate = extraction.candidate;
       if (!candidate) continue;
 
       if (!bestCandidate || candidate.score > bestCandidate.score) {
         bestCandidate = candidate;
       }
     }
+  }
+
+  const bestPulse = pickBestOmronPulse(pulseCandidates);
+  if (
+    bestCandidate &&
+    bestPulse &&
+    (!bestCandidate.values.pulse_mean || bestPulse.score >= 8)
+  ) {
+    bestCandidate.values.pulse_mean = bestPulse.value;
   }
 
   return bestCandidate?.values ?? {};
@@ -1716,6 +1895,37 @@ const extractBloodPressureFromCompactDigits = (text: string): Record<string, str
   }
 
   return {};
+};
+
+const extractLabeledBloodPressureValues = (text: string): Record<string, string> => {
+  const normalizedText = normalizeOcrText(text);
+  const extracted: Record<string, string> = {};
+  const labelPatterns: Array<[keyof typeof emptyValues, RegExp, number, number]> = [
+    ["systolic_bp_mean", /\b(?:sys|systolic|tam thu)\b(?:\s*(?:bp|mmhg))?\s*[:=-]?\s*(\d{2,3})\b/, 80, 260],
+    ["diastolic_bp_mean", /\b(?:dia|diastolic|tam truong)\b(?:\s*(?:bp|mmhg))?\s*[:=-]?\s*(\d{2,3})\b/, 40, 160],
+    ["pulse_mean", /\b(?:pulse|pul|nhip tim|mach)\b(?:\s*(?:\/?min|bpm))?\s*[:=-]?\s*(\d{2,3})\b/, 30, 220],
+  ];
+
+  for (const [key, pattern, min, max] of labelPatterns) {
+    const match = normalizedText.match(pattern);
+    if (!match) continue;
+
+    const value = Number(match[1]);
+    if (clampOcrValue(value, min, max)) {
+      extracted[key] = formatOcrNumber(value);
+    }
+  }
+
+  if (
+    extracted.systolic_bp_mean &&
+    extracted.diastolic_bp_mean &&
+    Number(extracted.systolic_bp_mean) <= Number(extracted.diastolic_bp_mean)
+  ) {
+    delete extracted.systolic_bp_mean;
+    delete extracted.diastolic_bp_mean;
+  }
+
+  return extracted;
 };
 
 const extractBloodPressureFromFileName = (fileName: string) => {
@@ -2084,9 +2294,35 @@ const formatProbability = (value?: number) => {
 const getResultLabel = (prediction: number) =>
   prediction === 1 ? "Có nguy cơ" : "Chưa ghi nhận nguy cơ";
 
+const deviceOcrFilePattern =
+  /\b(omron|beurer|accu|chek|glucose|sugar|mmhg|sys|dia|pulse|bp|huyet|ap|duong)\b/i;
+
 const formatSnapshotInputValue = (value: number) => {
   if (Number.isInteger(value)) return String(value);
   return String(Number(value.toFixed(2)));
+};
+
+const inferGoogleVisionMode = (file: File): "text" | "document" =>
+  deviceOcrFilePattern.test(file.name) ? "text" : "document";
+
+const buildVisibleOcrValues = (text: string, fileName: string) => {
+  const looksLikeBloodPressureImage =
+    hasBloodPressureContextText(normalizeOcrText(text)) ||
+    /\b(omron|mmhg|sys|dia|pulse|bp|huyet|ap)\b/i.test(fileName);
+
+  const extractedValues = {
+    ...extractValuesFromOcrText(text),
+    ...extractValuesFromOcrTextRobust(text),
+    ...extractFocusedOcrValues(text),
+    ...extractBloodPressureFromNumberSequence(text),
+    ...extractBloodPressureFromCompactDigits(text),
+    ...extractLabeledBloodPressureValues(text),
+    ...(looksLikeBloodPressureImage ? {} : extractGlucoseFromNumberSequence(text)),
+  };
+
+  return Object.fromEntries(
+    Object.entries(extractedValues).filter(([key]) => key in emptyValues)
+  );
 };
 
 const UserHome: React.FC = () => {
@@ -2098,6 +2334,7 @@ const UserHome: React.FC = () => {
   const [isOcrProcessing, setIsOcrProcessing] = useState(false);
   const [ocrMessage, setOcrMessage] = useState("");
   const [ocrHasError, setOcrHasError] = useState(false);
+  const [ocrStatus, setOcrStatus] = useState<OcrStatus | null>(null);
 
   useEffect(() => {
     let isMounted = true;
@@ -2128,8 +2365,30 @@ const UserHome: React.FC = () => {
     };
   }, []);
 
+  useEffect(() => {
+    let isMounted = true;
+
+    getOcrStatus()
+      .then((status) => {
+        if (!isMounted) return;
+        setOcrStatus(status);
+      })
+      .catch(() => {
+        if (!isMounted) return;
+        setOcrStatus({
+          configured: false,
+          provider: "none",
+          mode: "local-fallback",
+        });
+      });
+
+    return () => {
+      isMounted = false;
+    };
+  }, []);
+
   const handleChange = (key: string, value: string) => {
-    setValues((current) => applyDerivedMetrics({ ...current, [key]: value }));
+    setValues((current) => applyDerivedMetrics({ ...current, [key]: value }, current, key));
     setError("");
   };
 
@@ -2167,12 +2426,15 @@ const UserHome: React.FC = () => {
       if (Object.keys(sevenSegmentVisibleValues).length) {
         const filledKeys = Object.keys(sevenSegmentVisibleValues);
 
-        setValues((current) => ({
-          ...applyDerivedMetrics({
-            ...current,
-            ...sevenSegmentVisibleValues,
-          }),
-        }));
+        setValues((current) =>
+          applyDerivedMetrics(
+            {
+              ...current,
+              ...sevenSegmentVisibleValues,
+            },
+            current
+          )
+        );
         setResult(null);
         setOcrHasError(false);
         setOcrMessage(
@@ -2181,6 +2443,46 @@ const UserHome: React.FC = () => {
             .join(", ")}.`
         );
         return;
+      }
+
+      {
+        setOcrMessage(
+          ocrStatus?.configured
+            ? "Đang OCR với Google Vision..."
+            : "Đang thử OCR với Google Vision..."
+        );
+        try {
+          const visionResponse = await ocrWithGoogleVision(file, inferGoogleVisionMode(file));
+          const visionVisibleValues = buildVisibleOcrValues(visionResponse.text ?? "", file.name);
+
+          if (Object.keys(visionVisibleValues).length) {
+            setValues((current) =>
+              applyDerivedMetrics(
+                {
+                  ...current,
+                  ...visionVisibleValues,
+                },
+                current
+              )
+            );
+            setResult(null);
+            setOcrHasError(false);
+            setOcrMessage(
+              `Google Vision (${visionResponse.provider ?? "api"}) đã tự điền ${
+                Object.keys(visionVisibleValues).length
+              } chỉ số: ${Object.keys(visionVisibleValues)
+                .map((key) => fieldLabels[key] ?? key)
+                .join(", ")}.`
+            );
+            return;
+          }
+        } catch (visionError) {
+          setOcrMessage(
+            visionError instanceof Error
+              ? `Google Vision chưa đọc được ảnh, đang thử OCR cục bộ: ${visionError.message}`
+              : "Google Vision chưa đọc được ảnh, đang thử OCR cục bộ..."
+          );
+        }
       }
 
       const preparedImages = await preprocessImageVariantsForOcr(file);
@@ -2243,64 +2545,22 @@ const UserHome: React.FC = () => {
       const filledKeys = Object.keys(visibleValues);
 
       if (!filledKeys.length) {
-        setOcrMessage("OCR cục bộ chưa đọc được đủ số, đang thử Google Vision...");
-        let visionFailureMessage = "";
-
-        try {
-          const visionText = await ocrWithGoogleVision(file);
-          const visionLooksLikeBloodPressure =
-            hasBloodPressureContextText(normalizeOcrText(visionText)) ||
-            /\b(omron|mmhg|sys|dia|pulse|bp|huyet|ap)\b/i.test(file.name);
-          const visionExtractedValues = {
-            ...extractValuesFromOcrText(visionText),
-            ...extractValuesFromOcrTextRobust(visionText),
-            ...extractFocusedOcrValues(visionText),
-            ...extractBloodPressureFromNumberSequence(visionText),
-            ...extractBloodPressureFromCompactDigits(visionText),
-            ...(visionLooksLikeBloodPressure ? {} : extractGlucoseFromNumberSequence(visionText)),
-          };
-          const visionVisibleValues = Object.fromEntries(
-            Object.entries(visionExtractedValues).filter(([key]) => key in emptyValues)
-          );
-
-          if (Object.keys(visionVisibleValues).length) {
-            setValues((current) => ({
-              ...applyDerivedMetrics({
-                ...current,
-                ...visionVisibleValues,
-              }),
-            }));
-            setResult(null);
-            setOcrHasError(false);
-            setOcrMessage(
-              `Google Vision đã tự điền ${Object.keys(visionVisibleValues).length} chỉ số: ${Object.keys(
-                visionVisibleValues
-              )
-                .map((key) => fieldLabels[key] ?? key)
-                .join(", ")}.`
-            );
-            return;
-          }
-        } catch (visionError) {
-          visionFailureMessage =
-            visionError instanceof Error ? visionError.message : "Google Vision OCR request failed.";
-        }
-
         setOcrHasError(true);
         setOcrMessage(
-          visionFailureMessage
-            ? `Không thể đọc OCR từ Google Vision: ${visionFailureMessage}`
-            : "Không tìm thấy chỉ số phù hợp trong ảnh. Hãy thử chụp riêng phần màn hình hiển thị số, đủ sáng và thẳng góc."
+          "Google Vision và OCR cục bộ đều chưa trích xuất được chỉ số phù hợp. Hãy thử ảnh rõ hơn hoặc chụp sát vùng hiển thị số."
         );
         return;
       }
 
-      setValues((current) => ({
-        ...applyDerivedMetrics({
-          ...current,
-          ...visibleValues,
-        }),
-      }));
+      setValues((current) =>
+        applyDerivedMetrics(
+          {
+            ...current,
+            ...visibleValues,
+          },
+          current
+        )
+      );
       setResult(null);
       setOcrMessage(
         `Đã tự điền ${filledKeys.length} chỉ số: ${filledKeys

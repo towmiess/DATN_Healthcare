@@ -36,6 +36,31 @@ DEFAULT_FEATURES: dict[str, float] = {
     "pulse_mean": 72,
 }
 
+MALE_WAIST_HEIGHT_RATIO = 0.45
+FEMALE_WAIST_HEIGHT_RATIO = 0.4
+MALE_HIP_WAIST_DIVISOR = 0.9
+FEMALE_HIP_WAIST_DIVISOR = 0.7
+
+
+def _expected_waist_cm(sex: int, height: float | None) -> float | None:
+    if not height:
+        return None
+    if sex == 1:
+        return round(height * MALE_WAIST_HEIGHT_RATIO, 2)
+    if sex == 2:
+        return round(height * FEMALE_WAIST_HEIGHT_RATIO, 2)
+    return None
+
+
+def _expected_hip_cm(sex: int, waist: float | None) -> float | None:
+    if not waist:
+        return None
+    if sex == 1:
+        return round(waist / MALE_HIP_WAIST_DIVISOR, 2)
+    if sex == 2:
+        return round(waist / FEMALE_HIP_WAIST_DIVISOR, 2)
+    return None
+
 
 def normalize_features(payload: dict[str, Any]) -> dict[str, float]:
     features = DEFAULT_FEATURES.copy()
@@ -54,17 +79,15 @@ def normalize_features(payload: dict[str, Any]) -> dict[str, float]:
         features["bmi"] = round(weight / (height / 100) ** 2, 2)
 
     if height and not payload.get("waist_cm"):
-        if sex == 1:
-            features["waist_cm"] = round(height * 0.45, 2)
-        elif sex == 2:
-            features["waist_cm"] = round(height * 0.4, 2)
+        expected_waist = _expected_waist_cm(sex, height)
+        if expected_waist is not None:
+            features["waist_cm"] = expected_waist
 
     waist = features.get("waist_cm")
     if waist and not payload.get("hip_cm"):
-        if sex == 1:
-            features["hip_cm"] = round(waist / 0.9, 2)
-        elif sex == 2:
-            features["hip_cm"] = round(waist / 0.7, 2)
+        expected_hip = _expected_hip_cm(sex, waist)
+        if expected_hip is not None:
+            features["hip_cm"] = expected_hip
 
     return features
 
@@ -269,7 +292,7 @@ def dashboard_payload(user_id: int, period_type: str) -> dict[str, Any]:
         "trend": trend,
         "comparison": [
             {
-                "label": "Duong huyet trung binh",
+                "label": "Đường huyết trung bình",
                 "current": f"{round(glucose_value, 1)} mg/dL",
                 "previous": f"{round(previous_glucose, 1)} mg/dL" if previous_glucose else "--",
                 "delta": f"{delta:+.1f}%",
@@ -290,9 +313,9 @@ def dashboard_payload(user_id: int, period_type: str) -> dict[str, Any]:
                 "good": True,
             },
             {
-                "label": "Canh bao nguy co",
-                "current": f"{alerts} lan",
-                "previous": f"{1 if previous_glucose >= 140 else 0} lan" if previous_glucose else "--",
+                "label": "Cảnh báo nguy cơ",
+                "current": f"{alerts} lần",
+                "previous": f"{1 if previous_glucose >= 140 else 0} lần" if previous_glucose else "--",
                 "delta": "--" if not previous_glucose else f"{alerts - (1 if previous_glucose >= 140 else 0):+d}",
                 "good": alerts <= (1 if previous_glucose >= 140 else alerts),
             },
@@ -302,10 +325,10 @@ def dashboard_payload(user_id: int, period_type: str) -> dict[str, Any]:
         "history": [
             {
                 "period": f"{report.period_start:%d/%m} - {report.period_end:%d/%m}",
-                "type": "Thang" if report.period_type == "MONTHLY" else "Tuan",
+                "type": "Tháng" if report.period_type == "MONTHLY" else "Tuần",
                 "score": float(report.health_score or 0),
                 "avg": float(report.avg_glucose or 0),
-                "status": "Da luu",
+                "status": "Đã lưu",
             }
             for report in reports[:5]
         ],

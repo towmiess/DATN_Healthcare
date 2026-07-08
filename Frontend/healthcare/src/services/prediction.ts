@@ -26,6 +26,19 @@ export type DiagnosisSnapshot = {
   } | null;
 };
 
+export type OcrStatus = {
+  configured: boolean;
+  provider: "api_key" | "service_account" | "none";
+  mode: "google-vision" | "local-fallback";
+  message?: string;
+};
+
+export type GoogleVisionOcrResponse = {
+  text?: string;
+  provider?: string;
+  mode?: string;
+};
+
 const fileToBase64 = (file: File) =>
   new Promise<string>((resolve, reject) => {
     const reader = new FileReader();
@@ -49,22 +62,31 @@ export const getDiagnosisSnapshot = async (): Promise<DiagnosisSnapshot> => {
   return response.data;
 };
 
-export const ocrWithGoogleVision = async (file: File): Promise<string> => {
+export const getOcrStatus = async (): Promise<OcrStatus> => {
+  const response = await apiClient.get<OcrStatus>("/ocr/status/");
+  return response.data;
+};
+
+export const ocrWithGoogleVision = async (
+  file: File,
+  mode: "text" | "document" = "document"
+): Promise<GoogleVisionOcrResponse> => {
   const controller = new AbortController();
   const timeoutId = window.setTimeout(() => controller.abort(), 12000);
 
   try {
     const imageBase64 = await fileToBase64(file);
-    const response = await apiClient.post<{ text?: string }>(
+    const response = await apiClient.post<GoogleVisionOcrResponse>(
       "/ocr/google-vision/",
       {
         image_base64: imageBase64,
         mime_type: file.type || "image/jpeg",
+        mode,
       },
       { signal: controller.signal }
     );
 
-    return response.data.text ?? "";
+    return response.data;
   } catch (error) {
     if (axios.isAxiosError(error)) {
       const message =

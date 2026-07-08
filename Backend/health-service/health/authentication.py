@@ -90,8 +90,11 @@ class GatewayOrJwtAuthentication(authentication.BaseAuthentication):
 
         try:
             user_id = int(user_id) if user_id is not None else None
-        except (TypeError, ValueError):
-            user_id = None
+        except (TypeError, ValueError) as exc:
+            raise exceptions.AuthenticationFailed("Authenticated token contains an invalid user_id") from exc
+
+        if not user_id:
+            raise exceptions.AuthenticationFailed("Authenticated token does not include a valid user_id")
 
         return GatewayUser(
             id=user_id,

@@ -57,16 +57,16 @@ const AppRoutes = () => {
         <Route path="/reset-password" element={<ResetPassword />} />
       </Route>
 
-      <Route path="/diagnosis" element={<DashboardShell homePath="/diagnosis" />}>
-        <Route index element={<UserHome />} />
-      </Route>
-
-      <Route path="/reports" element={<DashboardShell homePath="/reports" />}>
-        <Route index element={<PeriodicReportDashboard />} />
-      </Route>
-
       <Route element={<RequireAuth />}>
         <Route index element={<RoleRedirect />} />
+
+        <Route path="/diagnosis" element={<DashboardShell homePath="/diagnosis" />}>
+          <Route index element={<UserHome />} />
+        </Route>
+
+        <Route path="/reports" element={<DashboardShell homePath="/reports" />}>
+          <Route index element={<PeriodicReportDashboard />} />
+        </Route>
 
         <Route element={<RequireRole roles={["ADMIN"]} />}>
           <Route path="/admin" element={<AdminLayout />}>

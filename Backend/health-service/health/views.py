@@ -10,6 +10,7 @@ from django.conf import settings
 from django.db import DatabaseError, transaction
 from django.db.models import Avg
 from rest_framework import permissions, status
+from rest_framework.exceptions import NotAuthenticated
 from rest_framework.response import Response
 from rest_framework.views import APIView
 
@@ -109,15 +110,115 @@ def _google_vision_request_config() -> tuple[str, dict[str, str]] | None:
     )
 
 
+def _google_vision_status_payload() -> dict[str, object]:
+    if settings.GOOGLE_VISION_API_KEY:
+        return {
+            "configured": True,
+            "provider": "api_key",
+            "mode": "google-vision",
+        }
+
+    try:
+        credentials = _google_vision_credentials()
+    except Exception as exc:
+        return {
+            "configured": False,
+            "provider": "service_account",
+            "mode": "google-vision",
+            "message": str(exc),
+        }
+
+    if credentials is not None:
+        return {
+            "configured": True,
+            "provider": "service_account",
+            "mode": "google-vision",
+        }
+
+    return {
+        "configured": False,
+        "provider": "none",
+        "mode": "local-fallback",
+        "message": "Google Vision is not configured.",
+    }
+
+
+def _google_vision_error_response(exc: requests.RequestException) -> tuple[str, int]:
+    response = getattr(exc, "response", None)
+    if response is None:
+        return (
+            "Google Vision request failed. Check network access from health-service and try again.",
+            status.HTTP_502_BAD_GATEWAY,
+        )
+
+    provider = _google_vision_status_payload().get("provider")
+    error_message = ""
+    try:
+        error_message = response.json().get("error", {}).get("message", "")
+    except ValueError:
+        error_message = response.text.strip()
+
+    if response.status_code == 400:
+        message = "Google Vision rejected the OCR payload. Check the uploaded image format and request body."
+    elif response.status_code == 401:
+        message = "Google Vision authentication failed. Recheck the configured API key or service account."
+    elif response.status_code == 403 and provider == "api_key":
+        message = (
+            "Google Vision rejected the API key (403). Check that Cloud Vision API is enabled, billing is active, "
+            "and the key is not restricted to HTTP referrers or browser-only use. For backend Docker calls, prefer "
+            "an unrestricted key, IP-restricted key, or a service account."
+        )
+    elif response.status_code == 403:
+        message = (
+            "Google Vision access was denied (403). Check IAM permissions for the configured service account and "
+            "confirm the Vision API is enabled for the project."
+        )
+    else:
+        message = f"Google Vision request failed with status {response.status_code}."
+
+    if error_message and response.status_code not in {403}:
+        message = f"{message} Detail: {error_message}"
+
+    return message, status.HTTP_502_BAD_GATEWAY
+
+
+def _model_api_ocr_text(image_base64: str, mime_type: str) -> str:
+    model_url = settings.MODEL_API_URL.strip().rstrip("/")
+    if not model_url:
+        return ""
+
+    try:
+        response = requests.post(
+            f"{model_url}/ocr/google-vision",
+            json={"image_base64": image_base64, "mime_type": mime_type},
+            timeout=8,
+        )
+        response.raise_for_status()
+    except requests.RequestException:
+        return ""
+
+    data = response.json()
+    text = data.get("text", "")
+    return text if isinstance(text, str) else ""
+
+
 def user_id_from_request(request) -> int:
-    return int(getattr(request.user, "id", None) or 1)
+    user_id = getattr(request.user, "id", None)
+    if user_id in (None, "", 0):
+        raise NotAuthenticated("Authenticated user context does not include a valid user_id.")
+
+    try:
+        return int(user_id)
+    except (TypeError, ValueError) as exc:
+        raise NotAuthenticated("Authenticated user context contains an invalid user_id.") from exc
 
 
 def ensure_shadow_user(request) -> User:
     current = now()
-    email = getattr(request.user, "email", "") or f"user-{user_id_from_request(request)}@local.health"
+    user_id = user_id_from_request(request)
+    email = getattr(request.user, "email", "") or f"user-{user_id}@local.health"
     user, _ = User.objects.get_or_create(
-        id=user_id_from_request(request),
+        id=user_id,
         defaults={
             "full_name": email,
             "email": email,
@@ -129,6 +230,17 @@ def ensure_shadow_user(request) -> User:
             "updated_at": current,
         },
     )
+    changed_fields: list[str] = []
+    if email and user.email != email:
+        user.email = email
+        changed_fields.append("email")
+    if email and user.full_name != email:
+        user.full_name = email
+        changed_fields.append("full_name")
+    if changed_fields:
+        user.updated_at = current
+        changed_fields.append("updated_at")
+        user.save(update_fields=changed_fields)
     return user
 
 
@@ -444,6 +556,11 @@ class HealthCheckView(APIView):
         return Response({"status": "UP", "service": "health-service"})
 
 
+class GoogleVisionOcrStatusView(APIView):
+    def get(self, request):
+        return Response(_google_vision_status_payload())
+
+
 class DiagnosisPredictView(APIView):
     def post(self, request):
         serializer = DiagnosisPredictSerializer(data=request.data)
@@ -538,12 +655,17 @@ class GoogleVisionOcrView(APIView):
     def post(self, request):
         serializer = GoogleVisionOcrSerializer(data=request.data)
         serializer.is_valid(raise_exception=True)
+        feature_type = (
+            "DOCUMENT_TEXT_DETECTION"
+            if serializer.validated_data.get("mode") == "document"
+            else "TEXT_DETECTION"
+        )
 
         payload = {
             "requests": [
                 {
                     "image": {"content": serializer.validated_data["image_base64"]},
-                    "features": [{"type": "TEXT_DETECTION"}],
+                    "features": [{"type": feature_type}],
                     "imageContext": {"languageHints": ["vi", "en"]},
                 }
             ]
@@ -575,9 +697,37 @@ class GoogleVisionOcrView(APIView):
             response = requests.post(endpoint, json=payload, headers=request_headers, timeout=12)
             response.raise_for_status()
         except requests.RequestException as exc:
-            return Response({"message": str(exc)}, status=status.HTTP_502_BAD_GATEWAY)
+            model_text = _model_api_ocr_text(
+                serializer.validated_data["image_base64"],
+                serializer.validated_data.get("mime_type") or "image/jpeg",
+            )
+            if model_text:
+                return Response(
+                    {
+                        "text": model_text,
+                        "provider": "model-api-fallback",
+                        "mode": serializer.validated_data.get("mode", "document"),
+                    }
+                )
+
+            message, response_status = _google_vision_error_response(exc)
+            return Response({"message": message}, status=response_status)
 
         data = response.json()
-        annotations = data.get("responses", [{}])[0].get("textAnnotations", [])
-        text = annotations[0].get("description", "") if annotations else ""
-        return Response({"text": text})
+        response_payload = data.get("responses", [{}])[0]
+        full_text = response_payload.get("fullTextAnnotation", {}).get("text", "")
+        annotations = response_payload.get("textAnnotations", [])
+        text = full_text or (annotations[0].get("description", "") if annotations else "")
+        model_text = _model_api_ocr_text(
+            serializer.validated_data["image_base64"],
+            serializer.validated_data.get("mime_type") or "image/jpeg",
+        )
+        if model_text and model_text not in text:
+            text = f"{text}\n{model_text}".strip()
+        return Response(
+            {
+                "text": text,
+                "provider": _google_vision_status_payload().get("provider"),
+                "mode": serializer.validated_data.get("mode", "document"),
+            }
+        )

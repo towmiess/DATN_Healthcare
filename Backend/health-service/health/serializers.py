@@ -27,6 +27,7 @@ class DiagnosisPredictSerializer(serializers.Serializer):
 class GoogleVisionOcrSerializer(serializers.Serializer):
     image_base64 = serializers.CharField()
     mime_type = serializers.CharField(required=False, default="image/jpeg")
+    mode = serializers.ChoiceField(choices=["text", "document"], required=False, default="document")
 
 
 class ReportExportSerializer(serializers.Serializer):

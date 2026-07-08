@@ -21,6 +21,7 @@ import {
 import "./PeriodicReportDashboard.scss";
 
 type PeriodType = "weekly" | "monthly";
+type GlucoseUnit = "mg_dl" | "mmol_l";
 
 type TrendPoint = {
   label: string;
@@ -77,10 +78,68 @@ const reportHistory = [
   { period: "Tháng 05/2026", type: "Tháng", score: 74, avg: 145, status: "Đã xuất CSV" },
 ];
 
-const getMetrics = (periodType: PeriodType): Metric[] => [
+const glucoseConversionFactor = 18;
+const glucoseUnitLabels: Record<GlucoseUnit, string> = {
+  mg_dl: "mg/dL",
+  mmol_l: "mmol/L",
+};
+
+const localizeTextMap: Record<string, string> = {
+  "canh bao nguy co": "Cảnh báo nguy cơ",
+  "da luu": "Đã lưu",
+  "duong huyet trung binh": "Đường huyết trung bình",
+  "thang": "Tháng",
+  "tuan": "Tuần",
+};
+
+const normalizeTextKey = (value: string) =>
+  value
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/đ/g, "d")
+    .replace(/Đ/g, "D")
+    .trim()
+    .toLowerCase();
+
+const localizeReportText = (value: string) => {
+  if (!value || value === "--") return value;
+
+  const localized = localizeTextMap[normalizeTextKey(value)];
+  if (localized) return localized;
+
+  return value.replace(/\blan\b/gi, "lần");
+};
+
+const formatNumber = (value: number, fractionDigits = 1) => {
+  const rounded = Number(value.toFixed(fractionDigits));
+  return Number.isInteger(rounded) ? String(rounded) : rounded.toFixed(fractionDigits);
+};
+
+const glucoseMgDlToDisplayValue = (value: number, unit: GlucoseUnit) =>
+  unit === "mg_dl" ? value : value / glucoseConversionFactor;
+
+const formatGlucoseValue = (value: number, unit: GlucoseUnit) =>
+  `${formatNumber(glucoseMgDlToDisplayValue(value, unit), 1)} ${glucoseUnitLabels[unit]}`;
+
+const parseGlucoseMgDl = (value: string) => {
+  const match = value.match(/-?\d+(?:[.,]\d+)?/);
+  if (!match) return null;
+
+  const numericValue = Number(match[0].replace(",", "."));
+  if (!Number.isFinite(numericValue)) return null;
+
+  return /mmol\s*\/?\s*l/i.test(value) ? numericValue * glucoseConversionFactor : numericValue;
+};
+
+const isGlucoseLabel = (label: string) => {
+  const normalized = normalizeTextKey(label);
+  return normalized.includes("duong huyet") || normalized.includes("glucose");
+};
+
+const getMetrics = (periodType: PeriodType, glucoseUnit: GlucoseUnit): Metric[] => [
   {
     label: periodType === "weekly" ? "Đường huyết tuần" : "Đường huyết tháng",
-    value: periodType === "weekly" ? "124 mg/dL" : "131 mg/dL",
+    value: formatGlucoseValue(periodType === "weekly" ? 124 : 131, glucoseUnit),
     delta: periodType === "weekly" ? "-10.8%" : "-6.4%",
     tone: "good",
     icon: <Activity size={18} />,
@@ -111,8 +170,13 @@ const getMetrics = (periodType: PeriodType): Metric[] => [
 const buildChartPath = (points: TrendPoint[]) => {
   const width = 560;
   const height = 190;
-  const min = Math.min(...points.map((point) => point.glucose)) - 10;
-  const max = Math.max(...points.map((point) => point.glucose)) + 10;
+  const values = points.map((point) => point.glucose);
+  const minValue = Math.min(...values);
+  const maxValue = Math.max(...values);
+  const spread = maxValue - minValue;
+  const padding = Math.max(spread * 0.18, maxValue < 40 ? 0.5 : 10);
+  const min = minValue - padding;
+  const max = maxValue + padding;
   const stepX = points.length > 1 ? width / (points.length - 1) : 0;
   const range = Math.max(1, max - min);
 
@@ -133,21 +197,53 @@ const buildChartPath = (points: TrendPoint[]) => {
 
 const PeriodicReportDashboard: React.FC = () => {
   const [periodType, setPeriodType] = useState<PeriodType>("weekly");
+  const [glucoseUnit, setGlucoseUnit] = useState<GlucoseUnit>("mg_dl");
   const [dashboardData, setDashboardData] = useState<ReportDashboardData | null>(null);
   const trend = dashboardData
     ? dashboardData.trend
     : periodType === "weekly"
       ? weeklyTrend
       : monthlyTrend;
-  const chart = useMemo(() => (trend.length ? buildChartPath(trend) : null), [trend]);
-  const metrics = getMetrics(periodType);
+  const displayTrend = useMemo(
+    () =>
+      trend.map((point) => ({
+        ...point,
+        glucose: glucoseMgDlToDisplayValue(point.glucose, glucoseUnit),
+      })),
+    [glucoseUnit, trend]
+  );
+  const chart = useMemo(() => (displayTrend.length ? buildChartPath(displayTrend) : null), [displayTrend]);
+  const metrics = getMetrics(periodType, glucoseUnit);
   const activeComparisonRows = dashboardData ? dashboardData.comparison : comparisonRows;
+  const displayComparisonRows = useMemo(
+    () =>
+      activeComparisonRows.map((row) => {
+        const label = localizeReportText(row.label);
+        const shouldConvertGlucose = isGlucoseLabel(row.label);
+        const currentGlucose = shouldConvertGlucose ? parseGlucoseMgDl(row.current) : null;
+        const previousGlucose = shouldConvertGlucose ? parseGlucoseMgDl(row.previous) : null;
+
+        return {
+          ...row,
+          label,
+          current:
+            shouldConvertGlucose && currentGlucose !== null
+              ? formatGlucoseValue(currentGlucose, glucoseUnit)
+              : localizeReportText(row.current),
+          previous:
+            shouldConvertGlucose && previousGlucose !== null
+              ? formatGlucoseValue(previousGlucose, glucoseUnit)
+              : localizeReportText(row.previous),
+        };
+      }),
+    [activeComparisonRows, glucoseUnit]
+  );
   const activeAchievements = dashboardData ? dashboardData.achievements : achievements;
   const activeIssues = dashboardData ? dashboardData.issues : issues;
   const activeReportHistory = dashboardData ? dashboardData.history : reportHistory;
 
   if (dashboardData?.overview) {
-    metrics[0].value = `${dashboardData.overview.avg_glucose} mg/dL`;
+    metrics[0].value = formatGlucoseValue(dashboardData.overview.avg_glucose, glucoseUnit);
     metrics[1].value = `${dashboardData.overview.health_score}/100`;
     metrics[2].value = `${dashboardData.overview.bmi}`;
     metrics[3].value = `${dashboardData.overview.alerts} lần`;
@@ -224,7 +320,21 @@ const PeriodicReportDashboard: React.FC = () => {
               <p className="report-page__eyebrow">Glucose Trend</p>
               <h2>Xu hướng đường huyết</h2>
             </div>
-            <span className="report-panel__badge">mg/dL</span>
+            <div className="report-unit-toggle" role="group" aria-label="Đơn vị đường huyết">
+              {(["mg_dl", "mmol_l"] as const).map((unit) => (
+                <button
+                  type="button"
+                  key={unit}
+                  className={`report-unit-toggle__button${
+                    glucoseUnit === unit ? " report-unit-toggle__button--active" : ""
+                  }`}
+                  aria-pressed={glucoseUnit === unit}
+                  onClick={() => setGlucoseUnit(unit)}
+                >
+                  {glucoseUnitLabels[unit]}
+                </button>
+              ))}
+            </div>
           </div>
 
           <div className="report-chart" aria-label="Biểu đồ xu hướng đường huyết">
@@ -244,7 +354,7 @@ const PeriodicReportDashboard: React.FC = () => {
                       textAnchor="middle"
                       className="report-chart__value"
                     >
-                      {point.glucose}
+                      {formatNumber(point.glucose, 1)}
                     </text>
                   </g>
                 ))}
@@ -268,8 +378,8 @@ const PeriodicReportDashboard: React.FC = () => {
           </div>
 
           <div className="report-comparison">
-            {activeComparisonRows.length ? (
-              activeComparisonRows.map((row) => (
+            {displayComparisonRows.length ? (
+              displayComparisonRows.map((row) => (
                 <div className="report-comparison__row" key={row.label}>
                   <span>{row.label}</span>
                   <strong>{row.current}</strong>
@@ -363,10 +473,10 @@ const PeriodicReportDashboard: React.FC = () => {
             activeReportHistory.map((report) => (
               <div className="report-history__row" key={report.period}>
                 <span>{report.period}</span>
-                <strong>{report.type}</strong>
+                <strong>{localizeReportText(report.type)}</strong>
                 <small>{report.score}/100</small>
-                <small>{report.avg} mg/dL</small>
-                <em>{report.status}</em>
+                <small>{formatGlucoseValue(report.avg, glucoseUnit)}</small>
+                <em>{localizeReportText(report.status)}</em>
               </div>
             ))
           ) : (
