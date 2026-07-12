@@ -28,7 +28,7 @@ spring:
             - id: health-service
               uri: ${HEALTH_SERVICE_URI:http://localhost:8100}
               predicates:
-                - Path=/api/health,/api/diagnosis/**,/api/reports/**,/api/ocr/**
+                - Path=/api/health,/api/diagnosis/**,/api/reports/**,/api/ocr/**,/api/clinical/**
               
 eureka:
   client:

@@ -1,5 +1,6 @@
 import { apiClient } from "@/api/Fetcher";
 import axios from "axios";
+import type { ActiveClinicalBaseline } from "@/services/clinical";
 
 export type PredictionInput = Partial<Record<string, number>>;
 
@@ -24,6 +25,7 @@ export type DiagnosisSnapshot = {
     risk_level?: string | null;
     health_score?: number | null;
   } | null;
+  baseline: ActiveClinicalBaseline;
 };
 
 export type OcrStatus = {

@@ -137,3 +137,180 @@ class ReportExport(models.Model):
     class Meta:
         managed = False
         db_table = "report_exports"
+
+
+class ReportDraft(models.Model):
+    user = models.ForeignKey(User, models.DO_NOTHING, db_column="user_id")
+    period_type = models.CharField(max_length=20)
+    period_start = models.DateField()
+    period_end = models.DateField()
+    payload = models.JSONField(default=dict)
+    status = models.CharField(max_length=30, default="DRAFT")
+    created_at = models.DateTimeField()
+    updated_at = models.DateTimeField()
+
+    class Meta:
+        managed = False
+        db_table = "report_drafts"
+
+
+class DiagnosisSession(models.Model):
+    user = models.ForeignKey(User, models.DO_NOTHING, db_column="user_id")
+    session_type = models.CharField(max_length=50, default="DIAGNOSIS")
+    source_type = models.CharField(max_length=50, default="MANUAL")
+    baseline = models.ForeignKey(
+        "ClinicalBaseline",
+        models.DO_NOTHING,
+        db_column="baseline_id",
+        null=True,
+        blank=True,
+        related_name="diagnosis_sessions",
+    )
+    sample_collected_at = models.DateTimeField(null=True, blank=True)
+    status = models.CharField(max_length=30, default="DRAFT")
+    created_at = models.DateTimeField()
+    updated_at = models.DateTimeField()
+
+    class Meta:
+        managed = False
+        db_table = "diagnosis_sessions"
+
+
+class ClinicalDocument(models.Model):
+    user = models.ForeignKey(User, models.DO_NOTHING, db_column="user_id")
+    diagnosis_session = models.ForeignKey(
+        DiagnosisSession,
+        models.DO_NOTHING,
+        db_column="diagnosis_session_id",
+        null=True,
+        blank=True,
+    )
+    document_type = models.CharField(max_length=50, default="LAB_REPORT")
+    original_filename = models.CharField(max_length=255, null=True, blank=True)
+    file_url = models.CharField(max_length=500, null=True, blank=True)
+    mime_type = models.CharField(max_length=100, null=True, blank=True)
+    provider_name = models.CharField(max_length=255, null=True, blank=True)
+    sample_collected_at = models.DateTimeField(null=True, blank=True)
+    ocr_engine = models.CharField(max_length=100, null=True, blank=True)
+    raw_ocr_text = models.TextField(null=True, blank=True)
+    confidence_score = models.DecimalField(max_digits=5, decimal_places=2, null=True, blank=True)
+    verification_status = models.CharField(max_length=30, default="REVIEW_REQUIRED")
+    file_sha256 = models.CharField(max_length=64, null=True, blank=True)
+    created_at = models.DateTimeField()
+    verified_at = models.DateTimeField(null=True, blank=True)
+
+    class Meta:
+        managed = False
+        db_table = "clinical_documents"
+
+
+class LabPanel(models.Model):
+    user = models.ForeignKey(User, models.DO_NOTHING, db_column="user_id")
+    clinical_document = models.ForeignKey(
+        ClinicalDocument,
+        models.DO_NOTHING,
+        db_column="clinical_document_id",
+        null=True,
+        blank=True,
+    )
+    diagnosis_session = models.ForeignKey(
+        DiagnosisSession,
+        models.DO_NOTHING,
+        db_column="diagnosis_session_id",
+        null=True,
+        blank=True,
+    )
+    provider_name = models.CharField(max_length=255, null=True, blank=True)
+    sampled_at = models.DateTimeField()
+    reported_at = models.DateTimeField(null=True, blank=True)
+    status = models.CharField(max_length=30, default="VERIFIED")
+    created_at = models.DateTimeField()
+
+    class Meta:
+        managed = False
+        db_table = "lab_panels"
+
+
+class LabResult(models.Model):
+    user = models.ForeignKey(User, models.DO_NOTHING, db_column="user_id")
+    lab_panel = models.ForeignKey(LabPanel, models.DO_NOTHING, db_column="lab_panel_id")
+    test_code = models.CharField(max_length=80)
+    test_name = models.CharField(max_length=255)
+    value = models.DecimalField(max_digits=14, decimal_places=4)
+    unit = models.CharField(max_length=50)
+    canonical_value = models.DecimalField(max_digits=14, decimal_places=4, null=True, blank=True)
+    canonical_unit = models.CharField(max_length=50, null=True, blank=True)
+    reference_min = models.DecimalField(max_digits=14, decimal_places=4, null=True, blank=True)
+    reference_max = models.DecimalField(max_digits=14, decimal_places=4, null=True, blank=True)
+    reference_text = models.CharField(max_length=255, null=True, blank=True)
+    abnormal_flag = models.CharField(max_length=20, null=True, blank=True)
+    source_type = models.CharField(max_length=50, default="HOSPITAL_LAB")
+    confidence_score = models.DecimalField(max_digits=5, decimal_places=2, null=True, blank=True)
+    is_verified = models.BooleanField(default=False)
+    observed_at = models.DateTimeField()
+    created_at = models.DateTimeField()
+
+    class Meta:
+        managed = False
+        db_table = "lab_results"
+
+
+class ClinicalObservation(models.Model):
+    user = models.ForeignKey(User, models.DO_NOTHING, db_column="user_id")
+    diagnosis_session = models.ForeignKey(
+        DiagnosisSession,
+        models.DO_NOTHING,
+        db_column="diagnosis_session_id",
+    )
+    clinical_document = models.ForeignKey(
+        ClinicalDocument,
+        models.DO_NOTHING,
+        db_column="clinical_document_id",
+        null=True,
+        blank=True,
+    )
+    observation_code = models.CharField(max_length=80)
+    observation_name = models.CharField(max_length=255)
+    value = models.DecimalField(max_digits=14, decimal_places=4)
+    unit = models.CharField(max_length=50)
+    canonical_value = models.DecimalField(max_digits=14, decimal_places=4, null=True, blank=True)
+    canonical_unit = models.CharField(max_length=50, null=True, blank=True)
+    reference_min = models.DecimalField(max_digits=14, decimal_places=4, null=True, blank=True)
+    reference_max = models.DecimalField(max_digits=14, decimal_places=4, null=True, blank=True)
+    reference_text = models.CharField(max_length=255, null=True, blank=True)
+    abnormal_flag = models.CharField(max_length=20, null=True, blank=True)
+    source_type = models.CharField(max_length=50, default="HOSPITAL_RECORD")
+    confidence_score = models.DecimalField(max_digits=5, decimal_places=2, null=True, blank=True)
+    is_verified = models.BooleanField(default=False)
+    observed_at = models.DateTimeField()
+    created_at = models.DateTimeField()
+
+    class Meta:
+        managed = False
+        db_table = "clinical_observations"
+
+
+class ClinicalBaseline(models.Model):
+    user = models.ForeignKey(User, models.DO_NOTHING, db_column="user_id")
+    diagnosis_session = models.OneToOneField(
+        DiagnosisSession,
+        models.DO_NOTHING,
+        db_column="diagnosis_session_id",
+        related_name="clinical_baseline",
+    )
+    label = models.CharField(max_length=255)
+    effective_at = models.DateTimeField()
+    status = models.CharField(max_length=30, default="ACTIVE")
+    supersedes_baseline = models.ForeignKey(
+        "self",
+        models.DO_NOTHING,
+        db_column="supersedes_baseline_id",
+        null=True,
+        blank=True,
+    )
+    created_at = models.DateTimeField()
+    archived_at = models.DateTimeField(null=True, blank=True)
+
+    class Meta:
+        managed = False
+        db_table = "clinical_baselines"

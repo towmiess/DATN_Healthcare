@@ -6,18 +6,29 @@ import {
   ArrowUpRight,
   CalendarDays,
   CheckCircle2,
-  Download,
+  FilePlus2,
   FileSpreadsheet,
   FileText,
   HeartPulse,
+  Info,
   LineChart,
+  Loader2,
+  Save,
   Target,
+  Upload,
+  X,
 } from "lucide-react";
 import {
   exportPeriodicReport,
   getReportDashboard,
   ReportDashboardData,
+  saveReportDraft,
 } from "@/services/reports";
+import {
+  createClinicalBaseline,
+  ClinicalBaselineExtraction,
+  extractClinicalBaseline,
+} from "@/services/clinical";
 import "./PeriodicReportDashboard.scss";
 
 type PeriodType = "weekly" | "monthly";
@@ -25,6 +36,7 @@ type GlucoseUnit = "mg_dl" | "mmol_l";
 
 type TrendPoint = {
   label: string;
+  timestamp?: string;
   glucose: number;
 };
 
@@ -34,49 +46,9 @@ type Metric = {
   delta: string;
   tone: "good" | "warning" | "danger" | "neutral";
   icon: React.ReactNode;
+  detail?: string;
+  progress?: number;
 };
-
-const weeklyTrend: TrendPoint[] = [
-  { label: "T2", glucose: 142 },
-  { label: "T3", glucose: 136 },
-  { label: "T4", glucose: 128 },
-  { label: "T5", glucose: 132 },
-  { label: "T6", glucose: 124 },
-  { label: "T7", glucose: 118 },
-  { label: "CN", glucose: 121 },
-];
-
-const monthlyTrend: TrendPoint[] = [
-  { label: "W1", glucose: 148 },
-  { label: "W2", glucose: 139 },
-  { label: "W3", glucose: 131 },
-  { label: "W4", glucose: 124 },
-];
-
-const comparisonRows = [
-  { label: "Đường huyết trung bình", current: "124 mg/dL", previous: "139 mg/dL", delta: "-10.8%", good: true },
-  { label: "Health score", current: "82/100", previous: "76/100", delta: "+7.9%", good: true },
-  { label: "BMI", current: "26.2", previous: "26.8", delta: "-2.2%", good: true },
-  { label: "Cảnh báo nguy cơ", current: "2 lần", previous: "5 lần", delta: "-60%", good: true },
-];
-
-const achievements = [
-  "Đường huyết lúc đói ổn định hơn trong 5/7 ngày gần nhất.",
-  "Tần suất ghi nhận chỉ số đạt 92%, cao hơn kỳ trước.",
-  "BMI và cân nặng giảm nhẹ theo đúng mục tiêu hiện tại.",
-];
-
-const issues = [
-  "Có 2 lần đường huyết sau ăn vượt ngưỡng cảnh báo.",
-  "Bữa tối vẫn là khoảng thời gian có biến động glucose cao nhất.",
-  "Cần duy trì đo vào khung giờ cố định để báo cáo chính xác hơn.",
-];
-
-const reportHistory = [
-  { period: "08/06 - 14/06", type: "Tuần", score: 82, avg: 124, status: "Sẵn sàng" },
-  { period: "01/06 - 07/06", type: "Tuần", score: 76, avg: 139, status: "Đã xuất PDF" },
-  { period: "Tháng 05/2026", type: "Tháng", score: 74, avg: 145, status: "Đã xuất CSV" },
-];
 
 const glucoseConversionFactor = 18;
 const glucoseUnitLabels: Record<GlucoseUnit, string> = {
@@ -136,52 +108,56 @@ const isGlucoseLabel = (label: string) => {
   return normalized.includes("duong huyet") || normalized.includes("glucose");
 };
 
-const getMetrics = (periodType: PeriodType, glucoseUnit: GlucoseUnit): Metric[] => [
+const getMetrics = (periodType: PeriodType): Metric[] => [
   {
     label: periodType === "weekly" ? "Đường huyết tuần" : "Đường huyết tháng",
-    value: formatGlucoseValue(periodType === "weekly" ? 124 : 131, glucoseUnit),
-    delta: periodType === "weekly" ? "-10.8%" : "-6.4%",
-    tone: "good",
+    value: "--",
+    delta: "--",
+    tone: "neutral",
     icon: <Activity size={18} />,
   },
   {
-    label: "Health score",
-    value: periodType === "weekly" ? "82/100" : "79/100",
-    delta: periodType === "weekly" ? "+7.9%" : "+4.1%",
-    tone: "good",
+    label: "Điểm kiểm soát nguy cơ",
+    value: "--",
+    delta: "--",
+    tone: "neutral",
     icon: <HeartPulse size={18} />,
   },
   {
     label: "BMI",
-    value: periodType === "weekly" ? "26.2" : "26.5",
-    delta: periodType === "weekly" ? "-0.6" : "-0.3",
+    value: "--",
+    delta: "--",
     tone: "neutral",
     icon: <Target size={18} />,
   },
   {
     label: "Cảnh báo",
-    value: periodType === "weekly" ? "2 lần" : "8 lần",
-    delta: periodType === "weekly" ? "-3" : "-5",
-    tone: "warning",
+    value: "--",
+    delta: "--",
+    tone: "neutral",
     icon: <AlertTriangle size={18} />,
   },
 ];
 
-const buildChartPath = (points: TrendPoint[]) => {
-  const width = 560;
+const buildChartPath = (points: TrendPoint[], referenceValues: number[] = []) => {
+  const leftPadding = 48;
+  const rightPadding = 24;
   const height = 190;
-  const values = points.map((point) => point.glucose);
+  const pointSpacing = 76;
+  const width = Math.max(640, leftPadding + rightPadding + (points.length - 1) * pointSpacing);
+  const values = [...points.map((point) => point.glucose), ...referenceValues];
   const minValue = Math.min(...values);
   const maxValue = Math.max(...values);
   const spread = maxValue - minValue;
   const padding = Math.max(spread * 0.18, maxValue < 40 ? 0.5 : 10);
   const min = minValue - padding;
   const max = maxValue + padding;
-  const stepX = points.length > 1 ? width / (points.length - 1) : 0;
+  const plotWidth = width - leftPadding - rightPadding;
+  const stepX = points.length > 1 ? plotWidth / (points.length - 1) : 0;
   const range = Math.max(1, max - min);
 
   const coords = points.map((point, index) => {
-    const x = points.length === 1 ? width / 2 : index * stepX;
+    const x = points.length === 1 ? width / 2 : leftPadding + index * stepX;
     const y = height - ((point.glucose - min) / range) * height;
     return { x, y, ...point };
   });
@@ -190,20 +166,48 @@ const buildChartPath = (points: TrendPoint[]) => {
     .map((point, index) => `${index === 0 ? "M" : "L"} ${point.x.toFixed(2)} ${point.y.toFixed(2)}`)
     .join(" ");
 
-  const area = `${line} L ${width} ${height} L 0 ${height} Z`;
+  const area = `${line} L ${width - rightPadding} ${height} L ${leftPadding} ${height} Z`;
 
-  return { coords, line, area, width, height };
+  const gridLines = [0, 1, 2, 3].map((index) => {
+    const ratio = index / 3;
+    return {
+      y: height - ratio * height,
+      value: min + ratio * range,
+    };
+  });
+
+  return { coords, gridLines, leftPadding, line, area, width, height, rightPadding, min, range };
+};
+
+const splitTrendLabel = (label: string) => {
+  const [dateLabel, timeLabel] = label.split(/\s+/, 2);
+  return { dateLabel, timeLabel };
+};
+
+const formatRecordedDate = (value: string | null) => {
+  if (!value) return "";
+  const date = new Date(value);
+  return Number.isNaN(date.getTime()) ? "" : date.toLocaleDateString("vi-VN");
 };
 
 const PeriodicReportDashboard: React.FC = () => {
   const [periodType, setPeriodType] = useState<PeriodType>("weekly");
   const [glucoseUnit, setGlucoseUnit] = useState<GlucoseUnit>("mg_dl");
   const [dashboardData, setDashboardData] = useState<ReportDashboardData | null>(null);
-  const trend = dashboardData
-    ? dashboardData.trend
-    : periodType === "weekly"
-      ? weeklyTrend
-      : monthlyTrend;
+  const [isDashboardLoading, setIsDashboardLoading] = useState(true);
+  const [dashboardLoadError, setDashboardLoadError] = useState(false);
+  const [exportingFormat, setExportingFormat] = useState<"PDF" | "CSV" | null>(null);
+  const [exportMessage, setExportMessage] = useState("");
+  const [isSavingDraft, setIsSavingDraft] = useState(false);
+  const [draftMessage, setDraftMessage] = useState("");
+  const [showBaselineDialog, setShowBaselineDialog] = useState(false);
+  const [baselineFile, setBaselineFile] = useState<File | null>(null);
+  const [baselineExtraction, setBaselineExtraction] = useState<ClinicalBaselineExtraction | null>(null);
+  const [isExtractingBaseline, setIsExtractingBaseline] = useState(false);
+  const [isSavingBaseline, setIsSavingBaseline] = useState(false);
+  const [baselineMessage, setBaselineMessage] = useState("");
+  const [selectedTrackingKey, setSelectedTrackingKey] = useState("fasting_glucose_mg_dl");
+  const trend = useMemo(() => dashboardData?.trend ?? [], [dashboardData]);
   const displayTrend = useMemo(
     () =>
       trend.map((point) => ({
@@ -212,9 +216,26 @@ const PeriodicReportDashboard: React.FC = () => {
       })),
     [glucoseUnit, trend]
   );
-  const chart = useMemo(() => (displayTrend.length ? buildChartPath(displayTrend) : null), [displayTrend]);
-  const metrics = getMetrics(periodType, glucoseUnit);
-  const activeComparisonRows = dashboardData ? dashboardData.comparison : comparisonRows;
+  const baselineGlucoseMgDl = dashboardData?.baseline.values?.fasting_glucose_mg_dl?.value;
+  const displayBaselineGlucose =
+    baselineGlucoseMgDl === undefined
+      ? undefined
+      : glucoseMgDlToDisplayValue(baselineGlucoseMgDl, glucoseUnit);
+  const chart = useMemo(
+    () =>
+      displayTrend.length
+        ? buildChartPath(
+            displayTrend,
+            displayBaselineGlucose === undefined ? [] : [displayBaselineGlucose]
+          )
+        : null,
+    [displayBaselineGlucose, displayTrend]
+  );
+  const metrics = getMetrics(periodType);
+  const activeComparisonRows = useMemo(
+    () => dashboardData?.comparison ?? [],
+    [dashboardData]
+  );
   const displayComparisonRows = useMemo(
     () =>
       activeComparisonRows.map((row) => {
@@ -238,26 +259,108 @@ const PeriodicReportDashboard: React.FC = () => {
       }),
     [activeComparisonRows, glucoseUnit]
   );
-  const activeAchievements = dashboardData ? dashboardData.achievements : achievements;
-  const activeIssues = dashboardData ? dashboardData.issues : issues;
-  const activeReportHistory = dashboardData ? dashboardData.history : reportHistory;
+  const activeAchievements = dashboardData?.achievements ?? [];
+  const activeIssues = dashboardData?.issues ?? [];
+  const activeReportHistory = dashboardData?.history ?? [];
+  const dataQuality = dashboardData?.data_quality;
+  const activeBaseline = dashboardData?.baseline;
+  const trackingMetrics = dashboardData?.baseline_tracking ?? [];
+  const selectedTrackingMetric =
+    trackingMetrics.find((metric) => metric.key === selectedTrackingKey) ?? trackingMetrics[0];
+  const trackingPoints = useMemo(
+    () =>
+      (selectedTrackingMetric?.points ?? []).map((point) => ({
+        label: point.label,
+        timestamp: point.timestamp,
+        glucose: point.value,
+      })),
+    [selectedTrackingMetric]
+  );
+  const trackingChart = useMemo(
+    () =>
+      trackingPoints.length && selectedTrackingMetric
+        ? buildChartPath(trackingPoints, [selectedTrackingMetric.baseline_value])
+        : null,
+    [selectedTrackingMetric, trackingPoints]
+  );
+  const clinicalMetrics = dataQuality
+    ? [
+        {
+          key: "hba1c",
+          label: "HbA1c",
+          value: dataQuality.clinical_metrics.hba1c.available
+            ? `${formatNumber(dataQuality.clinical_metrics.hba1c.primary_value ?? 0, 2)}%`
+            : "Chưa có",
+          detail: dataQuality.clinical_metrics.hba1c.available
+            ? `${
+                dataQuality.clinical_metrics.hba1c.source === "HOSPITAL_LAB"
+                  ? dataQuality.clinical_metrics.hba1c.provider_name ?? "Xét nghiệm bệnh viện"
+                  : "Dữ liệu chẩn đoán"
+              } · ${formatRecordedDate(dataQuality.clinical_metrics.hba1c.recorded_at)}`
+            : "Cần kết quả xét nghiệm thực tế",
+          available: dataQuality.clinical_metrics.hba1c.available,
+        },
+        {
+          key: "insulin",
+          label: "Insulin",
+          value: dataQuality.clinical_metrics.insulin.available
+            ? `${formatNumber(dataQuality.clinical_metrics.insulin.primary_value ?? 0, 2)} uU/mL`
+            : "Chưa có",
+          detail: dataQuality.clinical_metrics.insulin.available
+            ? `${formatNumber(dataQuality.clinical_metrics.insulin.secondary_value ?? 0, 2)} pmol/L`
+            : "Không hiển thị giá trị mặc định",
+          available: dataQuality.clinical_metrics.insulin.available,
+        },
+        {
+          key: "cholesterol",
+          label: "Cholesterol",
+          value: dataQuality.clinical_metrics.cholesterol.available
+            ? `${formatNumber(dataQuality.clinical_metrics.cholesterol.primary_value ?? 0, 2)} mg/dL`
+            : "Chưa có",
+          detail: dataQuality.clinical_metrics.cholesterol.available
+            ? `${formatNumber(dataQuality.clinical_metrics.cholesterol.secondary_value ?? 0, 2)} mmol/L`
+            : "Không hiển thị giá trị mặc định",
+          available: dataQuality.clinical_metrics.cholesterol.available,
+        },
+      ]
+    : [];
 
-  if (dashboardData?.overview) {
+  if (dashboardData?.has_data && dashboardData.overview) {
     metrics[0].value = formatGlucoseValue(dashboardData.overview.avg_glucose, glucoseUnit);
     metrics[1].value = `${dashboardData.overview.health_score}/100`;
+    metrics[1].detail = dashboardData.overview.score_label;
+    metrics[1].progress = dashboardData.overview.health_score;
     metrics[2].value = `${dashboardData.overview.bmi}`;
     metrics[3].value = `${dashboardData.overview.alerts} lần`;
+    metrics.forEach((metric, index) => {
+      const comparison = activeComparisonRows[index];
+      if (!comparison || comparison.delta === "--") {
+        metric.delta = "--";
+        metric.tone = "neutral";
+        return;
+      }
+      metric.delta = comparison.delta;
+      metric.tone = comparison.good ? "good" : "warning";
+    });
   }
 
   useEffect(() => {
     let isMounted = true;
+    setIsDashboardLoading(true);
+    setDashboardLoadError(false);
 
     getReportDashboard(periodType)
       .then((data) => {
         if (isMounted) setDashboardData(data);
       })
       .catch(() => {
-        if (isMounted) setDashboardData(null);
+        if (isMounted) {
+          setDashboardData(null);
+          setDashboardLoadError(true);
+        }
+      })
+      .finally(() => {
+        if (isMounted) setIsDashboardLoading(false);
       });
 
     return () => {
@@ -265,8 +368,133 @@ const PeriodicReportDashboard: React.FC = () => {
     };
   }, [periodType]);
 
-  const handleExport = (format: "PDF" | "CSV" | "XLSX") => {
-    void exportPeriodicReport(format);
+  const handleExport = async (format: "PDF" | "CSV") => {
+    setExportingFormat(format);
+    setExportMessage("");
+    try {
+      const { blob, filename } = await exportPeriodicReport(format, periodType);
+      const objectUrl = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = objectUrl;
+      link.download = filename;
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      URL.revokeObjectURL(objectUrl);
+      setExportMessage(`Đã tạo báo cáo ${format} từ dữ liệu của kỳ đang chọn.`);
+    } catch {
+      setExportMessage("Không thể xuất báo cáo. Hãy đảm bảo kỳ đang chọn đã có dữ liệu.");
+    } finally {
+      setExportingFormat(null);
+    }
+  };
+
+  const handleSaveDraft = async () => {
+    setIsSavingDraft(true);
+    setDraftMessage("");
+    try {
+      await saveReportDraft(periodType);
+      setDraftMessage("Đã lưu bản nháp có cấu trúc cho kỳ đang chọn.");
+    } catch {
+      setDraftMessage("Không thể lưu bản nháp. Vui lòng thử lại.");
+    } finally {
+      setIsSavingDraft(false);
+    }
+  };
+
+  const handleBaselineFile = async (event: React.ChangeEvent<HTMLInputElement>) => {
+    const file = event.target.files?.[0] ?? null;
+    event.target.value = "";
+    if (!file) return;
+
+    setBaselineFile(file);
+    setBaselineExtraction(null);
+    setIsExtractingBaseline(true);
+    setBaselineMessage("Đang đọc hồ sơ bằng Google Vision...");
+    try {
+      const extraction = await extractClinicalBaseline(file);
+      const fallbackDate = new Date().toISOString();
+      setBaselineExtraction({
+        ...extraction,
+        metadata: {
+          ...extraction.metadata,
+          provider_name: extraction.metadata.provider_name || "Cơ sở xét nghiệm",
+          sampled_at: extraction.metadata.sampled_at || fallbackDate,
+        },
+      });
+      setBaselineMessage(
+        `Đã nhận diện ${extraction.observations.length + extraction.results.length} chỉ số. Hãy kiểm tra trước khi xác nhận.`
+      );
+    } catch (error) {
+      setBaselineMessage(
+        error instanceof Error ? error.message : "Không thể đọc hồ sơ xét nghiệm."
+      );
+    } finally {
+      setIsExtractingBaseline(false);
+    }
+  };
+
+  const updateBaselineMetadata = (
+    key: "provider_name" | "sampled_at" | "reported_at",
+    value: string
+  ) => {
+    setBaselineExtraction((current) =>
+      current
+        ? {
+            ...current,
+            metadata: { ...current.metadata, [key]: value || null },
+          }
+        : current
+    );
+  };
+
+  const updateBaselineCandidateValue = (
+    group: "observations" | "results",
+    index: number,
+    value: string
+  ) => {
+    const numericValue = Number(value);
+    setBaselineExtraction((current) => {
+      if (!current) return current;
+      const candidates = current[group].map((candidate, candidateIndex) =>
+        candidateIndex === index
+          ? {
+              ...candidate,
+              value: Number.isFinite(numericValue) ? numericValue : 0,
+              canonical_value: Number.isFinite(numericValue) ? numericValue : 0,
+            }
+          : candidate
+      );
+      return { ...current, [group]: candidates };
+    });
+  };
+
+  const closeBaselineDialog = () => {
+    setShowBaselineDialog(false);
+    setBaselineFile(null);
+    setBaselineExtraction(null);
+    setBaselineMessage("");
+  };
+
+  const handleConfirmBaseline = async () => {
+    if (!baselineExtraction?.metadata.sampled_at) {
+      setBaselineMessage("Vui lòng xác nhận ngày lấy mẫu.");
+      return;
+    }
+    setIsSavingBaseline(true);
+    setBaselineMessage("Đang lưu mốc xét nghiệm...");
+    try {
+      await createClinicalBaseline(baselineFile, baselineExtraction);
+      const refreshed = await getReportDashboard(periodType);
+      setDashboardData(refreshed);
+      closeBaselineDialog();
+    } catch (error) {
+      setBaselineMessage(
+        error instanceof Error ? error.message : "Không thể lưu mốc xét nghiệm."
+      );
+    } finally {
+      setIsSavingBaseline(false);
+    }
   };
 
   return (
@@ -277,25 +505,67 @@ const PeriodicReportDashboard: React.FC = () => {
           <h1 id="report-title">Báo cáo sức khỏe định kỳ</h1>
         </div>
 
-        <div className="report-page__actions" role="tablist" aria-label="Kỳ báo cáo">
+        <div className="report-page__toolbar">
           <button
             type="button"
-            className={`report-page__tab${periodType === "weekly" ? " report-page__tab--active" : ""}`}
-            onClick={() => setPeriodType("weekly")}
+            className="report-page__add-baseline"
+            onClick={() => setShowBaselineDialog(true)}
           >
-            <CalendarDays size={16} />
-            <span>Tuần</span>
+            <FilePlus2 size={16} />
+            <span>Thêm hồ sơ</span>
           </button>
-          <button
-            type="button"
-            className={`report-page__tab${periodType === "monthly" ? " report-page__tab--active" : ""}`}
-            onClick={() => setPeriodType("monthly")}
-          >
-            <LineChart size={16} />
-            <span>Tháng</span>
-          </button>
+          <div className="report-page__actions" role="tablist" aria-label="Kỳ báo cáo">
+            <button
+              type="button"
+              className={`report-page__tab${periodType === "weekly" ? " report-page__tab--active" : ""}`}
+              onClick={() => setPeriodType("weekly")}
+            >
+              <CalendarDays size={16} />
+              <span>Tuần</span>
+            </button>
+            <button
+              type="button"
+              className={`report-page__tab${periodType === "monthly" ? " report-page__tab--active" : ""}`}
+              onClick={() => setPeriodType("monthly")}
+            >
+              <LineChart size={16} />
+              <span>Tháng</span>
+            </button>
+          </div>
         </div>
       </div>
+
+      <section className="report-baseline-summary" aria-labelledby="baseline-summary-title">
+        <div>
+          <p className="report-page__eyebrow">Clinical Baseline</p>
+          <h2 id="baseline-summary-title">Mốc xét nghiệm đang sử dụng</h2>
+          <span>
+            {activeBaseline?.has_baseline
+              ? `${activeBaseline.provider_name || activeBaseline.label} · ${formatRecordedDate(activeBaseline.effective_at ?? null)}`
+              : "Chưa có hồ sơ bệnh viện được xác nhận làm mốc."}
+          </span>
+        </div>
+        {activeBaseline?.has_baseline ? (
+          <div className="report-baseline-summary__values">
+            {Object.values(activeBaseline.values ?? {})
+              .filter(
+                (value, index, values) =>
+                  values.findIndex((item) => item.code === value.code) === index
+              )
+              .slice(0, 6)
+              .map((value) => (
+                <span key={value.code}>
+                  {value.label} <strong>{formatNumber(value.value, 2)} {value.unit}</strong>
+                </span>
+              ))}
+          </div>
+        ) : (
+          <button type="button" onClick={() => setShowBaselineDialog(true)}>
+            <Upload size={16} />
+            <span>Tải hồ sơ đầu tiên</span>
+          </button>
+        )}
+      </section>
 
       <div className="report-metrics">
         {metrics.map((metric) => (
@@ -304,14 +574,146 @@ const PeriodicReportDashboard: React.FC = () => {
             <div>
               <p>{metric.label}</p>
               <strong>{metric.value}</strong>
+              {metric.progress !== undefined && (
+                <div
+                  className="report-metric__progress"
+                  role="progressbar"
+                  aria-valuemin={0}
+                  aria-valuemax={100}
+                  aria-valuenow={metric.progress}
+                >
+                  <i style={{ width: `${Math.max(0, Math.min(100, metric.progress))}%` }} />
+                </div>
+              )}
+              {metric.detail && <small className="report-metric__detail">{metric.detail}</small>}
               <span>
-                {metric.delta.startsWith("-") ? <ArrowDownRight size={14} /> : <ArrowUpRight size={14} />}
-                {metric.delta} so với kỳ trước
+                {metric.delta === "--" ? (
+                  "Chưa có dữ liệu kỳ trước"
+                ) : (
+                  <>
+                    {metric.delta.startsWith("-") ? <ArrowDownRight size={14} /> : <ArrowUpRight size={14} />}
+                    {metric.delta} so với kỳ trước
+                  </>
+                )}
               </span>
             </div>
           </article>
         ))}
       </div>
+
+      {dataQuality && dashboardData?.has_data && (
+        <section className="report-data-quality" aria-labelledby="data-quality-title">
+          <div className="report-data-quality__summary">
+            <div>
+              <p className="report-page__eyebrow">Data quality</p>
+              <h2 id="data-quality-title">Độ đầy đủ dữ liệu</h2>
+            </div>
+            <strong>{dataQuality.coverage_percent}%</strong>
+            <div className="report-data-quality__bar" aria-hidden="true">
+              <i style={{ width: `${dataQuality.coverage_percent}%` }} />
+            </div>
+            <span>
+              {dataQuality.completed}/{dataQuality.total} nhóm chỉ số có dữ liệu thật hoặc được tính từ dữ liệu thật
+            </span>
+          </div>
+
+          <div className="report-data-quality__metrics">
+            {clinicalMetrics.map((metric) => (
+              <div
+                className={`report-data-quality__metric${
+                  metric.available ? " is-available" : ""
+                }`}
+                key={metric.key}
+              >
+                <span>{metric.label}</span>
+                <strong>{metric.value}</strong>
+                <small>{metric.detail}</small>
+              </div>
+            ))}
+          </div>
+
+          {dataQuality.missing_groups.length > 0 && (
+            <p className="report-data-quality__notice">
+              <Info size={16} />
+              <span>Đang thiếu: {dataQuality.missing_groups.join(", ")}.</span>
+            </p>
+          )}
+        </section>
+      )}
+
+      {activeBaseline?.has_baseline && (
+        <section className="report-baseline-tracking" aria-labelledby="baseline-tracking-title">
+          <div className="report-baseline-tracking__header">
+            <div>
+              <p className="report-page__eyebrow">Baseline Tracking</p>
+              <h2 id="baseline-tracking-title">Biến thiên so với chỉ số gốc</h2>
+            </div>
+            {trackingMetrics.length > 0 && (
+              <select
+                value={selectedTrackingMetric?.key ?? ""}
+                onChange={(event) => setSelectedTrackingKey(event.target.value)}
+                aria-label="Chỉ số cần theo dõi"
+              >
+                {trackingMetrics.map((metric) => (
+                  <option key={metric.key} value={metric.key}>{metric.label}</option>
+                ))}
+              </select>
+            )}
+          </div>
+
+          {selectedTrackingMetric ? (
+            <>
+              <div className="report-baseline-tracking__summary">
+                <span>Chỉ số gốc <strong>{formatNumber(selectedTrackingMetric.baseline_value, 2)} {selectedTrackingMetric.unit}</strong></span>
+                <span>Gần nhất <strong>{selectedTrackingMetric.current_value === null ? "Chưa có" : `${formatNumber(selectedTrackingMetric.current_value, 2)} ${selectedTrackingMetric.unit}`}</strong></span>
+                <span>Chênh lệch <strong>{selectedTrackingMetric.delta === null ? "--" : `${selectedTrackingMetric.delta > 0 ? "+" : ""}${formatNumber(selectedTrackingMetric.delta, 2)} ${selectedTrackingMetric.unit}`}</strong></span>
+              </div>
+              <div className="report-baseline-tracking__chart">
+                {trackingChart ? (
+                  <svg viewBox={`0 0 ${trackingChart.width} ${trackingChart.height + 48}`} style={{ minWidth: `${trackingChart.width}px` }}>
+                    {trackingChart.gridLines.map((gridLine) => (
+                      <g key={gridLine.y} className="report-chart__grid">
+                        <line x1={trackingChart.leftPadding} x2={trackingChart.width - trackingChart.rightPadding} y1={gridLine.y} y2={gridLine.y} />
+                        <text x={trackingChart.leftPadding - 10} y={gridLine.y + 4} textAnchor="end">{formatNumber(gridLine.value, 1)}</text>
+                      </g>
+                    ))}
+                    <line
+                      className="report-chart__baseline"
+                      x1={trackingChart.leftPadding}
+                      x2={trackingChart.width - trackingChart.rightPadding}
+                      y1={trackingChart.height - ((selectedTrackingMetric.baseline_value - trackingChart.min) / trackingChart.range) * trackingChart.height}
+                      y2={trackingChart.height - ((selectedTrackingMetric.baseline_value - trackingChart.min) / trackingChart.range) * trackingChart.height}
+                    />
+                    <path className="report-chart__line" d={trackingChart.line} />
+                    {trackingChart.coords.map((point, index) => (
+                      <g key={point.timestamp ?? index}>
+                        <circle className="report-chart__dot" cx={point.x} cy={point.y} r="5" />
+                        <text x={point.x} y={Math.max(14, point.y - 12)} textAnchor="middle" className="report-chart__value">{formatNumber(point.glucose, 2)}</text>
+                        <text x={point.x} y={trackingChart.height + 22} textAnchor="middle" className="report-chart__axis-label">{splitTrendLabel(point.label).dateLabel}</text>
+                      </g>
+                    ))}
+                  </svg>
+                ) : (
+                  <div className="report-chart__empty">Chưa có lần đo mới sau mốc xét nghiệm này.</div>
+                )}
+              </div>
+            </>
+          ) : (
+            <div className="report-chart__empty">Hồ sơ chưa có chỉ số phù hợp để theo dõi.</div>
+          )}
+
+          <div className="report-baseline-tracking__table">
+            {trackingMetrics.map((metric) => (
+              <button type="button" key={metric.key} onClick={() => setSelectedTrackingKey(metric.key)}>
+                <span>{metric.label}</span>
+                <small>{formatNumber(metric.baseline_value, 2)} {metric.unit}</small>
+                <strong>{metric.current_value === null ? "Chưa có lần đo" : `${formatNumber(metric.current_value, 2)} ${metric.unit}`}</strong>
+                <em>{metric.delta_percent === null ? "--" : `${metric.delta_percent > 0 ? "+" : ""}${formatNumber(metric.delta_percent, 1)}%`}</em>
+              </button>
+            ))}
+          </div>
+        </section>
+      )}
 
       <div className="report-grid">
         <section className="report-panel report-panel--trend">
@@ -339,28 +741,79 @@ const PeriodicReportDashboard: React.FC = () => {
 
           <div className="report-chart" aria-label="Biểu đồ xu hướng đường huyết">
             {chart ? (
-              <svg viewBox={`0 0 ${chart.width} ${chart.height + 34}`} role="img">
-                <path className="report-chart__area" d={chart.area} />
-                <path className="report-chart__line" d={chart.line} />
-                {chart.coords.map((point) => (
-                  <g key={point.label}>
-                    <circle className="report-chart__dot" cx={point.x} cy={point.y} r="5" />
-                    <text x={point.x} y={chart.height + 26} textAnchor="middle">
-                      {point.label}
-                    </text>
-                    <text
-                      x={point.x}
-                      y={Math.max(14, point.y - 12)}
-                      textAnchor="middle"
-                      className="report-chart__value"
-                    >
-                      {formatNumber(point.glucose, 1)}
+              <svg
+                viewBox={`0 0 ${chart.width} ${chart.height + 52}`}
+                role="img"
+                style={{ minWidth: `${chart.width}px` }}
+              >
+                {chart.gridLines.map((gridLine) => (
+                  <g key={gridLine.y} className="report-chart__grid">
+                    <line
+                      x1={chart.leftPadding}
+                      x2={chart.width - chart.rightPadding}
+                      y1={gridLine.y}
+                      y2={gridLine.y}
+                    />
+                    <text x={chart.leftPadding - 10} y={gridLine.y + 4} textAnchor="end">
+                      {formatNumber(gridLine.value, 1)}
                     </text>
                   </g>
                 ))}
+                {displayBaselineGlucose !== undefined && (
+                  <g>
+                    <line
+                      className="report-chart__baseline"
+                      x1={chart.leftPadding}
+                      x2={chart.width - chart.rightPadding}
+                      y1={chart.height - ((displayBaselineGlucose - chart.min) / chart.range) * chart.height}
+                      y2={chart.height - ((displayBaselineGlucose - chart.min) / chart.range) * chart.height}
+                    />
+                    <text
+                      className="report-chart__baseline-label"
+                      x={chart.width - chart.rightPadding}
+                      y={chart.height - ((displayBaselineGlucose - chart.min) / chart.range) * chart.height - 6}
+                      textAnchor="end"
+                    >
+                      Mốc {formatNumber(displayBaselineGlucose, 1)} {glucoseUnitLabels[glucoseUnit]}
+                    </text>
+                  </g>
+                )}
+                <path className="report-chart__area" d={chart.area} />
+                <path className="report-chart__line" d={chart.line} />
+                {chart.coords.map((point, index) => {
+                  const { dateLabel, timeLabel } = splitTrendLabel(point.label);
+                  return (
+                    <g key={point.timestamp ?? `${point.label}-${index}`}>
+                      <circle className="report-chart__dot" cx={point.x} cy={point.y} r="5" />
+                      <text
+                        x={point.x}
+                        y={chart.height + 22}
+                        textAnchor="middle"
+                        className="report-chart__axis-label"
+                      >
+                        <tspan x={point.x}>{dateLabel}</tspan>
+                        {timeLabel && <tspan x={point.x} dy="14">{timeLabel}</tspan>}
+                      </text>
+                      <text
+                        x={point.x}
+                        y={Math.max(14, point.y - 12)}
+                        textAnchor="middle"
+                        className="report-chart__value"
+                      >
+                        {formatNumber(point.glucose, 1)}
+                      </text>
+                    </g>
+                  );
+                })}
               </svg>
             ) : (
-              <div className="report-chart__empty">Chưa có dữ liệu đường huyết cho kỳ này.</div>
+              <div className="report-chart__empty">
+                {isDashboardLoading
+                  ? "Đang tải dữ liệu báo cáo..."
+                  : dashboardLoadError
+                    ? "Không thể tải dữ liệu báo cáo. Vui lòng thử lại."
+                    : "Chưa có dữ liệu đường huyết cho kỳ này."}
+              </div>
             )}
           </div>
         </section>
@@ -447,19 +900,37 @@ const PeriodicReportDashboard: React.FC = () => {
         </div>
 
         <div className="report-export__actions">
-          <button type="button" onClick={() => handleExport("PDF")}>
+          <button
+            type="button"
+            onClick={() => void handleExport("PDF")}
+            disabled={exportingFormat !== null}
+          >
             <FileText size={17} />
-            <span>PDF</span>
+            <span>{exportingFormat === "PDF" ? "Đang tạo PDF" : "PDF"}</span>
           </button>
-          <button type="button" onClick={() => handleExport("CSV")}>
+          <button
+            type="button"
+            onClick={() => void handleExport("CSV")}
+            disabled={exportingFormat !== null}
+          >
             <FileSpreadsheet size={17} />
-            <span>CSV</span>
-          </button>
-          <button type="button" onClick={() => handleExport("XLSX")}>
-            <Download size={17} />
-            <span>Lưu bản nháp</span>
+            <span>{exportingFormat === "CSV" ? "Đang tạo CSV" : "CSV"}</span>
           </button>
         </div>
+        {exportMessage && <p className="report-export__message">{exportMessage}</p>}
+      </section>
+
+      <section className="report-draft" aria-labelledby="report-draft-title">
+        <div>
+          <p className="report-page__eyebrow">Draft</p>
+          <h2 id="report-draft-title">Lưu tiến trình báo cáo</h2>
+          <span>Bản nháp được lưu trong hệ thống và có thể cập nhật lại, không tạo file tải xuống.</span>
+        </div>
+        <button type="button" onClick={() => void handleSaveDraft()} disabled={isSavingDraft}>
+          <Save size={17} />
+          <span>{isSavingDraft ? "Đang lưu" : "Lưu bản nháp"}</span>
+        </button>
+        {draftMessage && <p>{draftMessage}</p>}
       </section>
 
       <section className="report-history">
@@ -470,8 +941,11 @@ const PeriodicReportDashboard: React.FC = () => {
 
         <div className="report-history__table">
           {activeReportHistory.length ? (
-            activeReportHistory.map((report) => (
-              <div className="report-history__row" key={report.period}>
+            activeReportHistory.map((report, index) => (
+              <div
+                className="report-history__row"
+                key={report.row_key ?? report.id ?? `${report.type}-${report.period}-${index}`}
+              >
                 <span>{report.period}</span>
                 <strong>{localizeReportText(report.type)}</strong>
                 <small>{report.score}/100</small>
@@ -484,6 +958,101 @@ const PeriodicReportDashboard: React.FC = () => {
           )}
         </div>
       </section>
+
+      {showBaselineDialog && (
+        <div className="report-baseline-dialog" role="presentation" onMouseDown={closeBaselineDialog}>
+          <div
+            className="report-baseline-dialog__content"
+            role="dialog"
+            aria-modal="true"
+            aria-labelledby="baseline-dialog-title"
+            onMouseDown={(event) => event.stopPropagation()}
+          >
+            <div className="report-baseline-dialog__header">
+              <div>
+                <p className="report-page__eyebrow">Clinical Record</p>
+                <h2 id="baseline-dialog-title">Thêm hồ sơ xét nghiệm làm mốc</h2>
+              </div>
+              <button type="button" onClick={closeBaselineDialog} aria-label="Đóng">
+                <X size={19} />
+              </button>
+            </div>
+
+            <label className="report-baseline-dialog__upload">
+              <input type="file" accept="image/jpeg,image/png,image/webp" onChange={handleBaselineFile} />
+              {isExtractingBaseline ? <Loader2 size={22} className="report-spin" /> : <Upload size={22} />}
+              <span>{baselineFile ? baselineFile.name : "Chọn ảnh phiếu xét nghiệm"}</span>
+              <small>OCR chỉ tạo dữ liệu nháp. Chỉ số chỉ được lưu sau khi bạn xác nhận.</small>
+            </label>
+
+            {baselineMessage && <p className="report-baseline-dialog__message">{baselineMessage}</p>}
+
+            {baselineExtraction && (
+              <>
+                <div className="report-baseline-dialog__metadata">
+                  <label>
+                    <span>Cơ sở xét nghiệm</span>
+                    <input
+                      value={baselineExtraction.metadata.provider_name ?? ""}
+                      onChange={(event) => updateBaselineMetadata("provider_name", event.target.value)}
+                    />
+                  </label>
+                  <label>
+                    <span>Ngày lấy mẫu</span>
+                    <input
+                      type="date"
+                      value={String(baselineExtraction.metadata.sampled_at ?? "").slice(0, 10)}
+                      onChange={(event) => updateBaselineMetadata("sampled_at", `${event.target.value}T00:00:00+07:00`)}
+                    />
+                  </label>
+                  <label>
+                    <span>Ngày trả kết quả</span>
+                    <input
+                      type="date"
+                      value={String(baselineExtraction.metadata.reported_at ?? "").slice(0, 10)}
+                      onChange={(event) => updateBaselineMetadata("reported_at", event.target.value ? `${event.target.value}T00:00:00+07:00` : "")}
+                    />
+                  </label>
+                </div>
+
+                {(["observations", "results"] as const).map((group) => (
+                  <div className="report-baseline-dialog__group" key={group}>
+                    <h3>{group === "observations" ? "Nhân trắc và dấu hiệu sinh tồn" : "Kết quả xét nghiệm"}</h3>
+                    <div className="report-baseline-dialog__table">
+                      {baselineExtraction[group].map((candidate, index) => (
+                        <label key={candidate.observation_code ?? candidate.test_code ?? index}>
+                          <span>{candidate.observation_name ?? candidate.test_name}</span>
+                          <input
+                            type="number"
+                            step="any"
+                            value={candidate.value}
+                            onChange={(event) => updateBaselineCandidateValue(group, index, event.target.value)}
+                          />
+                          <small>{candidate.unit}</small>
+                          <em>{candidate.reference_text || "Không có khoảng tham chiếu"}</em>
+                        </label>
+                      ))}
+                    </div>
+                  </div>
+                ))}
+
+                <div className="report-baseline-dialog__actions">
+                  <button type="button" onClick={closeBaselineDialog}>Hủy</button>
+                  <button
+                    type="button"
+                    className="is-primary"
+                    onClick={() => void handleConfirmBaseline()}
+                    disabled={isSavingBaseline}
+                  >
+                    {isSavingBaseline ? <Loader2 size={17} className="report-spin" /> : <CheckCircle2 size={17} />}
+                    <span>{isSavingBaseline ? "Đang lưu" : "Xác nhận và đặt làm mốc"}</span>
+                  </button>
+                </div>
+              </>
+            )}
+          </div>
+        </div>
+      )}
     </section>
   );
 };

@@ -3,6 +3,8 @@ from pathlib import Path
 
 
 BASE_DIR = Path(__file__).resolve().parent.parent
+MEDIA_ROOT = Path(os.getenv("HEALTH_MEDIA_ROOT", BASE_DIR / "media"))
+MEDIA_URL = "/media/"
 
 SECRET_KEY = os.getenv("DJANGO_SECRET_KEY", "health-service-dev-secret")
 DEBUG = os.getenv("DJANGO_DEBUG", "false").lower() == "true"

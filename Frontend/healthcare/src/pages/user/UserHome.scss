@@ -129,6 +129,40 @@
   color: #b91c1c;
 }
 
+.diagnosis-page__status--warning {
+  border-color: #fde68a;
+  background: #fffbeb;
+  color: #92400e;
+}
+
+.diagnosis-baseline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-top: -8px;
+  padding: 11px 0;
+  border-top: 1px solid #dbe4ee;
+  border-bottom: 1px solid #dbe4ee;
+}
+
+.diagnosis-baseline > div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.diagnosis-baseline strong {
+  color: #0f766e;
+  font-size: 0.8rem;
+}
+
+.diagnosis-baseline span,
+.diagnosis-baseline time {
+  color: var(--slate-500);
+  font-size: 0.76rem;
+}
+
 .diagnosis-workspace {
   display: grid;
   grid-template-columns: minmax(0, 2fr) minmax(300px, 0.82fr);
@@ -235,6 +269,16 @@
   line-height: 1.35;
 }
 
+.diagnosis-field__baseline {
+  color: #0f766e;
+  font-size: 0.72rem;
+  line-height: 1.35;
+}
+
+.diagnosis-field__baseline strong {
+  font-weight: 750;
+}
+
 .diagnosis-result {
   position: sticky;
   top: 16px;
@@ -335,6 +379,39 @@
   margin: 0;
   font-size: 0.9rem;
   font-weight: 600;
+}
+
+.diagnosis-result__comparison {
+  display: grid;
+  padding: 14px 18px;
+  border-top: 1px solid rgba(226, 232, 240, 0.86);
+  background: #f8fafc;
+}
+
+.diagnosis-result__comparison h3 {
+  margin: 0 0 8px;
+  color: var(--slate-800);
+  font-size: 0.78rem;
+}
+
+.diagnosis-result__comparison > div {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  align-items: center;
+  gap: 8px;
+  min-height: 30px;
+  color: var(--slate-600);
+  font-size: 0.72rem;
+}
+
+.diagnosis-result__comparison strong {
+  color: var(--slate-800);
+}
+
+.diagnosis-result__comparison small {
+  min-width: 48px;
+  color: #1d4ed8;
+  text-align: right;
 }
 
 .diagnosis-result__error {

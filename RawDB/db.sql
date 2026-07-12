@@ -331,6 +331,125 @@ CREATE TABLE "public"."report_exports" (
     PRIMARY KEY ("id")
 );
 
+CREATE TABLE "public"."report_drafts" (
+    "id" bigserial NOT NULL,
+    "user_id" bigint NOT NULL,
+    "period_type" report_period_type NOT NULL,
+    "period_start" date NOT NULL,
+    "period_end" date NOT NULL,
+    "payload" jsonb NOT NULL DEFAULT '{}'::jsonb,
+    "status" varchar(30) NOT NULL DEFAULT 'DRAFT',
+    "created_at" timestamp NOT NULL,
+    "updated_at" timestamp NOT NULL,
+    PRIMARY KEY ("id"),
+    UNIQUE ("user_id", "period_type", "period_start", "period_end")
+);
+
+CREATE TABLE "public"."diagnosis_sessions" (
+    "id" bigserial NOT NULL,
+    "user_id" bigint NOT NULL,
+    "session_type" varchar(50) NOT NULL DEFAULT 'DIAGNOSIS',
+    "source_type" varchar(50) NOT NULL DEFAULT 'MANUAL',
+    "baseline_id" bigint,
+    "sample_collected_at" timestamp,
+    "status" varchar(30) NOT NULL DEFAULT 'DRAFT',
+    "created_at" timestamp NOT NULL,
+    "updated_at" timestamp NOT NULL,
+    PRIMARY KEY ("id")
+);
+
+CREATE TABLE "public"."clinical_documents" (
+    "id" bigserial NOT NULL,
+    "user_id" bigint NOT NULL,
+    "diagnosis_session_id" bigint,
+    "document_type" varchar(50) NOT NULL DEFAULT 'LAB_REPORT',
+    "original_filename" varchar(255),
+    "file_url" varchar(500),
+    "mime_type" varchar(100),
+    "provider_name" varchar(255),
+    "sample_collected_at" timestamp,
+    "ocr_engine" varchar(100),
+    "raw_ocr_text" text,
+    "confidence_score" numeric(5, 2),
+    "verification_status" varchar(30) NOT NULL DEFAULT 'REVIEW_REQUIRED',
+    "file_sha256" varchar(64),
+    "created_at" timestamp NOT NULL,
+    "verified_at" timestamp,
+    PRIMARY KEY ("id")
+);
+
+CREATE TABLE "public"."lab_panels" (
+    "id" bigserial NOT NULL,
+    "user_id" bigint NOT NULL,
+    "clinical_document_id" bigint,
+    "diagnosis_session_id" bigint,
+    "provider_name" varchar(255),
+    "sampled_at" timestamp NOT NULL,
+    "reported_at" timestamp,
+    "status" varchar(30) NOT NULL DEFAULT 'VERIFIED',
+    "created_at" timestamp NOT NULL,
+    PRIMARY KEY ("id")
+);
+
+CREATE TABLE "public"."lab_results" (
+    "id" bigserial NOT NULL,
+    "user_id" bigint NOT NULL,
+    "lab_panel_id" bigint NOT NULL,
+    "test_code" varchar(80) NOT NULL,
+    "test_name" varchar(255) NOT NULL,
+    "value" numeric(14, 4) NOT NULL,
+    "unit" varchar(50) NOT NULL,
+    "canonical_value" numeric(14, 4),
+    "canonical_unit" varchar(50),
+    "reference_min" numeric(14, 4),
+    "reference_max" numeric(14, 4),
+    "reference_text" varchar(255),
+    "abnormal_flag" varchar(20),
+    "source_type" varchar(50) NOT NULL DEFAULT 'HOSPITAL_LAB',
+    "confidence_score" numeric(5, 2),
+    "is_verified" boolean NOT NULL DEFAULT false,
+    "observed_at" timestamp NOT NULL,
+    "created_at" timestamp NOT NULL,
+    PRIMARY KEY ("id")
+);
+
+CREATE TABLE "public"."clinical_observations" (
+    "id" bigserial NOT NULL,
+    "user_id" bigint NOT NULL,
+    "diagnosis_session_id" bigint NOT NULL,
+    "clinical_document_id" bigint,
+    "observation_code" varchar(80) NOT NULL,
+    "observation_name" varchar(255) NOT NULL,
+    "value" numeric(14, 4) NOT NULL,
+    "unit" varchar(50) NOT NULL,
+    "canonical_value" numeric(14, 4),
+    "canonical_unit" varchar(50),
+    "reference_min" numeric(14, 4),
+    "reference_max" numeric(14, 4),
+    "reference_text" varchar(255),
+    "abnormal_flag" varchar(20),
+    "source_type" varchar(50) NOT NULL DEFAULT 'HOSPITAL_RECORD',
+    "confidence_score" numeric(5, 2),
+    "is_verified" boolean NOT NULL DEFAULT false,
+    "observed_at" timestamp NOT NULL,
+    "created_at" timestamp NOT NULL,
+    PRIMARY KEY ("id")
+);
+
+CREATE TABLE "public"."clinical_baselines" (
+    "id" bigserial NOT NULL,
+    "user_id" bigint NOT NULL,
+    "diagnosis_session_id" bigint NOT NULL,
+    "label" varchar(255) NOT NULL,
+    "effective_at" timestamp NOT NULL,
+    "status" varchar(30) NOT NULL DEFAULT 'ACTIVE',
+    "supersedes_baseline_id" bigint,
+    "created_at" timestamp NOT NULL,
+    "archived_at" timestamp,
+    PRIMARY KEY ("id"),
+    UNIQUE ("diagnosis_session_id")
+);
+
 CREATE TABLE "public"."user_cluster_snapshots" (
     "id" bigserial NOT NULL,
     "user_id" bigint NOT NULL,
@@ -427,6 +546,14 @@ CREATE INDEX "idx_meal_logs_user_eaten_at" ON "public"."meal_logs" ("user_id", "
 CREATE INDEX "idx_notifications_user_is_read" ON "public"."notifications" ("user_id", "is_read");
 CREATE INDEX "idx_notifications_user_created_at" ON "public"."notifications" ("user_id", "created_at");
 CREATE INDEX "idx_periodic_reports_user_period" ON "public"."periodic_reports" ("user_id", "period_type", "period_start", "period_end");
+CREATE INDEX "idx_report_drafts_user_period" ON "public"."report_drafts" ("user_id", "period_type", "period_start", "period_end");
+CREATE INDEX "idx_diagnosis_sessions_user_created_at" ON "public"."diagnosis_sessions" ("user_id", "created_at");
+CREATE INDEX "idx_clinical_documents_user_created_at" ON "public"."clinical_documents" ("user_id", "created_at");
+CREATE INDEX "idx_lab_panels_user_sampled_at" ON "public"."lab_panels" ("user_id", "sampled_at");
+CREATE INDEX "idx_lab_results_user_test_observed" ON "public"."lab_results" ("user_id", "test_code", "observed_at");
+CREATE INDEX "idx_clinical_observations_user_code_observed" ON "public"."clinical_observations" ("user_id", "observation_code", "observed_at");
+CREATE INDEX "idx_clinical_baselines_user_effective" ON "public"."clinical_baselines" ("user_id", "effective_at");
+CREATE UNIQUE INDEX "uq_clinical_baselines_active_user" ON "public"."clinical_baselines" ("user_id") WHERE "status" = 'ACTIVE';
 CREATE INDEX "idx_user_cluster_snapshots_user_snapshot" ON "public"."user_cluster_snapshots" ("user_id", "snapshot_date");
 CREATE INDEX "idx_user_cluster_snapshots_cluster_snapshot" ON "public"."user_cluster_snapshots" ("cluster_id", "snapshot_date");
 CREATE INDEX "idx_chat_messages_session_created_at" ON "public"."chat_messages" ("session_id", "created_at");
@@ -472,6 +599,22 @@ ALTER TABLE "public"."notifications" ADD CONSTRAINT "fk_notifications_user_id_us
 ALTER TABLE "public"."periodic_reports" ADD CONSTRAINT "fk_periodic_reports_user_id_users_id" FOREIGN KEY("user_id") REFERENCES "public"."users"("id");
 ALTER TABLE "public"."report_exports" ADD CONSTRAINT "fk_report_exports_report_id_periodic_reports_id" FOREIGN KEY("report_id") REFERENCES "public"."periodic_reports"("id");
 ALTER TABLE "public"."report_exports" ADD CONSTRAINT "fk_report_exports_user_id_users_id" FOREIGN KEY("user_id") REFERENCES "public"."users"("id");
+ALTER TABLE "public"."report_drafts" ADD CONSTRAINT "fk_report_drafts_user_id_users_id" FOREIGN KEY("user_id") REFERENCES "public"."users"("id");
+ALTER TABLE "public"."diagnosis_sessions" ADD CONSTRAINT "fk_diagnosis_sessions_user_id_users_id" FOREIGN KEY("user_id") REFERENCES "public"."users"("id");
+ALTER TABLE "public"."clinical_documents" ADD CONSTRAINT "fk_clinical_documents_user_id_users_id" FOREIGN KEY("user_id") REFERENCES "public"."users"("id");
+ALTER TABLE "public"."clinical_documents" ADD CONSTRAINT "fk_clinical_documents_diagnosis_session_id" FOREIGN KEY("diagnosis_session_id") REFERENCES "public"."diagnosis_sessions"("id");
+ALTER TABLE "public"."lab_panels" ADD CONSTRAINT "fk_lab_panels_user_id_users_id" FOREIGN KEY("user_id") REFERENCES "public"."users"("id");
+ALTER TABLE "public"."lab_panels" ADD CONSTRAINT "fk_lab_panels_clinical_document_id" FOREIGN KEY("clinical_document_id") REFERENCES "public"."clinical_documents"("id");
+ALTER TABLE "public"."lab_panels" ADD CONSTRAINT "fk_lab_panels_diagnosis_session_id" FOREIGN KEY("diagnosis_session_id") REFERENCES "public"."diagnosis_sessions"("id");
+ALTER TABLE "public"."lab_results" ADD CONSTRAINT "fk_lab_results_user_id_users_id" FOREIGN KEY("user_id") REFERENCES "public"."users"("id");
+ALTER TABLE "public"."lab_results" ADD CONSTRAINT "fk_lab_results_lab_panel_id" FOREIGN KEY("lab_panel_id") REFERENCES "public"."lab_panels"("id");
+ALTER TABLE "public"."clinical_observations" ADD CONSTRAINT "fk_clinical_observations_user_id" FOREIGN KEY("user_id") REFERENCES "public"."users"("id");
+ALTER TABLE "public"."clinical_observations" ADD CONSTRAINT "fk_clinical_observations_diagnosis_session_id" FOREIGN KEY("diagnosis_session_id") REFERENCES "public"."diagnosis_sessions"("id");
+ALTER TABLE "public"."clinical_observations" ADD CONSTRAINT "fk_clinical_observations_clinical_document_id" FOREIGN KEY("clinical_document_id") REFERENCES "public"."clinical_documents"("id");
+ALTER TABLE "public"."clinical_baselines" ADD CONSTRAINT "fk_clinical_baselines_user_id" FOREIGN KEY("user_id") REFERENCES "public"."users"("id");
+ALTER TABLE "public"."clinical_baselines" ADD CONSTRAINT "fk_clinical_baselines_diagnosis_session_id" FOREIGN KEY("diagnosis_session_id") REFERENCES "public"."diagnosis_sessions"("id");
+ALTER TABLE "public"."clinical_baselines" ADD CONSTRAINT "fk_clinical_baselines_supersedes_id" FOREIGN KEY("supersedes_baseline_id") REFERENCES "public"."clinical_baselines"("id");
+ALTER TABLE "public"."diagnosis_sessions" ADD CONSTRAINT "fk_diagnosis_sessions_baseline_id" FOREIGN KEY("baseline_id") REFERENCES "public"."clinical_baselines"("id");
 ALTER TABLE "public"."reminders" ADD CONSTRAINT "fk_reminders_user_id_users_id" FOREIGN KEY("user_id") REFERENCES "public"."users"("id");
 ALTER TABLE "public"."risk_predictions" ADD CONSTRAINT "fk_risk_predictions_assessment_id_health_assessments_id" FOREIGN KEY("assessment_id") REFERENCES "public"."health_assessments"("id");
 ALTER TABLE "public"."risk_predictions" ADD CONSTRAINT "fk_risk_predictions_user_id_users_id" FOREIGN KEY("user_id") REFERENCES "public"."users"("id");

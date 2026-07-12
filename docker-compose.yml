@@ -126,8 +126,11 @@
       GOOGLE_APPLICATION_CREDENTIALS: ${GOOGLE_APPLICATION_CREDENTIALS:-}
       GOOGLE_APPLICATION_CREDENTIALS_JSON: ${GOOGLE_APPLICATION_CREDENTIALS_JSON:-}
       GOOGLE_APPLICATION_CREDENTIALS_B64: ${GOOGLE_APPLICATION_CREDENTIALS_B64:-}
+      HEALTH_MEDIA_ROOT: /app/media
     ports:
       - "${HEALTH_SERVICE_PORT:-8100}:8000"
+    volumes:
+      - clinical_uploads:/app/media
 
   api-gateway:
     build:
@@ -174,3 +177,4 @@ volumes:
   postgres_data:
   health_postgres_data:
   redis_data:
+  clinical_uploads:

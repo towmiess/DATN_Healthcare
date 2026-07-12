@@ -18,6 +18,7 @@ import {
   PredictionInput,
   PredictionResult,
 } from "@/services/prediction";
+import type { ActiveClinicalBaseline } from "@/services/clinical";
 import "./UserHome.scss";
 
 type SelectOption = {
@@ -539,7 +540,9 @@ const formatOcrNumber = (value: number) => {
   return Number.isInteger(value) ? String(value) : String(Number(value.toFixed(2)));
 };
 
-const glucoseConversionFactor = 18.0182;
+const glucoseConversionFactor = 18;
+const insulinPmolPerUu = 6;
+const cholesterolMgDlPerMmolL = 38.67;
 const maleWaistHeightRatio = 0.45;
 const femaleWaistHeightRatio = 0.4;
 const maleHipWaistDivisor = 0.9;
@@ -607,6 +610,45 @@ const getPreviousDerivedHip = (values: Record<string, string>) => {
   return calculateExpectedHip(values.sex, priorWaist);
 };
 
+const syncUnitPair = (
+  nextValues: Record<string, string>,
+  changedKey: string | undefined,
+  primaryKey: string,
+  secondaryKey: string,
+  secondaryPerPrimary: number
+) => {
+  let primaryValue = nextValues[primaryKey];
+  let secondaryValue = nextValues[secondaryKey];
+  const primaryNumber = Number(normalizeNumber(String(primaryValue ?? "")));
+  const secondaryNumber = Number(normalizeNumber(String(secondaryValue ?? "")));
+
+  if (changedKey === primaryKey && Number.isFinite(primaryNumber) && primaryNumber > 0) {
+    secondaryValue = formatOcrNumber(primaryNumber * secondaryPerPrimary);
+  } else if (
+    changedKey === secondaryKey &&
+    Number.isFinite(secondaryNumber) &&
+    secondaryNumber > 0
+  ) {
+    primaryValue = formatOcrNumber(secondaryNumber / secondaryPerPrimary);
+  } else if (
+    primaryValue &&
+    !secondaryValue &&
+    Number.isFinite(primaryNumber) &&
+    primaryNumber > 0
+  ) {
+    secondaryValue = formatOcrNumber(primaryNumber * secondaryPerPrimary);
+  } else if (
+    secondaryValue &&
+    !primaryValue &&
+    Number.isFinite(secondaryNumber) &&
+    secondaryNumber > 0
+  ) {
+    primaryValue = formatOcrNumber(secondaryNumber / secondaryPerPrimary);
+  }
+
+  return { primaryValue, secondaryValue };
+};
+
 const applyDerivedMetrics = (
   nextValues: Record<string, string>,
   previousValues?: Record<string, string>,
@@ -629,11 +671,39 @@ const applyDerivedMetrics = (
       (previousValues !== undefined && nextValues.hip_cm === previousValues.hip_cm && nextValues.hip_cm === previousHipDerived));
   const hip = shouldRefreshHip ? calculateExpectedHip(nextValues.sex, waist) : nextValues.hip_cm;
 
+  const glucoseValues = syncUnitPair(
+    nextValues,
+    changedKey,
+    "fasting_glucose_mg_dl",
+    "fasting_glucose_mmol_l",
+    1 / glucoseConversionFactor
+  );
+  const insulinValues = syncUnitPair(
+    nextValues,
+    changedKey,
+    "insulin_uU_ml",
+    "insulin_pmol_l",
+    insulinPmolPerUu
+  );
+  const cholesterolValues = syncUnitPair(
+    nextValues,
+    changedKey,
+    "total_cholesterol_mg_dl",
+    "total_cholesterol_mmol_l",
+    1 / cholesterolMgDlPerMmolL
+  );
+
   return {
     ...nextValues,
     bmi: bmi || nextValues.bmi,
     waist_cm: waist,
     hip_cm: hip,
+    fasting_glucose_mg_dl: glucoseValues.primaryValue,
+    fasting_glucose_mmol_l: glucoseValues.secondaryValue,
+    insulin_uU_ml: insulinValues.primaryValue,
+    insulin_pmol_l: insulinValues.secondaryValue,
+    total_cholesterol_mg_dl: cholesterolValues.primaryValue,
+    total_cholesterol_mmol_l: cholesterolValues.secondaryValue,
   };
 };
 
@@ -1928,6 +1998,92 @@ const extractLabeledBloodPressureValues = (text: string): Record<string, string>
   return extracted;
 };
 
+const extractDeviceVisionBloodPressureValues = (
+  text: string,
+  fileName: string
+): Record<string, string> => {
+  const normalizedText = normalizeOcrText(text);
+  const looksLikeBloodPressureImage =
+    hasBloodPressureContextText(normalizedText) ||
+    isBloodPressureDeviceFileName(fileName);
+
+  if (!looksLikeBloodPressureImage) return {};
+
+  const labeledValues = extractLabeledBloodPressureValues(text);
+  const firstLabeledValue = normalizedText.match(
+    /\b(?:sys|systolic|tam thu|dia|diastolic|tam truong|pulse|pul|nhip tim|mach)\b(?:\s*(?:bp|mmhg|\/?min|bpm))?\s*[:=-]\s*\d{2,3}\b/
+  );
+  const primaryText = firstLabeledValue?.index
+    ? normalizedText.slice(0, firstLabeledValue.index)
+    : normalizedText;
+  const primaryNumbers = getAllOcrNumbers(primaryText).filter((value) =>
+    clampOcrValue(value, 1, 260)
+  );
+  const extracted: Record<string, string> = {};
+  const [first, second, third] = primaryNumbers;
+  const labeledSystolic = Number(labeledValues.systolic_bp_mean);
+  const labeledDiastolic = Number(labeledValues.diastolic_bp_mean);
+
+  if (
+    clampOcrValue(labeledSystolic, 80, 260) &&
+    clampOcrValue(first, 40, 160) &&
+    first < 100 &&
+    clampOcrValue(second, 30, 220) &&
+    labeledSystolic > first
+  ) {
+    extracted.systolic_bp_mean = formatOcrNumber(labeledSystolic);
+    extracted.diastolic_bp_mean = formatOcrNumber(first);
+    extracted.pulse_mean = formatOcrNumber(second);
+    return extracted;
+  }
+
+  if (
+    clampOcrValue(first, 80, 260) &&
+    clampOcrValue(second, 40, 160) &&
+    first > second
+  ) {
+    extracted.systolic_bp_mean = formatOcrNumber(first);
+    extracted.diastolic_bp_mean = formatOcrNumber(second);
+    if (clampOcrValue(third, 30, 220)) {
+      extracted.pulse_mean = formatOcrNumber(third);
+    }
+  } else if (clampOcrValue(first, 80, 260)) {
+    extracted.systolic_bp_mean = formatOcrNumber(first);
+    if (clampOcrValue(labeledDiastolic, 40, 160) && first > labeledDiastolic) {
+      extracted.diastolic_bp_mean = formatOcrNumber(labeledDiastolic);
+    }
+    if (clampOcrValue(third, 30, 220)) {
+      extracted.pulse_mean = formatOcrNumber(third);
+    }
+  }
+
+  if (
+    !extracted.systolic_bp_mean &&
+    clampOcrValue(labeledSystolic, 80, 260)
+  ) {
+    extracted.systolic_bp_mean = formatOcrNumber(labeledSystolic);
+  }
+
+  if (
+    !extracted.diastolic_bp_mean &&
+    clampOcrValue(labeledDiastolic, 40, 160) &&
+    (!extracted.systolic_bp_mean || Number(extracted.systolic_bp_mean) > labeledDiastolic)
+  ) {
+    extracted.diastolic_bp_mean = formatOcrNumber(labeledDiastolic);
+  }
+
+  if (
+    extracted.systolic_bp_mean &&
+    extracted.diastolic_bp_mean &&
+    Number(extracted.systolic_bp_mean) <= Number(extracted.diastolic_bp_mean)
+  ) {
+    delete extracted.systolic_bp_mean;
+    delete extracted.diastolic_bp_mean;
+  }
+
+  return extracted;
+};
+
 const extractBloodPressureFromFileName = (fileName: string) => {
   const compactName = fileName.replace(/\.[^.]+$/, "").replace(/[^0-9]/g, "");
   const candidates = Array.from(compactName.matchAll(/\d{5,6}/g), (match) => match[0]);
@@ -2224,6 +2380,21 @@ const preprocessImageForOcr = (
     image.src = objectUrl;
   });
 
+const dataUrlToFile = async (dataUrl: string, fileName: string) => {
+  const response = await fetch(dataUrl);
+  const blob = await response.blob();
+  return new File([blob], fileName, { type: blob.type || "image/png" });
+};
+
+const createGoogleVisionCropFile = async (
+  file: File,
+  crop: OcrCrop,
+  index: number
+) => {
+  const dataUrl = await preprocessImageForOcr(file, { crop, scale: 1.8 });
+  return dataUrlToFile(dataUrl, `${file.name.replace(/\.[^.]+$/, "")}-vision-crop-${index}.png`);
+};
+
 const omronLcdCrops: OcrCrop[] = [
   { x: 0.33, y: 0.2, width: 0.49, height: 0.47 },
   { x: 0.34, y: 0.22, width: 0.47, height: 0.44 },
@@ -2244,6 +2415,11 @@ const deviceDisplayCrops: OcrCrop[] = [
   { x: 0.18, y: 0.08, width: 0.64, height: 0.78 },
   { x: 0.22, y: 0.12, width: 0.58, height: 0.72 },
   { x: 0.26, y: 0.14, width: 0.52, height: 0.68 },
+];
+
+const googleVisionBloodPressureCrops: OcrCrop[] = [
+  { x: 0.34, y: 0.2, width: 0.52, height: 0.52 },
+  { x: 0.38, y: 0.26, width: 0.42, height: 0.52 },
 ];
 
 const glucoseDisplayCrops: OcrCrop[] = [
@@ -2296,33 +2472,102 @@ const getResultLabel = (prediction: number) =>
 
 const deviceOcrFilePattern =
   /\b(omron|beurer|accu|chek|glucose|sugar|mmhg|sys|dia|pulse|bp|huyet|ap|duong)\b/i;
+const bloodPressureDeviceFilePattern =
+  /\b(omron|beurer|mmhg|sys|dia|pulse|bp|huyet|ap)\b/i;
 
 const formatSnapshotInputValue = (value: number) => {
   if (Number.isInteger(value)) return String(value);
   return String(Number(value.toFixed(2)));
 };
 
+const isBloodPressureDeviceFileName = (fileName: string) =>
+  bloodPressureDeviceFilePattern.test(normalizeOcrText(fileName));
+
 const inferGoogleVisionMode = (file: File): "text" | "document" =>
-  deviceOcrFilePattern.test(file.name) ? "text" : "document";
+  deviceOcrFilePattern.test(normalizeOcrText(file.name)) ? "text" : "document";
 
 const buildVisibleOcrValues = (text: string, fileName: string) => {
   const looksLikeBloodPressureImage =
     hasBloodPressureContextText(normalizeOcrText(text)) ||
-    /\b(omron|mmhg|sys|dia|pulse|bp|huyet|ap)\b/i.test(fileName);
+    isBloodPressureDeviceFileName(fileName);
 
-  const extractedValues = {
+  const rawGenericValues = {
     ...extractValuesFromOcrText(text),
     ...extractValuesFromOcrTextRobust(text),
     ...extractFocusedOcrValues(text),
+    ...extractLabeledBloodPressureValues(text),
     ...extractBloodPressureFromNumberSequence(text),
     ...extractBloodPressureFromCompactDigits(text),
-    ...extractLabeledBloodPressureValues(text),
     ...(looksLikeBloodPressureImage ? {} : extractGlucoseFromNumberSequence(text)),
   };
+  const genericValues = Object.fromEntries(
+    Object.entries(rawGenericValues).filter(([, value]) => typeof value === "string")
+  ) as Record<string, string>;
+  const deviceBloodPressureValues = looksLikeBloodPressureImage
+    ? extractDeviceVisionBloodPressureValues(text, fileName)
+    : {};
+  const hasDeviceBloodPressureValues = Object.keys(deviceBloodPressureValues).length > 0;
+  const genericValuesWithoutBloodPressure = { ...genericValues };
+  delete genericValuesWithoutBloodPressure.systolic_bp_mean;
+  delete genericValuesWithoutBloodPressure.diastolic_bp_mean;
+  delete genericValuesWithoutBloodPressure.pulse_mean;
+  const extractedValues =
+    looksLikeBloodPressureImage && hasDeviceBloodPressureValues
+      ? {
+          ...genericValuesWithoutBloodPressure,
+          ...deviceBloodPressureValues,
+        }
+      : genericValues;
 
   return Object.fromEntries(
     Object.entries(extractedValues).filter(([key]) => key in emptyValues)
   );
+};
+
+const getVisibleOcrNumber = (
+  values: Record<string, string>,
+  key: keyof typeof emptyValues
+) => {
+  const value = Number(normalizeNumber(values[key] ?? ""));
+  return Number.isFinite(value) ? value : undefined;
+};
+
+const hasBloodPressurePair = (values: Record<string, string>) => {
+  const systolic = getVisibleOcrNumber(values, "systolic_bp_mean");
+  const diastolic = getVisibleOcrNumber(values, "diastolic_bp_mean");
+  return (
+    systolic !== undefined &&
+    diastolic !== undefined &&
+    clampOcrValue(systolic, 80, 260) &&
+    clampOcrValue(diastolic, 40, 160) &&
+    systolic > diastolic
+  );
+};
+
+const mergeBloodPressureVisionValues = (
+  baseValues: Record<string, string>,
+  nextValues: Record<string, string>
+) => {
+  if (!Object.keys(nextValues).length) return baseValues;
+  if (!hasBloodPressurePair(nextValues)) {
+    return !baseValues.pulse_mean && nextValues.pulse_mean
+      ? { ...baseValues, pulse_mean: nextValues.pulse_mean }
+      : baseValues;
+  }
+
+  if (!hasBloodPressurePair(baseValues)) {
+    return { ...baseValues, ...nextValues };
+  }
+
+  const baseSystolic = getVisibleOcrNumber(baseValues, "systolic_bp_mean") ?? 0;
+  const baseDiastolic = getVisibleOcrNumber(baseValues, "diastolic_bp_mean") ?? 0;
+  const nextSystolic = getVisibleOcrNumber(nextValues, "systolic_bp_mean") ?? 0;
+  const nextDiastolic = getVisibleOcrNumber(nextValues, "diastolic_bp_mean") ?? 0;
+  const isCompatiblePair =
+    Math.abs(baseSystolic - nextSystolic) <= 3 &&
+    Math.abs(baseDiastolic - nextDiastolic) <= 3;
+
+  return isCompatiblePair ? { ...baseValues, ...nextValues } : baseValues;
 };
 
 const UserHome: React.FC = () => {
@@ -2335,13 +2580,17 @@ const UserHome: React.FC = () => {
   const [ocrMessage, setOcrMessage] = useState("");
   const [ocrHasError, setOcrHasError] = useState(false);
   const [ocrStatus, setOcrStatus] = useState<OcrStatus | null>(null);
+  const [predictionNotice, setPredictionNotice] = useState("");
+  const [activeBaseline, setActiveBaseline] = useState<ActiveClinicalBaseline | null>(null);
 
   useEffect(() => {
     let isMounted = true;
 
     getDiagnosisSnapshot()
       .then((snapshot) => {
-        if (!isMounted || !snapshot.has_data) return;
+        if (!isMounted) return;
+        setActiveBaseline(snapshot.baseline ?? null);
+        if (!snapshot.has_data) return;
 
         const nextValues = { ...emptyValues };
         Object.entries(snapshot.values).forEach(([key, value]) => {
@@ -2390,6 +2639,7 @@ const UserHome: React.FC = () => {
   const handleChange = (key: string, value: string) => {
     setValues((current) => applyDerivedMetrics({ ...current, [key]: value }, current, key));
     setError("");
+    setPredictionNotice("");
   };
 
   const handleReset = () => {
@@ -2398,6 +2648,7 @@ const UserHome: React.FC = () => {
     setError("");
     setOcrMessage("");
     setOcrHasError(false);
+    setPredictionNotice("");
   };
 
   const handleUseSample = () => {
@@ -2405,6 +2656,7 @@ const UserHome: React.FC = () => {
     setError("");
     setOcrMessage("");
     setOcrHasError(false);
+    setPredictionNotice("");
   };
 
   const handleOcrUpload = async (event: React.ChangeEvent<HTMLInputElement>) => {
@@ -2416,8 +2668,85 @@ const UserHome: React.FC = () => {
     setIsOcrProcessing(true);
     setOcrHasError(false);
     setOcrMessage("Đang chuẩn bị đọc ảnh...");
+    setPredictionNotice("");
 
     try {
+      const applyVisibleValues = (
+        visibleValues: Record<string, string>,
+        message: string
+      ) => {
+        setValues((current) =>
+          applyDerivedMetrics(
+            {
+              ...current,
+              ...visibleValues,
+            },
+            current
+          )
+        );
+        setResult(null);
+        setOcrHasError(false);
+        setOcrMessage(message);
+      };
+
+      let triedGoogleVision = false;
+      const tryGoogleVision = async (message: string) => {
+        setOcrMessage(message);
+        try {
+          const visionResponse = await ocrWithGoogleVision(file, inferGoogleVisionMode(file));
+          let visionVisibleValues = buildVisibleOcrValues(visionResponse.text ?? "", file.name);
+
+          if (isBloodPressureDeviceFileName(file.name)) {
+            for (const [cropIndex, crop] of googleVisionBloodPressureCrops.entries()) {
+              if (hasBloodPressurePair(visionVisibleValues) && visionVisibleValues.pulse_mean) {
+                break;
+              }
+
+              try {
+                const cropFile = await createGoogleVisionCropFile(file, crop, cropIndex + 1);
+                const cropResponse = await ocrWithGoogleVision(cropFile, "text");
+                const cropVisibleValues = buildVisibleOcrValues(
+                  cropResponse.text ?? "",
+                  file.name
+                );
+                visionVisibleValues = mergeBloodPressureVisionValues(
+                  visionVisibleValues,
+                  cropVisibleValues
+                );
+              } catch {
+                // Keep the original Vision result if a focused crop cannot be processed.
+              }
+            }
+          }
+
+          const filledKeys = Object.keys(visionVisibleValues);
+
+          if (!filledKeys.length) return false;
+
+          applyVisibleValues(
+            visionVisibleValues,
+            `Google Vision (${visionResponse.provider ?? "api"}) đã tự điền ${
+              filledKeys.length
+            } chỉ số: ${filledKeys.map((key) => fieldLabels[key] ?? key).join(", ")}.`
+          );
+          return true;
+        } catch (visionError) {
+          setOcrMessage(
+            visionError instanceof Error
+              ? `Google Vision chưa đọc được ảnh, đang thử OCR cục bộ: ${visionError.message}`
+              : "Google Vision chưa đọc được ảnh, đang thử OCR cục bộ..."
+          );
+          return false;
+        }
+      };
+
+      if (ocrStatus?.configured) {
+        triedGoogleVision = true;
+        if (await tryGoogleVision("Đang OCR với Google Vision...")) {
+          return;
+        }
+      }
+
       const sevenSegmentValues = await extractSevenSegmentBloodPressure(file);
       const sevenSegmentVisibleValues = Object.fromEntries(
         Object.entries(sevenSegmentValues).filter(([key]) => key in emptyValues)
@@ -2426,18 +2755,8 @@ const UserHome: React.FC = () => {
       if (Object.keys(sevenSegmentVisibleValues).length) {
         const filledKeys = Object.keys(sevenSegmentVisibleValues);
 
-        setValues((current) =>
-          applyDerivedMetrics(
-            {
-              ...current,
-              ...sevenSegmentVisibleValues,
-            },
-            current
-          )
-        );
-        setResult(null);
-        setOcrHasError(false);
-        setOcrMessage(
+        applyVisibleValues(
+          sevenSegmentVisibleValues,
           `Đã tự điền ${filledKeys.length} chỉ số huyết áp: ${filledKeys
             .map((key) => fieldLabels[key] ?? key)
             .join(", ")}.`
@@ -2445,43 +2764,10 @@ const UserHome: React.FC = () => {
         return;
       }
 
-      {
-        setOcrMessage(
-          ocrStatus?.configured
-            ? "Đang OCR với Google Vision..."
-            : "Đang thử OCR với Google Vision..."
-        );
-        try {
-          const visionResponse = await ocrWithGoogleVision(file, inferGoogleVisionMode(file));
-          const visionVisibleValues = buildVisibleOcrValues(visionResponse.text ?? "", file.name);
-
-          if (Object.keys(visionVisibleValues).length) {
-            setValues((current) =>
-              applyDerivedMetrics(
-                {
-                  ...current,
-                  ...visionVisibleValues,
-                },
-                current
-              )
-            );
-            setResult(null);
-            setOcrHasError(false);
-            setOcrMessage(
-              `Google Vision (${visionResponse.provider ?? "api"}) đã tự điền ${
-                Object.keys(visionVisibleValues).length
-              } chỉ số: ${Object.keys(visionVisibleValues)
-                .map((key) => fieldLabels[key] ?? key)
-                .join(", ")}.`
-            );
-            return;
-          }
-        } catch (visionError) {
-          setOcrMessage(
-            visionError instanceof Error
-              ? `Google Vision chưa đọc được ảnh, đang thử OCR cục bộ: ${visionError.message}`
-              : "Google Vision chưa đọc được ảnh, đang thử OCR cục bộ..."
-          );
+      if (!triedGoogleVision) {
+        triedGoogleVision = true;
+        if (await tryGoogleVision("Đang thử OCR với Google Vision...")) {
+          return;
         }
       }
 
@@ -2607,6 +2893,20 @@ const UserHome: React.FC = () => {
     setIsSubmitting(true);
     setError("");
 
+    const referenceFields: string[] = [];
+    if (!values.hba1c_percent.trim()) referenceFields.push("HbA1c (5,5%)");
+    if (!values.insulin_uU_ml.trim() && !values.insulin_pmol_l.trim()) {
+      referenceFields.push("insulin (9 uU/mL và 54 pmol/L)");
+    }
+    if (!values.total_cholesterol_mg_dl.trim() && !values.total_cholesterol_mmol_l.trim()) {
+      referenceFields.push("cholesterol toàn phần (190 mg/dL và 4,9 mmol/L)");
+    }
+    setPredictionNotice(
+      referenceFields.length
+        ? `Bạn chưa nhập ${referenceFields.join(", ")}. Mô hình đang dùng giá trị mặc định cho các chỉ số này.`
+        : ""
+    );
+
     try {
       const nextResult = await predictAll(payload);
       setResult(nextResult);
@@ -2621,6 +2921,30 @@ const UserHome: React.FC = () => {
       setIsSubmitting(false);
     }
   };
+
+  const baselineComparisons = result
+    ? [
+        "weight_kg",
+        "bmi",
+        "waist_cm",
+        "fasting_glucose_mg_dl",
+        "hba1c_percent",
+        "total_cholesterol_mg_dl",
+        "insulin_uU_ml",
+        "systolic_bp_mean",
+        "diastolic_bp_mean",
+        "pulse_mean",
+      ]
+        .map((key) => {
+          const baselineValue = activeBaseline?.values?.[key];
+          const currentValue = Number(normalizeNumber(values[key] ?? ""));
+          if (!baselineValue || !Number.isFinite(currentValue) || !values[key]?.trim()) return null;
+          const delta = currentValue - baselineValue.value;
+          const deltaPercent = baselineValue.value ? (delta / baselineValue.value) * 100 : null;
+          return { key, baselineValue, currentValue, delta, deltaPercent };
+        })
+        .filter((item): item is NonNullable<typeof item> => item !== null)
+    : [];
 
   return (
     <section className="diagnosis-page" aria-labelledby="diagnosis-title">
@@ -2662,6 +2986,20 @@ const UserHome: React.FC = () => {
         </div>
       </div>
 
+      {activeBaseline?.has_baseline && (
+        <section className="diagnosis-baseline" aria-label="Mốc xét nghiệm đang sử dụng">
+          <div>
+            <strong>Mốc xét nghiệm</strong>
+            <span>{activeBaseline.provider_name || activeBaseline.label}</span>
+          </div>
+          <time dateTime={activeBaseline.effective_at}>
+            {activeBaseline.effective_at
+              ? new Date(activeBaseline.effective_at).toLocaleDateString("vi-VN")
+              : ""}
+          </time>
+        </section>
+      )}
+
       {ocrMessage && (
         <p
           className={`diagnosis-page__status${
@@ -2669,6 +3007,12 @@ const UserHome: React.FC = () => {
           }`}
         >
           {ocrMessage}
+        </p>
+      )}
+
+      {predictionNotice && (
+        <p className="diagnosis-page__status diagnosis-page__status--warning">
+          {predictionNotice}
         </p>
       )}
 
@@ -2681,7 +3025,9 @@ const UserHome: React.FC = () => {
               </div>
 
               <div className="diagnosis-fields">
-                {group.fields.map((field) => (
+                {group.fields.map((field) => {
+                  const baselineValue = activeBaseline?.values?.[field.key];
+                  return (
                   <label className="diagnosis-field" key={field.key}>
                     <span className="diagnosis-field__label">{field.label}</span>
                     {field.options ? (
@@ -2714,8 +3060,14 @@ const UserHome: React.FC = () => {
                     {field.hint && (
                       <span className="diagnosis-field__hint">{field.hint}</span>
                     )}
+                    {baselineValue && (
+                      <span className="diagnosis-field__baseline">
+                        Chỉ số gốc: <strong>{formatOcrNumber(baselineValue.value)} {baselineValue.unit}</strong>
+                      </span>
+                    )}
                   </label>
-                ))}
+                  );
+                })}
               </div>
             </div>
           ))}
@@ -2761,6 +3113,25 @@ const UserHome: React.FC = () => {
               </div>
             )}
           </div>
+
+          {baselineComparisons.length > 0 && (
+            <div className="diagnosis-result__comparison">
+              <h3>So với chỉ số gốc</h3>
+              {baselineComparisons.map((comparison) => (
+                <div key={comparison.key}>
+                  <span>{comparison.baselineValue.label}</span>
+                  <strong>
+                    {comparison.delta > 0 ? "+" : ""}{formatOcrNumber(comparison.delta)} {comparison.baselineValue.unit}
+                  </strong>
+                  <small>
+                    {comparison.deltaPercent === null
+                      ? "--"
+                      : `${comparison.deltaPercent > 0 ? "+" : ""}${comparison.deltaPercent.toFixed(1)}%`}
+                  </small>
+                </div>
+              ))}
+            </div>
+          )}
 
           {error && <p className="diagnosis-result__error">{error}</p>}
 
