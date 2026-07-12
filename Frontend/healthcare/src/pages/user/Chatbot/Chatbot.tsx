@@ -1,7 +1,6 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import {
   BrainCircuit,
-  ChevronDown,
   History,
   Loader2,
   MessageCirclePlus,
@@ -143,7 +142,6 @@ const Chatbot: React.FC = () => {
   const [health, setHealth] = useState<RagHealth | null>(null);
   const [activeSources, setActiveSources] = useState<ChatSource[] | null>(null);
   const [savedSessions, setSavedSessions] = useState<StoredChatSession[]>([]);
-  const [historyPanelOpen, setHistoryPanelOpen] = useState(false);
   const [hydrated, setHydrated] = useState(false);
 
   const scrollRef = useRef<HTMLDivElement | null>(null);
@@ -446,61 +444,48 @@ const Chatbot: React.FC = () => {
                 Cuộc trò chuyện mới
               </button>
 
-              <button
-                type="button"
-                className="chat-history-toggle"
-                onClick={() => setHistoryPanelOpen((open) => !open)}
-                aria-expanded={historyPanelOpen}
-              >
-                <span className="chat-history-toggle__label">
-                  <History size={16} />
-                  Lịch sử
-                  {orderedSessions.length > 0 && (
-                    <span className="chat-history-toggle__count">{orderedSessions.length}</span>
-                  )}
-                </span>
-                <ChevronDown
-                  size={16}
-                  className={`chat-history-toggle__chevron ${historyPanelOpen ? "is-open" : ""}`}
-                />
-              </button>
+              <div className="chat-history-header">
+                <History size={16} />
+                Lịch sử
+                {orderedSessions.length > 0 && (
+                  <span className="chat-history-header__count">{orderedSessions.length}</span>
+                )}
+              </div>
 
-              {historyPanelOpen && (
-                <div className="chat-history-inline">
-                  {orderedSessions.length === 0 ? (
-                    <div className="chat-history-empty">
-                      Chưa có lịch sử nào. Hãy bắt đầu một cuộc trò chuyện mới.
-                    </div>
-                  ) : (
-                    orderedSessions.map((session) => (
-                      <div
-                        className={`chat-history-item ${session.sessionId === sessionId ? "is-active" : ""}`}
-                        key={session.sessionId}
+              <div className="chat-history-inline">
+                {orderedSessions.length === 0 ? (
+                  <div className="chat-history-empty">
+                    Chưa có lịch sử nào. Hãy bắt đầu một cuộc trò chuyện mới.
+                  </div>
+                ) : (
+                  orderedSessions.map((session) => (
+                    <div
+                      className={`chat-history-item ${session.sessionId === sessionId ? "is-active" : ""}`}
+                      key={session.sessionId}
+                    >
+                      <button
+                        type="button"
+                        className="chat-history-item__main"
+                        onClick={() => handleOpenSession(session)}
                       >
-                        <button
-                          type="button"
-                          className="chat-history-item__main"
-                          onClick={() => handleOpenSession(session)}
-                        >
-                          <div className="chat-history-item__title">{session.title}</div>
-                          <div className="chat-history-item__meta">
-                            <span>{new Date(session.updatedAt).toLocaleString("vi-VN")}</span>
-                            {/**session.sessionId === sessionId && <span>Đang mở</span> */}
-                          </div>
-                        </button>
-                        <button
-                          type="button"
-                          className="chat-history-item__delete"
-                          title="Xóa cuộc trò chuyện này"
-                          onClick={() => handleDeleteHistorySession(session)}
-                        >
-                          <Trash2 size={14} />
-                        </button>
-                      </div>
-                    ))
-                  )}
-                </div>
-              )}
+                        <div className="chat-history-item__title">{session.title}</div>
+                        <div className="chat-history-item__meta">
+                          <span>{new Date(session.updatedAt).toLocaleString("vi-VN")}</span>
+                          {/**session.sessionId === sessionId && <span>Đang mở</span> */}
+                        </div>
+                      </button>
+                      <button
+                        type="button"
+                        className="chat-history-item__delete"
+                        title="Xóa cuộc trò chuyện này"
+                        onClick={() => handleDeleteHistorySession(session)}
+                      >
+                        <Trash2 size={14} />
+                      </button>
+                    </div>
+                  ))
+                )}
+              </div>
               {/*
               <button type="button" className="chat-delete-btn" onClick={handleDeleteCurrentChat}>
                 <Trash2 size={16} />

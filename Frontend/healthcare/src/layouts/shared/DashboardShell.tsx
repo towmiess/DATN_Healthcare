@@ -1,9 +1,10 @@
 import React from 'react';
-import { NavLink, Outlet, useNavigate } from 'react-router-dom';
-import { Activity, ChevronDown, Clock, LayoutDashboard, MessageCircle, UserCircle2 } from 'lucide-react';
+import { NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom';
+import { Activity, ChevronDown, Clock, LayoutDashboard, Stethoscope, UserCircle2 } from 'lucide-react';
 import brandLogo from '@/assets/logo.png';
 import { logout } from '@/services/authservices/logout';
 import { clearAuth, getLoginRedirectPath, getRefreshToken } from '@/utils/auth';
+import FloatingChatWidget from '@/components/chatWidget/FloatingChatWidget';
 import './DashboardShell.scss';
 
 type DashboardShellProps = {
@@ -12,6 +13,8 @@ type DashboardShellProps = {
 
 const DashboardShell: React.FC<DashboardShellProps> = ({ homePath }) => {
   const navigate = useNavigate();
+  const location = useLocation();
+  const showFloatingChat = homePath === '/user' && location.pathname !== '/user/chat';
 
   const handleLogout = async () => {
     const refreshToken = getRefreshToken();
@@ -64,8 +67,8 @@ const DashboardShell: React.FC<DashboardShellProps> = ({ homePath }) => {
                   `login-nav__item dashboard-nav__item${isActive ? ' dashboard-nav__item--active' : ''}`
                 }
               >
-                <MessageCircle size={16} />
-                <span>Tư vấn AI</span>
+                <Stethoscope  size={16} />
+                <span>Trợ lý AI</span>
               </NavLink>
             )}
           </nav>
@@ -104,6 +107,8 @@ const DashboardShell: React.FC<DashboardShellProps> = ({ homePath }) => {
           <Outlet />
         </div>
       </main>
+
+      {showFloatingChat && <FloatingChatWidget />}
     </div>
   );
 };
