@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 240-260)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Quả trứng gà, tươi: 106 kcal/100g | đạm 4.3g | béo 0.4g | carb 21.3g
+- Quất chín, tươi: 42 kcal/100g | đạm 0.9g | béo 0g | carb 9.6g
+- Quít, tươi: 40 kcal/100g | đạm 0.8g | béo 0g | carb 9.2g
+- Rạm, muối, đồ: 83 kcal/100g | đạm 14.2g | béo 2.9g | carb 0g
+- Rạm, tươi: 77 kcal/100g | đạm 12.9g | béo 2.8g | carb 0g
+- Rau bí, luộc: 27 kcal/100g | đạm 2.8g | béo 0.1g | carb 3.5g
+- Rau bí, tươi: 26 kcal/100g | đạm 2.7g | béo 0.2g | carb 3.1g
+- Rau cải chíp: 17 kcal/100g | đạm 1.5g | béo 0.2g | carb 2.1g
+- Rau cải chíp, luộc: 17 kcal/100g | đạm 1.5g | béo 0.2g | carb 2.1g
+- Rau cải ngọt, tươi: 17 kcal/100g | đạm 1.4g | béo 0.1g | carb 2.6g
+- Rau cải thảo, tươi: 14 kcal/100g | đạm 0.9g | béo 0g | carb 2.5g
+- Rau câu, khô: 281 kcal/100g | đạm 11.2g | béo 1.1g | carb 56.6g
+- Rau câu, tươi: 45 kcal/100g | đạm 1.9g | béo 0.1g | carb 9.1g
+- Rau đay, tươi: 31 kcal/100g | đạm 2.8g | béo 0.1g | carb 4.5g
+- Rau diếp, tươi: 15 kcal/100g | đạm 1.2g | béo 0.1g | carb 2.3g
+- Rau giấp cá, diếp cá, tươi: 30 kcal/100g | đạm 2.9g | béo 0g | carb 4.5g
+- Rau giền cơm, luộc: 29 kcal/100g | đạm 3.4g | béo 0.3g | carb 3.0g
+- Rau giền cơm, tươi: 27 kcal/100g | đạm 3.4g | béo 0.3g | carb 2.6g
+- Rau giền đỏ, luộc: 48 kcal/100g | đạm 3.3g | béo 0.3g | carb 7.9g
+- Rau giền đỏ, tươi: 47 kcal/100g | đạm 3.3g | béo 0.3g | carb 7.7g

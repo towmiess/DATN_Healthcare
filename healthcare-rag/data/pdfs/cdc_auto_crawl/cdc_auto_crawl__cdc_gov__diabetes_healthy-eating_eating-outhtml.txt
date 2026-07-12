@@ -1,0 +1,49 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/healthy-eating/eating-out.html",
+  "title": "Eating Out",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:13:50.522737",
+  "source_name": "cdc.gov",
+  "document_title": "Eating Out",
+  "extraction_method": "<main>",
+  "word_count": 296,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Eating Out
+
+May 15, 2024
+
+Español
+
+Eating Out
+
+What to know
+
+If you're like three in five Americans, you eat dinner out at least once a week. And as you've probably noticed, restaurant portions have gotten a lot bigger. Without a plan in place, that can be a recipe for overeating. Try these tips for making healthier choices.
+
+Plan ahead
+Decide what you're going to order before you go. That way you won't feel rushed or tempted by less healthy choices.
+If your meal will be later than normal, have a snack before you go out to avoid getting too hungry. Have something that contains fiber and protein—a small handful of nuts is a great choice. Then cut back by that amount when you eat your meal.
+
+Start smart
+Drink a big glass of water as soon as you sit down. It's been shown to help you eat less. And limit the extras that come to your table before you order (such as bread or chips and salsa). Better yet, ask your server to remove them.
+
+Order wisely
+
+To lower fat and calories, choose items that are baked, steamed, grilled, or broiled.
+Limit fried, breaded, or creamy foods.
+Ask for veggies instead of fries or other high-calorie side dishes.
+Skip added sugar. Limit dishes that have BBQ, glazed, sticky, honey, or teriyaki in their name.
+Order sauces, salad dressing, and spreads on the side and use just enough for flavor.
+
+Share and savor
+Share your main dish or only eat half and wrap up the rest for later. Enjoy the occasional sweet treat (minus the guilt) by cutting back on carbs during your meal. Then get a dessert to share with the table. You won't miss out—the first few bites are usually the tastiest.
+
+May 14, 2024
+
+Syndicate

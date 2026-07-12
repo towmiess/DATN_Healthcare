@@ -1,0 +1,45 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/data-research/research/kidney-failure-diabetes.html",
+  "title": "Kidney Failure and Diabetes - CDC",
+  "category": "complication/nephropathy",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:13:15.440818",
+  "source_name": "cdc.gov",
+  "document_title": "Kidney Failure and Diabetes - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 344,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Kidney Failure and Diabetes - CDC
+
+May 15, 2024
+
+Kidney Failure and Diabetes
+
+Key points
+
+End-stage kidney disease (ESKD) is kidney failure that requires dialysis or a transplant for the person to survive.
+It can lead to disability and early death.
+ESKD is expensive to treat, and cases are on the rise.
+
+What did this study examine?
+The study looked at trends in ESKD cases during 2000–2019. It also looked at the main causes of ESKD and the populations that were most affected.
+
+Study results
+During 2000–2019, the number of reported cases of kidney failure increased in the United States. The number of new cases increased by about 42% (from 92,660 to 131,422 cases). The number of existing cases more than doubled (from 358,247 to 783,594 cases).
+Diabetes and high blood pressure were the main causes of ESKD. Diabetes was the main cause for most cases of ESKD, and cases caused by high blood pressure increased the most.
+Compared to White people, Black, Hispanic, and American Indian or Alaska Native people had higher chances of having diabetes. These groups of people also had a higher chance of developing ESKD. Asian, Native Hawaiian, other Pacific Islander, and Hispanic people had the largest increases in ESKD cases. American Indian and Alaska Native people, and adults 45 and younger, had the smallest increase in ESKD cases.
+
+Why is this study important?
+Since the main causes of ESKD are diabetes and high blood pressure, managing these conditions helps to prevent or delay ESKD. Looking at trends over time can help show if health programs are successful in preventing ESKD.
+For example, some diabetes programs for American Indian people show a savings of over $500 million in avoided ESKD cases. The success of these programs could explain why American Indian and Alaska Native people had the smallest increase in ESKD cases.
+Kidney disease testing and management could be key to reducing the number of people living with ESKD. Programs that address other health conditions that can lead to ESKD may also help reduce ESKD cases.
+Keep Reading:
+Access the full research article
+
+May 14, 2024

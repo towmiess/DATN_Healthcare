@@ -1,0 +1,108 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/treatments/insulin/what-is-insulin",
+  "title": "What is insulin",
+  "category": "medication",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:14:46.619586",
+  "source_name": "diabetes.org.uk",
+  "document_title": "What is insulin",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 957,
+  "verified_by_doctor": false
+}
+===CONTENT===
+What is insulin
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+What is insulin?
+
+We can’t live without insulin. It’s a hormone (chemical) made in your body that helps manage blood sugar levels.
+
+Insulin also comes as a medication that some people with diabetes take if their body doesn’t make any insulin – or what it makes doesn’t work properly – called insulin resistance .
+
+Everyone with type 1 diabetes takes insulin as a medication. And some people with type 2 diabetes take insulin too, as do some people with other types of diabetes including gestational diabetes.
+
+You can inject insulin or it's released using an insulin pump that attaches to you.
+
+How does insulin work?
+
+Insulin is like a key that helps unlock your cells and allows glucose (sugar) in your blood to move into your cells where it is used for energy. And insulin also helps the body store any extra glucose.
+
+You get the glucose from the carbohydrates you eat or drink – which your body breaks down.
+
+With any type of diabetes, you have too much sugar in your blood because glucose can’t get into your cells to fuel your body.
+
+High blood sugar levels
+
+Short term effects
+
+In the short-term high blood sugar levels can cause problems like the common diabetes symptoms .
+
+If you are unwell and dehydrated with very high blood sugar levels you can also go into a hyperosmolar hyperglycaemic state (HHS). This can happen in people with type 2 diabetes or those with undiagnosed type 2 diabetes.
+
+Severe lack of insulin
+
+Very high blood sugar levels in the short term caused by severe lack of insulin in the body can cause life threatening diabetic ketoacidosis (DKA) in people with type 1 diabetes and some people with type 2 diabetes. It may also be the first sign that someone has diabetes.
+
+Long term effects
+
+Over the longer term, high blood sugars can cause damage to parts of the body called diabetes complications .
+
+Using insulin as a treatment
+
+Insulin is one of the main treatments prescribed to help people with diabetes to manage their blood sugar levels and reduce their risk of complications.
+
+Taking insulin on its own is not enough to manage your blood sugar levels. You also need to keep as active as your general health allows and eat a healthy diet . This will help keep your blood sugar levels to target range. And reduce the risk of long-term complications.
+
+Your blood pressure and blood cholesterol also affect your risk of developing long term complications.
+
+Getting to your healthcare appointments and diabetes checks are also important. That way, many complications could be prevented and any damage to parts of your body can be picked up early.
+
+Getting insulin on prescription
+
+Insulin is free on prescription , along with any pens or needles you need.
+
+If you’re in Scotland, Wales and Northern Ireland, prescriptions are automatically free.
+
+But if you’re in England and under 60, you’ll need to fill in a medical exemption certificate which you can get from your GP or healthcare team.
+
+There are different types of insulin that can be used as treatment. Your healthcare team will work out with you which one you will need.
+
+Taking insulin
+
+Insulin comes as a liquid. It can be injected using a pen and needle (or needle and syringe). Or it can be released into your body using an electronic device called an insulin pump. This attaches to your body.
+
+An insulin pump is usually only offered free on the NHS to some people with type 1 diabetes. Find out who may qualify for an insulin pump.
+
+Learning how to inject
+
+Your healthcare team will teach you about injections and how much insulin you need. You can also call our helpline or join our forum for support from people in a similar position to you.
+
+Storing insulin
+
+Your healthcare team will suggest how much to get and store at home, but most people get enough for three months. It’s a good idea to have two weeks' worth left when you put your repeat prescription in.
+
+The best place to keep the insulin you're not using is in the fridge. This is because insulin needs to be kept at temperatures lower than 25°C (77°F). The ideal storage temperature is 2 to 6°C (36 to 43°F). For the insulin you've opened and are currently using, room temperature is usually fine. But this can be higher if the heating is on or it’s summer, so keep an eye on this and put it in the fridge if you’re worried.
+
+But don’t put it in the freezer, as this may damage the insulin. And if you leave it out of the fridge for 28 days or more you’ll need to throw it away as the insulin may have broken down.
+
+Some insulins may need to be stored slightly differently so make sure you read the information leaflet that comes with yours, or ask your healthcare team for more advice.
+
+Tips for insulin storage
+
+Keep spare vials or cartridges of insulin in their boxes in the fridge.
+Check the pack for the expiry date and don’t use it if it has expired.
+Don’t expose insulin to sunlight or high temperatures, so no leaving it in the car on a hot day or near the cooker.
+
+We have a loads of different cool bags in our online shop , to keep your insulin cool when you’re on the move. For tips on storing insulin on holiday or in very hot or cold weather, go to our diabetes and travel page .
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Share this Page

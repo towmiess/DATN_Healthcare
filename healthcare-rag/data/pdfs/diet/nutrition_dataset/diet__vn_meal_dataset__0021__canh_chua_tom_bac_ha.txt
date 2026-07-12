@@ -1,0 +1,39 @@
+===METADATA===
+{"title": "Canh chua tôm bạc hà", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh chua tôm bạc hà
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: canh chua, tôm, bạc hà, vitamin C
+
+Mô tả: Canh chua tôm nhẹ nhàng, tôm ít béo giàu đạm, bạc hà giàu kali.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.2
+Calo: 145 kcal
+Chất đạm (protein): 18.5 g
+Chất béo tổng: 3.2 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.5 g (chất xơ: 3.0 g, đường: 4.0 g, đường bổ sung: 0.0 g)
+Cholesterol: 125 mg | Natri: 398 mg
+Kali: 498 mg | Phốt pho: 195 mg | Magie: 35 mg
+Canxi: 62 mg | Sắt: 1.8 mg | Vitamin D: 1.2 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Tôm ít béo giàu đạm tốt các loại TĐ
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Người gút tránh ăn nhiều
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g tôm sú
+200g bạc hà
+2 cà chua
+50g me
+
+--- Cách chế biến ---
+1. Tôm bóc vỏ làm sạch
+2. Nấu nước me cà chua sôi
+3. Cho tôm vào nấu 5 phút
+4. Thêm bạc hà nấu thêm 3 phút
+5. Nêm gia vị

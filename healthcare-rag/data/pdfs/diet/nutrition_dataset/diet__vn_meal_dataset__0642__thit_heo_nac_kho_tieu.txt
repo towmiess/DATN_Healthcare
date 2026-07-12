@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Thịt heo nạc kho tiêu", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thịt heo nạc kho tiêu
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: thịt heo, kho tiêu, ít đường, protein
+
+Mô tả: Thịt nạc heo kho tiêu giảm đường, vị cay nồng từ tiêu đen tự nhiên, ít carb.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 195 kcal
+Chất đạm (protein): 24.5 g
+Chất béo tổng: 9.5 g (bão hòa: 3.2 g, chuyển hóa: 0.1 g)
+Carbohydrate tổng: 4.5 g (chất xơ: 0.3 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 58 mg | Natri: 398 mg
+Kali: 398 mg | Phốt pho: 215 mg | Magie: 28 mg
+Canxi: 18 mg | Sắt: 1.8 mg | Vitamin D: 0.2 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Natri từ nước mắm cần kiểm soát với biến chứng tim mạch
+Khẩu phần khuyến nghị: 1 phần nhỏ/bữa
+Chống chỉ định / thận trọng: Tim mạch giảm lượng nước mắm
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g thịt nạc heo
+1 muỗng tiêu đen
+1 muỗng đường ăn kiêng
+2 muỗng nước mắm
+
+--- Cách chế biến ---
+1. Thịt cắt miếng vừa ướp tiêu nước mắm 15 phút
+2. Kho lửa nhỏ với ít nước 25 phút
+3. Rắc thêm tiêu khi ăn

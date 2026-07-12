@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Trứng rau ngót chiên không dầu", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trứng rau ngót chiên không dầu
+Loại món: Món trứng | Ẩm thực: Vietnamese
+Từ khóa: trứng, rau ngót, protein, choline
+
+Mô tả: Trứng rau ngót chiên không dầu là món chiên không dầu kết hợp thịt nạc heo và rau ngót, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 113 kcal
+Chất đạm (protein): 13.9 g
+Chất béo tổng: 5.5 g (bão hòa: 1.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.8 g (chất xơ: 1.3 g, đường: 0.9 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 294 mg
+Kali: 527 mg | Phốt pho: 248 mg | Magie: 38 mg
+Canxi: 100 mg | Sắt: 2.3 mg | Vitamin D: 0.0 mcg | Omega-3: 2.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Món trứng; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+2 quả trứng
+100g rau ngót
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Đánh trứng hoặc để nguyên theo món
+2. Sơ chế rau ngót
+3. Chiên không dầu kết hợp
+4. Nêm gia vị nhạt

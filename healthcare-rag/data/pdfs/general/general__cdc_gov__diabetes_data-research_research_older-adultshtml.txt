@@ -1,0 +1,50 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/data-research/research/older-adults.html",
+  "title": "Cost of Diabetes Complications for Medicare Beneficiaries - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:48.756491",
+  "source_name": "cdc.gov",
+  "document_title": "Cost of Diabetes Complications for Medicare Beneficiaries - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 313,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Cost of Diabetes Complications for Medicare Beneficiaries - CDC
+
+May 15, 2024
+
+Cost of Diabetes Complications for Medicare Beneficiaries
+
+Key points
+
+Diabetes is the most expensive chronic disease in the United States.
+Diabetes can cause health complications like kidney disease and heart disease.
+In 2017, complications from diabetes cost over $37 billion among Medicare beneficiaries 65 and older with type 2 diabetes.
+
+What did the study examine?
+Researchers studied the annual cost of diabetes complications among older adults with type 2 diabetes. They estimated the annual costs per person for each complication from 2006 to 2017. They also estimated the total cost of all diabetes complications in 2017. Researchers used data from Medicare, which is a national health insurance program mainly for people 65 or older.
+
+Study results
+The total cost of diabetes complications was over $37 billion in 2017 for the US.
+The most common complications accounted for nearly 50% of total costs. These complications included:
+
+Kidney disease.
+Congestive heart failure.
+Stroke.
+
+Annual costs per person varied by diabetes complication. The most expensive complication was when an older adult had kidney failure and needed transplant surgery. Although this condition was rare, the cost of this treatment could be $80,000.
+A complication typically costs more when it's more advanced. For example, the average cost of treating kidney disease is about $1,800 to $9,500 per year. Once the disease progresses to kidney failure, treatment can cost more than $54,000.
+
+What's important about this study?
+Early diagnosis and treatment of diabetes complications could help slow the progression of complications, reducing medical costs. Reducing the risk of the most expensive complications could lower economic costs for the US health care system. These measures could also improve quality of life for older adults living with diabetes.
+Policy makers and public health professionals can use findings to support programs that help prevent, delay, or manage diabetes complications.
+See Also:
+Access the full research article
+
+May 14, 2024

@@ -1,0 +1,50 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/data-research/research/treatment-goals.html",
+  "title": "How People with Type 2 Diabetes Can Live Longer - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:40.206298",
+  "source_name": "cdc.gov",
+  "document_title": "How People with Type 2 Diabetes Can Live Longer - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 428,
+  "verified_by_doctor": false
+}
+===CONTENT===
+How People with Type 2 Diabetes Can Live Longer - CDC
+
+May 15, 2024
+
+How People with Type 2 Diabetes Can Live Longer
+
+Key points
+
+Life expectancy is known as the number of years a person is expected to live.
+
+At age 50, life expectancy is 6 years shorter for people with type 2 diabetes than for people without diabetes.
+
+By meeting type 2 diabetes treatment goals, life expectancy can increase by 3 years, or for some, as much as 10 years.
+
+What did this study examine?
+This study measured average increases in life expectancy years for people with type 2 diabetes who met four different treatment goals. Researchers divided study participants into six groups based on sex and three age ranges. People with diabetes can use results to estimate their own likely life expectancy increase.
+Terms to know
+Body mass index (BMI) is a measure of weight based on height.
+Hemoglobin A1C , or A1C , is a blood test that measures average blood sugar over the past 3 months.
+Low-density lipoprotein (LDL) cholesterol can build up in the blood vessels, causing damage to vessel walls.
+Systolic blood pressure (SBP) measures the force of blood pushing against artery walls as it moves through the body. Blood pressure is measured with a top and bottom number, and SBP refers to the top number.
+
+Study results
+Managing weight, blood sugar, blood pressure, and cholesterol can increase life expectancy by 3 years for the average person with type 2 diabetes. For people with the highest levels of BMI, A1C, LDL, and SBP, reducing these levels can potentially increase life expectancy by more than 10 years.
+The benefits in life expectancy from meeting treatment goals in this study were highest in adults ages 51 to 60, compared to those 61 and older.
+Of the four treatment goals studied, reduced BMI on average was associated with the greatest gain in life expectancy, followed by reduced A1C.
+The benefit of weight loss may have been underestimated since it is often connected with other treatment goals in this study. Weight loss must be maintained in the long term to potentially increase life expectancy.
+
+What's important about this study?
+Living well with diabetes requires more than blood sugar management. Diabetes management is also connected to weight, blood pressure, and cholesterol. This study shows how people with type 2 diabetes can reduce their risk of complications and extend their lives.
+These findings can help people with diabetes and their doctors determine treatment goals with the most impact on life expectancy. Decision makers can use this study to support diabetes programs in the United States.
+
+May 15, 2024

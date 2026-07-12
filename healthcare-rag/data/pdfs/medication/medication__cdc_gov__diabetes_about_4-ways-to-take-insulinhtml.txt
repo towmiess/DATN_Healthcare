@@ -1,0 +1,107 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/about/4-ways-to-take-insulin.html",
+  "title": "4 Ways To Take Insulin - CDC",
+  "category": "medication",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:11:33.385560",
+  "source_name": "cdc.gov",
+  "document_title": "4 Ways To Take Insulin - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 618,
+  "verified_by_doctor": false
+}
+===CONTENT===
+4 Ways To Take Insulin - CDC
+
+May 15, 2024
+
+Español
+
+4 Ways to Take Insulin
+
+Key points
+
+How and when to take insulin is different for each person and can change over time.
+You may take just one type of insulin or different types throughout the day.
+Each method for taking insulin has pros and cons.
+
+Terms to know
+Bolus insulin
+Short- or rapid-acting insulin taken at or before mealtimes to control blood sugar levels.
+Basal insulin (background insulin)
+Intermediate- or long-acting insulin taken to keep blood sugar levels steady between meals and overnight.
+Basal-bolus regimen
+Rapid-acting insulin taken at mealtimes and long-acting insulin taken once or twice a day.
+
+1. Syringe
+Syringes deliver insulin through a needle. Your doctor will tell you how much insulin you need per dose. Smaller-capacity syringes are easier to use and more accurate.
+If your largest dose is close to the syringe's maximum capacity, buy the next size up in case your dosage changes. If you need doses in half units, choose a syringe with half-unit markings.
+Pros and cons
+
+Injections using a syringe require less training than a pump.
+Injections may cost less than a pump.
+Syringes are less discreet than insulin pens and insulin pumps.
+
+2. Insulin pen
+Some insulin pens use cartridges that are inserted into the pen. Others are pre-filled and discarded after all the insulin is used. The insulin dose is dialed on the pen, and the insulin is injected through a needle.
+Pens may be more convenient than syringes, and many people find them more comfortable.
+Pros
+
+Pens are more portable and easier to use than syringes.
+Pen needles are smaller and more comfortable than syringe needles.
+
+Cons
+
+Pens are more expensive than syringes and may not be covered by insurance.
+Not all types of insulin can be used with a pen.
+
+Switch injection sites
+If you inject insulin near the same place each time, hard lumps or fatty deposits can develop. Both problems can be unsightly and make insulin less reliable.
+
+3. Insulin pump
+An insulin pump is about the size of a small cell phone. It gives you a dose of short- or rapid-acting insulin per hour. You calculate the dose, and the insulin in the pump delivers the bolus.
+The pump delivers insulin through a thin plastic tube placed into the fatty layer under your skin. This is usually in the stomach area or back of the upper arm. Your doctor or diabetes educator will show you how and where to place the tube.
+Pros
+
+Shown to improve A1C.
+Deliver insulin more accurately.
+Deliver bolus insulin easier.
+Eliminate unpredictable effects of intermediate- or long-acting insulin.
+Provide greater flexibility with meals, exercise, and daily schedule.
+Can improve physical and psychological well-being.
+
+Cons
+
+May cause weight gain.
+Can be expensive.
+May cause infection.
+May cause diabetic ketoacidosis if it's stopped or stops working correctly.
+Can be a constant reminder of having diabetes.
+Training is necessary.
+
+4. Insulin inhaler
+Inhaled insulin is taken using an oral inhaler to deliver ultra-rapid-acting insulin at the beginning of meals. Inhaled insulin is used with an injectable long-acting insulin.
+Pros
+
+Is not an injection.
+Acts very fast; is as effective as injectable rapid-acting insulins.
+Can be taken at the beginning of meals.
+Could lower risk of low blood sugar.
+Could cause less weight gain.
+Inhaler device is small.
+
+Cons
+
+Might cause mild or severe coughing.
+May be more expensive.
+Still requires injections or a pump for basal insulin.
+Dosing isn't as precise.
+
+When your needs change
+Make sure to talk to your doctor and diabetes educator when your lifestyle or needs change. They'll know about the latest devices and have tips to make taking insulin and all aspects of diabetes easier to manage.
+
+May 14, 2024

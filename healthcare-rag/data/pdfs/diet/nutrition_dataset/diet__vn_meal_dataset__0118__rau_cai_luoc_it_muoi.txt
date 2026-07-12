@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Rau cải luộc ít muối", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Rau cải luộc ít muối
+Loại món: Hấp/Luộc, Rau | Ẩm thực: Vietnamese
+Từ khóa: rau luộc, glucosinolate, vitamin C, chất xơ
+
+Mô tả: Rau cải các loại luộc giữ glucosinolate chống oxy hóa và vitamin C.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.5
+Calo: 45 kcal
+Chất đạm (protein): 3.5 g
+Chất béo tổng: 0.8 g (bão hòa: 0.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 4.5 g (chất xơ: 3.2 g, đường: 1.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 88 mg
+Kali: 312 mg | Phốt pho: 65 mg | Magie: 28 mg
+Canxi: 85 mg | Sắt: 1.5 mg | Vitamin D: 0.2 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít calo nhất trong các món rau
+Khẩu phần khuyến nghị: 1 đĩa lớn/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+300g rau cải bất kỳ
+Tỏi phi
+
+--- Cách chế biến ---
+1. Luộc rau nhanh 2-3 phút
+2. Vớt ra ngay tránh mất vitamin
+3. Rưới tỏi phi ít dầu

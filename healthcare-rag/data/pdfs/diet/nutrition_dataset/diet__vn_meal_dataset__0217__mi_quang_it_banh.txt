@@ -1,0 +1,39 @@
+===METADATA===
+{"title": "Mì quảng ít bánh", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Mì quảng ít bánh
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: mì quảng, tôm thịt, rau sống, GI trung bình
+
+Mô tả: Mì Quảng truyền thống, giảm mì tăng rau sống giúp kiểm soát GI.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 7.5
+Calo: 258 kcal
+Chất đạm (protein): 18.5 g
+Chất béo tổng: 8.5 g (bão hòa: 1.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 30.5 g (chất xơ: 4.5 g, đường: 3.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 85 mg | Natri: 378 mg
+Kali: 425 mg | Phốt pho: 185 mg | Magie: 38 mg
+Canxi: 72 mg | Sắt: 2.5 mg | Vitamin D: 0.5 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít mì nhiều rau là nguyên tắc điều chỉnh mì quảng TĐ
+Khẩu phần khuyến nghị: 1 đĩa nhỏ/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: thấp
+
+--- Nguyên liệu ---
+60g mì quảng
+100g tôm
+100g thịt heo
+Rau sống
+Nước lèo nhạt
+
+--- Cách chế biến ---
+1. Nấu nước lèo nhạt
+2. Cho tôm thịt vào
+3. Chan vào ít mì
+4. Ăn nhiều rau sống

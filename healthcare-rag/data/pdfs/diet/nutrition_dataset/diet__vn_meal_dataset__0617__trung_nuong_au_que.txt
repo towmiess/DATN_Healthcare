@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Trứng nướng đậu que", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trứng nướng đậu que
+Loại món: Món trứng | Ẩm thực: Vietnamese
+Từ khóa: trứng, đậu que, protein, choline
+
+Mô tả: Trứng nướng đậu que là món nướng kết hợp cá rô phi và đậu que, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 166 kcal
+Chất đạm (protein): 7.8 g
+Chất béo tổng: 9.5 g (bão hòa: 3.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.4 g (chất xơ: 2.9 g, đường: 2.7 g, đường bổ sung: 0.0 g)
+Cholesterol: 45 mg | Natri: 181 mg
+Kali: 252 mg | Phốt pho: 257 mg | Magie: 51 mg
+Canxi: 102 mg | Sắt: 0.6 mg | Vitamin D: 2.5 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Món trứng; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+2 quả trứng
+100g đậu que
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Đánh trứng hoặc để nguyên theo món
+2. Sơ chế đậu que
+3. Nướng kết hợp
+4. Nêm gia vị nhạt

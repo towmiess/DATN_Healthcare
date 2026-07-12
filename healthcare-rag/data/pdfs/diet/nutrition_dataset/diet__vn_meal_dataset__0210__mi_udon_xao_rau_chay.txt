@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Mì udon xào rau chay", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Mì udon xào rau chay
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: udon, rau xanh, chay, GI trung bình
+
+Mô tả: Mì udon mềm xào chay với nhiều rau, tốt cho bệnh nhân TĐ ăn chay.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 8.5
+Calo: 225 kcal
+Chất đạm (protein): 7.5 g
+Chất béo tổng: 4.5 g (bão hòa: 0.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 38.5 g (chất xơ: 4.5 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 278 mg
+Kali: 358 mg | Phốt pho: 145 mg | Magie: 38 mg
+Canxi: 42 mg | Sắt: 2.2 mg | Vitamin D: 0.2 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Nhiều rau giảm GI tổng hợp của udon
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+120g mì udon
+250g rau hỗn hợp
+2 tép tỏi
+1 muỡng nước tương ít muối
+
+--- Cách chế biến ---
+1. Luộc mì udon
+2. Phi tỏi xào rau
+3. Cho mì vào đảo đều
+4. Nêm nước tương nhẹ

@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Ngao nướng bí xanh", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Ngao nướng bí xanh
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: ngao, bí xanh, protein, nướng
+
+Mô tả: Ngao nướng bí xanh là món nướng kết hợp ngao và bí xanh, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 168 kcal
+Chất đạm (protein): 16.5 g
+Chất béo tổng: 7.8 g (bão hòa: 1.7 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 10.3 g (chất xơ: 1.7 g, đường: 3.6 g, đường bổ sung: 0.0 g)
+Cholesterol: 85 mg | Natri: 522 mg
+Kali: 189 mg | Phốt pho: 197 mg | Magie: 73 mg
+Canxi: 95 mg | Sắt: 2.4 mg | Vitamin D: 0.0 mcg | Omega-3: 1.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Thịt nạc; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g ngao
+200g bí xanh
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế ngao và bí xanh
+2. Nướng theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

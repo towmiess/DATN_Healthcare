@@ -1,0 +1,120 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/about/low-blood-sugar-hypoglycemia.html",
+  "title": "Low Blood Sugar (Hypoglycemia)",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:30.596792",
+  "source_name": "cdc.gov",
+  "document_title": "Low Blood Sugar (Hypoglycemia)",
+  "extraction_method": "<main>",
+  "word_count": 572,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Low Blood Sugar (Hypoglycemia)
+
+May 16, 2024
+
+Español
+
+Low Blood Sugar (Hypoglycemia)
+
+Key points
+
+Low blood sugar can be dangerous if left untreated.
+
+Blood sugar below 70 mg/dL is considered low.
+
+Low blood sugar is especially common in people with type 1 diabetes.
+
+Overview
+Blood sugar levels change often during the day. When they drop below 70 mg/dL, this is called having low blood sugar.
+At this level, you need to take action to bring it back up. Low blood sugar is especially common in people with type 1 diabetes.
+Knowing how to spot low blood sugar is important because it can be dangerous if left untreated. Read more about what causes low blood sugar and common symptoms.
+
+Types
+Nighttime low blood sugar
+Low blood sugar can happen at any time during the day. Some people may experience low blood sugar while they sleep. Reasons this may happen include:
+
+Having an active day.
+
+Being physically active close to bedtime.
+
+Taking too much insulin.
+
+Drinking alcohol at night.
+
+Eating regular meals and not skipping them can help you avoid nighttime low blood sugar. Eating when you drink alcohol can also help. If you think you're at risk for low blood sugar overnight, have a snack before bed.
+You may wake up when you have low blood sugar, but you shouldn't rely on that. A continuous glucose monitor (CGM) can alert you if your blood sugar gets low while you're sleeping.
+Severe low blood sugar
+As your low blood sugar gets worse, you may have more serious symptoms, including:
+
+Feeling weak.
+
+Having trouble walking or seeing clearly.
+
+Acting strange or feeling confused.
+
+Having seizures.
+
+Severe low blood sugar is below 54 mg/dL. Blood sugar this low may make you faint (pass out). Often, you'll need someone to help you treat severe low blood sugar.
+People with diabetes can have low blood sugar as often as once or twice a week. This can happen even when they manage their blood sugar closely. Knowing how to identify and treat it is important for your health. Learn how to treat low blood sugar .
+
+How you react to low blood sugar may not be the same as it is for others. It's important to know your symptoms. Common symptoms may include:
+
+Fast heartbeat.
+
+Shaking.
+
+Sweating.
+
+Nervousness or anxiety.
+
+Irritability or confusion.
+
+Dizziness.
+
+Hunger.
+
+Hypoglycemia unawareness
+You may not have any symptoms when your blood sugar is low (hypoglycemia unawareness). If you don't have symptoms, it will be harder to treat your low blood sugar early. This increases your risk of having severe lows and can be dangerous. This is more likely to happen if you:
+
+Have had diabetes for more than 5–10 years.
+
+Often have low blood sugar.
+
+Take certain medicines, such as beta blockers for high blood pressure.
+
+If you meet one or more of the above and you have hypoglycemia unawareness, check your blood sugar more often. Checking is especially important to do before driving or being physically active.
+
+Causes
+There are many reasons why you may have low blood sugar, including:
+
+Taking too much insulin .
+
+Not eating enough carbohydrates for how much insulin you take.
+
+Timing of when you take your insulin.
+
+The amount and timing of physical activity.
+
+Drinking alcohol.
+
+How much fat, protein, and fiber are in your meal.
+
+Hot and humid weather.
+
+Unexpected changes in your schedule.
+
+Spending time at a high altitude.
+
+Going through puberty.
+
+Having your period (menstruation).
+
+May 16, 2024
+
+Syndicate

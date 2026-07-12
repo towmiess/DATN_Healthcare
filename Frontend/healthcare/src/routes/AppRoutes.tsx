@@ -9,6 +9,7 @@ import AdminLayout from "@/layouts/admin/AdminLayout";
 import UserLayout from "@/layouts/user/UserLayout";
 import AdminHome from "@/pages/admin/AdminHome";
 import UserHome from "@/pages/user/UserHome";
+import Chatbot from "@/pages/user/Chatbot/Chatbot";
 import { getAccessToken, getLoginRedirectPath, hasRole } from "@/utils/auth";
 
 const getDefaultPathForRoles = () => {
@@ -67,6 +68,7 @@ const AppRoutes = () => {
         <Route element={<RequireRole roles={["USER"]} />}>
           <Route path="/user" element={<UserLayout />}>
             <Route index element={<UserHome />} />
+            <Route path="chat" element={<Chatbot />} />
           </Route>
         </Route>
         <Route path="/change-password" element={<ChangePass />} />

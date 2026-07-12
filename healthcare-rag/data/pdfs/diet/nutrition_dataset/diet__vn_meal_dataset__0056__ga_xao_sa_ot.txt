@@ -1,0 +1,39 @@
+===METADATA===
+{"title": "Gà xào sả ớt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Gà xào sả ớt
+Loại món: Món xào, Món gà | Ẩm thực: Vietnamese
+Từ khóa: gà, sả, ớt, protein, GI thấp
+
+Mô tả: Gà xào sả ớt thơm nồng, ít carb, sả có tác dụng hỗ trợ hạ đường huyết nhẹ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.5
+Calo: 185 kcal
+Chất đạm (protein): 25.5 g
+Chất béo tổng: 8.5 g (bão hòa: 1.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 3.5 g (chất xơ: 1.5 g, đường: 1.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 88 mg | Natri: 395 mg
+Kali: 488 mg | Phốt pho: 215 mg | Magie: 38 mg
+Canxi: 18 mg | Sắt: 1.5 mg | Vitamin D: 0.5 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Sả hỗ trợ hạ đường huyết nhẹ, tốt mọi loại TĐ
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+250g đùi gà bỏ da
+3 cây sả
+3 quả ớt
+2 tép tỏi
+1 muỗng dầu
+
+--- Cách chế biến ---
+1. Gà thái miếng ướp sả ớt
+2. Phi tỏi sả thơm
+3. Cho gà vào xào vàng đều
+4. Nêm gia vị ít muối

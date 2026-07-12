@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Canh bí đỏ đậu phộng chay", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh bí đỏ đậu phộng chay
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: bí đỏ, đậu phộng, chay, beta-carotene
+
+Mô tả: Beta-carotene bí đỏ kết hợp protein đậu phộng tạo canh chay đầy đủ dưỡng chất.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 4.5
+Calo: 165 kcal
+Chất đạm (protein): 7.5 g
+Chất béo tổng: 7.5 g (bão hòa: 1.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 18.5 g (chất xơ: 3.5 g, đường: 5.5 g, đường bổ sung: 0.8 g)
+Cholesterol: 0 mg | Natri: 285 mg
+Kali: 425 mg | Phốt pho: 165 mg | Magie: 42 mg
+Canxi: 32 mg | Sắt: 1.5 mg | Vitamin D: 0.1 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Hoàn toàn chay, beta-carotene tốt mắt
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+250g bí đỏ
+30g đậu phộng
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Nấu bí đỏ với nước 20 phút
+2. Thêm đậu phộng nấu 10 phút
+3. Nêm gia vị nhạt

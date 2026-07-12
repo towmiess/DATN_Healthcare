@@ -151,16 +151,21 @@
   position: relative;
   z-index: 1;
   padding: 28px 26px 32px;
+  min-height: 0;
 }
 
 .dashboard-main__content {
+  height: 100%;
   min-height: calc(100vh - 126px);
+  display: flex;
+  flex-direction: column;
   border-radius: 30px;
   padding: 28px;
   background:
     linear-gradient(135deg, rgba(255, 255, 255, 0.96), rgba(248, 250, 252, 0.94));
   border: 1px solid rgba(226, 232, 240, 0.92);
   box-shadow: 0 24px 60px rgba(15, 23, 42, 0.1);
+  overflow: hidden;
 }
 
 @media (max-width: 960px) {

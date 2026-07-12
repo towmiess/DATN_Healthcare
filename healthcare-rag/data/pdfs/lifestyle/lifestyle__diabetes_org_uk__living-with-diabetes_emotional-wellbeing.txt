@@ -1,0 +1,33 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/living-with-diabetes/emotional-wellbeing",
+  "title": "Emotional wellbeing",
+  "category": "lifestyle",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:13:33.859984",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Emotional wellbeing",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 840,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Emotional wellbeing
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Diabetes and your emotions
+
+Diabetes doesn't just affect you physically, it can affect you emotionally too. Whether you've just been diagnosed or you've lived with diabetes for a long time, you may need support for all the emotions you're feeling. This could be stress , feeling low and depressed , or burnt out . The people around you can feel all of this too. Whatever you're feeling, you are not alone. Here's some information you might find helpful – you might like to share it with your family and friends too. Visit our new stigma hub Diabetes stigma happens when negative attitudes and incorrect assumptions are made about people living with or at risk of diabetes. Read our information which you might find helpful if you or someone you know has experienced diabetes stigma. Talking about how you feel Talking about diabetes and how it's making you feel isn’t always easy. It can be hard to get started, or find someone you think you can open up to. Maybe you don't feel like you need to talk about anything or you don't want to burden anyone. But offloading some of what you're feeling has so many benefits, both for you and for those close to you. Read our advice on talking about your diabetes . We've got tips to help you start those conversations with your family and friends, your boss at work, and really importantly your healthcare professional team.
+
+Stress and diabetes Everyone can feel stressed from time to time. But having diabetes to manage as well as everything else in life can feel very overwhelming. Stress can affect your blood sugar levels, so it's important you know how to recognise when you're stressed and how to deal with it. We can help you cope with stress when you have diabetes. Coping with being diagnosed Being diagnosed with diabetes can come as a shock. First reactions may be disbelief, feeling overwhelmed, even anger. Usually these feelings ease after a while and diabetes becomes part of life. But sometimes these feelings don’t go away easily. If you feel this way, you're not alone. There are lots of people out there to support you – your family, your friends, your healthcare professional team, and we're here for you too. We can help you get to grips with diabetes and help you find other people going through the same things as you. Take a look at our guide to being diagnosed to help you start adjusting to life with diabetes.
+“The beginning was incredibly tough. I went from hating needles to having to inject myself several times a day, figuring out dosages through some trial and error. "My dad played a big part in helping me shift my mindset from 'Why me?' to “What can I do to make the best of this condition?'" Read Sonia's story Depression and diabetes Diabetes can be difficult to live with day to day and get you down, this is completely normal. But if these feelings won't go away, you might have depression. Having depression and diabetes is more common than you might think – people with diabetes are twice as likely to develop depression than people who don't have diabetes. We can help you know the signs of depression and how to manage it. Diabetes distress Diabetes can be really tough to live with. Sometimes people feel distressed, which can include feeling frustrated, guilty, sad or worried. It's understandable if you feel this way from time to time – you’re not alone. There are lots of things you can do to help you cope with feeling diabetes distress . Fear of hypos Hypoglycaemia or a hypo is when your blood glucose level (blood sugar) goes too low. Not everyone with diabetes can get hypos, but some often worry or get anxious about having them. If these feelings don't go away or start to take over your daily life, then it's important you talk to someone about it. Find out how to work through your hypo anxiety . Emotions and food Diabetes can put more of a focus on food and diet. Having to pay close to attention to what you eat and learn new ways to cook can be stressful. Some people find they eat more when they're stressed or eat less because they're feeling low. Eating different foods can have an impact on your mood too – find out more about the link between your feelings and food . Sometimes, it can mean more of a focus on weight and body image too. This can lead to an unhealthy relationship with food, something called disordered eating, or possibly an eating disorder . Diabulimia is a serious eating disorder that people with type 1 diabetes can develop. We've got more information on diabulimia and what can help if you're struggling with it.
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Share this Page

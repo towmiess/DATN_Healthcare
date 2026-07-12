@@ -1,0 +1,38 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/hay-ha-duong-huyet-co-phai-bi-tieu-duong-vi",
+  "title": "Hạ đường huyết có phải bị tiểu đường",
+  "category": "emergency",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:11:02.971378",
+  "source_name": "vinmec.com",
+  "document_title": "Hạ đường huyết có phải bị tiểu đường",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1130,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Hạ đường huyết có phải bị tiểu đường
+
+-->
+
+Chuyên trang sức khoẻ
+Sức khoẻ tổng quát
+
+Hay hạ đường huyết có phải bị tiểu đường?
+
+☰
+Mục lục
+
+Hạ đường huyết là tình trạng mức đường trong máu trở nên thấp hơn bình thường gây hại cho sức khỏe. Tuy nhiên, tình trạng hạ đường huyết cũng là dấu hiệu của rất nhiều bệnh lý. Vậy thường xuyên hạ đường huyết có phải bị tiểu đường hay không?
+1. Hạ đường huyết có biểu hiện gì?
+Thông thường cơ thể hấp thu đường qua các thức ăn có nhiều carbohydrates như gạo, khoai tây, bánh mì, ngũ cốc, sữa, trái cây và các loại đồ ngọt. Đường được tích trữ trong gan và mô dưới dạng glycogen và sẽ được phân hoá thành glucose để tạo năng lượng cho cơ thể. Hạ đường huyết là tình trạng lượng đường (glucose) trong máu quá thấp dẫn đến một số biểu hiện như: Tim đập nhanh, nhịp tim không đều Da dẻ nhợt nhạt Mệt mỏi Chân tay run rẩy Đổ nhiều mồ hôi Lo lắng, bồn chồn Đau nhói hoặc bị tê ở lưỡi và môi Cáu gắt Nghiêm trọng hơn nếu hạ đường huyết kéo dài có thể gây ra các triệu chứng như: Co giật Rối loạn thị giác Mất ý thức Nhầm lẫn trong các hành vi
+2. Hay hạ đường huyết có phải bị tiểu đường?
+Có rất nhiều nguyên nhân gây ra hạ đường huyết, thường gặp nhất là tác dụng phụ của thuốc điều trị đái tháo đường . Ngoài ra, các nguyên nhân chính khác dẫn tới hạ đường huyết gồm có: Đái tháo đường: Bệnh nhân đái tháo đường không có khả năng tạo ra đủ lượng insulin hoặc ít đáp ứng insulin dẫn tới sự thiếu hụt insulin, glucose không thể đi vào tế bào và tích tụ nhiều trong máu, dần dần sẽ đạt được một mức rất cao gây nguy hiểm. Bệnh nhân khi bổ sung quá liều insulin hoặc tác dụng phụ từ thuốc điều trị tiểu đường có thể làm sụt giảm quá mức lượng đường trong máu dẫn tới hạ đường huyết. Ngoài ra, tình trạng này cũng có thể bắt gặp ở bệnh nhân kiêng khem, cắt giảm khẩu phần ăn quá mức so với bình thường Uống rượu khi đang dùng các loại thuốc tiểu đường có thể dẫn tới lượng đường trong máu thấp, việc ổn định đường huyết trở nên khó khăn Hạ đường huyết không do đái tháo đường: Uống nhiều rượu nhưng không ăn sẽ ngăn cản gan giải phóng glucose được dự trữ vào trong máu gây hạ đường huyết Sản xuất quá nhiều insulin: khi tuyến tụy có khối u sẽ sản sinh quá mức insulin làm hạ đường huyết Một số loại thuốc có thể gây hạ đường huyết do tác dụng phụ nhất là ở bệnh nhân suy thận, trẻ em như thuốc Quinine dùng trong chữa bệnh sốt rét Thiếu hụt nội tiết tố: tuyến yên và một số loại tuyến thượng thận có thể là nguyên nhân chính gây ra sự thiếu hụt các loại hormon có nhiệm vụ điều chỉnh quá trình sản xuất glucose. Ở trẻ em hạ đường huyết có thể do thiếu hụt hormone tăng trưởng Bệnh về gan (xơ gan, viêm gan) có thể làm ảnh hưởng đến lượng đường trong máu gây hạ đường huyết. Hay như các bệnh rối loạn thận làm giảm hiệu quả bài tiết thuốc, khi các chất có trong thuốc bị tích tụ lại sẽ làm ảnh hưởng đến hàm lượng glucose. Tóm lại, bản thân bệnh lý đái tháo đường không gây nên hiện tượng hạ đường huyết thường xuyên mà là do phương pháp điều trị sử dụng thuốc tiểu đường quá liều hoặc bệnh nhân uống thuốc nhưng ăn ít hơn bình thường. Vì vậy, khi thường xuyên bị hạ đường huyết bệnh nhân có thể tham khảo ý kiến của bác sĩ để tìm ra những nguyên nhân khác gây nên hiện tượng này.
+3. Xử trí hạ đường huyết như thế nào?
+Một bệnh nhân tiểu đường đang có các triệu chứng hạ đường huyết từ nhẹ đến trung bình cần một bữa ăn nhẹ có ít nhất 15g carbohydrate dễ tiêu hoá như 1⁄2 cốc nước trái cây hoặc soda thông thường, một thìa mật ong, 4-5 cái bánh quy giòn, 3-4 viên kẹo cứng hoặc một thìa đường. Ngoài ra, bạn cũng có thể uống viên glucose không kê toa để tăng nhanh lượng đường trong máu. Chờ 15 phút sau khi ăn hoặc uống viên glucose và kiểm tra lại lượng đường trong máu. Nếu lượng đường trong máu không tăng lên, hãy ăn thêm 15 g carbohydrate hoặc uống 1 liều thuốc viên glucose khác. Đường huyết rất thấp cần can thiệp cấp cứu, không nên cho người bất tỉnh bất cứ thì gì bằng miệng vì có thể gây ho sặc, viêm phổi hít. Trường hợp hạ đường huyết do nguyên nhân khác: Trường hợp nghi ngờ có khối u tụy cần làm siêu âm, chụp cắt lớp vi tính ổ bụng, siêu âm nội soi,... để phát hiện bệnh sớm và điều trị kịp thời Nếu hạ đường huyết nặng trong tình trạng hôn mê cần tiêm tĩnh mạch dung dịch glucose ưu trương 20 hoặc 30% hoặc truyền tĩnh mạch dung dịch glucose 5% hoặc 10%. Nếu có thể tiêm dưới da 1 mg glucagon.
+4. Phòng ngừa hạ đường huyết như thế nào?
+Một số biện pháp nhằm ngăn ngừa hạ đường huyết gồm có: Không nên nhịn đói hoặc để cơ thể bị đói quá lâu, không nên nhịn ăn mà hoạt động thể lực quá mức. Không bỏ bữa sáng, đặc biệt là người già, trẻ em, người có bệnh mãn tính Tuân thủ đúng chỉ định điều trị của bác sĩ về chế độ dùng thuốc và chế độ ăn uống điều trị bệnh tiểu đường. Loại bỏ các yếu tố nguy cơ như chế độ ăn kiêng khem, bỏ ăn vì mệt mỏi,... Thường xuyên kiểm tra đường huyết tại các cơ sở y tế hoặc có thể tự làm kiểm tra tại nhà bằng cách theo dõi đường máu mao mạch theo chỉ dẫn của nhân viên y tế Cần có chế độ tập luyện thường xuyên, phù hợp theo từng đối tượng Luôn mang theo kẹo, bánh, socola, nước ngọt trong túi để đề phòng nguy cơ hạ đường huyết Hi vọng những thông tin bài viết trên đã giúp bạn giải đáp hạ đường huyết có phải bị tiểu đường hay không? Nếu có bất kỳ băn khoăn, thắc mắc nào hãy liên hệ bác sĩ Vinmec để được hỗ trợ.

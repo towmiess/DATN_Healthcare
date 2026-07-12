@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Thịt heo xào giá đỗ", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thịt heo xào giá đỗ
+Loại món: Món xào | Ẩm thực: Vietnamese
+Từ khóa: giá đỗ, thịt heo, vitamin C, nhanh
+
+Mô tả: Giá đỗ giàu vitamin C và isoflavone, nhanh chín GI thấp.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.5
+Calo: 148 kcal
+Chất đạm (protein): 17.5 g
+Chất béo tổng: 6.8 g (bão hòa: 2.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.5 g (chất xơ: 2.5 g, đường: 1.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 48 mg | Natri: 335 mg
+Kali: 365 mg | Phốt pho: 162 mg | Magie: 28 mg
+Canxi: 42 mg | Sắt: 1.5 mg | Vitamin D: 0.2 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Isoflavone từ đậu giúp nhạy cảm insulin
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+150g thịt nạc heo
+200g giá đỗ
+2 tép tỏi
+10g hẹ
+
+--- Cách chế biến ---
+1. Phi tỏi
+2. Xào thịt chín
+3. Cho giá đỗ và hẹ vào xào 1 phút
+4. Nêm gia vị

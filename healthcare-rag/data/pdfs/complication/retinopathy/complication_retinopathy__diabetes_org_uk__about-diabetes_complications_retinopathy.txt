@@ -1,0 +1,267 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/complications/retinopathy",
+  "title": "Retinopathy - Diabetes UK",
+  "category": "complication/retinopathy",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:18:28.649624",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Retinopathy - Diabetes UK",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 2355,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Retinopathy - Diabetes UK
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Diabetic retinopathy — diabetes and eye problems
+
+What is diabetic retinopathy?
+
+Diabetic retinopathy is a complication of diabetes. Sometimes called diabetic eye disease, it occurs when high blood sugar levels damage the retina at the back of your eye. This is the seeing part of your eye. If you don’t get this eye problem treated in time, it could result in blindness.
+
+Diabetes is one of the main causes of preventable sight loss in the UK. But if diabetic retinopathy is diagnosed in the early stages and treated, sight loss can be prevented. So it’s important to go to your diabetic eye screening appointments .
+
+If you drive and your eyesight changes, check the DVLA guidance on eye conditions and driving to see if you need to report the changes.
+
+This page covers:
+
+What causes diabetic retinopathy?
+Diabetic retinopathy symptoms
+Stages of diabetic retinopathy
+Treatments for diabetic retinopathy
+Coping with losing your sight
+Screening for diabetic retinopathy
+Screening for other eye problems
+How to prevent diabetic retinopathy
+
+What causes diabetic retinopathy?
+
+There are lots of important blood vessels in your eyes, which help supply blood to the seeing part of the eye called the retina.
+
+If your blood glucose levels, also known as blood sugar levels , are consistently high, it can cause serious damage to the blood vessels.
+
+When these blood vessels are damaged they can swell and leak, or they can close, stopping blood from passing through. And sometimes abnormal, new blood vessels grow on the retina. These changes mean you might not be able to see properly.
+
+High blood pressure and a lot of fat in your blood, called cholesterol, will also increase your risk of getting eye problems. This is because your blood vessels can get damaged or blocked, so the blood can’t move around your eye properly.
+
+Diabetic retinopathy symptoms
+
+In the early stages, diabetic retinopathy does not tend to have any obvious symptoms.
+
+Some of the early signs – and these won’t be the same for everyone – may include:
+
+floaters, these look like wispy clouds, floating in and out of your vision
+dimmer vision, like you’re wearing sunglasses all the time
+struggling to see when it’s dark.
+
+If you notice any changes, or you’re struggling to see as clearly as normal, make an appointment with your doctor straight away. Don’t wait until your next screening appointment.
+
+If you have diabetic maculopathy , which is a type of retinopathy that affects the small central part of the retina called the macula, you may notice changes to your central vision. Your vision to the side (peripheral vision) may still be normal.
+
+Stages of diabetic retinopathy
+
+Diabetic retinopathy develops in stages. When you have a diabetic eye check, you’ll get the results in a letter. It will usually be one of the following:
+
+no eye changes (no signs of diabetic retinopathy)
+some changes to your eyes
+eye damage that could affect your sight
+signs of diabetic maculopathy.
+
+Your healthcare team should discuss these results with you.
+
+Stage one: Background diabetic retinopathy
+
+Your eyesight isn’t affected yet but there are indications of problems ahead. Tiny bulges have appeared in the blood vessels in the back of your eyes, the retina, which may leak small amounts of blood.
+
+Stage two: Pre-proliferative diabetic retinopathy
+
+Some changes to your eyes. There’s a high risk your vision could eventually be affected because there are widespread changes in your retina.
+
+Stage three: Proliferative diabetic retinopathy
+
+Eye damage that could affect your sight. You’re at a very high risk of losing your sight.
+
+Diabetic maculopathy
+
+Diabetic maculopathy, also known as diabetic macular oedema (DMO), affects the middle part of the retina called the macula which provides central vision.
+
+High blood sugar levels can cause the blood vessels in this part of the eye to become leaky or blocked. If diabetic maculopathy is detected, there is a high risk your central vision may be affected and you may not be able to read or drive.
+
+Diabetic maculopathy isn’t the same as age-related macular degeneration, which is a cause of vision loss for people aged 50 and older. People with diabetes can be affected by this too.
+
+What is the treatment for diabetic retinopathy?
+
+While diabetic retinopathy can’t be reversed, there are treatments available that can slow down or stop sight loss getting worse. If it’s spotted early enough, diabetic retinopathy can nearly always be treated to avoid-long-term sight problems.
+
+The treatment for diabetic retinopathy will depend on the stage it’s reached. See the table below. At every stage, taking or continuing steps to keep your eyes healthy to prevent further damage is important.
+
+Your healthcare team will be able to talk you through any treatment being offered or any potential side effects or risks and answer any of your questions. They will also support you through the treatment.
+
+Treatment options for stages of diabetic retinopathy and diabetic maculopathy
+
+No signs of diabetic retinopathy
+
+Take steps to keep your eyes healthy.
+Keep going to your diabetic eye screening appointments.
+
+Background diabetic retinopathy
+
+Eyesight isn’t affected yet but indications of problems ahead.
+
+Take steps to keep your eyes healthy to try and prevent further damage.
+Keep going to your diabetic eye screening appointments.
+
+Pre-proliferative diabetic retinopathy
+
+Some changes to your eyes. There’s a high risk your vision could eventually be affected.
+
+You’ll be offered more frequent eye screening appointments to monitor changes affecting your eyes.
+Take steps to keep your eyes healthy and prevent further damage.
+
+Proliferative diabetic retinopathy
+
+You’re at a high risk of losing your sight.
+Sometimes called advanced retinopathy.
+
+Referral to an eye specialist
+
+The main treatments for more advanced diabetic retinopathy are:
+laser treatment
+injections of medication into your eyes
+eye surgery know as vitreoretinal surgery
+Take steps to try and prevent further eye damage.
+
+Diabetic maculopathy
+
+Affects your central vision.
+
+Early stage
+
+Keep going to your diabetic eye screening appointments.
+Take steps to keep your eyes healthy and prevent further damage.
+
+For more advanced cases:
+
+Referral to an eye specialist.
+Laser therapy, injections or surgery are the main treatment options.
+Take steps to try and prevent further eye damage.
+
+Laser treatment
+
+Laser treatment is used for early proliferative retinopathy and to stabilise some cases of diabetic maculopathy.
+
+The treatment causes the growth of new abnormal blood vessels at the back of your eye to shrink and disappear. It can help stabilise the changes in your eyes caused by your diabetes and stop your vision getting any worse, although it won’t usually improve your sight.
+
+Laser treatment usually takes place at the hospital and is done by an ophthalmologist – an eye doctor. A session of laser treatment takes around 30 minutes and you may need more than one session. You have the treatment as an outpatient so you don’t stay the night.
+
+You’ll need someone to go with you as you won’t be able to drive or get home on your own. Take some sunglasses as everything may look very bright for a little while afterwards.
+
+What to expect
+
+You’ll be given eye drops to widen your pupil, the black spot in the middle of your eye.
+A special contact lens is then put on your eye to hold your eyelids open and focus the laser into the retina.
+During laser treatment you will see flashes of light. You may feel a stinging sensation which can feel uncomfortable.
+
+Possible side effects
+
+After laser treatment you may experience some side effects such as blurred vision, discomfort and your eyes may be sensitive to light. The side effects can last a few hours.With more advanced lasers, complications are less common. It is rare but there is a risk of permanent loss of central vision.
+
+Eye injections
+
+If you have proliferative retinopathy or diabetic maculopathy you may be given treatment with anti-VEGF medicines, which are given by injection into your eye.
+
+Anti-VEGF medicines help prevent new blood vessels from forming at the back of your eyes and can help stop the problems in your eyes from getting worse. It may also improve your vision.
+
+You have the injections as an outpatient at the hospital. You won’t be able to drive and you’ll need someone to help you get home because your vision will be blurry for a few hours afterwards.
+
+You will usually have an injection once a month to begin with. Once your vision starts to stabilise, you will have them less often, or stop them altogether, although you’ll still have follow-up appointments.
+
+The injection is done by an ophthalmologist – an eye doctor. It’s a short procedure and should not be painful but might feel uncomfortable:
+
+What to expect
+
+Eye drops are put into your eye to numb it so it won’t feel painful.
+The skin around your eyes will be cleaned and covered with a sheet.
+A small clip is put on your eye to keep it open.
+A very thin needle is injected into your eyeball.
+After the injection, eye drops are put into your eye to prevent it from drying out.
+
+Possible side effects
+
+As with any medical procedure, there is a small risk of complications after the eye injections. They include:
+
+irritated or uncomfortable eyes
+floaters or a feeling of having something in your eye
+watery or dry, itchy eyes.
+
+Steroid eye implants (injected into your eye)
+
+If you have proliferative retinopathy or diabetic retinopathy and can’t have anti-VEGF injections or they haven’t worked, you may be offered an implant containing a steroid medicine.
+
+What to expect
+
+After having a local anaesthetic first to numb your eye the implant is injected into your eye using a special applicator. The implant slowly releases the steroid over a few months. This reduces swelling in your eye, and can help to improve your eyesight.
+
+The implant eventually dissolves so it does not need to be removed.
+
+Eye surgery
+
+If you have very advanced proliferative diabetic retinopathy, you may need eye surgery. This is called vitreoretinal surgery and is an operation to treat eye problems involving the retina, macula and vitreous fluid.
+
+The operation is usually carried out under a local anaesthetic with sedation, so you won’t feel any pain. There’s more information about what to expect from eye surgery on the NHS retinopathy page .
+
+Coping with losing your sight
+
+If you lose your sight, it can be difficult to deal with but there are lots of ways to get support. Many people do find ways to cope while living their lives. Find more information about living with sight loss on the RNIB website
+
+We are here to support you if you want to chat things through with one of our trained advisors or want information. Give our helpline a call on 0345 123 2399.
+
+Some people who develop sight loss may also experience sight hallucinations, where you see things that aren’t necessarily there, which can be very frightening. This is called Charles Bonnet Syndrome (CBS). It can occur in people with over 60% sight loss. For more information on CBS visit Esme's Umbrella .
+
+What is the screening process for diabetic retinopathy
+
+At your diabetic eye screening appointments your eyes will be screened for signs of diabetic retinopathy as part of your annual review. It is different to a normal sight test. If any eye problems are picked up, your healthcare team will discuss your treatment options. See the stages of retinopathy and treatment .
+
+As well as going to your diabetic eye checks, you should still make appointments to see an optician for eye tests, as they can pick up other diabetes-related eye problems.
+
+Screening for other eye problems
+
+Other eye problems linked to diabetes are glaucoma – when fluid builds up in the eye, and cataracts – when your vision gets cloudy. As with retinopathy, both conditions can also be caused by high blood sugar levels and can lead to blindness if they aren’t treated. These conditions are usually picked up by a normal eye test at an optician. If you have diabetes, you should get free sight tests on the NHS .
+
+Preventing diabetic retinopathy
+
+It’s very unlikely that someone with diabetes suddenly wakes up with total sight loss. The damage is gradual. This means that it’s possible to prevent diabetic retinopathy or stop it from getting worse by taking steps to keep your eyes healthy.
+
+Steps to keep your eyes healthy
+
+You can help look after your eyes by:
+
+going to your eye screening appointments
+telling your doctor about any changes to your eyesight
+trying to keep to your blood sugar levels within target range - see below
+trying to keep your blood pressure and cholesterol in target range
+eating a healthy balanced diet and being as physically active as you can.
+stopping smoking if you smoke.
+
+Trying to keep your blood sugar levels within target range
+
+Sometimes if your blood sugars are high even for a short time your eyesight can become blurry temporarily. If this happens your vision should go back to what you are used to once your blood sugars are in your target range.
+
+This problem is more common in people who have diabetes but are yet to be diagnosed.
+
+Consistently high blood sugar levels make you more at risk of diabetes complications, including serious eye problems.
+
+Your healthcare team should tell you your target HbA1c and help you to set a target range for your blood sugar levels. Knowing what your targets are and regularly monitoring your blood sugars can help you keep them in range. This is because the closer you get to your targets the lower your risk of developing eye problems.
+
+There is evidence to suggest that reducing blood sugar levels too quickly if they have been high for a long time may increase the risk of diabetic retinopathy. So it is important to work with your diabetes team to help you to reduce your blood sugar levels gradually over a few weeks or months.
+
+Watch our video to see what difference it can make to your life if sight loss is diagnosed and treated.
+
+Next Review Date

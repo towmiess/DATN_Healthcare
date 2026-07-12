@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Dưa lưới ít (kiểm soát lượng)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Dưa lưới ít (kiểm soát lượng)
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: dưa lưới, cantaloupe, beta-carotene, kiểm soát lượng
+
+Mô tả: Dưa lưới beta-carotene cao nhưng GI trung bình cao, cần kiểm soát lượng.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 6.5
+Calo: 34 kcal
+Chất đạm (protein): 0.8 g
+Chất béo tổng: 0.2 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.2 g (chất xơ: 0.9 g, đường: 7.9 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 16 mg
+Kali: 267 mg | Phốt pho: 15 mg | Magie: 12 mg
+Canxi: 9 mg | Sắt: 0.2 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Beta-carotene tốt nhưng cần kiểm soát lượng do GI trung bình cao
+Khẩu phần khuyến nghị: 100g/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+100g dưa lưới
+
+--- Cách chế biến ---
+1. Bỏ vỏ và hạt
+2. Cắt miếng ăn trực tiếp

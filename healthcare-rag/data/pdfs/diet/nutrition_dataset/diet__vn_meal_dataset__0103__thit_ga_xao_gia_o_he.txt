@@ -1,0 +1,39 @@
+===METADATA===
+{"title": "Thịt gà xào giá đỗ hẹ", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thịt gà xào giá đỗ hẹ
+Loại món: Món xào | Ẩm thực: Vietnamese
+Từ khóa: gà, giá đỗ, hẹ, protein, GI thấp
+
+Mô tả: Giá đỗ và hẹ tạo hỗn hợp chất xơ và vitamin giúp ổn định đường huyết.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.5
+Calo: 155 kcal
+Chất đạm (protein): 19.5 g
+Chất béo tổng: 5.8 g (bão hòa: 1.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.5 g (chất xơ: 2.8 g, đường: 1.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 65 mg | Natri: 342 mg
+Kali: 425 mg | Phốt pho: 185 mg | Magie: 32 mg
+Canxi: 52 mg | Sắt: 1.5 mg | Vitamin D: 0.3 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp mọi loại TĐ
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g gà
+150g giá đỗ
+50g hẹ
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Gà thái sợi
+2. Phi tỏi
+3. Xào gà chín
+4. Cho giá đỗ hẹ vào xào 1 phút
+5. Nêm gia vị

@@ -1,0 +1,39 @@
+===METADATA===
+{"title": "Canh chua cá lóc bạc hà", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh chua cá lóc bạc hà
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: canh chua, cá lóc, omega-3, vitamin C
+
+Mô tả: Canh chua truyền thống miền Nam, ít béo, giàu đạm và omega-3.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.5
+Calo: 165 kcal
+Chất đạm (protein): 22.5 g
+Chất béo tổng: 5.8 g (bão hòa: 1.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 9.2 g (chất xơ: 3.2 g, đường: 4.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 65 mg | Natri: 420 mg
+Kali: 520 mg | Phốt pho: 210 mg | Magie: 38 mg
+Canxi: 72 mg | Sắt: 1.5 mg | Vitamin D: 2.1 mcg | Omega-3: 0.8 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Natri cần kiểm soát biến chứng tim mạch
+Khẩu phần khuyến nghị: 1 tô vừa
+Chống chỉ định / thận trọng: Biến chứng thận hạn chế cá
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: trung bình
+
+--- Nguyên liệu ---
+300g cá lóc
+200g bạc hà
+2 cà chua
+50g me
+Rau om
+
+--- Cách chế biến ---
+1. Nấu nước me cà chua sôi
+2. Cho cá vào nấu 10 phút
+3. Cho bạc hà giá đỗ vào
+4. Thêm rau thơm nêm gia vị

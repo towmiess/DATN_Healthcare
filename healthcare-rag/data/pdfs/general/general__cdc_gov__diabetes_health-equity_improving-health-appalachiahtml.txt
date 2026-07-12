@@ -1,0 +1,56 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/health-equity/improving-health-appalachia.html",
+  "title": "Improving Health in Appalachia - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:35.440678",
+  "source_name": "cdc.gov",
+  "document_title": "Improving Health in Appalachia - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 600,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Improving Health in Appalachia - CDC
+
+May 15, 2024
+
+Improving Health in Appalachia
+
+Key points
+
+The Appalachian region is 205,000 square miles along the Appalachian mountains stretching from New York to northern Mississippi.
+
+Appalachian counties are home to more than 25 million people. Residents in distressed counties have a higher risk of diabetes.
+
+Diabetes in Appalachia
+Many people in Appalachia face serious health challenges because of conditions where they live. Health disparities are even worse in Appalachian counties with the highest unemployment and poverty rates.
+Compared with the rest of the nation, people in Appalachia have significantly less access to health care. They also have higher rates of substance use and mental health disorders, and higher rates of cancer and chronic diseases, including heart disease, stroke, and diabetes.
+In a 2010 study, researchers found that residents in 78 Appalachian counties classified as "distressed" were 1.4 times more likely to have diabetes than residents of non-Appalachian counties. Among adults aged 45 to 64, about 1 in 5 people living in distressed counties had diabetes, compared to only 1 in 8 of those living in non-Appalachian counties.
+
+Appalachian Diabetes Control and Translation Project
+The Appalachian Diabetes Control and Translation Project (ADCTP) was launched to help prevent and manage diabetes in distressed counties in Appalachia.
+With support from CDC's Division of Diabetes Translation (DDT) and the Appalachian Regional Commission, the Center for Rural Health at Marshall University built a network of diabetes coalitions called the Appalachian Diabetes Network.
+Accomplishments
+Scaling and sustaining the National Diabetes Prevention Program (National DPP)
+In 2014, ADCTP helped diabetes coalitions deliver the National DPP lifestyle change program to prevent or delay type 2 diabetes among adults with prediabetes. By 2019, funded coalitions had helped enroll over 600 participants.
+Increased outreach through social media
+During the COVID-19 pandemic, coalitions expanded the reach of their efforts using social media to build knowledge about and access to resources in Appalachia.
+Community participation in physical activity and healthy eating
+Coalitions expanded community involvement in local health events. The number of people participating in physical activity programs increased from 2,011 to 60,418 from 2011 to 2017. Participation in healthy eating programs increased from 7,032 to 37,227 during that time period.
+Increased focus on community settings
+By the end of 2017, 59 diabetes coalitions were working to redesign communities to help people be more physically active. An additional 38 coalitions were focused on increasing healthier food choices.
+
+Success stories
+Mingo County, West Virgina
+The Mingo County Diabetes Coalition worked with community members to develop community gardens, provide cooking classes, and sponsor team-based walking competitions that turned into monthly 5K runs and walks. The coalition brought together clinical partners, certified diabetes educators, and other practitioners to provide diabetes self-management education and support .
+The coalition also secured funding to hire and train community health workers to make weekly home visits to help people with diabetes practice self-management skills, such as taking prescribed medications, checking their blood sugar levels, making healthy food choices, and increasing physical activity. After 12 months, 137 patients with diabetes had reduced their HbA1c level by an average of about 1.7 percentage points, and hospitalizations were down 30%.
+Perry County, Kentucky
+The Perry County Diabetes Coalition implemented a 6-week health challenge for people with diabetes and prediabetes. The challenge was to walk 150 minutes a week, eat 5 or more servings of fruits and vegetables each day, and drink 64 ounces or more of water each day.
+The Perry County Farmer's Market and several local health clinics supported the challenge by "prescribing" Diabetes Dollars that patients could redeem at a farmers' market for fresh produce.
+
+May 15, 2024

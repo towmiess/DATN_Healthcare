@@ -1,0 +1,56 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/communication-resources/diabetes-related-amputations.html",
+  "title": "Diabetes-Related Amputations - CDC",
+  "category": "complication/foot_care",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:14:03.062200",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes-Related Amputations - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 88,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes-Related Amputations - CDC
+
+May 15, 2024
+
+Diabetes-Related Amputations Social Media Graphic
+
+Key points
+
+Graphic text: From 2009 to 2019, diabetes-related hospitalizations due to amputation doubled.
+
+Social media graphic available in blue background for X (formerly Twitter), Facebook, Pinterest, and LinkedIn.
+
+Format: JPG Dimensions: 2205 x 2205 pixels Language: English (US) Size: 148 KB Length:
+
+View
+
+Download
+View Larger
+
+Additional formats
+
+Twitter 580x580
+Apr. 5, 2023
+Download
+Download
+Facebook 600x600
+Apr. 5, 2023
+Download
+Download
+Pinterest 735x735
+Apr. 5, 2023
+Download
+Download
+LinkedIn 500x500
+Apr. 5, 2023
+Download
+Download
+
+May 15, 2024

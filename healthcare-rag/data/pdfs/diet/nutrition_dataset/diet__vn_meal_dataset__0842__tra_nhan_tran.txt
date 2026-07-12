@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Trà nhân trần", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trà nhân trần
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: nhân trần, gan, thanh nhiệt, thảo dược
+
+Mô tả: Nhân trần hỗ trợ chức năng gan, thanh nhiệt giải độc theo y học cổ truyền.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 5 kcal
+Chất đạm (protein): 0.1 g
+Chất béo tổng: 0.0 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 1.0 g (chất xơ: 0.0 g, đường: 0.0 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 2 mg
+Kali: 15 mg | Phốt pho: 3 mg | Magie: 2 mg
+Canxi: 3 mg | Sắt: 0.1 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Hỗ trợ chức năng gan - quan trọng vì gan liên quan chuyển hóa glucose
+Khẩu phần khuyến nghị: 1-2 ly/ngày
+Chống chỉ định / thận trọng: Không dùng lâu dài liên tục
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+10g nhân trần khô
+500ml nước nóng
+
+--- Cách chế biến ---
+1. Hãm nhân trần với nước nóng 15 phút
+2. Lọc bỏ xác
+3. Uống ấm

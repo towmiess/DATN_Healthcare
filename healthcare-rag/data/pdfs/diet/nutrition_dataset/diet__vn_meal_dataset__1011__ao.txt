@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Đào", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Đào
+Loại món: Trái cây | Ẩm thực: Vietnamese
+Từ khóa: GI thấp, vitamin A, mềm
+
+Mô tả: Đào mềm ngọt nhẹ tự nhiên, GI thấp, vitamin A hỗ trợ thị giác.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 100g (phần ăn được)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 4.5
+Calo: 39 kcal
+Chất đạm (protein): 0.9 g
+Chất béo tổng: 0.3 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 9.5 g (chất xơ: 1.5 g, đường: 8.4 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 0 mg
+Kali: 190 mg | Phốt pho: 20 mg | Magie: 9 mg
+Canxi: 6 mg | Sắt: 0.3 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI thấp + vitamin A - tốt mắt cho bệnh nhân TĐ
+Khẩu phần khuyến nghị: 1 quả vừa (~150g)/lần
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g đào (phần ăn được)
+
+--- Cách chế biến ---
+1. Rửa sạch đào
+2. Gọt vỏ/bỏ hạt nếu cần
+3. Ăn trực tiếp, không thêm đường

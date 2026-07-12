@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Gỏi sen tôm thịt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Gỏi sen tôm thịt
+Loại món: Gỏi/Salad | Ẩm thực: Vietnamese
+Từ khóa: hạt sen, tôm, thịt, chất xơ, alkaloid
+
+Mô tả: Hạt sen alkaloid hỗ trợ thần kinh, kết hợp protein tôm thịt.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.5
+Calo: 165 kcal
+Chất đạm (protein): 16.5 g
+Chất béo tổng: 5.5 g (bão hòa: 1.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 18.5 g (chất xơ: 4.5 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 75 mg | Natri: 285 mg
+Kali: 418 mg | Phốt pho: 188 mg | Magie: 38 mg
+Canxi: 32 mg | Sắt: 2.5 mg | Vitamin D: 0.2 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Alkaloid hạt sen hỗ trợ thần kinh tốt biến chứng TĐ
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: thấp
+
+--- Nguyên liệu ---
+50g hạt sen tươi
+100g tôm
+100g thịt heo
+Rau thơm
+
+--- Cách chế biến ---
+1. Luộc hạt sen
+2. Luộc tôm thịt
+3. Trộn với rau thơm mắm chanh

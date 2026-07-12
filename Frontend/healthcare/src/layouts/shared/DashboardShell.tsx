@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink, Outlet, useNavigate } from 'react-router-dom';
-import { Activity, ChevronDown, Clock, LayoutDashboard, UserCircle2 } from 'lucide-react';
+import { Activity, ChevronDown, Clock, LayoutDashboard, MessageCircle, UserCircle2 } from 'lucide-react';
 import brandLogo from '@/assets/logo.png';
 import { logout } from '@/services/authservices/logout';
 import { clearAuth, getLoginRedirectPath, getRefreshToken } from '@/utils/auth';
@@ -56,6 +56,18 @@ const DashboardShell: React.FC<DashboardShellProps> = ({ homePath }) => {
               <Clock size={16} />
               <span>Lịch sử</span>
             </button>
+
+            {homePath === '/user' && (
+              <NavLink
+                to="/user/chat"
+                className={({ isActive }) =>
+                  `login-nav__item dashboard-nav__item${isActive ? ' dashboard-nav__item--active' : ''}`
+                }
+              >
+                <MessageCircle size={16} />
+                <span>Tư vấn AI</span>
+              </NavLink>
+            )}
           </nav>
 
           <div className="dashboard-profile">

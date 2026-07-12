@@ -1,0 +1,39 @@
+===METADATA===
+{"title": "Canh cá chép nấu ngót", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh cá chép nấu ngót
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: cá chép, rau ngót, omega-3, canxi
+
+Mô tả: Cá chép giàu omega-3 và canxi, kết hợp rau ngót giàu folate.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.0
+Calo: 168 kcal
+Chất đạm (protein): 22.8 g
+Chất béo tổng: 6.5 g (bão hòa: 1.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.2 g (chất xơ: 3.2 g, đường: 1.0 g, đường bổ sung: 0.0 g)
+Cholesterol: 72 mg | Natri: 398 mg
+Kali: 542 mg | Phốt pho: 215 mg | Magie: 42 mg
+Canxi: 88 mg | Sắt: 2.1 mg | Vitamin D: 2.5 mcg | Omega-3: 1.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Omega-3 từ cá đặc biệt tốt cho biến chứng thần kinh
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Dị ứng cá không dùng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: trung bình
+
+--- Nguyên liệu ---
+300g cá chép
+200g rau ngót
+2 tép tỏi
+Gừng
+
+--- Cách chế biến ---
+1. Làm sạch cá
+2. Phi tỏi gừng
+3. Xào sơ cá
+4. Đổ nước sôi nấu 15 phút
+5. Cho rau ngót vào nêm gia vị

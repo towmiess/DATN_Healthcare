@@ -1,0 +1,129 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/tien-dai-thao-duong-nhung-dieu-can-biet-vi",
+  "title": "Tiền đái tháo đường - những điều cần biết",
+  "category": "diagnosis",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:08:02.640710",
+  "source_name": "vinmec.com",
+  "document_title": "Tiền đái tháo đường - những điều cần biết",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 2249,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Tiền đái tháo đường - những điều cần biết
+
+-->
+
+Chuyên trang sức khoẻ
+Sức khoẻ tổng quát
+
+Tiền đái tháo đường: Những điều cần biết
+
+Cố vấn chuyên môn
+
+Bác sĩ chuyên khoa II,
+
+Nguyễn Xuân Thắng
+
+☰
+Mục lục
+
+Bài viết bởi Bác sĩ chuyên khoa II Nguyễn Xuân Thắng - Phó khoa khám bệnh & Nội khoa kiêm trưởng Đơn nguyên Nội trú Nội bệnh - Khoa Khám bệnh & Nội khoa - Bệnh viện Đa khoa Quốc tế Vinmec Central Park
+
+Tiền đái tháo đường là tình trạng bệnh lý khi nồng độ glucose máu cao hơn bình thường nhưng chưa đạt tiêu chí chẩn đoán đái tháo đường. Bệnh được xác định bằng rối loạn glucose máu lúc đói hoặc rối loạn dung nạp glucose (RLDNG) và/ hoặc tăng HbA1c. Vậy tiền đái tháo đường có mấy giai đoạn?
+1. Tiền đái tháo đường là bệnh lý như thế nào?
+Tiền đái tháo đường (ĐTĐ) là tình trạng bệnh lý khi nồng độ glucose máu cao hơn bình thường nhưng chưa đạt tiêu chí chẩn đoán đái tháo đường. Theo đó, tiền đái tháo đường được xác định bằng rối loạn glucose máu lúc đói hoặc rối loạn dung nạp glucose (RLDNG) và/hoặc tăng HbA1c. Tiền ĐTĐ là giai đoạn trung gian giữa người bình thường và đái tháo đường type 2 . Tiền ĐTĐ có liên quan đến béo phì (đặc biệt là béo bụng hoặc béo nội tạng), rối loạn lipid máu với chất béo trung tính cao và/hoặc cholesterol HDL thấp và tăng huyết áp.
+
+2. Dịch tễ
+Trong thập kỷ qua, tỷ lệ mắc và tỷ lệ lưu hành bệnh tiểu đường loại 2 ở trẻ em và thanh thiếu niên đã tăng lên đáng kể, đặc biệt là ở các nhóm dân tộc thiểu số và chủng tộc. Đã có các khuyến cáo về tầm soát dựa trên nguy cơ đối với bệnh ĐTĐ type 2 hoặc tiền ĐTĐ ở trẻ em và thanh thiếu niên không có triệu chứng. Hơn 1/3 dân số Mỹ có tình trạng tiền đái tháo đường. Có 9 /10 bệnh nhân có tình trạng tiền đái tháo đường mà họ không không biết. Ở Việt Nam, theo báo cáo của IDF 2019, tỉ lệ người bị RLDNG chiếm 8,6%, tương đương 5,3 triệu người, gấp 1,4 lần so với bệnh nhân ĐTĐ.
+3. Chẩn đoán tiền đái tháo đường
+Chẩn đoán tiền ĐTĐ khi có một trong các rối loạn sau đây:
+
+Glucose huyết tương lúc đói từ 100 - 125 mg/dL (5,6 - 6,9 mmol/L) (IFG: Rối loạn đường huyết đói)
+
+Hoặc
+
+Glucose huyết tương sau 2 giờ từ 140 - 199 mg/dL (7,8 – 11,0 mmol/L) (IGT: Rối loạn dung nạp đường)
+
+Hoặc
+
+HbA1C trong khoảng 5,7 – 6,4% (39 - 47 mmol/mol)
+
+Để kiểm tra tiền tiểu đường và tiểu đường loại 2, đường huyết lúc đói, đường huyết 2 giờ trong quá trình thử nghiệm dung nạp đường uống 75g và A1C đều thích hợp như nhau.
+4. Tầm quan trọng của tầm soát và quản lý tiền ĐTĐ
+Hiện nay, tỷ lệ tiền đái tháo đường tiến triển thành đái tháo đường được ghi nhận như sau: 5-10% bệnh nhân tiền đái tháo đường sẽ tiến triển thành đái tháo đường mỗi năm 15 - 30% bệnh nhân tiền đái tháo đường có thể tiến triển thành đái tháo đường trong vòng 5 năm 50% bệnh nhân tiền đái tháo đường sẽ tiến triển thành đái tháo đường trong vòng 10 năm 70% bệnh nhân tiền đái tháo đường sẽ tiến triển thành đái tháo đường nếu không điều trị. Theo đó, tiền đái tháo đường làm tăng nguy cơ biến cố tim mạch, bệnh mạch vành , đột quỵ và tử vong. Vì thế, việc tầm soát, phát hiện của quản lý tiền đái tháo đường ở giai đoạn sớm rất quan trọng.
+
+5. Các đối tượng cần tầm soát tiền ĐTĐ
+5.1. Người trưởng thành ở bất kỳ tuổi nào có thừa cân hoặc béo phì (Người Châu Á có BMI ≥ 23 kg/m2)
+Những người có thể trạng béo phì hoặc đi kèm với một trong số các yếu tố nguy cơ sau nên thực hiện tầm soát tiền đái tháo đường: Có người thân cấp một (bố mẹ, anh chị em ruột, con đẻ ) bị ĐTĐ Tiền sử bệnh tim mạch do xơ vữa động mạch Tăng huyết áp (HA ≥ 140/90 mmHg, hoặc đang điều trị tăng huyết áp) HDL cholesterol < 35 mg/dL (0,9mmol/l) và/hoặc triglyceride >250mg/dL (2,8mmol/l) Phụ nữ bị hội chứng buồng trứng đa nang Ít hoạt động thể lực Các tình trạng lâm sàng khác liên quan với kháng insulin (như béo phì nặng, dấu gai đen (acanthosis nigricans)
+5.2. Phụ nữ đã được chẩn đoán ĐTĐ thai kỳ
+Trong thời kỳ mang thai nếu thai phụ được chẩn đoán tiền đái tháo đường cần theo dõi lâu dài, xét nghiệm ít nhất mỗi 3 năm.
+
+5.3. Tất cả mọi người từ tuổi 45 trở lên
+Theo khuyến cáo, tất cả những người từ 45 tuổi trở lên cần thực hiện tầm soát đái đường để sớm phát hiện nguy cơ mắc bệnh. Ngoài ra, tầm soát tiền ĐTĐ cũng nên được tiến hành ở những người trẻ tuổi có thừa cân hoặc béo phì và những người có một hoặc nhiều yếu tố nguy cơ sau: Tiền sử người mẹ mắc bệnh tiểu đường hoặc đái tháo đường thai kỳ trong thời kỳ mang thai trẻ Tiền sử gia đình mắc bệnh ĐTĐ type 2 ở người thân cấp một hoặc cấp hai Chủng tộc / dân tộc (Người Mỹ bản địa, Người Mỹ gốc Phi, Người Latinh, Người Mỹ gốc Á, Người đảo Thái Bình Dương) Người có các dấu hiệu của kháng insulin hoặc các tình trạng liên quan đến kháng insulin (acanthosis nigricans, tăng huyết áp, rối loạn lipid máu, hội chứng buồng trứng đa nang hoặc cân nặng lúc sinh nhỏ so với tuổi thai) Khái niệm “người trẻ tuổi”: Sau khi bắt đầu dậy thì hoặc sau 10 tuổi, tùy trường hợp nào xảy ra sớm hơn. Nếu các xét nghiệm bình thường, nên làm lại xét nghiệm trong khoảng thời gian tối thiểu 3 năm, hoặc thường xuyên hơn nếu BMI đang tăng lên. Theo đó, xét nghiệm tiền tiểu đường và / hoặc tiểu đường loại 2 nên được xem xét ở phụ nữ dự định mang thai bị thừa cân hoặc béo phì và / hoặc có thêm một hoặc nhiều yếu tố nguy cơ mắc bệnh tiểu đường.
+6. Các xét nghiệm thường quy cho người tiền ĐTĐ
+Các xét nghiệm thường quy cho người bệnh tiền đái tháo đường như sau: Hemoglobin Glucose đói và HbA1c Bilan mỡ máu: cholesterol toàn phần, LDL-C, HDL-C, triglyceride Axit uric, creatinine SGOT và SGPT Xét nghiệm nước tiểu tìm albumin niệu Điện tâm đồ đủ 12 chuyển đạo
+
+7. Điều trị tiền đái tháo đường như thế nào?
+7.1. Mục đích
+Điều trị tiền đái tháo đường nhằm mục đích đưa glucose huyết trở về bình thường; ngăn chặn hoặc làm chậm sự tiến tiến thành ĐTĐ; ngăn chặn và làm giảm các biến chứng do tăng glucose huyết. Ngoài ra, mục đích còn làm giảm nguy cơ bệnh tim mạch thông qua phát hiện và điều trị các yếu tố nguy cơ tim mạch đi kèm.
+7.2. Mục tiêu điều trị
+Mục tiêu HbA1c <5,7% Giảm được ít nhất 3-7% cân nặng ở người thừa cân/béo phì và duy trì ở mức đó Vòng eo < 80cm với nữ giới, < 90 cm với nam giới Đạt được hoạt động thể lực cường độ trung bình tối thiểu 30 phút/ngày, ít nhất 5 ngày mỗi tuần Kiểm soát tốt các yếu tố nguy cơ tim mạch (nếu có) bao gồm tăng huyết áp, rối loạn lipid máu và bỏ hút thuốc lá.
+
+7.3. Các bước điều trị
+7.3.1. Thay đổi lối sống
+Dinh dưỡng tiết chế Áp dụng chế độ ăn giảm năng lượng, giảm chất béo với mức giảm cân dần dần cho người thừa cân, béo phì. Lựa chọn thực phẩm có chỉ số đường huyết thấp, nguyên hạt, giàu chất xơ, rau, hoa quả, không gia công chế biến công nghiệp, chất béo không no (dầu thực vật, cá). Với người không thừa cân, béo phì: không cần giảm cân, chỉ thay đổi sự lựa chọn thực phẩm như trên. Hoạt động thể lực thường xuyên Cần tiêu hao khoảng 700 calo/tuần tương đương với mức độ tập luyện cường độ trung bình 150 phút/tuần như đi bộ nhanh. Tối thiểu 30 phút mỗi ngày, ít nhất 5 ngày trong tuần. Mỗi lần không dưới 10 phút. Giảm thời gian ngồi tĩnh tại.
+7.3.2. Điều trị bằng thuốc
+Điều trị tiền đái tháo đường thì Metformin là chọn lựa đầu tiên. Sau 3 tháng áp dụng chế độ ăn và luyện tập không kiểm soát được HbA1c <5,7%. Những lần theo dõi sau ghi nhận glucose máu tăng dần. Chỉ định dùng Metformin ngay từ khi phát hiện tiền ĐTĐ nếu kèm theo 1 trong các tiêu chí sau: BMI ≥ 25kg/m2 < 60 tuổi Phụ nữ có tiền sử ĐTĐ thai kỳ Có cả rối loạn glucose máu lúc đói và rối loạn dung nạp glucose Có các nguy cơ khác: 1 trong các yếu tố (HbA1c >6%, THA, HDL thấp (<0,9 mmol/L), triglyceride cao (>2,52 mmol/L), tiền sử gia đình đời thứ nhất ĐTĐ) Liều thuốc: khởi điểm 500mg/24 giờ, tăng dần liều, tối đa 2000mg/24 giờ. Các thuốc khác có thể được cân nhắc sử dụng thuốc thay thế nếu người bệnh không dung nạp với Metformin: nhóm ức chế alpha-glucosidase, GLP-1 receptor agonists, TZD.
+
+7.3.3. Phẫu thuật
+Phẫu thuật giảm béo, giảm cân giúp kiểm soát glucose máu. Chỉ định khi béo phì nặng (BMI > 35kg/m2) Cần kết hợp điều trị nội khoa chặt chẽ sau phẫu thuật
+7.4. Phát hiện và kiểm soát yếu tố nguy cơ tim mạch
+Tăng huyết áp Rối loạn lipid máu Hút thuốc lá làm tăng nguy cơ bị ĐTĐ type 2 và các biến cố tim mạch
+
+7.5. Theo dõi
+Tần suất khám mỗi tháng 1 lần, xét nghiệm glucose máu đói (HbA1c được thực hiện mỗi 3 tháng 1 lần) Phụ nữ đã được chẩn đoán ĐTĐ thai kỳ cần theo dõi lâu dài, xét nghiệm ít nhất mỗi 3 năm Bệnh nhân tiền đái tháo đường nên được xét nghiệm kiểm tra mỗi năm Nếu các kết quả bình thường, xét nghiệm sẽ được làm lại trong vòng 1- 3 năm sau hoặc ngắn hơn tùy theo kết quả ban đầu và các yếu tố nguy cơ.
+Bảng câu hỏi tầm soát Tiền đái tháo đường
+
+Câu hỏi
+
+Thang điểm (0 điểm nếu không biết)
+
+Điểm số
+
+1. Bạn bao nhiêu tuổi? < 40 tuổi 40-49 tuổi 50-59 tuổi ≥ 60 tuổi
+
+0 điểm 1 điểm 2 điểm 3 điểm
+
+2. Giới tính của bạn là gì? Nữ Nam
+
+0 điểm 1 điểm
+
+3. Nếu là nữ: bạn đã bao giờ bị chẩn đoán ĐTĐ thai kỳ chưa? Không Có
+
+0 điểm 1 điểm
+
+4. Bạn có cha, mẹ, anh, chị, em ruột, con đẻ bị ĐTĐ không? Không Có
+
+0 điểm 1 điểm
+
+5. Bạn đã bao giờ được chẩn đoán tăng huyết áp chưa ? Chưa Có
+
+0 điểm 1 điểm
+
+6. Bạn có phải là người thường xuyên vận động không? Có Không
+
+0 điểm 1 điểm
+
+7. Bạn có thừa cân hay béo phì không? Không: BMI<23 Thừa cân: BMI 23-25 Béo phì : BMI ≥ 25-30 Rất béo phì: BMI ≥ 30
+
+0 điểm 1 điểm 2 điểm 3 điểm
+
+Nếu tổng số điểm của bạn ≥ 5 điểm nghĩa là bạn có nguy cơ cao mắc ĐTĐ type 2. Trong trường hợp này, bạn nên thăm khám bác sĩ để kiểm tra đường huyết nhằm tầm soát tiền ĐTĐ và ĐTĐ. Những người mắc tiền đái tháo đường thường ít phát hiện ra bệnh nếu chỉ dựa vào dấu hiệu và triệu chứng của bệnh. Vì vậy, cần thường xuyên theo dõi và khám sức khỏe định kỳ nhằm phát hiện bệnh sớm để điều trị kịp thời tránh nguy cơ tiến triển thành bệnh đái tháo đường và nguy cơ biến chứng nghiêm trọng. Hiện nay Bệnh viện Đa khoa Quốc tế Vinmec đã và đang tiếp tục triển khai gói sàng lọc đái tháo đường, rối loạn mỡ máu nhằm giúp phát hiện sớm tình trạng tiền đái tháo đường, phân loại chính xác type tiểu đường, đồng thời xây dựng chế độ dinh dưỡng, theo dõi giảm thiểu các nguy cơ, biến chứng do tiểu đường gây ra. Tại Vinmec không chỉ nổi bật bởi dịch vụ khám, tư vấn và chữa bệnh toàn diện, chuyên nghiệp; không gian khám chữa bệnh văn minh, lịch sự, an toàn và tiệt trùng tối đa. Tại đây còn hội tụ đội ngũ y bác sĩ , chuyên môn cao, vì thế Quý khách hàng hoàn toàn có thể tin tưởng với quy trình thăm khám, quản lý điều trị bài bản tại Vinmec.
+
+Tài liệu tham khảo Standard of Medical Care in Diabetes ADA 2020 Hướng dẫn chẩn đoán và điều trị tiền đái tháo đường, Bô y tế 2020 Hướng dẫn chẩn đoán và điều trị ĐTĐ típ 2, Bộ Y tế 2017

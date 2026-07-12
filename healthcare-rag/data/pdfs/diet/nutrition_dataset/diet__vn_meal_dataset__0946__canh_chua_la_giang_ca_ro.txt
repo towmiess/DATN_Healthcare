@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Canh chua lá giang cá rô", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh chua lá giang cá rô
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: lá giang, cá rô, chua tự nhiên, canxi
+
+Mô tả: Lá giang tạo vị chua tự nhiên không cần me, cá rô bổ sung canxi.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.5
+Calo: 145 kcal
+Chất đạm (protein): 18.5 g
+Chất béo tổng: 5.5 g (bão hòa: 1.0 g, chuyển hóa: 0.1 g)
+Carbohydrate tổng: 5.0 g (chất xơ: 2.5 g, đường: 2.0 g, đường bổ sung: 0.3 g)
+Cholesterol: 62 mg | Natri: 358 mg
+Kali: 425 mg | Phốt pho: 185 mg | Magie: 38 mg
+Canxi: 75 mg | Sắt: 1.5 mg | Vitamin D: 1.8 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Acid tự nhiên từ lá giang giảm tác động đường huyết
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: thấp
+
+--- Nguyên liệu ---
+250g cá rô
+100g lá giang
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Cá rô làm sạch
+2. Nấu nước sôi cho cá vào
+3. Thêm lá giang nấu 3 phút

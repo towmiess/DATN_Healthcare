@@ -1,0 +1,63 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/treatment/continuous-glucose-monitors.html",
+  "title": "Continuous Glucose Monitors - CDC",
+  "category": "blood_glucose",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:01:01.999953",
+  "source_name": "cdc.gov",
+  "document_title": "Continuous Glucose Monitors - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 771,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Continuous Glucose Monitors - CDC
+
+Continuous Glucose Monitors
+
+Sept. 30, 2025
+
+Key points
+
+Continuous glucose monitors (CGMs) are wearable devices that can help people with diabetes more effectively and easily manage their blood sugar.
+Learn more about how to use a CGM and understand your results.
+
+How CGMs work
+A CGM is a medical device that monitors your glucose (blood sugar) levels in real time. Unlike a traditional blood sugar monitor that requires a fingerstick, a CGM attaches to your stomach or arm. It uses a tiny plastic tube to monitor your glucose levels from interstitial fluid (fluid between cells) just below your skin.
+
+Who can use a CGM?
+Anyone with diabetes can benefit from using a CGM, but especially those who:
+
+Have type 1 diabetes.
+Have type 2 diabetes and use insulin.
+Frequently test their blood sugar.
+Have difficulty managing their blood sugar levels.
+
+CGMs are becoming more widely available for people with diabetes and prediabetes and even for people without either condition. Some people choose to use a CGM short or long term to enhance their health, nutrition, or physical fitness goals.
+
+How to use your CGM
+Before applying the CGM, wash your hands and the sensor site with soap and water, and let them dry completely. Lotion or moisturized soap often makes it hard for your CGM to stick to your skin. Inserting the CGM may feel like a quick pinch, similar to a fingerstick, but most people don't feel it once it's in place.
+CGMs need to be replaced every 7 to 14 days. To prevent skin irritation, you can change where you put the sensor on your body. Be sure to follow the CGM manufacturer's instructions.
+Your CGM can also share results with your health care team. This allows for closer monitoring by your health care provider and more effective medication management. For instance, if you take insulin, constant feedback on your glucose levels from a CGM can help you ensure you're taking the right dose. CGMs can also help you and your health care team know how well all your diabetes medicines are working.
+
+Fingersticks
+Many people think once they start using a CGM they’ll never have to do fingersticks to monitor their blood sugar. However, glucose levels from interstitial fluid can be different than glucose levels in the blood. It’s important to still occasionally check your blood sugar with a fingerstick to ensure your CGM is accurate. This is especially true if you’re new to using a CGM or are newly diagnosed with diabetes. Ask your health care team how often to do fingersticks.
+
+Protecting your CGM
+Most CGMs are water-resistant, and some are fully waterproof. You can use an extra adhesive patch over your CGM to protect it while bathing or swimming. Adhesive patches can also help secure your CGM in humid weather or if you frequently bump it.
+Certain medical procedures like X-rays, CT scans, angiograms, and radiation therapy can damage a CGM. If you're traveling through airport security, your CGM won't set off a metal detector, but it can be damaged from a full body scan or if your bag is scanned. Be sure to let the TSA agent know if you're traveling with a CGM.
+
+Understanding CGM results
+The main benefit of using a CGM is that you can see your glucose level at any time without a fingerstick. CGMs send data to a smartphone or other device to display your glucose levels. Results automatically update every few minutes and constantly change in response to your meals, physical activity, and other daily routines. Many CGMs also send alerts if your blood sugar is quickly rising or falling.
+Time in range
+In addition to real-time glucose levels, CGMs provide results in a chart with a moving line that shows time in range (TIR). TIR is the percentage of the day that your glucose level is in your target range. For most people, that glucose target is between 70 and 180 mg/dL, and the goal for TIR is 70% of the time, about 17 hours per day. Individual goals can vary, so be sure to talk with your health care provider to understand your specific diabetes management goals.
+
+Cost
+Most private insurance plans, Medicare, and Medicaid cover CGMs for people with type 1 diabetes with minimal monthly costs. CGMs are typically also covered for people with type 2 diabetes who take daily injections (like insulin), use an insulin pump, or have had severe low blood sugar. To qualify for insurance coverage, you may need a medical device prescription from your health care provider.
+Without insurance coverage, CGMs can cost thousands of dollars per year.
+
+Sept. 30, 2025

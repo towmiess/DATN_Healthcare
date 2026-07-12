@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Canh rau sam thịt nạc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh rau sam thịt nạc
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: rau sam, omega-3 thực vật, thịt nạc
+
+Mô tả: Rau sam là rau dại giàu omega-3 thực vật (ALA), hỗ trợ tim mạch.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.5
+Calo: 115 kcal
+Chất đạm (protein): 15.5 g
+Chất béo tổng: 4.8 g (bão hòa: 1.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 4.2 g (chất xơ: 2.8 g, đường: 0.8 g, đường bổ sung: 0.0 g)
+Cholesterol: 40 mg | Natri: 335 mg
+Kali: 388 mg | Phốt pho: 148 mg | Magie: 32 mg
+Canxi: 65 mg | Sắt: 2.5 mg | Vitamin D: 0.2 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Omega-3 thực vật từ rau sam tốt tim mạch và thần kinh
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+50g thịt nạc
+200g rau sam
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Rửa sạch rau sam
+2. Phi tỏi xào thịt
+3. Đổ nước sôi
+4. Cho rau sam vào nấu 3 phút
+5. Nêm gia vị

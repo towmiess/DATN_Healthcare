@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Dưa hấu", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Dưa hấu
+Loại món: Trái cây | Ẩm thực: Vietnamese
+Từ khóa: GI cao nhất, GL thấp do nhiều nước, kali
+
+Mô tả: Dưa hấu có GI rất cao nhưng GL thấp vì hàm lượng carb thực tế trên 100g thấp do nhiều nước.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 100g (phần ăn được)) ---
+Chỉ số đường huyết (GI): cao | Tải lượng đường huyết (GL): 4.5
+Calo: 30 kcal
+Chất đạm (protein): 0.6 g
+Chất béo tổng: 0.2 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.6 g (chất xơ: 0.4 g, đường: 6.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 1 mg
+Kali: 112 mg | Phốt pho: 11 mg | Magie: 10 mg
+Canxi: 7 mg | Sắt: 0.2 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI cao nhưng GL thấp nhờ nhiều nước - vẫn nên ăn lượng vừa phải, không quá nhiều cùng lúc
+Khẩu phần khuyến nghị: 100-150g/lần
+Chống chỉ định / thận trọng: Hạn chế ăn lượng lớn cùng lúc
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g dưa hấu (phần ăn được)
+
+--- Cách chế biến ---
+1. Rửa sạch dưa hấu
+2. Gọt vỏ/bỏ hạt nếu cần
+3. Ăn trực tiếp, không thêm đường

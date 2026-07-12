@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Cá lóc nướng trui", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá lóc nướng trui
+Loại món: Cá/Hải sản | Ẩm thực: Vietnamese
+Từ khóa: cá lóc, nướng trui, miền Tây, omega-3
+
+Mô tả: Nướng trui truyền thống miền Tây không cần dầu mỡ, giữ vị ngọt tự nhiên của cá.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 168 kcal
+Chất đạm (protein): 24.5 g
+Chất béo tổng: 6.0 g (bão hòa: 1.2 g, chuyển hóa: 0.2 g)
+Carbohydrate tổng: 1.5 g (chất xơ: 0.3 g, đường: 0.5 g, đường bổ sung: 0.1 g)
+Cholesterol: 68 mg | Natri: 295 mg
+Kali: 498 mg | Phốt pho: 218 mg | Magie: 38 mg
+Canxi: 28 mg | Sắt: 1.5 mg | Vitamin D: 2.5 mcg | Omega-3: 0.8 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Không dầu mỡ - tốt nhất cho biến chứng tim mạch
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: trung bình
+
+--- Nguyên liệu ---
+1 con cá lóc (~400g)
+Rơm hoặc lá dừa để nướng
+
+--- Cách chế biến ---
+1. Cá lóc để nguyên con xiên que
+2. Nướng trui trên lửa rơm 20-25 phút
+3. Cạo vảy khi chín, ăn kèm rau sống

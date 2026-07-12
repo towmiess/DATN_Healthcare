@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Su su luộc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Su su luộc
+Loại món: Hấp/Luộc, Rau | Ẩm thực: Vietnamese
+Từ khóa: su su, chayote, folate, kali, ít calo
+
+Mô tả: Su su ít calo, giàu folate và kali, dễ tiêu hóa phù hợp người TĐ lớn tuổi.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.5
+Calo: 28 kcal
+Chất đạm (protein): 1.2 g
+Chất béo tổng: 0.2 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.5 g (chất xơ: 2.5 g, đường: 2.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 18 mg
+Kali: 178 mg | Phốt pho: 32 mg | Magie: 16 mg
+Canxi: 18 mg | Sắt: 0.5 mg | Vitamin D: 0.1 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít calo nhất trong họ rau củ
+Khẩu phần khuyến nghị: 1 đĩa lớn/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+300g su su
+
+--- Cách chế biến ---
+1. Gọt vỏ cắt miếng
+2. Luộc 12 phút
+3. Rưới dầu oliu ít hoặc ăn chay tịnh

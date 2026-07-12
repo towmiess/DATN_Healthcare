@@ -1,0 +1,52 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/dai-thao-duong-co-may-tuyp-su-khac-nhau-giua-cac-tuyp-la-gi-vi",
+  "title": "ĐTĐ có mấy tuýp",
+  "category": "diagnosis",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:07:51.775431",
+  "source_name": "vinmec.com",
+  "document_title": "ĐTĐ có mấy tuýp",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1740,
+  "verified_by_doctor": false
+}
+===CONTENT===
+ĐTĐ có mấy tuýp
+
+-->
+
+Sức khoẻ tổng hợp
+
+Đái tháo đường có mấy tuýp? Sự khác nhau giữa các tuýp là gì?
+
+Cố vấn chuyên môn
+
+Thạc sĩ, Bác sĩ chuyên khoa II,
+
+Nguyễn Thị Ngọc
+
+☰
+Mục lục
+
+Bài viết được tư vấn chuyên môn bởi Thạc sĩ, Bác sĩ Nguyễn Thị Ngọc - Bác sĩ Nội tổng quát - Nội tiết - Khoa Khám bệnh & Nội khoa - Bệnh viện Đa khoa Quốc tế Vinmec Central Park . Bác sĩ đã có hơn 10 năm học tập, nghiên cứu và làm việc trong lĩnh vực nội tiết.
+
+Khi mắc bệnh tiểu đường, cơ thể không thể đưa đường từ máu vào trong các tế bào dẫn đến lượng đường trong máu cao. Glucose, là dạng đường thường được tìm thấy trong máu, là một trong những nguồn năng lượng chính của cơ thể. Việc thiếu insulin hoặc kháng insulin khiến đường tích tụ trong máu dẫn đến nhiều vấn đề sức khỏe.
+1. Định nghĩa bệnh đái tháo đường
+Bệnh đái tháo đường là bệnh rối loạn chuyển hóa không đồng nhất, có đặc điểm tăng glucose huyết do khiếm khuyết về tiết insulin, về tác động của insulin, hoặc cả hai. Tăng glucose mạn tính trong thời gian dài gây nên những rối loạn chuyển hóa carbohydrate, protide, lipide, gây tổn thương ở nhiều cơ quan khác nhau, đặc biệt ở tim và mạch máu, thận, mắt, thần kinh.
+2. Đái tháo đường có mấy tuýp?
+Phân loại đái tháo đường gồm: Đái tháo đường type 1 (do phá hủy tế bào beta tụy, dẫn đến thiếu insulin tuyệt đối). Đái tháo đường type 2 (do giảm chức năng của tế bào beta tụy tiến triển trên nền tảng đề kháng insulin). Đái tháo đường thai kỳ (là đái tháo đường được chẩn đoán trong 3 tháng giữa hoặc 3 tháng cuối của thai kỳ và không có bằng chứng về đái tháo đường type 1, đái tháo đường type 2 trước đó). Đái tháo đường do các nguyên nhân khác, như: Đái tháo đường sơ sinh hoặc đái tháo đường do sử dụng thuốc và hóa chất như sử dụng glucocorticoid, điều trị HIV/AIDS hoặc sau cấy ghép mô...
+
+3. So sánh đái tháo đường type 1 và type 2
+3.1 Về nguyên nhân 3.1.1.Bệnh tiểu đường type 1 Bệnh tiểu đường type 1 là tình trạng tự miễn dịch. Điều này có nghĩa là hệ thống miễn dịch của người bệnh tấn công nhầm và phá hủy các tế bào beta trong tuyến tụy sản xuất insulin gây ra các tổn thương vĩnh viễn. Hiện nay, các bác sĩ vẫn chưa tìm ra nguyên nhân chính xác dẫn đến hiện tượng cơ thể tự tấn công tuyến tụy, có thể do di truyền và môi trường. Các yếu tố về lối sống không liên quan đến nguyên nhân dẫn đến bệnh tiểu đường type 1 . 3.1.2 Bệnh tiểu đường type 2 Bệnh tiểu đường type 2 là do đề kháng insulin, điều này có nghĩa là cơ thể không thể sử dụng insulin hiệu quả. Dẫn đến kích thích tuyến tụy sản xuất nhiều insulin hơn cho đến khi nó không thể theo kịp nhu cầu. Sau đó, khả năng sản xuất insulin giảm, dẫn đến lượng đường trong máu cao. Nguyên nhân chính xác của bệnh tiểu đường type 2 vẫn chưa được biết. Các yếu tố có thể bao gồm: Di truyền Thiếu tập thể dục Thừa cân Cũng có thể có các yếu tố sức khỏe và lý do môi trường khác. >> Xem thêm: Đặc điểm các thuốc điều trị đái tháo đường tuýp 2 3.1.3 Tiểu đường thai kỳ Bệnh tiểu đường thai kỳ là do hormone ngăn chặn insulin được sản xuất trong thai kỳ. Loại tiểu đường này chỉ xảy ra trong thai kỳ. 3.1.4 Về triệu chứng Các triệu chứng chung của bệnh tiểu đường bao gồm: Khát và đói quá mức Đi tiểu thường xuyên Buồn ngủ hoặc mệt mỏi Da ngứa khô Nhìn mờ Vết thương chậm lành Bệnh tiểu đường type 2 có thể tạo ra các mảng tối ở nếp gấp của da ở nách và cổ. Vì bệnh tiểu đường type 2 thường mất nhiều thời gian hơn để chẩn đoán, bạn có thể nhận thấy các triệu chứng tại thời điểm chẩn đoán, như đau hoặc tê ở bàn chân. Bệnh tiểu đường type 1 thường phát triển nhanh hơn và có thể gây ra các triệu chứng như giảm cân hoặc nhiễm toan ceton do bệnh đái tháo đường (tên tiếng Anh là diabetic ketoacidosis), thể xảy ra khi người bệnh có lượng đường trong máu rất cao, nhưng ít hoặc không có insulin trong cơ thể. Các triệu chứng của cả hai loại bệnh tiểu đường có thể xuất hiện ở mọi lứa tuổi, nhưng nhìn chung type1 xảy ra ở trẻ em và người trẻ tuổi. Type 2 xảy ra ở những người trên 45 tuổi. Nhưng ngày nay, có nhiều người trẻ tuổi được chẩn đoán mắc bệnh tiểu đường type 2 do lối sống ít vận động và tăng cân. 3.1.5 Sự phổ biến của bệnh đái tháo đường Theo Liên đoàn Đái tháo đường Thế giới (IDF), năm 2015 toàn thế giới có 415 triệu người (trong độ tuổi 20-79) bị bệnh đái tháo đường, tương đương cứ 11 người có 1 người bị đái tháo đường, đến năm 2040 con số này sẽ là 642 triệu, tương đương cứ 10 người có 1 người bị đái tháo đường. Bên cạnh đó, cùng với việc tăng sử dụng thực phẩm không thích hợp, ít hoặc không hoạt động thể lực ở trẻ em, bệnh đái tháo đường type 2 đang có xu hướng tăng ở cả trẻ em, trở thành vấn đề sức khỏe cộng đồng nghiêm trọng. Bệnh đái tháo đường gây nên nhiều biến chứng nguy hiểm, là nguyên nhân hàng đầu gây bệnh tim mạch, mù lòa, suy thận, và cắt cụt chi. Nhưng một điều đáng khả quan, có tới 70% trường hợp đái tháo đường type 2 có thể dự phòng hoặc làm chậm xuất hiện bệnh bằng tuân thủ lối sống lành mạnh, dinh dưỡng hợp lý và tăng cường luyện tập thể lực. Theo kết quả điều tra STEPwise về các yếu tố nguy cơ của bệnh không lây nhiễm do Bộ Y tế thực hiện năm 2015, ở nhóm tuổi từ 18-69, cho thấy tỷ lệ đái tháo đường toàn quốc là 4,1%, tiền đái tháo đường là 3,6%.
+4. Các biến chứng tiềm ẩn là gì?
+
+Biến chứng của bệnh tiểu đường thường phát triển theo thời gian. Việc kiểm soát lượng đường trong máu kém sẽ làm tăng nguy cơ biến chứng nghiêm trọng có thể đe dọa đến tính mạng. Các biến chứng mãn tính bao gồm: Bệnh mạch máu, dẫn đến đau tim hoặc đột quỵ Vấn đề về mắt, được gọi là bệnh võng mạc Nhiễm trùng da Tổn thương thần kinh hoặc bệnh thần kinh Tổn thương thận hoặc bệnh thận Cắt cụt chi do bệnh lý thần kinh hoặc bệnh mạch máu Bệnh tiểu đường type 2 có thể làm tăng nguy cơ phát triển bệnh Alzheimer , đặc biệt là nếu lượng đường trong máu của bạn không được kiểm soát tốt. Biến chứng trong thai kỳ Lượng đường trong máu cao khi mang thai có thể gây nguy hiểm cho mẹ và con, làm tăng nguy cơ: Huyết áp cao Tiền sản giật Sảy thai hoặc thai chết lưu Dị tật bẩm sinh
+5. Điều trị bệnh đái tháo đường
+
+Bất kể bạn mắc bệnh tiểu đường loại nào, bạn sẽ cần phải làm việc chặt chẽ với bác sĩ để kiểm soát bệnh. Mục tiêu chính là giữ mức đường huyết trong phạm vi mục tiêu của bạn. Bác sĩ sẽ cho bạn biết phạm vi mục tiêu của bạn nên đạt được là bao nhiêu. Mục tiêu thay đổi theo từng người bệnh dựa vào bệnh tiểu đường mắc phải, tuổi tác và các biến chứng mà người bệnh mắc phải. Nếu bạn bị tiểu đường thai kỳ, mục tiêu lượng đường trong máu của bạn sẽ thấp hơn so với những người mắc các loại bệnh tiểu đường khác. Hoạt động thể chất là một phần quan trọng của quản lý bệnh tiểu đường. Hãy hỏi bác sĩ của bạn bao nhiêu phút mỗi tuần bạn nên dành cho tập thể dục nhịp điệu. Chế độ ăn uống cũng rất quan trọng để kiểm soát tốt. Bạn cũng cần theo dõi huyết áp và cholesterol. 5.1 Điều trị type 1 Tất cả những người mắc bệnh tiểu đường loại 1 phải dùng insulin suốt đời do tổn thương vĩnh viễn ở tuyến tụy. Insulin được tiêm ngay dưới da . Bác sĩ sẽ hướng dẫn cho bạn cách tiêm và vị trí tiêm. Bạn cũng có thể sử dụng máy bơm insulin, đây là thiết bị đeo bên ngoài cơ thể bạn có thể được lập trình để giải phóng một liều insulin cụ thể. Hiện nay đã có máy theo dõi đường huyết liên tục để kiểm tra lượng đường của bạn trong ngày. Nếu cần thiết, bạn cũng có thể cần dùng thêm thuốc để kiểm soát cholesterol, huyết áp cao hoặc các biến chứng khác. 5.2 Điều trị type 2 Bệnh tiểu đường type 2 được quản lý bằng chế độ ăn uống và tập thể dục, và cũng có thể được điều trị bằng nhiều loại thuốc để giúp kiểm soát lượng đường trong máu. Thuốc đầu tiên thường là metformin (Glumetza, Glucophage, Fortamet, Riomet). Thuốc này giúp cơ thể bạn sử dụng insulin hiệu quả hơn. Nếu metformin không hoạt động, bác sĩ có thể thêm các loại thuốc khác hoặc đổi loại thuốc. Bạn cũng cần phải theo dõi lượng đường trong máu và có thể cần thêm các thuốc khác để giúp kiểm soát huyết áp và cholesterol. Tại bệnh viện Vinmec luôn triển khai gói sàng lọc đái tháo đường, rối loạn mỡ máu nhằm giúp phát hiện sớm tình trạng tiền đái tháo đường, phân loại chính xác type tiểu đường, xây dựng chế độ dinh dưỡng, theo dõi giảm thiểu các nguy cơ, biến chứng do tiểu đường gây ra.
+
+Bài viết tham khảo nguồn: healthline.com

@@ -1,161 +1,123 @@
-# Healthcare RAG v2 — Tiểu Đường AI Chatbot
+# Healthcare RAG v2 — Refactored
 
-Stack: **FastAPI + Qdrant + Redis + Gemini + Streamlit**
+Chatbot tư vấn tiểu đường: **FastAPI + Qdrant + Redis + Gemini + Streamlit**
 
 ---
 
-## 🚀 Chạy Local (Windows)
+## Kiến Trúc Module
 
-### Bước 1: Copy PDF từ project cũ
-
-```powershell
-# Mở PowerShell, cd vào thư mục project này
-cd healthcare-rag-v2
-
-# Copy toàn bộ PDF từ healthcare_rag cũ
-xcopy ..\healthcare_rag\data\pdfs .\data\pdfs /E /I /Y
+```
+src/
+├── ingestion/
+│   ├── loader.py       ← Load PDF/TXT, detect category + language
+│   └── ocr.py          ← OCR fallback (Tesseract) cho PDF scan
+├── chunking/
+│   └── chunker.py      ← Chia tài liệu thành chunks (LangChain)
+├── embeddings/
+│   └── embedder.py     ← Singleton SentenceTransformer
+├── vectordb/
+│   └── vector_store.py ← Qdrant upsert / search / stats
+├── retrieval/
+│   └── retriever.py    ← Intent detection + semantic reranking
+├── prompts/
+│   └── templates.py    ← System prompt + RAG prompt builder
+├── llm/
+│   └── gemini_client.py← Key pool rotation + retry + fallback
+├── rag/
+│   ├── pipeline.py     ← Orchestrate Retrieve→Generate + Cache
+│   └── session.py      ← Redis session (fallback in-memory)
+└── api/
+    └── server.py       ← FastAPI endpoints
 ```
 
-### Bước 2: Cấu hình .env
+---
+
+## Chạy Local (Windows)
 
 ```powershell
-# Mở file .env, điền API key
-notepad .env
-```
+# 1. Copy file .env
+copy .env.example .env
+notepad .env   # điền GEMINI_API_KEY_1
 
-Sửa dòng:
-```env
-GEMINI_API_KEY_1=your_gemini_api_key_here
-# Nếu có key 2, bỏ comment:
-# GEMINI_API_KEY_2=AIza...key2...
-```
-
-### Bước 3: Khởi động Qdrant + Redis
-
-```powershell
+# 2. Khởi động Qdrant + Redis
 docker-compose up qdrant redis -d
-```
 
-Chờ ~10 giây, kiểm tra:
-```powershell
-# Qdrant phải trả về {"status": "ok"}
-curl http://localhost:6333/health
-```
+# 3. Tạo thư mục và copy PDF
+python scripts/init_folders.py
+xcopy ..\healthcare_rag\data\pdfs .\data\pdfs /E /I /Y
 
-### Bước 4: Tạo thư mục và Index PDF
-
-```powershell
-# Cài deps Python (lần đầu)
+# 4. Cài deps Python
+pip install torch==2.1.2+cpu --index-url https://download.pytorch.org/whl/cpu
 pip install -r requirements.txt
 
-# Tạo cấu trúc thư mục
-python scripts/init_folders.py
-
-# Index tất cả PDF vào Qdrant (~5-10 phút tùy số lượng)
+# 5. Index PDF vào Qdrant (~5-15 phút)
 python scripts/ingest.py
-```
 
-Kiểm tra kết quả tại: **http://localhost:6333/dashboard**
-
-### Bước 5: Khởi động toàn bộ
-
-```powershell
+# 6. Khởi động tất cả
 docker-compose up -d
 ```
-
-### Bước 6: Kiểm tra
 
 | Service | URL |
 |---------|-----|
 | Chat UI | http://localhost:8501 |
-| API Swagger | http://localhost:8000/docs |
-| Qdrant Dashboard | http://localhost:6333/dashboard |
-| Health check | http://localhost:8000/health |
+| API Docs | http://localhost:8000/docs |
+| Qdrant | http://localhost:6333/dashboard |
 
 ---
 
-## 📁 Cấu Trúc Thư Mục PDF
+## Chạy Tests (Không Cần Qdrant/GPU)
 
-```
-data/pdfs/
-├── general/              # Kiến thức chung về tiểu đường
-├── diagnosis/            # Chẩn đoán & phân loại
-├── blood_glucose/        # Theo dõi đường huyết, HbA1c
-├── medication/           # Thuốc điều trị
-├── diet/                 # Chế độ ăn uống
-├── lifestyle/            # Lối sống, vận động
-├── emergency/            # Hạ/tăng đường huyết cấp cứu
-└── complication/         # Biến chứng tiểu đường
-    ├── cardiovascular/   # Tim mạch, đột quỵ
-    ├── nephropathy/      # Bệnh thận
-    ├── retinopathy/      # Bệnh võng mạc
-    ├── neuropathy/       # Bệnh thần kinh
-    └── foot_care/        # Chăm sóc bàn chân
+```bash
+# Tất cả tests
+python -m pytest tests/ -v
+
+# Từng test
+python tests/test_intent.py
+python tests/test_chunker.py
+python tests/test_loader.py
+python tests/test_ocr.py
 ```
 
-**Đặt tên file:** `{category}__{tên_nguồn}.pdf`  
-Ví dụ: `cardiovascular__aha_heart_guidelines_2024.pdf`
+---
 
-**Khi thêm PDF mới:**
+## Lệnh Thường Dùng
+
 ```powershell
-# Copy file vào đúng thư mục, rồi chạy:
+# Index tất cả PDF
+python scripts/ingest.py
+
+# Chỉ index file mới
 python scripts/ingest.py --incremental
-```
 
----
+# Crawl thêm dữ liệu
+docker exec rag-api python scripts/crawler.py --ingest
 
-## 🔧 Lệnh Thường Dùng
-
-```powershell
 # Xem logs
 docker-compose logs -f rag-api
 
-# Restart API sau khi sửa code
+# Restart API sau sửa code
 docker-compose restart rag-api
 
-# Dừng tất cả
-docker-compose down
-
-# Xóa hoàn toàn (kể cả data Qdrant/Redis)
+# Xóa hoàn toàn (kể cả data Qdrant)
 docker-compose down -v
-
-# Index lại từ đầu
-python scripts/ingest.py
-
-# Index chỉ file mới
-python scripts/ingest.py --incremental
 ```
 
 ---
 
-## 🌐 Deploy AWS (Phase 2)
-
-Sau khi local ổn định:
-
-1. Build và push image lên ECR
-2. Thay Qdrant local → Qdrant Cloud hoặc EC2
-3. Thay Redis local → ElastiCache
-4. Deploy rag-api + streamlit lên ECS Fargate
-5. Dùng ALB làm load balancer
-
-Chi tiết hướng dẫn AWS sẽ bổ sung sau khi local hoàn chỉnh.
-
----
-
-## 📊 API Endpoints
+## API Endpoints
 
 | Method | Path | Mô tả |
 |--------|------|-------|
 | GET | `/health` | Kiểm tra server |
-| GET | `/stats` | Thống kê DB |
-| POST | `/chat` | Hỏi đáp đơn |
-| POST | `/chat/session` | Multi-turn (lưu session Redis) |
-| POST | `/chat/stream` | Streaming response |
-| DELETE | `/chat/session/{id}` | Xóa lịch sử session |
-| GET | `/search?q=...` | Debug vector search |
-| POST | `/admin/upload` | Upload PDF/TXT mới |
+| GET | `/stats` | Thống kê chunks |
+| POST | `/chat` | Single-turn |
+| POST | `/chat/session` | Multi-turn (Redis) |
+| POST | `/chat/stream` | Streaming SSE |
+| DELETE | `/chat/session/{id}` | Xóa session |
+| GET | `/search?q=...` | Debug search |
+| POST | `/admin/upload` | Upload PDF/TXT |
 | GET | `/admin/documents` | Danh sách tài liệu |
 | DELETE | `/admin/documents/{id}` | Xóa tài liệu |
-| POST | `/admin/rebuild-index` | Index lại toàn bộ |
+| POST | `/admin/rebuild-index` | Index lại tất cả |
 
-**Admin endpoints** cần header: `X-Admin-Token: healthcare-admin-dev`
+Admin: header `X-Admin-Token: healthcare-admin-dev`

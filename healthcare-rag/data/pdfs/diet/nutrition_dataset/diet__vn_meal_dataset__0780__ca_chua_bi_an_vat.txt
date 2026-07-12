@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Cà chua bi ăn vặt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cà chua bi ăn vặt
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: cà chua bi, lycopene, ít calo, vitamin C
+
+Mô tả: Cà chua bi ít calo nhất, giàu lycopene và vitamin C, ăn vặt lành mạnh.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 32 kcal
+Chất đạm (protein): 1.5 g
+Chất béo tổng: 0.3 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.0 g (chất xơ: 2.0 g, đường: 4.5 g, đường bổ sung: 0.7 g)
+Cholesterol: 0 mg | Natri: 8 mg
+Kali: 235 mg | Phốt pho: 32 mg | Magie: 12 mg
+Canxi: 12 mg | Sắt: 0.3 mg | Vitamin D: 0.1 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít calo nhất, không giới hạn lượng dùng trong ngày
+Khẩu phần khuyến nghị: 150g/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+150g cà chua bi
+
+--- Cách chế biến ---
+1. Rửa sạch
+2. Ăn trực tiếp không cần chế biến

@@ -1,0 +1,51 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/benh-nhan-dai-thao-duong-tiem-insulin-khi-nao-vi",
+  "title": "Bệnh nhân ĐTĐ tiêm insulin khi nào",
+  "category": "medication",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:15:08.431907",
+  "source_name": "vinmec.com",
+  "document_title": "Bệnh nhân ĐTĐ tiêm insulin khi nào",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 792,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Bệnh nhân ĐTĐ tiêm insulin khi nào
+
+-->
+
+Sức khoẻ tổng hợp
+
+Bệnh nhân đái tháo đường tiêm insulin khi nào?
+
+Cố vấn chuyên môn
+
+Thạc sĩ,
+
+Vũ Thị Duyên
+
+☰
+Mục lục
+
+Bài viết được tư vấn chuyên môn bởi Thạc sĩ, Bác sĩ Vũ Thị Duyên - Khoa Khám bệnh & Nội khoa - Bệnh viện Đa khoa Quốc tế Vinmec Hải Phòng.
+
+Insulin là một trong các thuốc điều trị đái tháo đường giúp giảm đường máu hiệu quả nhất được chỉ định tuyệt đối cho người bệnh đái tháo đường type 1, đái tháo đường thai kỳ, đái tháo đường type 2 (khi người bệnh đã thay đổi chế độ ăn, luyện tập và dùng thuốc điều trị đái tháo đường không kiểm soát được đường máu). Để sử dụng insulin đạt hiệu quả và người bệnh có thể tự tiêm insulin tại nhà thì rất cần biết insulin là gì, có tác dụng gì và khi nào thì nên dùng insulin cho phù hợp nhất.
+1. Khái niệm về bệnh đái tháo đường
+Đái tháo đường là một rối loạn mãn tính có những thuộc tính sau: Tăng glucose máu kết hợp với bất thường về chuyển hóa carbonhydrat, lipide và thần kinh và các bệnh tim mạch do hậu quả của xơ vữa động mạch . Đái tháo đường có các thể bệnh khác nhau, thường gặp nhất là đái tháo đường type 1 và đái tháo đường type 2 , ngoài ra còn có đái tháo đường thai kỳ và thể bệnh chuyên biệt của đái tháo đường do các nguyên nhân khác (đái tháo đường thứ phát).
+2. Insulin và vai trò trong kiểm soát glucose máu ở bệnh nhân đái tháo đường
+2.1 Insulin là gì?
+
+Insulin là một loại hormone do các tế bào beta ở đảo tụy của tuyến tụy tiết ra. Insulin sẽ tác động đến các quá trình dự trữ và sử dụng glucose bởi các mô cơ thể, đặc biệt là tại gan, cơ và mô mỡ. Đây là hormone duy nhất làm giảm được nồng độ glucose trong máu. Trong điều trị bệnh đái tháo đường , tùy từng trường hợp bệnh nhân cụ thể, insulin có thể được bác sĩ chỉ định sử dụng, giống như các thuốc điều trị đái tháo đường khác.
+2.2 Vai trò insulin trong kiểm soát đường máu ở bệnh nhân đái tháo đường
+Mục đích của phác đồ điều trị bằng insulin hướng tới Tái cung cấp lượng insulin phù hợp nhất với mức bài tiết insulin sinh lý của cơ thể (do cơ thể đang thiếu hụt hay gặp ở đái tháo đường type hay đái tháo đường phụ thuộc insulin) Nồng độ insulin nền duy trì ổn định khi không nạp năng lượng vào cơ thể Nồng độ insulin đạt đỉnh sau mỗi bữa ăn Một số người bệnh đái tháo đường không thể dùng được thuốc uống (đái tháo đường thai kỳ, đái tháo đường type 2 đang mắc các bệnh cấp tính kèm theo) thì dùng insulin để kiểm soát đường máu. Tại Việt Nam hiện có insulin dạng tiêm với thời gian tác dụng khác nhau (insulin tác dụng ngắn, insulin tác dụng trung bình, insulin tác dụng kéo dài và insulin trộn sẵn - kết hợp các loại insulin theo tỉ lệ nhất định). Việc sử dụng insulin hiện giờ cũng dễ dàng hơn với người bệnh. Ngoài tiêm truyền thống, người bệnh nay đã có bút tiêm insulin, với nhiều ưu điểm như liều lượng tiêm insulin chính xác, dễ sử dụng, dễ mang theo người.
+3. Khi nào bệnh nhân đái tháo đường điều trị bằng insulin
+Chỉ định tiêm insulin Bắt buộc với đái tháo đường type 1 và đái tháo đường thai kỳ . Đái tháo đường type 2 khi: Mất bù do stress, nhiễm trùng, vết thương cấp, tăng đường huyết với tăng ceton máu cấp nặng. Mất cân không kiểm soát được, khi có can thiệp ngoại khoa, suy gan, suy thận. Khi có thai.
+
+Chỉ định dùng insulin sẽ do bác sĩ chuyên khoa nội tiết thăm khám trực tiếp và cho y lệnh điều trị, dựa trên thăm khám với từng bệnh nhân cụ thể và tuân theo phác đồ điều trị, do đó không phải cứ tiêm insulin nghĩa là bệnh đã ở giai đoạn nặng. Để đạt kết quả điều trị tốt nhất, người bệnh nên tư vấn trực tiếp để được bác sĩ tư vấn cặn kẽ, tránh tâm lý lo lắng quá mức, đồng thời tuân thủ các chỉ định đã được bác sĩ đề ra. Xem thêm : Hướng dẫn chẩn đoán đái tháo đường thai kỳ
+
+Hướng dẫn sử dụng bút tiêm Insulin điều trị tiểu đường

@@ -1,0 +1,56 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/articles/diabetes-stigma.html",
+  "title": "Diabetes Stigma - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:07:25.772552",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes Stigma - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 566,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes Stigma - CDC
+
+May 15, 2024
+
+Español
+
+Diabetes Stigma
+
+Key points
+
+Many people with diabetes experience stigma, or negative attitudes, about having diabetes.
+Diabetes stigma can discourage people with diabetes from performing important daily self-care.
+Learn more about recognizing and reducing diabetes stigma.
+
+What is diabetes stigma?
+Diabetes stigma is defined as negative attitudes, judgment, discrimination, or prejudice against someone because they have diabetes. It comes from the false idea that people with diabetes made unhealthy food and lifestyle choices, which resulted in their diagnosis. These false beliefs don't consider key factors that can cause diabetes, such as family medical history. They also don't factor in social determinants of health, which are the conditions where people grow, work, live and age. Diabetes stigma can particularly affect people with overweight or obesity.
+More than half of people with diabetes report that they have experienced stigma. Diabetes stigma can exist anywhere: in the family, school, workplace, and even in health care settings.
+Diabetes stigma can be experienced internally or externally. Internal stigma is a belief that a person with diabetes has about themselves. It can include feelings of self-blame, shame, and guilt. External stigma is blame and judgment that comes from other people and society. It can include awkward or mean looks, rejection, exclusion, and difficulty maintaining relationships and friendships.
+
+How does stigma affect people with diabetes?
+Experiencing stigma and discrimination can affect diabetes self-care and self-esteem. It can prevent people from getting the care they need, which could lead to serious health complications for people with diabetes.
+The negative emotions that people with diabetes feel from being stigmatized can also cause depression and anxiety. Stigma can even discourage people with diabetes from performing important daily self-care. This could include injecting insulin, checking blood sugar levels, or wearing diabetes devices.
+Managing diabetes takes planning and effort every day. When people experience diabetes stigma, they have to work even harder to successfully manage their condition.
+How people think and talk about diabetes can be key to improving health outcomes among people with diabetes. It's important to reduce the negative attitudes and judgment surrounding diabetes.
+
+What do people with diabetes want you to know?
+Diabetes is more complicated and far-reaching than you may know. Learning about diabetes is a great first step to help reduce stigma. Here are a few more things to know.
+Blaming or shaming someone with diabetes isn't helpful
+Instead, show empathy, and be a source of encouragement and support. A little support and understanding can go a long way.
+Words matter
+Avoid describing someone with diabetes a "diabetic." Describing someone as a diabetic can imply that they're nothing more than their disease. Instead, say they're "a person with diabetes" or "they have diabetes." It's also important not to call someone without diabetes "normal." This could make someone with diabetes feel abnormal or different and can be stigmatizing.
+Managing diabetes is a full-time job
+There's no clocking out with diabetes. Daily care for people living with diabetes includes monitoring blood sugar levels, taking medicines, and carefully tracking meals.
+Diabetes can be expensive
+People with diabetes spend twice as much money on health care costs as someone without diabetes. With doctor visits, diabetes supplies, and medicine, diabetes care can quickly add up and cause financial strain.
+Support is critical
+Letting someone with diabetes know that you're there to support them if they need you can make a difference.
+
+May 14, 2024

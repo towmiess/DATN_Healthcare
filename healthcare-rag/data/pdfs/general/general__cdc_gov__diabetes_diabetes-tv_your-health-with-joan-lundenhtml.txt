@@ -1,0 +1,65 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/diabetes-tv/your-health-with-joan-lunden.html",
+  "title": "Your Health With Joan Lunden Video Series - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:07:14.928204",
+  "source_name": "cdc.gov",
+  "document_title": "Your Health With Joan Lunden Video Series - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 291,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Your Health With Joan Lunden Video Series - CDC
+
+May 15, 2024
+
+Your Health With Joan Lunden and CDC Video Series
+
+At a glance
+
+The Your Health with Joan Lunden and CDC is a successful TV and digital mini-series designed to educate and inform adults about diabetes. Viewers will learn everything from reversing prediabetes to how to avoid diabetes complications—and even what to make for healthy, family-friendly dinners.
+
+Videos
+Diabetes: What is it?
+Find out exactly what diabetes is—and isn't—and what you can do to manage your health.
+
+What is prediabetes?
+Learn about prediabetes and how you can lower your risk for type 2 diabetes.
+
+Preventing type 2 diabetes in kids
+Did you know diabetes can run in families? So can healthy lifestyle habits.
+
+Diabetes self-management education
+Get the knowledge and skills you need to manage your diabetes and lower the risk for complications.
+
+Get moving!
+Our lifestyle change program can help you move in the right direction to prevent type 2 diabetes.
+
+What is the National Diabetes Prevention Program?
+In person or online, participants learn healthy lifestyle changes that work.
+
+Family mealtime makeover
+Fight type 2 diabetes in the kitchen with these delicious and affordable meal ideas.
+
+Prevent blindness
+The leading cause of blindness in working-age Americans? Diabetes. Early treatment can preserve vision.
+
+Diabetes and your heart
+People with diabetes are twice as likely to have heart disease, but healthy habits can help lower risk.
+
+Know your chronic kidney disease risk
+A third of people with diabetes also have chronic kidney disease. Why you should get tested if you have any risk factors.
+
+Getting support
+Diabetes care is a lot to manage. Family and friends can lighten the load!
+
+Sandra's success story
+Find out how Sandra made the National Diabetes Prevention Program work for her .
+
+May 14, 2024

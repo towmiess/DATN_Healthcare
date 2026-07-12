@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Mâm xôi (raspberry)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Mâm xôi (raspberry)
+Loại món: Trái cây | Ẩm thực: Vietnamese
+Từ khóa: chất xơ cao nhất nhóm trái cây, ellagic acid, GI thấp
+
+Mô tả: Mâm xôi có chất xơ cao nhất trong các loại trái cây thông dụng, ellagic acid chống oxy hóa.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 100g (phần ăn được)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.5
+Calo: 52 kcal
+Chất đạm (protein): 1.2 g
+Chất béo tổng: 0.7 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 11.9 g (chất xơ: 6.5 g, đường: 4.4 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 1 mg
+Kali: 151 mg | Phốt pho: 29 mg | Magie: 22 mg
+Canxi: 25 mg | Sắt: 0.7 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Chất xơ cao nhất trong trái cây - GL cực thấp dù GI vừa
+Khẩu phần khuyến nghị: 150g/lần, có thể ăn thường xuyên
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g mâm xôi (raspberry) (phần ăn được)
+
+--- Cách chế biến ---
+1. Rửa sạch mâm xôi (raspberry)
+2. Gọt vỏ/bỏ hạt nếu cần
+3. Ăn trực tiếp, không thêm đường

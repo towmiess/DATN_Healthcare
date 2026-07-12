@@ -1,0 +1,70 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/articles/diabetes-and-hormonal-birth-control.html",
+  "title": "Diabetes and Hormonal Birth Control - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:07:31.744965",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes and Hormonal Birth Control - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 524,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes and Hormonal Birth Control - CDC
+
+August 8, 2024
+
+Diabetes and Hormonal Birth Control
+
+What to know
+
+In addition to preventing pregnancy, hormonal birth control is used for other health reasons, such as regulating menstrual cycles.
+
+Using hormonal birth control may affect your diabetes management.
+
+It can also increase your risk for other health conditions.
+
+Hormonal birth control basics
+Hormonal birth control is a common method of preventing pregnancy. It works by using female sex hormones to prevent the release of an egg. It has a high success rate when used as prescribed by your doctor.
+Types of hormonal birth control
+Types of hormonal birth control include:
+
+A daily oral pill taken at the same time every day.
+
+An intrauterine device (IUD) placed inside the uterus by a health care professional. Some IUDs don't use hormones to prevent pregnancy.
+
+An implant placed under the skin of the upper arm.
+
+A vaginal ring inserted into the vagina for 3 weeks at a time between menstrual periods.
+
+A hormone injection given by a health care professional every 3 months.
+
+In addition to preventing pregnancy, hormonal birth control can be used to:
+
+Help regulate menstrual cycles.
+
+Manage other health conditions, like ovarian cysts, polycystic ovary syndrome (PCOS) , and endometriosis (where tissue similar to the lining of the uterus grows outside the uterus).
+
+Reduce the risk of ovarian or uterine cancer.
+
+Manage hormonal acne.
+
+Note: Hormonal birth control does not prevent sexually transmitted infections.
+Side effects
+Side effects from hormonal birth control can include mood swings, weight gain, decreased sex drive, nausea, blood clots, or spotting (bleeding between menstrual periods).
+
+Hormonal birth control and diabetes management
+Hormonal birth control can make it harder to manage your blood sugar if you have prediabetes or diabetes. This is because female sex hormones (estrogen and progestin) tend to increase blood sugar levels. Some people experience weight gain as a side effect of hormonal birth control. Weight gain is an added risk factor for high blood sugar and insulin resistance .
+Some types of hormonal birth control, especially the pill, can increase the risk for people with diabetes of developing kidney damage, vision loss, and nerve damage. Certain vaginal ring types are not recommended for people with kidney, eye, nerve, or blood vessel complications from diabetes.
+Scientists are still studying how hormonal birth control and diabetes medicines interact. Some research shows that certain diabetes medicines, such as glucagon-like peptide-1 agonists (GLP-1s), might make birth control less effective. Talk with your health care provider about all medicines you're taking to make sure they can be taken together safely and effectively.
+
+Other health considerations
+PCOS increases the risk of type 2 diabetes. More than half of women with PCOS develop type 2 diabetes by age 40. Hormonal birth control is commonly used to treat PCOS, and PCOS can also affect diabetes management and blood sugar levels.
+People with diabetes are twice as likely to have heart disease or a stroke than someone who doesn't have diabetes. There is also a higher risk of heart attack and stroke for women who take hormonal birth control, especially methods containing estrogen, which can increase the risk of blood clots.
+
+August 8, 2024

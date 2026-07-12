@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Gà ta xào kiểu miền Trung", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Gà ta xào kiểu miền Trung
+Loại món: Cá/Hải sản | Ẩm thực: Vietnamese
+Từ khóa: gà ta, măng tây, protein, xào
+
+Mô tả: Gà ta xào kiểu miền Trung là món xào kết hợp gà ta và măng tây, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 181 kcal
+Chất đạm (protein): 19.6 g
+Chất béo tổng: 9.3 g (bão hòa: 2.4 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.5 g (chất xơ: 2.8 g, đường: 1.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 165 mg | Natri: 264 mg
+Kali: 277 mg | Phốt pho: 184 mg | Magie: 59 mg
+Canxi: 87 mg | Sắt: 1.5 mg | Vitamin D: 0.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Cá/Hải sản; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g gà ta
+200g măng tây
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế gà ta và măng tây
+2. Xào theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

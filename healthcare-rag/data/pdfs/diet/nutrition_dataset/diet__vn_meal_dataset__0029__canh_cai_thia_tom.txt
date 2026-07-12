@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Canh cải thìa tôm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh cải thìa tôm
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: cải thìa, pak choy, tôm, vitamin A, canxi
+
+Mô tả: Cải thìa giàu vitamin A và canxi, tôm thêm đạm, canh nhanh chóng dễ làm.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.8
+Calo: 110 kcal
+Chất đạm (protein): 14.5 g
+Chất béo tổng: 3.2 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 4.8 g (chất xơ: 2.8 g, đường: 1.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 95 mg | Natri: 355 mg
+Kali: 388 mg | Phốt pho: 165 mg | Magie: 35 mg
+Canxi: 185 mg | Sắt: 1.8 mg | Vitamin D: 0.5 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Vitamin A từ cải thìa tốt cho thị giác bệnh nhân TĐ
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+150g tôm
+250g cải thìa
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Phi tỏi vàng
+2. Đổ 400ml nước sôi
+3. Cho cải thìa tôm vào
+4. Nấu 5 phút nêm gia vị

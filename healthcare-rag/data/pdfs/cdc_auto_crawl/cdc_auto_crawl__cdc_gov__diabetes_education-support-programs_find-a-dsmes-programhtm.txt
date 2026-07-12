@@ -1,0 +1,32 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/education-support-programs/find-a-dsmes-program.html",
+  "title": "Find a DSMES Program",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:19.951968",
+  "source_name": "cdc.gov",
+  "document_title": "Find a DSMES Program",
+  "extraction_method": "<main>",
+  "word_count": 110,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Find a DSMES Program
+
+Find a DSMES Program
+
+Mar. 17, 2025
+
+At a glance
+
+Diabetes self-management education and support (DSMES) services help you build confidence and emotional strength to fit diabetes care into your everyday life. Find a DSMES program near you to learn more about diabetes and get the practical skills and tools you need to make positive lifestyle changes.
+
+Find DSMES programs near you
+Enter your state, city, or zip code to see a list of programs in your area that offer DSMES services. You can also choose your preferred language, diabetes focus, and ages served. Please contact the program you're interested in for the most up-to-date information.
+
+Mar. 17, 2025
+
+Syndicate

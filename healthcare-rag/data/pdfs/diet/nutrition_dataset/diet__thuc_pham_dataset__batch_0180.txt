@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 180-200)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Nầm bò: 1 kcal/100g | đạm 0g | béo 0g | carb 0g
+- Nấm hương, khô: 342 kcal/100g | đạm 36g | béo 4g | carb 40.5g
+- Nấm hương, tươi: 51 kcal/100g | đạm 5.5g | béo 0.5g | carb 6.1g
+- Nấm kim châm: 44 kcal/100g | đạm 2.6g | béo 0.2g | carb 7.8g
+- Nấm mỡ (Nấm tây), tươi: 37 kcal/100g | đạm 4g | béo 0.3g | carb 4.5g
+- Nấm rơm, tươi: 61 kcal/100g | đạm 3.6g | béo 3.2g | carb 4.5g
+- Nấm thường, tươi: 48 kcal/100g | đạm 4.6g | béo 0.8g | carb 5.7g
+- Nem chạo: 116 kcal/100g | đạm 12.1g | béo 1.6g | carb 12.9g
+- Nem chua: 125 kcal/100g | đạm 20.7g | béo 3.3g | carb 3.2g
+- Ngao biển trắng: 42 kcal/100g | đạm 5.3g | béo 0.4g | carb 4.0g
+- Ngô bao tử, tươi: 42 kcal/100g | đạm 2.2g | béo 0.2g | carb 7.8g
+- Ngó sen, tươi: 65 kcal/100g | đạm 1g | béo 0g | carb 15.1g
+- Ngọn su su, luộc: 14 kcal/100g | đạm 3.3g | béo 0.1g | carb 0g
+- Ngọn su su, tươi: 24 kcal/100g | đạm 3.3g | béo 0.1g | carb 2.5g
+- Nhãn, khô: 292 kcal/100g | đạm 4.3g | béo 0.5g | carb 67.6g
+- Nhãn, tươi: 52 kcal/100g | đạm 0.9g | béo 0g | carb 12g
+- Nho ngọt, tươi: 71 kcal/100g | đạm 0.4g | béo 0.1g | carb 16.9g
+- Nho ta (nho chua), tươi: 24 kcal/100g | đạm 0.4g | béo 0g | carb 5.5g
+- Nhộng, tươi: 111 kcal/100g | đạm 13g | béo 6.5g | carb 0g
+- Nhót, tươi: 22 kcal/100g | đạm 1.2g | béo 0g | carb 4.4g

@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Đậu hũ trộn rau răm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Đậu hũ trộn rau răm
+Loại món: Chay/Đậu hũ | Ẩm thực: Vietnamese
+Từ khóa: đậu hũ, rau răm, mát
+
+Mô tả: Đậu hũ luộc trộn rau răm thơm, món ăn mát đơn giản ít calo.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.5
+Calo: 98 kcal
+Chất đạm (protein): 9.5 g
+Chất béo tổng: 5.0 g (bão hòa: 0.6 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.5 g (chất xơ: 1.5 g, đường: 1.0 g, đường bổ sung: 0.1 g)
+Cholesterol: 0 mg | Natri: 265 mg
+Kali: 285 mg | Phốt pho: 135 mg | Magie: 30 mg
+Canxi: 115 mg | Sắt: 1.5 mg | Vitamin D: 0.3 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít calo phù hợp kiểm soát cân nặng
+Khẩu phần khuyến nghị: 1 phần/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g đậu hũ
+Rau răm
+Nước mắm nhạt
+
+--- Cách chế biến ---
+1. Luộc đậu hũ 8 phút
+2. Trộn với rau răm
+3. Rưới mắm nhạt

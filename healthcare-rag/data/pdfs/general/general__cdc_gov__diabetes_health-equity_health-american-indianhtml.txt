@@ -1,0 +1,47 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/health-equity/health-american-indian.html",
+  "title": "Improving Health in Indian Country - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:37.837020",
+  "source_name": "cdc.gov",
+  "document_title": "Improving Health in Indian Country - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 520,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Improving Health in Indian Country - CDC
+
+May 15, 2024
+
+Improving Health in Indian Country
+
+Key Points
+
+American Indian and Alaska Native adults are almost 3 times more likely to have type 2 diabetes compared to White adults.
+CDC is working to advance health equity for American Indian and Alaska Native people.
+
+Reducing health disparities
+Some American Indian and Alaska Native elders recall a time when there was no word for diabetes in their language because the condition was so uncommon. By the 1980s, type 2 diabetes was taking a heavy toll on American Indian and Alaska Native communities.
+From 1994 to 2004, diagnosed diabetes more than doubled among Native adults 35 or younger. Tribal leaders and allies brought concerns about the devastation of diabetes to Congress. In response, Congress enacted the Special Diabetes Program for Indians (SDPI), administered by the Indian Health Service (IHS).
+CDC launched the Native Diabetes Wellness Program in 2004. Its goal is to promote type 2 diabetes prevention, diabetes awareness, and overall wellness among American Indian and Alaska Native people. It strives to balance cultural practices and Western science. Some activities include:
+
+Increasing access to the National Diabetes Prevention Program lifestyle change program through cooperative agreements with local and tribal health organizations.
+Sharing stories about how American Indian and Alaska Native communities are reclaiming traditional foods and storytelling to promote health.
+Developing the Eagle Books series for young people to help them understand the importance of healthy eating and being active.
+Providing free hands-on resources such as the Eagle Books Toolkit, which includes wellness activities, play scripts, education guides, and art projects.
+
+Reaching young people through storytelling
+In 1999, CDC and IHS started holding listening sessions with 171 tribes to consult with tribal leaders across the nation. Concern emerged about future generations at risk of type 2 diabetes, and storytelling was recommended to share traditional knowledge about health. But because type 2 diabetes was a relatively new condition for tribal communities, they had few stories about prevention.
+CDC and IHS commissioned the illustrated Eagle Books to address this gap. The series has four books for K–4 readers, as well as three chapter books and a graphic novel for middle schoolers. All feature animal characters—a wise eagle, a grateful rabbit, and a clever coyote—and four friends who respect traditional knowledge about health, including healthy eating, physical activity, wise choices, and sharing knowledge with family and friends.
+CDC has distributed more than 3 million Eagle Books to schools, parents, and health programs that serve children.
+
+Success story: Eagle Adventure
+The Chickasaw Nation and Oklahoma State University teamed up to create Eagle Adventure , an entertainment-education program based on the Eagle Books. Students in grades 1 to 3 begin the program by watching the Eagle Adventure Play, which embraces traditions of Native American storytelling. The play is followed by in-class lessons to help children talk about their own health and nutrition habits. After the program, students demonstrated the intention to adopt healthy eating and activity choices; caregivers reported that their children asked to buy fruit and vegetables. More than 6,000 students and their families have participated since the Eagle Adventure program began.
+
+May 14, 2024

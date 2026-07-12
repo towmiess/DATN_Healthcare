@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "khổ qua luộc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: khổ qua luộc
+Loại món: Rau củ | Ẩm thực: Vietnamese
+Từ khóa: khổ qua, rau củ, ít calo, chất xơ
+
+Mô tả: khổ qua luộc là món luộc kết hợp khổ qua và khổ qua, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 75 kcal
+Chất đạm (protein): 2.6 g
+Chất béo tổng: 4.3 g (bão hòa: 1.4 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.6 g (chất xơ: 2.2 g, đường: 4.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 504 mg
+Kali: 407 mg | Phốt pho: 139 mg | Magie: 53 mg
+Canxi: 117 mg | Sắt: 2.9 mg | Vitamin D: 3.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Rau củ; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+300g khổ qua
+Tỏi hoặc gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế khổ qua sạch
+2. Luộc đến chín vừa
+3. Nêm ít gia vị, tránh dùng nhiều dầu mỡ

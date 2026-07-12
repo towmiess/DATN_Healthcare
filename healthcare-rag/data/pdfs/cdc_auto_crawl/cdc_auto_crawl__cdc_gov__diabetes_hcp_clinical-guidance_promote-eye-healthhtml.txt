@@ -1,0 +1,121 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/hcp/clinical-guidance/promote-eye-health.html",
+  "title": "Promoting Eye Health",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:29.434266",
+  "source_name": "cdc.gov",
+  "document_title": "Promoting Eye Health",
+  "extraction_method": "<main>",
+  "word_count": 860,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Promoting Eye Health
+
+May 15, 2024
+
+Promoting Eye Health
+
+Key points
+
+People with diabetes are at a higher risk of vision loss and eye diseases.
+
+Eye diseases include retinopathy, glaucoma, and cataracts.
+
+These conditions can be avoided or delayed with yearly dilated eye exams and treatment.
+
+Eye care specialists in diabetes care
+Optometrists and ophthalmologists are eye care specialists who play a key role in detecting and treating diabetes-related eye diseases. These include retinopathy, glaucoma, and cataracts. These conditions can be avoided or delayed with yearly dilated eye exams and treatment.
+
+Key messages to share with your patients
+Encourage your patients to do the following:
+
+Get yearly comprehensive vision exams, including dilated eye exams.
+
+Pay close attention to any changes in their vision since many eye problems do not show obvious symptoms.
+
+Learn more about diabetes and vision loss .
+
+Let patients know that managing their blood glucose levels and overall health can reduce their risk of visual impairment.
+
+Take these 5 actions to help your patients
+1. Know the risks of vision loss and eye diseases for diabetes patients.
+People with diabetes are at a higher risk of vision loss and eye diseases. However, 60% of people with diabetes do not get annual eye exams. 1
+Statistics
+
+The risk of blindness is 25 times higher in people with diabetes compared to those without diabetes. 2
+
+Glaucoma, cataracts, and other eye disorders occur earlier and more often in people with diabetes compared to those without. 3
+
+Diabetic retinopathy is the leading cause of blindness in working-age adults. 4
+
+Diabetic retinopathy is projected to affect 16 million people with diabetes by 2050. 5
+
+Evidence supports that using medication to lower blood glucose levels can reduce the risk of diabetic retinopathy by 25%. 6
+
+More than 90% of diabetes-related vision loss can be avoided with early detection and treatment. 7
+
+2. Encourage patients to monitor their vision.
+At each health care visit, tell your patients with diabetes about the signs of eye problems. This will help them be aware of changes in their eyesight when they start. You can make sure your patients understand the information by asking them to repeat what they heard.
+
+Common signs of eye health issues
+Dark, floating spots or streaks in eyesight; dry eyes; double vision (images overlap); sudden trouble seeing clearly, focusing, or adjusting to changes in light or darkness.
+
+3. Ask your patients about their eye health at each visit.
+For example:
+
+Do you get a comprehensive eye exam with dilated pupils at least once a year?
+
+Do you know how diabetes can affect your eyes?
+
+Do you know what to do if you suddenly have a change in your vision?
+
+You can refer your patients to an eye health specialist or provide them with more information about recommended eye care for people with diabetes.
+4. Help your patients see the connection between diabetes management and healthy vision.
+Use the following pointers to support healthy diabetes management for your patients:
+
+Promote the ABCs of diabetes (A1C, blood pressure, cholesterol, and smoking cessation) and a healthy lifestyle.
+
+Connect patients to health coaches, patient navigators, nutritionists, community health workers, and local community resources, when possible.
+
+Encourage patients to get regular eye health checkups.
+
+Follow up with patients regularly to track how well they are managing their diabetes and connecting with their health care team.
+
+Consider socioeconomic factors (food and housing security, social support) that may affect your patients' diabetes management.
+
+5. Refer your patients to diabetes self-management education and support (DSMES) services.
+DSMES services help people live well with diabetes at any stage of their journey. Participants work with diabetes care and education specialists to learn practical skills in diabetes self-care. Skills include improving their blood sugar, eating well, being active, and solving problems to manage their diabetes.
+
+DSMES services
+Learn more about DSMES and encourage your patients to find a DSMES program recognized by the American Diabetes Association or accredited by the Association of Diabetes Care & Education Specialists.
+
+Resources
+
+Vision Health Initiative (VHI)
+
+Prevent Diabetes Complications: Vision Loss
+
+Diabetic Eye Disease Resources
+
+Diabetic Retinopathy
+
+Diabetic Retinopathy: Causes, Symptoms, Treatments
+
+Eye Care of the Patient with Diabetes Mellitus
+
+May 15, 2024
+
+Syndicate
+
+References US Department of Health and Human Services. HealthyPeople 2030. Increase the proportion of adults with diabetes who have a yearly eye exam—D-04. Accessed January 20, 2022. https://health.gov/healthypeople/objectives-and-data/browse-objectives/diabetes/increase-proportion-adults-diabetes-who-have-yearly-eye-exam-d-04external icon
+Thomann KH, Marks ES, Adamczyk DT, eds. Primary Eyecare in Systemic Disease. 2nd ed. McGraw-Hill; 2001:793.
+Wykoff CC, Khurana RN, Nguyen QD, et al. Risk of blindness among patients with diabetes and newly diagnosed diabetic retinopathy. Diabetes Care . 2021;44(3):748–756. doi:10.2337/dc20-0413
+Centers for Disease Control and Prevention. Diabetes and vision loss. Updated May 7, 2021. Accessed December 29, 2021. https://www.cdc.gov/diabetes/managing/diabetes-vision-loss.html
+Saaddine JB, Honeycutt AA, Narayan KM, Zhang X, Klein R, Boyle JP. Projection of diabetic retinopathy and other major eye diseases among people with diabetes mellitus: United States, 2005–2050. Arch Ophthalmol . 2008;126(12):1740–1747. doi:10.1001/archopht.126.12.1740
+Genuth S, Eastman R, Kahn R, et al. Implications of the United Kingdom prospective diabetes study. Diabetes Care . 2003;26(Suppl 1):S28–S32. doi:10.2337/diacare.26.2007.s28
+Centers for Disease Control and Prevention. Keep an eye on your vision health. Updated October 1, 2020. Accessed September 21, 2021. https://www.cdc.gov/vision-health/about-eye-disorders/why-eye-exams-are-important.html

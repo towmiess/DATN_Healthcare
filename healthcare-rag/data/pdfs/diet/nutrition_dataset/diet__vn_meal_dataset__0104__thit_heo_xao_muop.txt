@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Thịt heo xào mướp", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thịt heo xào mướp
+Loại món: Món xào | Ẩm thực: Vietnamese
+Từ khóa: mướp, thịt heo, ít calo, mát
+
+Mô tả: Mướp mát giải nhiệt, ít calo, phù hợp bệnh nhân TĐ vùng nhiệt đới.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.2
+Calo: 115 kcal
+Chất đạm (protein): 14.5 g
+Chất béo tổng: 5.8 g (bão hòa: 1.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.8 g (chất xơ: 2.2 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 42 mg | Natri: 325 mg
+Kali: 348 mg | Phốt pho: 145 mg | Magie: 25 mg
+Canxi: 28 mg | Sắt: 0.8 mg | Vitamin D: 0.2 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít calo phù hợp TĐ cần kiểm soát cân nặng
+Khẩu phần khuyến nghị: 1 đĩa lớn/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g mướp
+150g thịt nạc
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Mướp cắt khúc
+2. Phi tỏi xào thịt
+3. Cho mướp vào xào 5 phút
+4. Nêm gia vị

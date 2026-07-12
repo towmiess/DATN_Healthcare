@@ -1,0 +1,62 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/healthy-eating/spotting-hidden-sugars-in-everyday-foods.html",
+  "title": "Spotting Hidden Sugars in Everyday Foods - CDC",
+  "category": "diet",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:02:36.132327",
+  "source_name": "cdc.gov",
+  "document_title": "Spotting Hidden Sugars in Everyday Foods - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 879,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Spotting Hidden Sugars in Everyday Foods - CDC
+
+Spotting Hidden Sugars in Everyday Foods
+
+Feb. 5, 2026
+
+Español
+
+What to know
+
+When most people think of sugar, they think of sweet treats like candy, ice cream, or baked goods. But sugar can be hiding in many everyday foods without you knowing it. If you have diabetes or prediabetes, it’s important to know what’s in your food and how it might affect your blood sugar. Find out what to look for, so you won’t have any not-so-sweet surprises.
+
+All about added sugars
+When most people think about sugar, they think about that sweet flavor in their foods and drinks. But sugar comes in many types. Some whole foods, like fresh fruits and dairy, contain naturally occurring sugars. Other foods contain what's known as added sugars, which are sugars that are added to packaged foods during processing.
+Sugar is often added to enhance flavor. But it's also commonly added to packaged foods for texture or used as a preservative to increase shelf life of a food. Sometimes, sugar is even added to savory foods you wouldn't expect, like pasta sauce.
+Nutrition labels
+The best way to tell if your foods contain added sugars is to read nutrition labels . Nutrition labels show you total sugars, which is the combined amount of naturally occurring and added sugar in your food. For example, if a food has 20 grams (g) of total sugars and 15g of added sugars, then you know that only 5g of sugar in that food are naturally occurring.
+You can also read the ingredient list on the nutrition label to understand how much added sugar is in a food. Nutrition labels list ingredients from the highest amount to the smallest amount. If a type of sugar is at the beginning of the ingredient list, that's a good clue that the food has added sugars.
+There are a lot of different words out there for sugar. Here are some common sugary ingredients to keep an eye out for:
+
+Sugars (like cane sugar, confectioner's sugar, turbinado sugar)
+Syrups (like corn syrup, high-fructose corn syrup, rice syrup)
+Molasses
+Caramel
+Juice
+Honey or agave
+
+In addition to these words, most ingredients that end with "-ose" contain sugar. Examples include glucose, fructose, lactose, maltose, dextrose, and sucrose. Also, some terms can indicate sugar was added during food preparation or processing, such as "glazed," "candied," "caramelized," or "frosted."
+Some foods use zero-calorie sweeteners, such as sucralose, aspartame, saccharin, and stevia. Zero-calorie sweeteners have little to no effect on blood sugar levels and can help you reduce calorie intake. They are generally safe in moderation and can be used as a short-term way to cut back on regular sugar.
+Just as with regular sugar, it's best to limit consumption of sugar substitutes when you can. While the long-term effects of sugar substitutes are still being studied, some research suggests that their use may be linked to health issues such as bloating and diarrhea. It is important to note that packaged food items marked as zero or no sugar are often not as nutritious as whole foods like fruits and vegetables because other ingredients are often added to improve texture and taste. Remember, low- or no-sugar packaged foods aren't necessarily healthy. A food can be low in sugar but highly processed and low in nutrients.
+Foods that may surprise you
+Here are some foods that you may not realize have hidden added sugars:
+
+Condiments and sauces: Ketchup, jarred pasta sauce, barbecue sauce, and salad dressings may taste savory, but they often hide added sugars.
+Protein bars or yogurt: These foods can be a good way to add protein to your diet, but some of them could have high amounts of added sugars. Look for options that have more grams of protein than sugar.
+Milk and coffee creamers: Dairy products contain naturally occurring sugars, but some flavored dairy or nondairy milk (e.g., almond, soy) may be sweetened with added sugars. Pay attention to versions that come in chocolate, vanilla, or strawberry flavor.
+Granola, instant oatmeal, and breakfast cereals: These options are frequently sweetened with sugar, honey, or other added sugars.
+Canned fruit, fruit preserves, or jams: Look for fruit canned in juice instead of syrup. Fruit preserves and jams may also contain added sugars, but most stores have low- or no-added-sugar options.
+Nut butters: Even nut butters like peanut, almond, or cashew butter may have added sugars for both flavor and texture.
+Drinks: Regular soda and soft drinks contain a lot of added sugar. Other bottled drinks like sports and energy drinks, coffee drinks, and iced teas can have surprising amounts of added sugars too. Look for unsweetened alternatives , like water, sparkling flavored water, and unsweetened coffee or tea.
+
+All in moderation
+If some of your favorite foods contain added sugars, it doesn't mean you have to cut them out of your diet completely. The important thing is to be aware so there aren't any surprises. You can enjoy these foods in moderation . Be sure to follow the recommended portion sizes on the nutrition label. If you're concerned about added sugars in your food, try reducing the portion size or find low- or zero-sugar alternatives. You can also get creative and make your own diabetes-friendly versions of some foods at home.
+
+Feb. 5, 2026

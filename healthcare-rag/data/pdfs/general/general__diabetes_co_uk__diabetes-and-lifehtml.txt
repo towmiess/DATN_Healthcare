@@ -1,0 +1,20 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.co.uk/diabetes-and-life.html",
+  "title": "Living with diabetes overview - Diabetes.co.uk",
+  "category": "general",
+  "language": "en",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:07:39.725103",
+  "source_name": "diabetes.co.uk",
+  "document_title": "Living with diabetes overview - Diabetes.co.uk",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 397,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Living with diabetes overview - Diabetes.co.uk
+
+Up next Published on 15 January 2019 Updated on 19 November 2022 Author Conor Seery Share article Facebook Twitter Pinterest Reddit Whatsapp Messenger Mail Living with diabetes can be challenging, but you can still lead a near normal life. Diet and lifestyle are key components in living healthily with diabetes. Be it dealing with blood glucose meter problems, the contraceptive pill, how smoking affects diabetes or even how diabetes could affect your job – living with Diabetes contains help and guides to steer you through. LIVING YOUR LIFE WITH DIABETES Celebrities With Diabetes Employment Family and care Health Guides Recreational Drugs Blood Glucose Managing Diabetes Diabetes Calculators & Tools Driving Diabetes and Sex Will I be able to lead a ‘normal’ life? There is nothing stopping you leading a normal life. However, it is paramount that you take good control of your diabetes to ensure you can lead a healthy, long life. Diabetes can affect all areas of your life. You may wish to explore how diabetes can affect: Blood glucose levels Driving Getting a job Emotions Travel Sex If you have any questions, don’t forget you can ask the community over in the Diabetes Forum . What's new on the forum? ⭐️ Yet another spiral into depression Emotional and Mental Health Maggie75 109 6 What have you eaten today? (Low carb forum) Low-carb Diet Forum Administrator 10084.44k 67.52k ‘Stop Eating After 7pm’ Challenge Type 2 Diabetes MissMuffett 269.78k 1.73k Third party apps for Freestyle Libre Ask A Question Antje77 429 19 Type 2s: What was your fasting blood glucose in a morning? (very low chat level) Type 2 Diabetes equipoise 8119.42k 82.39k MedM Health App display problem Ask A Question CatsFive 47 0 What was your fasting blood glucose? (with some chat) Diabetes Discussions NewdestinyX 8705.93k 84.85k Hi I’m julieclarke I’ve joined to find out more about T2 diabetes Diabetes Discussions lovinglife 70.44k 1.06k BGM - what model? Ask A Question CatsFive 477 17 Fasting Blood Sugar this morning + yesterday's food AND physical activity Type 2 Diabetes AGC_68 582.60k 6.12k Get our free newsletters Stay up to date with the latest news, research and breakthroughs. You May Also Like Living with Diabetes As the days grow shorter and darker in autumn and winter, many… 3 minute read Living with Diabetes Overeating is common, harms glucose control and it is fixable with straight… 6 minute read

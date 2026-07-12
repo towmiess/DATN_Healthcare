@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Trà bạc hà chanh", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trà bạc hà chanh
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: bạc hà, chanh, tiêu hóa, mát
+
+Mô tả: Bạc hà hỗ trợ tiêu hóa, chanh bổ sung vitamin C, thức uống mát không đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.5
+Calo: 10 kcal
+Chất đạm (protein): 0.2 g
+Chất béo tổng: 0.0 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 2.5 g (chất xơ: 0.2 g, đường: 1.0 g, đường bổ sung: 0.1 g)
+Cholesterol: 0 mg | Natri: 2 mg
+Kali: 35 mg | Phốt pho: 5 mg | Magie: 3 mg
+Canxi: 8 mg | Sắt: 0.1 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Hỗ trợ tiêu hóa tốt sau bữa ăn nhiều carb
+Khẩu phần khuyến nghị: 1 ly sau bữa ăn
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+10 lá bạc hà
+1/2 quả chanh
+300ml nước
+
+--- Cách chế biến ---
+1. Vò nhẹ lá bạc hà
+2. Hãm với nước nóng hoặc lạnh
+3. Vắt chanh vào

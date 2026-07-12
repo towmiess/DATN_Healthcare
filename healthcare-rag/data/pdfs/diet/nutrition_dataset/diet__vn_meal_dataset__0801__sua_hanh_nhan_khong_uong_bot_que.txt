@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Sữa hạnh nhân không đường + bột quế", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Sữa hạnh nhân không đường + bột quế
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: sữa hạnh nhân, quế, không đường, ít carb
+
+Mô tả: Sữa hạnh nhân ít carb nhất trong các loại sữa hạt, quế hỗ trợ nhạy cảm insulin nhẹ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.5
+Calo: 40 kcal
+Chất đạm (protein): 1.5 g
+Chất béo tổng: 3.5 g (bão hòa: 0.3 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 1.5 g (chất xơ: 0.5 g, đường: 0.5 g, đường bổ sung: 0.1 g)
+Cholesterol: 0 mg | Natri: 150 mg
+Kali: 85 mg | Phốt pho: 45 mg | Magie: 15 mg
+Canxi: 180 mg | Sắt: 0.3 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít carb nhất; quế hỗ trợ nhạy cảm insulin nhẹ
+Khẩu phần khuyến nghị: 200ml/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200ml sữa hạnh nhân không đường
+1/2 muỗng cà phê bột quế
+
+--- Cách chế biến ---
+1. Đổ sữa hạnh nhân vào ly
+2. Rắc bột quế lên
+3. Khuấy đều

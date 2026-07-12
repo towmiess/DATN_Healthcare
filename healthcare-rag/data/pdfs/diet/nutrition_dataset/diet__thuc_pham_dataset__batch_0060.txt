@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 60-80)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Cải ngồng, luộc: 18 kcal/100g | đạm 1.6g | béo 0.2g | carb 2.3g
+- Cải ngọt, luộc: 19 kcal/100g | đạm 1.5g | béo 0.1g | carb 2.9g
+- Cải thảo, luộc: 15 kcal/100g | đạm 0.9g | béo 0g | carb 2.7g
+- Cam, tươi: 43 kcal/100g | đạm 0.9g | béo 0.0g | carb 9.7g
+- Chả cá basa: 186 kcal/100g | đạm 11.1g | béo 13g | carb 6.1g
+- Chả cá basa, rán: 186 kcal/100g | đạm 11.1g | béo 13g | carb 6.1g
+- Chả lá lốt, rán: 306 kcal/100g | đạm 20g | béo 24.8g | carb 2.3g
+- Chả lợn: 517 kcal/100g | đạm 10.8g | béo 50.4g | carb 5.1g
+- Chả quế lợn: 416 kcal/100g | đạm 16.2g | béo 39g | carb 0g
+- Chân giò lợn, tươi: 230 kcal/100g | đạm 15.7g | béo 18.6g | carb 0g
+- Chanh, tươi: 29 kcal/100g | đạm 0.9g | béo 0.1g | carb 5.9g
+- Châu chấu, sống: 130 kcal/100g | đạm 24.3g | béo 3.6g | carb 0g
+- Chôm chôm, tươi: 77 kcal/100g | đạm 1.5g | béo 0g | carb 17.7g
+- Chuối, khô: 301 kcal/100g | đạm 5g | béo 0g | carb 70.3g
+- Chuối tây, tươi: 66 kcal/100g | đạm 0.9g | béo 0.3g | carb 15g
+- Chuối tiêu, tươi: 100 kcal/100g | đạm 1.5g | béo 0.2g | carb 23g
+- Con trùng trục: 108 kcal/100g | đạm 14.4g | béo 1.3g | carb 9.6g
+- Củ su hào, khô: 311 kcal/100g | đạm 20g | béo 1.4g | carb 54.6g
+- Củ su hào, tươi: 44 kcal/100g | đạm 2.8g | béo 0.0g | carb 7.9g
+- Cua bể, tươi: 103 kcal/100g | đạm 17.5g | béo 0.6g | carb 7g

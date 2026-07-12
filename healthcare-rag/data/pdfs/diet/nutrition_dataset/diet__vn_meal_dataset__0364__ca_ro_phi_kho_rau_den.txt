@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá rô phi kho rau dền", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá rô phi kho rau dền
+Loại món: Cá/Hải sản | Ẩm thực: Vietnamese
+Từ khóa: cá rô phi, rau dền, protein, kho
+
+Mô tả: Cá rô phi kho rau dền là món kho kết hợp cá rô phi và rau dền, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 147 kcal
+Chất đạm (protein): 25.6 g
+Chất béo tổng: 9.6 g (bão hòa: 2.7 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.3 g (chất xơ: 3.5 g, đường: 1.1 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 243 mg
+Kali: 310 mg | Phốt pho: 216 mg | Magie: 54 mg
+Canxi: 167 mg | Sắt: 3.8 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Cá/Hải sản; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g cá rô phi
+200g rau dền
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cá rô phi và rau dền
+2. Kho theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

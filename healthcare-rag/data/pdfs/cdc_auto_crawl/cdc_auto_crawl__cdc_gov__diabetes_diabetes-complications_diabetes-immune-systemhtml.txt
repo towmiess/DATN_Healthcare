@@ -1,0 +1,83 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-immune-system.html",
+  "title": "Your Immune System and Diabetes",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:24.733405",
+  "source_name": "cdc.gov",
+  "document_title": "Your Immune System and Diabetes",
+  "extraction_method": "<main>",
+  "word_count": 1029,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Your Immune System and Diabetes
+
+May 15, 2024
+
+Your Immune System and Diabetes
+
+Key points
+
+Having diabetes increases your chances of getting sick, staying sick longer, or getting severely sick.
+
+That's because diabetes makes it harder to fight off infectious diseases, illnesses caused by germs.
+
+Find out how you can boost your immune system to stay healthy with diabetes.
+
+How your immune system works
+Your immune system recognizes and fights off germs that can make you sick. Many people think of the immune system as protection inside the body. But your first line of defense is your skin, which keeps unwanted germs out.
+The second layer of your immune system is a type of white blood cells circulating throughout your body known as lymphocytes. These white blood cells are on the lookout for threats that could make you sick, like bacteria, viruses, toxins, or fungi. Once your immune system recognizes these germs, it fights them off, often without you even noticing.
+Your immune system also helps you build up immunity, or protection, against some viruses. Once it has learned to fight off a certain virus, it often remembers how to do it again. If you're exposed to a virus more than once, your immune system can usually fight it off faster. You may have fewer or no symptoms if you've already been exposed to that specific virus. Vaccines work by giving your immune system instructions on how to fight off a virus, protecting you from getting severely ill.
+
+How diabetes affects your immune system
+High blood sugar adds stress to your body and makes nearly every system work harder. This includes the white blood cells of your immune system. If you have diabetes, your immune system might be weakened and less effective. High blood sugar can also trigger a protective immune response called inflammation, which can damage your internal organs over time.
+If you have inflammation, your immune system is working harder. When this happens while your immune system may already be weakened, it's harder to fight off infections. Research shows that people with diabetes can have more frequent illnesses like:
+
+Respiratory tract infections
+
+Influenza (flu)
+
+Pneumonia
+
+Urinary tract infections
+
+Skin infections
+
+It may also take longer to heal or recover from illnesses, cuts, and wounds.
+If you do get sick, you may notice that your blood sugar levels are higher than usual. To fight off illness, your immune system releases hormones that can increase your blood sugar temporarily. Some cold and flu medicines can also raise your blood sugar. On the other hand, fever, sweating, and poor appetite can cause low blood sugar. Be sure to monitor your blood sugar closely and take steps if it gets too high or too low .
+
+Type 1 diabetes and your immune system
+Type 1 diabetes is an autoimmune disorder, which is when your body's immune system mistakenly attacks a part of your body. For this reason, people with type 1 diabetes may have weaker immune systems.
+
+Keep Reading:
+Managing Sick Days
+
+Diabetes, COVID-19, and flu
+People with diabetes might not have a higher risk of getting infected with COVID-19 or flu. However, research shows that they have an increased risk of getting severe illness from these viruses. This is especially true if their blood sugar is not well-managed.
+You can help protect yourself from COVID-19 and flu by getting vaccinated and staying up to date on all boosters that you're eligible for. Vaccines are a safe and effective way to prevent getting severely ill.
+
+How to stay healthy with diabetes
+There are plenty of things you can do to boost your immune system:
+Keep your blood sugar levels within your target range to protect your immune system. This can help prevent short- and long-term illnesses, and help you recover sooner if you do get sick.
+Eat plenty of fruits and vegetables. Fruits and vegetables are rich in vitamins and minerals that help your immune system work well. Try eating many colors of fruits and vegetables to get a variety of vitamins and minerals. Talk to your doctor before taking any vitamin or mineral supplements.
+Be physically active. Physical activity can help you manage your blood sugar levels and keep your immune system strong in case you get sick.
+Wash your hands . Germs can spread from surfaces you touch every day. Washing your hands often is an important way to stay healthy.
+Manage stress. When your stress level is high, your immune system may have a harder time fighting off infections. Stress can also raise your blood sugar levels. Learn how to recognize when your stress level is high and practice relaxing activities like mindfulness, meditation, or yoga. Even 5 minutes can help you unwind.
+Get enough sleep. Being well-rested is important for everybody's good health. If you regularly get less than 7 hours of sleep, your diabetes will be harder to manage. Too little sleep can also make it harder for your immune system to fight infections.
+
+Get vaccinated and stay up to date
+Vaccines are a crucial way to protect yourself from getting sick and prevent severe illness. Vaccines are especially important for people with diabetes. Be sure to ask your doctor about your vaccine schedule if you're not sure whether you're up to date:
+COVID-19 vaccine is recommended for everyone but is especially important for people with type 1 or type 2 diabetes. Make sure you get your initial dose(s) as well as any boosters you're eligible for.
+Hepatitis B vaccine is recommended for all adults younger than 60. It's especially important for people with type 1 or type 2 diabetes, who have a higher risk of hepatitis B.
+Influenza (flu) vaccine is recommended every year for everyone over 6 months old, and especially for people with diabetes who might have weaker immune systems.
+Pneumococcal vaccine is recommended for adults 65 or older and for adults 19 to 65 with certain medical conditions or risk factors, including diabetes.
+Shingles vaccine is recommended for all adults 50 years and older, even if you've already had shingles, chickenpox, or the varicella (chicken pox) vaccine.
+Tdap vaccine is recommended every 10 years to protect against tetanus, diphtheria, and pertussis (whooping cough).
+
+May 15, 2024
+
+Syndicate

@@ -1,0 +1,91 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/es/about/acerca-de-la-diabetes.html",
+  "title": "Acerca de la diabetes",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:44.938485",
+  "source_name": "cdc.gov",
+  "document_title": "Acerca de la diabetes",
+  "extraction_method": "<main>",
+  "word_count": 850,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Acerca de la diabetes
+
+21 mayo del 2024
+
+English (US)
+
+Acerca de la diabetes
+
+Puntos clave
+
+La diabetes es una enfermedad cr&oacute;nica (de larga duraci&oacute;n) que afecta la forma en que el cuerpo convierte los alimentos en energ&iacute;a.
+
+Existen tres tipos principales de diabetes: la diabetes tipo 1, la diabetes tipo 2 y la diabetes gestacional (durante el embarazo).
+
+Informaci&oacute;n general
+Su cuerpo descompone la mayor parte de lo que come en az&uacute;car (glucosa) y la libera en la sangre. Cuando sus niveles de az&uacute;car en la sangre suben, le indican al p&aacute;ncreas que libere insulina. La insulina funciona como una llave que permite que el az&uacute;car en la sangre entre a las c&eacute;lulas del cuerpo para que estas la usen como energ&iacute;a.
+Con la diabetes, su cuerpo no produce suficiente insulina o no puede utilizar adecuadamente la insulina que produce. Cuando no hay suficiente insulina, o las c&eacute;lulas dejan de responder a la insulina , queda demasiada az&uacute;car en el torrente sangu&iacute;neo. Con el tiempo, eso puede causar problemas de salud graves, como enfermedades del coraz&oacute;n , p&eacute;rdida de la visi&oacute;n y enfermedad de los ri&ntilde;ones .
+No existe todav&iacute;a una cura para la diabetes, pero bajar de peso, comer alimentos saludables y hacer actividad f&iacute;sica puede ayudar mucho. Otras cosas que puede hacer para ayudar:
+
+Tomar los medicamentos seg&uacute;n las indicaciones.
+
+Recibir educaci&oacute;n y apoyo para el automanejo de la diabetes .
+
+Programar y mantener sus citas de atenci&oacute;n m&eacute;dica.
+
+Tipos
+Diabetes tipo 1
+Se cree que lo que causa la diabetes tipo 1 es una reacci&oacute;n autoinmunitaria (el cuerpo se ataca a s&iacute; mismo por error). Esta reacci&oacute;n impide que su cuerpo produzca insulina. Las personas que tienen diabetes tipo 1 necesitan recibir insulina todos los d&iacute;as para sobrevivir. En la actualidad, nadie sabe c&oacute;mo prevenir la diabetes tipo 1. La diabetes tipo 1 generalmente se diagnostica en ni&ntilde;os y adultos j&oacute;venes, pero se puede diagnosticar en personas de cualquier edad, y los s&iacute;ntomas suelen aparecer r&aacute;pidamente.
+Seguir leyendo:
+Acerca de la diabetes tipo 1 Diabetes tipo 2
+Con la diabetes tipo 2, su cuerpo no usa la insulina adecuadamente o no puede mantener el az&uacute;car en la sangre a niveles normales. La diabetes tipo 2 se va produciendo a lo largo de muchos a&ntilde;os y generalmente se diagnostica en los adultos (pero cada vez m&aacute;s en ni&ntilde;os, adolescentes y adultos j&oacute;venes). Puede que no note ning&uacute;n s&iacute;ntoma; por lo tanto, es importante revisarse los niveles de az&uacute;car en la sangre si est&aacute; en riesgo .
+Seguir leyendo:
+Acerca de la diabetes tipo 2 Diabetes gestacional
+La diabetes gestacional ocurre en mujeres embarazadas que nunca hab&iacute;an tenido diabetes. Si usted tiene diabetes gestacional, su beb&eacute; podr&iacute;a estar en mayor riesgo de presentar complicaciones de salud. La diabetes gestacional, por lo general, desaparece despu&eacute;s de que nace el beb&eacute;. Sin embargo, aumenta el riesgo de que presente diabetes tipo 2 m&aacute;s adelante en la vida. Su beb&eacute; tambi&eacute;n tiene m&aacute;s probabilidades de tener obesidad en la ni&ntilde;ez o adolescencia, y de presentar diabetes tipo 2 m&aacute;s adelante en la vida.
+Seguir leyendo:
+Acerca de la diabetes gestacional https://www.cdc.gov/diabetes/es/about/acerca-de-la-diabetes-gestacional.html
+
+Prevenci&oacute;n
+Prediabetes
+En los Estados Unidos, aproximadamente 1 de cada 3 adultos tiene prediabetes. M&aacute;s de 8 de cada 10 personas con prediabetes no saben que la tienen. Con la prediabetes , los niveles de az&uacute;car en la sangre son m&aacute;s altos de lo normal, pero no lo suficiente para el diagn&oacute;stico de diabetes tipo 2. La prediabetes aumenta el riesgo de presentar diabetes tipo 2, enfermedades del coraz&oacute;n y derrames cerebrales (accidentes cerebrovasculares).
+La prediabetes y la diabetes tipo 2 se pueden prevenir con cambios de estilo de vida. En la actualidad, nadie sabe c&oacute;mo prevenir la diabetes tipo 1.
+
+C&oacute;mo puede prevenir la diabetes tipo 2
+Si usted tiene prediabetes, inf&oacute;rmese sobre c&oacute;mo el programa de cambio de estilo de vida puede ayudarlo a tomar medidas saludables para prevenir o retrasar la diabetes tipo 2.
+
+Las cifras sobre la diabetes
+En los Estados Unidos:
+
+Aproximadamente 38 millones de adultos tienen diabetes, y 1 de cada 5 de ellos no sabe que la tiene.
+
+La diabetes es la octava causa principal de muerte.
+
+La diabetes tipo 2 representa aproximadamente del 90 al 95 % de todos los casos de diabetes diagnosticados; la diabetes tipo 1 representa aproximadamente del 5 al 10 %.
+
+La diabetes es la principal causa de fallo de los ri&ntilde;ones (insuficiencia renal), amputaci&oacute;n de las extremidades inferiores y ceguera en adultos.
+
+En los &uacute;ltimos 20 a&ntilde;os, la cantidad de adultos con un diagn&oacute;stico de diabetes se ha m&aacute;s que duplicado.
+
+Los costos m&eacute;dicos, y de trabajo y salarios perdidos de las personas con diabetes diagnosticada suman $413 000 millones al a&ntilde;o.
+
+Los costos m&eacute;dicos son m&aacute;s de dos veces m&aacute;s altos para las personas con diabetes que para las personas sin diabetes.
+
+Reciba actualizaciones por correo electr&oacute;nico
+Inscr&iacute;base para recibir las noticias y actualizaciones de Diabetes Insider directamente en su buz&oacute;n de correo electr&oacute;nico.
+
+21 mayo del 2024
+
+Fuentes
+Imprimir
+Compartir
+
+Syndicate
+
+Fuente del contenido:
+Centro Nacional para la Prevenci&oacute;n de Enfermedades Cr&oacute;nicas y Promoci&oacute;n de la Salud ; Diabetes

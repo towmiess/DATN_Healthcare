@@ -50,8 +50,9 @@ services:
     volumes:
       - ./data/pdfs:/app/data/pdfs
       - ./data/raw:/app/data/raw
-      - ./scripts:/app/scripts          # ← crawler.py, ingest.py
+      - ./scripts:/app/scripts
       - ./.crawler_state.json:/app/.crawler_state.json
+      - ./.ingest_state.json:/app/.ingest_state.json
     restart: unless-stopped
     networks:
       - rag-network
@@ -65,10 +66,11 @@ services:
       - "8501:8501"
     environment:
       - RAG_API_URL=http://rag-api:8000
+      - ADMIN_SECRET_KEY=${ADMIN_SECRET_KEY:-healthcare-admin-dev}
     depends_on:
       - rag-api
     volumes:
-      - ./data/pdfs:/app/data/pdfs      # ← để tab Tài liệu đọc được file
+      - ./data/pdfs:/app/data/pdfs
     restart: unless-stopped
     networks:
       - rag-network

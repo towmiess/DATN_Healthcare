@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá lóc kho kiểu miền Trung", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá lóc kho kiểu miền Trung
+Loại món: Cá/Hải sản | Ẩm thực: Vietnamese
+Từ khóa: cá lóc, rau ngót, protein, kho
+
+Mô tả: Cá lóc kho kiểu miền Trung là món kho kết hợp cá lóc và rau ngót, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 195 kcal
+Chất đạm (protein): 21.8 g
+Chất béo tổng: 5.8 g (bão hòa: 1.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 11.5 g (chất xơ: 2.9 g, đường: 2.6 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 332 mg
+Kali: 402 mg | Phốt pho: 255 mg | Magie: 23 mg
+Canxi: 140 mg | Sắt: 1.7 mg | Vitamin D: 1.5 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Cá/Hải sản; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g cá lóc
+200g rau ngót
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cá lóc và rau ngót
+2. Kho theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

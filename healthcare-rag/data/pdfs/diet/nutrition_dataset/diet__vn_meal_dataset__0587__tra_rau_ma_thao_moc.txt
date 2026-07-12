@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Trà rau má thảo mộc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trà rau má thảo mộc
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: cà rốt, đồ uống, không đường, ít calo
+
+Mô tả: Trà rau má thảo mộc (biến thể 59) là món xào kết hợp măng tây và măng tây, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.4
+Calo: 47 kcal
+Chất đạm (protein): 2.9 g
+Chất béo tổng: 1.9 g (bão hòa: 0.4 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 15.6 g (chất xơ: 1.8 g, đường: 7.6 g, đường bổ sung: 0.0 g)
+Cholesterol: 165 mg | Natri: 541 mg
+Kali: 338 mg | Phốt pho: 250 mg | Magie: 35 mg
+Canxi: 76 mg | Sắt: 2.0 mg | Vitamin D: 0.2 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Đồ uống; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200ml nước cà rốt
+Không đường hoặc đường ăn kiêng
+Đá (tùy chọn)
+
+--- Cách chế biến ---
+1. Rửa sạch cà rốt
+2. Xay hoặc hãm với nước
+3. Lọc lấy nước, không thêm đường
+4. Dùng lạnh hoặc ấm

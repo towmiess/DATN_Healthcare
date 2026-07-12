@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Nho đen ít hạt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Nho đen ít hạt
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: nho đen, resveratrol, GI trung bình
+
+Mô tả: Nho đen chứa resveratrol cao, GI trung bình nên cần kiểm soát lượng.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 6.0
+Calo: 69 kcal
+Chất đạm (protein): 0.7 g
+Chất béo tổng: 0.2 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 18.1 g (chất xơ: 0.9 g, đường: 15.5 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 2 mg
+Kali: 191 mg | Phốt pho: 20 mg | Magie: 7 mg
+Canxi: 10 mg | Sắt: 0.4 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Resveratrol tốt tim mạch nhưng GI trung bình - lượng vừa phải
+Khẩu phần khuyến nghị: 80g (khoảng 15 quả)/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+80g nho đen
+
+--- Cách chế biến ---
+1. Rửa sạch
+2. Ăn trực tiếp

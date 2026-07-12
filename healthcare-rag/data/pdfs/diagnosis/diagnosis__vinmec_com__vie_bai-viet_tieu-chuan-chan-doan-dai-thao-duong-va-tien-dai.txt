@@ -1,0 +1,35 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/tieu-chuan-chan-doan-dai-thao-duong-va-tien-dai-thao-duong-vi",
+  "title": "Tiêu chuẩn chẩn đoán ĐTĐ",
+  "category": "diagnosis",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:07:49.309847",
+  "source_name": "vinmec.com",
+  "document_title": "Tiêu chuẩn chẩn đoán ĐTĐ",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 620,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Tiêu chuẩn chẩn đoán ĐTĐ
+
+-->
+
+Chuyên trang sức khoẻ
+Sức khoẻ tổng quát
+
+Tiêu chuẩn chẩn đoán đái tháo đường và tiền đái tháo đường
+
+☰
+Mục lục
+
+Đái tháo đường được xếp vào nhóm bệnh mãn tính không lây nhưng gây ra rất nhiều biến chứng nguy hiểm về: mắt, thần kinh, thận,.. Để chẩn đoán bệnh đái tháo đường, ta dựa vào 4 tiêu chuẩn, vậy những tiêu chuẩn để chẩn đoán bệnh đái tháo đường và tiền đái tháo đường là gì?
+1. Tiêu chuẩn chẩn đoán đái tháo đường
+Theo Hiệp Hội Đái tháo đường Hoa Kỳ– ADA, tiêu chuẩn chẩn đoán đái tháo đường dựa trên 1 trong 4 tiêu chuẩn sau đây: Nồng độ glucose huyết tương lúc đói (fasting plasma glucose: FPG) ≥ 126 mg/dL (hay 7 mmol/L). Người bệnh cần phải nhịn ăn (không ăn, không uống nước ngọt, có thể uống nước lọc hoặc nước đun sôi để nguội) ít nhất 8 giờ (thường phải nhịn đói qua đêm từ 8 -14 giờ); Nồng độ glucose huyết tương ở thời điểm sau 2 giờ làm nghiệm pháp dung nạp glucose đường uống 75g (oral glucose tolerance test: OGTT) ≥ 200 mg/dL (hay 11,1 mmol/L). Nghiệm pháp dung nạp glucose đường uống phải được thực hiện theo hướng dẫn của Tổ chức Y tế thế giới: Người bệnh cần nhịn đói từ nửa đêm trước khi làm nghiệm pháp, dùng một lượng glucose tương đương với 75g glucose, hòa tan trong 250-300 ml nước, uống trong 5 phút; trong 3 ngày trước đó bệnh nhân ăn khẩu phần có khoảng 150-200 gam carbohydrate mỗi ngày. HbA1c ≥ 6,5% (48 mmol/mol). Xét nghiệm này phải được thực hiện ở trong phòng thí nghiệm được chuẩn hóa theo tiêu chuẩn quốc tế. Ở những người mắc bệnh đái tháo đường có triệu chứng kinh điển của tăng glucose huyết hoặc mức glucose huyết tương ở thời điểm bất kỳ ≥ 200 mg/dL (hay 11,1 mmol/L). Trong những trường hợp không có triệu chứng kinh điển của tăng glucose trong máu (bao gồm tiểu nhiều, uống nhiều, ăn nhiều, sụt cân không rõ nguyên nhân), những xét nghiệm chẩn đoán đái tháo đường ở trên cần được thực hiện lặp lại 2 lần để chẩn đoán xác định. Thời gian thực hiện xét nghiệm lần 2 sau lần đầu tiên có thể từ 1 đến 7 ngày. Trong điều kiện thực tế tại Việt Nam, các bác sĩ thường sử dụng phương pháp đơn giản và hiệu quả để chẩn đoán đái tháo đường là định lượng glucose huyết tương khi đói 2 lần ≥ 126 mg/dL (hay 7 mmol/L). Nếu HbA1c được đo tại phòng xét nghiệm được chuẩn hóa quốc tế, có thể đo HbA1c 2 lần để chẩn đoán đái tháo đường .
+
+2. Tiêu chuẩn chẩn đoán tiền đái tháo đường
+Chẩn đoán tiền đái tháo đường khi xuất hiện một trong các rối loạn sau đây: Rối loạn nồng độ glucose trong máu khi đói (impaired fasting glucose: IFG): Trong trường hợp nồng độ glucose huyết tương lúc đói từ 100 (5,6 mmol/L) đến 125 mg/dL (6,9 mmol/L); Rối loạn dung nạp glucose (impaired glucose tolerance: IGT): Nồng độ glucose huyết tương ở thời điểm sau khi làm nghiệm pháp dung nạp glucose 2 giờ bằng đường uống 75g từ 140 (7.8 mmol/L) đến 199 mg/dL (11 mmol/L), hoặc nồng độ HbA1c từ 5,7% (39 mmol/mol) đến 6,4% (47 mmol/mol). Những trường hợp rối loạn glucose huyết này chưa đủ tiêu chuẩn để chẩn đoán đái tháo đường nhưng vẫn có nguy cơ xuất hiện các biến chứng mạch máu lớn của đái tháo đường, thường được gọi là tiền đái tháo đường .

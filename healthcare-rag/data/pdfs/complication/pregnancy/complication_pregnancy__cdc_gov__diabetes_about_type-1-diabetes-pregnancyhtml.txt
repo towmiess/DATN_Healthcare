@@ -1,0 +1,83 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/about/type-1-diabetes-pregnancy.html",
+  "title": "Type 1 Diabetes and Pregnancy - CDC",
+  "category": "complication/pregnancy",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:13:32.853247",
+  "source_name": "cdc.gov",
+  "document_title": "Type 1 Diabetes and Pregnancy - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 740,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Type 1 Diabetes and Pregnancy - CDC
+
+Type 1 Diabetes and Pregnancy
+
+May 15, 2024
+
+Español
+
+Key points
+
+Women with type 1 diabetes can have a healthy pregnancy.
+Find out how to boost your health before you become pregnant.
+Have a diabetes management plan, ideally before, during, and after pregnancy, to keep you and your baby healthy.
+
+Before you get pregnant
+Manage your blood sugar
+Many doctors recommend that you reach and stay at your A1C goal for a few months before becoming pregnant.
+Review your medicines
+Some medicines and supplements aren't safe to use while pregnant. Speak with your health care team about each medicine and supplement you take before you get pregnant. Don't stop taking prescribed medicines without talking to your doctor first.
+
+During your pregnancy
+During your pregnancy, you and your doctors will adjust your diabetes management plan. If these health care specialists aren't part of your diabetes care team already, consider looking for:
+An endocrinologist (a doctor who treats hormone conditions, including diabetes). You may want to find one who specializes in caring for pregnant women with diabetes.
+An obstetrician (a doctor who treats pregnant women). Your pregnancy may be considered high risk because of your diabetes. If that's the case, you may want to find an obstetrician who takes care of women with high-risk pregnancies.
+A diabetes educator who can help you manage your diabetes during pregnancy.
+
+Here are a few things to keep in mind:
+Keep A1C levels on target
+Blood sugar levels that stay high during pregnancy may cause your baby to grow too large or lead to birth defects.
+Know your risks
+It's important to monitor diabetes complications that could worsen throughout pregnancy, such as vision problems and kidney disease. Other risks include:
+
+Preeclampsia—high blood pressure that can damage the liver and kidneys.
+Insulin resistance—when insulin is less effective at lowering your blood sugar.
+Miscarriage.
+Macrosomia—a larger than normal baby. This can lead to a more difficult delivery.
+Birth defects that may affect your baby's heart, brain, spine, or organs.
+
+Your insulin needs may change
+Your insulin needs can change throughout your pregnancy. Low blood sugar is common in women with type 1 diabetes. Check with your health care team about how much insulin you need and how often you need it.
+Consider using a continuous glucose monitor (CGM)
+A CGM will help you notice your blood sugar patterns, which can help you stay in your target range. Talk to your doctor to see if a CGM is right for you.
+Create a birth plan
+Questions to ask:
+
+If delivering in a hospital, what is the procedure for women who wear an insulin pump?
+Can you keep your CGM on during labor and delivery?
+Who will manage your blood sugar levels during and after labor and delivery?
+What diabetes supplies do you need to pack in your hospital bag?
+
+During and after delivery
+Monitoring blood sugar and insulin
+Your blood sugar levels may rise during labor. Your blood sugar may drop just before you give birth or immediately after. This can happen whether you have a vaginal delivery or a cesarean (C-section).
+Your doctor can help you plan for insulin dose changes and monitoring throughout your delivery and after. You can wear your insulin pump or CGM during delivery.
+Monitoring your baby
+Babies are closely monitored after birth. Babies of mothers with diabetes can have a drop in blood sugar when they’re born, so your baby will have additional blood sugar testing in the first few days.
+
+Did you know?
+People who have a family member with type 1 diabetes have a higher risk of developing it too. Ask your doctor about newborn screening options, and be sure to watch your child for signs and symptoms of type 1 diabetes. There are also screening tests available for early stages of type 1 diabetes before any symptoms appear. Learn more
+
+Breastfeeding
+Women with type 1 diabetes can breastfeed their babies. Breastfeeding can reduce the risk of asthma, obesity, and type 1 diabetes in babies.
+Diabetes may delay your milk from coming in, but that should improve over time.
+Breastfeeding is an energy-consuming activity, especially when you’re recovering from giving birth. Be sure to check for low blood sugar before and after breastfeeding or pumping. You’ll also need extra water to stay hydrated. Check with your doctor to ensure all your diabetes medications are safe while breastfeeding and share any other concerns about your blood sugar levels .
+
+May 15, 2024

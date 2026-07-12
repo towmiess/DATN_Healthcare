@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Canh hẹ thịt bò bằm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh hẹ thịt bò bằm
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: hẹ, thịt bò, sắt, B12
+
+Mô tả: Thịt bò giàu sắt và B12 hỗ trợ thần kinh, hẹ tăng tuần hoàn máu.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.5
+Calo: 155 kcal
+Chất đạm (protein): 20.5 g
+Chất béo tổng: 6.8 g (bão hòa: 2.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 4.5 g (chất xơ: 2.0 g, đường: 0.8 g, đường bổ sung: 0.0 g)
+Cholesterol: 52 mg | Natri: 365 mg
+Kali: 445 mg | Phốt pho: 195 mg | Magie: 32 mg
+Canxi: 42 mg | Sắt: 2.8 mg | Vitamin D: 0.5 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Nguy cơ đột quỵ
+Ghi chú phù hợp: B12 từ thịt bò đặc biệt tốt biến chứng thần kinh
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Cholesterol cao hạn chế thịt bò
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+80g thịt bò bằm
+150g hẹ
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Phi tỏi xào thịt bò
+2. Đổ 400ml nước sôi
+3. Cho hẹ cắt khúc vào
+4. Nấu 3 phút nêm gia vị

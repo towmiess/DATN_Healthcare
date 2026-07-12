@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Sapôchê (hồng xiêm)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Sapôchê (hồng xiêm)
+Loại món: Trái cây | Ẩm thực: Vietnamese
+Từ khóa: GI cao, ngọt đậm, chất xơ
+
+Mô tả: Hồng xiêm rất ngọt, GI cao, tuy có chất xơ nhưng cần hạn chế lượng dùng.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 100g (phần ăn được)) ---
+Chỉ số đường huyết (GI): cao | Tải lượng đường huyết (GL): 10.0
+Calo: 83 kcal
+Chất đạm (protein): 0.4 g
+Chất béo tổng: 1.1 g (bão hòa: 0.3 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 19.9 g (chất xơ: 5.3 g, đường: 14.7 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 12 mg
+Kali: 193 mg | Phốt pho: 12 mg | Magie: 12 mg
+Canxi: 21 mg | Sắt: 0.8 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI cao - chỉ dùng nửa quả nhỏ, không thường xuyên
+Khẩu phần khuyến nghị: 1/2 quả nhỏ (~75g)/lần
+Chống chỉ định / thận trọng: Hạn chế dùng thường xuyên
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g sapôchê (hồng xiêm) (phần ăn được)
+
+--- Cách chế biến ---
+1. Rửa sạch sapôchê (hồng xiêm)
+2. Gọt vỏ/bỏ hạt nếu cần
+3. Ăn trực tiếp, không thêm đường

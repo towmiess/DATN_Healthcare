@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "cà rốt xào chay", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: cà rốt xào chay
+Loại món: Rau củ | Ẩm thực: Vietnamese
+Từ khóa: cà rốt, rau củ, ít calo, chất xơ
+
+Mô tả: cà rốt xào chay là món xào kết hợp cà rốt và cà rốt, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 93 kcal
+Chất đạm (protein): 3.6 g
+Chất béo tổng: 2.4 g (bão hòa: 0.4 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.8 g (chất xơ: 4.4 g, đường: 1.4 g, đường bổ sung: 0.0 g)
+Cholesterol: 125 mg | Natri: 473 mg
+Kali: 376 mg | Phốt pho: 203 mg | Magie: 56 mg
+Canxi: 91 mg | Sắt: 2.4 mg | Vitamin D: 2.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Rau củ; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+300g cà rốt
+Tỏi hoặc gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cà rốt sạch
+2. Xào đến chín vừa
+3. Nêm ít gia vị, tránh dùng nhiều dầu mỡ

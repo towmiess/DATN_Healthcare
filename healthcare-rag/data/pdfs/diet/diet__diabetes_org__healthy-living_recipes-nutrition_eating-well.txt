@@ -1,447 +1,117 @@
 ===METADATA===
 {
   "url": "https://www.diabetes.org/healthy-living/recipes-nutrition/eating-well",
-  "title": "Eating Well with Diabetes - ADA",
+  "title": "Eating Well - ADA",
   "category": "diet",
   "language": "en",
   "source_priority": 1,
   "source_type": "web_article",
-  "crawled_at": "2026-06-11T03:10:06.798475",
+  "crawled_at": "2026-06-27T23:08:55.553348",
   "source_name": "diabetes.org",
-  "document_title": "Eating Well with Diabetes - ADA",
+  "document_title": "Eating Well - ADA",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 980,
   "verified_by_doctor": false
 }
 ===CONTENT===
-Eating Well with Diabetes - ADA
-
-Eating Well & Managing Diabetes | ADA 
- 
- 
- 
- 
-
- 
-
- 
- 5) ? true : false; "
- >
- 
- 
- Skip to Main content
- 
- 
- 
-
- 
- 
-
- 
-
- 
- 
- 
-
- 
-
- 
-
- 
- 
- 
- 
- 
-
- 
-
- 
-
- main content start 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- Food & Nutrition
- 
- 
- 
- 
- Tips for Eating Well
- 
- 
- 
- 
- Eat Good to Feel Good
- 
- 
- 
- 
- Eating healthy doesn’t have to be complicated. No matter what type of food you love to eat, a few simple swaps can make a big difference. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Image 
- 
- 
- 
- 
- 
- 
-
- 
-
- 
- 
-
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- Healthy eating for prediabetes and diabetes not only helps to manage your blood glucose (blood sugar), it also helps you have a better relationship with food. When you nourish your body with quality foods, it helps your body function at its best. How to Make Healthy Eating Choices Informed food choices are essential to living well. Food fuels the body and is a key part of diabetes management. However, no matter what eating plan you follow, there are some basic guidelines that apply across the board. What all healthy eating plans have in common: Non-starchy vegetables as a foundation for the plate Lean proteins and plant-based sources of protein Quality carbohydrates like starchy vegetables, fruits, whole grains, and low-fat milk Less added sugar Healthy fats Less processed foods Water or zero-calorie beverages Use the Diabetes Plate for Meal Planning Simplify healthy eating with the Diabetes Plate — a low-carb meal pattern jumpstart that helps you portion your plate and support your diabetes management. This simplified way to approach meals is easy to customize to your food preferences. 
- 
- 
- Image 
- 
-
- 
- 
-
- 
- Start with a nine-inch plate and fill half with non-starchy veggies, one-quarter with lean proteins, and one-quarter with quality carbs like starchy vegetables, fruits, whole grains, or low-fat dairy. You can also use the Diabetes Plate as a framework for all the recommended diabetes meal patterns with simple adjustments to match the pattern. Non-Starchy Vegetables Using the Diabetes Plate as your guide, fill half your plate with non-starchy vegetables for a healthy meal. These vegetables keep you feeling full for longer and provide you with the great-tasting nutrients your body needs without as many calories and carbs. Non-starchy vegetables include broccoli, carrots, cauliflower, and more!  Learn more about non-starchy vegetables . Protein Protein is an important part of a diabetes meal plan. Are you plant-based? That’s okay! There are plenty of protein-rich plant-based options, such as beans, hummus, lentils, and others. However, many legumes do have carbs which can have an impact on your diabetes management.  Learn about your best choices . Fruits Wondering if you can eat fruit? Yes! While fruit does count as a carbohydrate food, they are loaded with vitamins, minerals, and fiber just like vegetables. Fruit can also help you satisfy your sweet tooth without the added sugar.  Find out about the best choices . Fats Focus on adding healthy fats (like monounsaturated and polyunsaturated fats) to help lower your cholesterol and protect your heart. Healthy fats can be found in foods like olive oil, nuts, avocados, some types of fish, and a host of other tasty options. Make healthy swaps to help decrease your risk of heart disease. Get the facts on fats . Diabetes Superstar Foods To help create healthy meals, choose foods that give you more bang for your nutrition buck. These are often called “nutrient-dense” foods, which means they have high nutritional value. Get the facts and supercharge your meal planning with these ten foods full of protein, healthy fats, vitamins, minerals, and fiber. Learn more about diabetes superfoods . 
- 
- 
-
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
- 
- 
- 
- Read More 
- 
- 
- 
- 
- 
- 
- Image 
- 
- 
- 
- 
- 
- 
-
- 
-
- 
- 
-
- 
-
- 
- 
-
- 
- 
- 
- Eating for Diabetes Management
- 
-
- 
- Discover science-based nutrition recommendations on how to eat for diabetes management. 
- 
-
- 
- Read More 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- Read More 
- 
- 
- 
- 
- 
- 
- Image 
- 
- 
- 
- 
- 
- 
-
- 
-
- 
- 
-
- 
-
- 
- 
-
- 
- 
- 
- Diabetes Superstar Foods
- 
-
- 
- Our list of “superstar” foods below are rich in protein, healthy fats, vitamins, minerals, antioxidants, and fiber. Check out our picks! 
- 
-
- 
- Read More 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- Read More 
- 
- 
- 
- 
- 
- 
- Image 
- 
- 
- 
- 
- 
- 
-
- 
-
- 
- 
-
- 
-
- 
- 
-
- 
- 
- 
- How to Get Your Family Involved with Healthy Eating
- 
-
- 
- Building healthy eating habits isn’t the easiest journey to go on, especially if you feel like you’re doing it alone. But when you’re supported by your family, it can make a huge difference. 
- 
-
- 
- Read More 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- Read More 
- 
- 
- 
- 
- 
- 
- Image 
- 
- 
- 
- 
- 
- 
-
- 
-
- 
- 
-
- 
-
- 
- 
-
- 
- 
- 
- Why You Should Drink More Water
- 
-
- 
- Staying hydrated carries a host of health benefits. Learn why you should make sure you are getting enough water. 
- 
-
- 
- Read More 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- Read More 
- 
- 
- 
- 
- 
- 
- Image 
- 
- 
- 
- 
- 
- 
-
- 
-
- 
- 
-
- 
-
- 
- 
-
- 
- 
- 
- Tips for Eating Healthy on the Go
- 
-
- 
- A lot of us may only have time to eat on the go. Here are some tips on how to make better for you choices with a busy schedule. 
- 
-
- 
- Read More 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Give Today and Change lives! 
- With your support, the American Diabetes Association® can continue our lifesaving work to make breakthroughs in research and provide people with the resources they need to fight diabetes. 
- 
- Give Today 
- 
- 
- 
- 
-
- 
- 
- 
- Advertisement 
- x
+Eating Well - ADA
+
+Food & Nutrition
+
+Tips for Eating Well
+
+Eat Good to Feel Good
+
+Eating healthy doesn’t have to be complicated. No matter what type of food you love to eat, a few simple swaps can make a big difference.
+
+Image
+
+Healthy eating for prediabetes and diabetes not only helps to manage your blood glucose (blood sugar), it also helps you have a better relationship with food. When you nourish your body with quality foods, it helps your body function at its best. How to Make Healthy Eating Choices Informed food choices are essential to living well. Food fuels the body and is a key part of diabetes management. However, no matter what eating plan you follow, there are some basic guidelines that apply across the board. What all healthy eating plans have in common: Non-starchy vegetables as a foundation for the plate Lean proteins and plant-based sources of protein Quality carbohydrates like starchy vegetables, fruits, whole grains, and low-fat milk Less added sugar Healthy fats Less processed foods Water or zero-calorie beverages Advertisement Use the Diabetes Plate for Meal Planning Simplify healthy eating with the Diabetes Plate — a low-carb meal pattern jumpstart that helps you portion your plate and support your diabetes management. This simplified way to approach meals is easy to customize to your food preferences.
+
+Image
+
+Start with a nine-inch plate and fill half with non-starchy veggies, one-quarter with lean proteins, and one-quarter with quality carbs like starchy vegetables, fruits, whole grains, or low-fat dairy. You can also use the Diabetes Plate as a framework for all the recommended diabetes meal patterns with simple adjustments to match the pattern. Non-Starchy Vegetables Using the Diabetes Plate as your guide, fill half your plate with non-starchy vegetables for a healthy meal. These vegetables keep you feeling full for longer and provide you with the great-tasting nutrients your body needs without as many calories and carbs. Non-starchy vegetables include broccoli, carrots, cauliflower, and more!  Learn more about non-starchy vegetables . Protein Protein is an important part of a diabetes meal plan. Are you plant-based? That’s okay! There are plenty of protein-rich plant-based options, such as beans, hummus, lentils, and others. However, many legumes do have carbs which can have an impact on your diabetes management.  Learn about your best choices . Fruits Wondering if you can eat fruit? Yes! While fruit does count as a carbohydrate food, they are loaded with vitamins, minerals, and fiber just like vegetables. Fruit can also help you satisfy your sweet tooth without the added sugar.  Find out about the best choices . Fats Focus on adding healthy fats (like monounsaturated and polyunsaturated fats) to help lower your cholesterol and protect your heart. Healthy fats can be found in foods like olive oil, nuts, avocados, some types of fish, and a host of other tasty options. Make healthy swaps to help decrease your risk of heart disease. Get the facts on fats . Diabetes Superstar Foods To help create healthy meals, choose foods that give you more bang for your nutrition buck. These are often called “nutrient-dense” foods, which means they have high nutritional value. Get the facts and supercharge your meal planning with these ten foods full of protein, healthy fats, vitamins, minerals, and fiber. Learn more about diabetes superfoods .
+
+Image
+
+How to Get Your Family Involved with Healthy Eating
+
+Building healthy eating habits isn’t the easiest journey to go on, especially if you feel like you’re doing it alone. But when you’re supported by your family, it can make a huge difference.
+
+Image
+
+Why You Should Drink More Water
+
+Staying hydrated carries a host of health benefits. Learn why you should make sure you are getting enough water.
+
+Image
+
+Tips for Eating Healthy on the Go
+
+A lot of us may only have time to eat on the go. Here are some tips on how to make better for you choices with a busy schedule.
+
+Image
+
+Eating for Diabetes Management
+
+Discover science-based nutrition recommendations on how to eat for diabetes management.
+
+Image
+
+Diabetes Superstar Foods
+
+Our list of “superstar” foods below are rich in protein, healthy fats, vitamins, minerals, antioxidants, and fiber. Check out our picks!
+
+Image
+
+How to Get Your Family Involved with Healthy Eating
+
+Building healthy eating habits isn’t the easiest journey to go on, especially if you feel like you’re doing it alone. But when you’re supported by your family, it can make a huge difference.
+
+Image
+
+Why You Should Drink More Water
+
+Staying hydrated carries a host of health benefits. Learn why you should make sure you are getting enough water.
+
+Image
+
+Tips for Eating Healthy on the Go
+
+A lot of us may only have time to eat on the go. Here are some tips on how to make better for you choices with a busy schedule.
+
+Image
+
+Eating for Diabetes Management
+
+Discover science-based nutrition recommendations on how to eat for diabetes management.
+
+Image
+
+Diabetes Superstar Foods
+
+Our list of “superstar” foods below are rich in protein, healthy fats, vitamins, minerals, antioxidants, and fiber. Check out our picks!
+
+Image
+
+How to Get Your Family Involved with Healthy Eating
+
+Building healthy eating habits isn’t the easiest journey to go on, especially if you feel like you’re doing it alone. But when you’re supported by your family, it can make a huge difference.
+
+Image
+
+Why You Should Drink More Water
+
+Staying hydrated carries a host of health benefits. Learn why you should make sure you are getting enough water.
+
+Image
+
+Tips for Eating Healthy on the Go
+
+A lot of us may only have time to eat on the go. Here are some tips on how to make better for you choices with a busy schedule.
+
+Give Today and Change lives!
+With your support, the American Diabetes Association® can continue our lifesaving work to make breakthroughs in research and provide people with the resources they need to fight diabetes.
+
+x

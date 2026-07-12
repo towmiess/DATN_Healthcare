@@ -1,0 +1,38 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/treatment/low-blood-sugar.html",
+  "title": "Low Blood Sugar Treatment - CDC",
+  "category": "emergency",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:10:34.876930",
+  "source_name": "cdc.gov",
+  "document_title": "Low Blood Sugar Treatment - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 126,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Low Blood Sugar Treatment - CDC
+
+The page you're looking for was not found.
+Please try the CDC
+archives or the A-Z index .
+Search CDC.gov
+
+The page you were looking for has moved.
+You will be automatically redirected to the new location in 10 seconds or you can
+click here to go to link .
+Please update any bookmarks you may have saved for this page.
+
+The page you were looking for has moved.
+Please see:
+
+Please update any bookmarks you may have saved for this page.
+
+The page you were looking for has moved to archive.cdc.gov .
+You will be automatically redirected to the new location in 10 seconds or you can
+click here to go to link .
+Please update any bookmarks you may have saved for this page.

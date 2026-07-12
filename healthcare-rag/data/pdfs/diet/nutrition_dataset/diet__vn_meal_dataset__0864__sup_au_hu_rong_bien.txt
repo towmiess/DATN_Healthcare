@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Súp đậu hũ rong biển", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Súp đậu hũ rong biển
+Loại món: Chay/Đậu hũ | Ẩm thực: Vietnamese
+Từ khóa: đậu hũ, rong biển, iod, probiotic
+
+Mô tả: Rong biển cung cấp iod hỗ trợ tuyến giáp, đậu hũ bổ sung protein thực vật.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.8
+Calo: 98 kcal
+Chất đạm (protein): 9.5 g
+Chất béo tổng: 5.0 g (bão hòa: 0.6 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.5 g (chất xơ: 2.0 g, đường: 1.0 g, đường bổ sung: 0.1 g)
+Cholesterol: 0 mg | Natri: 365 mg
+Kali: 425 mg | Phốt pho: 148 mg | Magie: 55 mg
+Canxi: 125 mg | Sắt: 1.5 mg | Vitamin D: 0.5 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Iod tốt tuyến giáp; TĐ thai kỳ tránh dùng quá nhiều rong biển
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: TĐ thai kỳ hạn chế rong biển
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+150g đậu hũ
+15g rong biển khô
+Gừng
+
+--- Cách chế biến ---
+1. Ngâm rong biển nở
+2. Nấu canh nhạt với đậu hũ
+3. Thêm gừng nêm gia vị

@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Đậu xanh nguyên hạt nấu chè không đường (lượng ít)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Đậu xanh nguyên hạt nấu chè không đường (lượng ít)
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: đậu xanh, chè không đường, protein
+
+Mô tả: Phiên bản chè đậu xanh hoàn toàn không đường, dùng đường ăn kiêng nếu cần vị ngọt nhẹ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 4.0
+Calo: 135 kcal
+Chất đạm (protein): 8.5 g
+Chất béo tổng: 1.0 g (bão hòa: 0.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 22.5 g (chất xơ: 5.5 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 0 mg | Natri: 85 mg
+Kali: 425 mg | Phốt pho: 158 mg | Magie: 42 mg
+Canxi: 28 mg | Sắt: 2.0 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Không đường an toàn cho đường huyết; vẫn cần kiểm soát lượng do carb từ đậu
+Khẩu phần khuyến nghị: 100ml nhỏ/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: trung bình | Chi phí: thấp
+
+--- Nguyên liệu ---
+50g đậu xanh
+300ml nước
+Đường ăn kiêng (tùy chọn)
+
+--- Cách chế biến ---
+1. Ngâm đậu xanh 2 giờ
+2. Nấu chè 25 phút đến mềm
+3. Không thêm đường hoặc dùng đường ăn kiêng ít

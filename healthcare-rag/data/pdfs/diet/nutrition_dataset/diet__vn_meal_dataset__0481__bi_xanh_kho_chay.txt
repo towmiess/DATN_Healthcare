@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "bí xanh kho chay", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: bí xanh kho chay
+Loại món: Rau củ | Ẩm thực: Vietnamese
+Từ khóa: bí xanh, rau củ, ít calo, chất xơ
+
+Mô tả: bí xanh kho chay là món kho kết hợp bí xanh và bí xanh, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 88 kcal
+Chất đạm (protein): 2.2 g
+Chất béo tổng: 3.6 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.3 g (chất xơ: 3.6 g, đường: 1.7 g, đường bổ sung: 0.0 g)
+Cholesterol: 85 mg | Natri: 220 mg
+Kali: 397 mg | Phốt pho: 125 mg | Magie: 53 mg
+Canxi: 92 mg | Sắt: 1.4 mg | Vitamin D: 0.2 mcg | Omega-3: 2.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Rau củ; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+300g bí xanh
+Tỏi hoặc gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế bí xanh sạch
+2. Kho đến chín vừa
+3. Nêm ít gia vị, tránh dùng nhiều dầu mỡ

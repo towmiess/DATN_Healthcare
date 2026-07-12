@@ -1,0 +1,66 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/data-research/research/young-people-mental-health.html",
+  "title": "Mental Health for Kids and Teens With Diabetes - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:46.257313",
+  "source_name": "cdc.gov",
+  "document_title": "Mental Health for Kids and Teens With Diabetes - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 462,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Mental Health for Kids and Teens With Diabetes - CDC
+
+May 15, 2024
+
+Mental Health for Kids and Teens With Diabetes
+
+Key points
+
+Research shows that depression and anxiety are more common in people with diabetes.
+
+Other mental health disorders, like attention-deficit/hyperactivity disorder (ADHD), are also more common.
+
+With diabetes on the rise, it's important to understand how these conditions impact young people.
+
+What did this study examine?
+This study examined three topics from a telephone survey that asked parents about the physical and emotional health of their child:
+
+Mental, behavioral, and developmental disorders (MBDDs) in children and adolescents aged 2–17 with diabetes compared to those without diabetes.
+
+Perceived severity of MBDDs in young people with diabetes compared to those without diabetes.
+
+Use of mental health treatment and medicine in a 12-month period by young people with diabetes compared to those without diabetes.
+
+Terms to know
+MBDDs are conditions that can affect the way a child's brain grows and develops. Two subgroups are:
+
+Mental, emotional, and behavioral disorders , which typically include ADHD, anxiety, depression, behavioral or conduct problems, and Tourette syndrome.
+
+Developmental and language disorders , which typically include autism spectrum disorder, intellectual disability, developmental delay, learning disability, and speech or language disorders.
+
+Study results
+Young people with diabetes were more likely to have an MBDD compared to those without diabetes. In fact, adolescents aged 12–17 with diabetes had 50% more MBDDs than those of the same age without diabetes. Young people with an MBDD were more often male, whether they had diabetes or not.
+Young people with diabetes and an MBDD were more likely to have the following compared to young people with diabetes but no MBDD:
+
+Public health coverage (like Medicaid).
+
+Lower family income.
+
+Unmet health care needs.
+
+Young people with diabetes were nearly twice as likely to have a mental, emotional, or behavioral disorder or developmental or language disorder compared to those without diabetes. Young people ages 2 to 11 with diabetes had more than double the number of MBDDs than those of the same age without diabetes.
+Among all young people with a reported MBDD, those with diabetes were more likely to have a severe behavior disorder or developmental or language disorder compared to those without diabetes.
+No significant differences were found in the use of treatment and medicine for MBDDs by young people with or without diabetes.
+
+What's important about this study?
+Findings suggest that young people with diabetes may benefit from routine mental and behavioral health screenings and support.
+This study also shows the importance of mental health treatment for young people with diabetes. Finally, this study highlights the need for better mental and behavioral health insurance coverage for all young people. Different types of health care providers working together can improve the management of both diabetes and MBDDs in young people.
+
+May 15, 2024

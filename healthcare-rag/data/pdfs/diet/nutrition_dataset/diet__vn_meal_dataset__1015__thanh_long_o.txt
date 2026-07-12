@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Thanh long đỏ", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thanh long đỏ
+Loại món: Trái cây | Ẩm thực: Vietnamese
+Từ khóa: betacyanin, GI trung bình, chống oxy hóa
+
+Mô tả: Thanh long đỏ chứa betacyanin chống oxy hóa, GI tương tự thanh long trắng.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 100g (phần ăn được)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 6.5
+Calo: 68 kcal
+Chất đạm (protein): 1.3 g
+Chất béo tổng: 0.4 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 15.0 g (chất xơ: 3.2 g, đường: 9.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 7 mg
+Kali: 328 mg | Phốt pho: 32 mg | Magie: 20 mg
+Canxi: 9 mg | Sắt: 0.7 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Betacyanin chống oxy hóa; GI trung bình cần kiểm soát lượng
+Khẩu phần khuyến nghị: 100-150g/lần
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g thanh long đỏ (phần ăn được)
+
+--- Cách chế biến ---
+1. Rửa sạch thanh long đỏ
+2. Gọt vỏ/bỏ hạt nếu cần
+3. Ăn trực tiếp, không thêm đường

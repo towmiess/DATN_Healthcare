@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Đậu que xào thịt nạc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Đậu que xào thịt nạc
+Loại món: Món xào | Ẩm thực: Vietnamese
+Từ khóa: đậu que, thịt nạc, chất xơ, GI thấp
+
+Mô tả: Đậu que GI thấp, giàu chất xơ và vitamin K, kết hợp protein từ thịt nạc.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 155 kcal
+Chất đạm (protein): 16.5 g
+Chất béo tổng: 6.5 g (bão hòa: 1.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 10.5 g (chất xơ: 4.5 g, đường: 2.8 g, đường bổ sung: 0.0 g)
+Cholesterol: 45 mg | Natri: 352 mg
+Kali: 425 mg | Phốt pho: 172 mg | Magie: 35 mg
+Canxi: 52 mg | Sắt: 1.8 mg | Vitamin D: 0.3 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Chất xơ đậu que làm chậm hấp thu glucose
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+150g thịt nạc
+250g đậu que
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Đậu que cắt khúc
+2. Phi tỏi
+3. Xào thịt chín
+4. Cho đậu que vào xào 5 phút
+5. Nêm gia vị

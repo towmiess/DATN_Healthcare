@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Đậu hũ kho cải thảo", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Đậu hũ kho cải thảo
+Loại món: Chay/Đậu hũ | Ẩm thực: Vietnamese
+Từ khóa: đậu hũ, cải thảo, chay, isoflavone
+
+Mô tả: Đậu hũ kho cải thảo là món kho kết hợp cá trắm và cải thảo, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 117 kcal
+Chất đạm (protein): 13.4 g
+Chất béo tổng: 5.9 g (bão hòa: 1.3 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.9 g (chất xơ: 2.2 g, đường: 1.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 195 mg
+Kali: 271 mg | Phốt pho: 177 mg | Magie: 53 mg
+Canxi: 54 mg | Sắt: 1.5 mg | Vitamin D: 1.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Chay/Đậu hũ; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g đậu hũ
+200g cải thảo
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Đậu hũ cắt miếng
+2. Sơ chế cải thảo
+3. Kho kết hợp 2 nguyên liệu
+4. Nêm gia vị nhạt

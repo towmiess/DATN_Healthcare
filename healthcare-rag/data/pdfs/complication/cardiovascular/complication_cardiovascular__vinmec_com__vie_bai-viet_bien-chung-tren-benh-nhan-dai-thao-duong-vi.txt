@@ -1,0 +1,43 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/bien-chung-tren-benh-nhan-dai-thao-duong-vi",
+  "title": "Biến chứng tim mạch ĐTĐ - Vinmec",
+  "category": "complication/cardiovascular",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:16:04.502365",
+  "source_name": "vinmec.com",
+  "document_title": "Biến chứng tim mạch ĐTĐ - Vinmec",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1056,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Biến chứng tim mạch ĐTĐ - Vinmec
+
+-->
+
+Chuyên trang sức khoẻ
+Sức khoẻ tổng quát
+
+Biến chứng thận trên bệnh nhân đái tháo đường
+
+☰
+Mục lục
+
+Bệnh thận đái tháo đường là một trong những biến chứng của đái tháo đường thường gặp nhất. Bệnh không có biểu hiện nào, đến khi phát hiện được thì đã ở giai đoạn muộn. Vì vậy, bệnh thận đái tháo đường cần được xét nghiệm chẩn đoán, sàng lọc để phát hiện sớm, phòng ngừa biến chứng.
+Biến chứng của đái tháo đường tại thận gồm có: Bệnh thận đái tháo đường ; Xơ vữa mạch máu ở thận; Nhiễm trùng thận và đường tiết niệu.
+1. Bệnh thận đái tháo đường là gì?
+Bệnh thận đái tháo đường là tình trạng những mạch máu nhỏ ở cầu thận bị tổn thương xơ hóa, khiến bộ phận này hoạt động không hiệu quả và nếu để kéo dài có thể dẫn đến suy thận . Bệnh thận đái tháo đường là biến chứng thường gặp nhưng lại khó phát hiện vì không có triệu chứng. Đặc điểm của biến chứng của đái tháo đường này là tiểu albumin liên tục, chức năng lọc của cầu thận suy giảm, tăng huyết áp . Tại Việt Nam, bệnh thận đái tháo đường là 1 trong những nguyên nhân chính gây bệnh thận mạn giai đoạn cuối và tử vong. Ngoài biến chứng thận, bệnh nhân đái tháo đường còn có thể kèm theo các vấn đề về võng mạc, thần kinh, tim mạch và làm tăng nguy cơ đau ngực, nhồi máu cơ tim...
+2. Những ai dễ bị bệnh thận đái tháo đường?
+Bệnh thận đái tháo đường dễ xảy ra trên những bệnh nhân đái tháo đường kèm theo các vấn đề sau: Lớn tuổi, nam giới, có thói quen hút thuốc lá; Tăng huyết áp , tăng cholesterol trong máu, rối loạn mỡ máu; Rối loạn đường máu, nồng độ HbA1c cao; Chế độ ăn quá nhiều đạm; Gia đình có người mắc bệnh tăng huyết áp, đái tháo đường và các bệnh về thận di truyền.
+
+3. Tiến triển bệnh thận đái tháo đường
+Bệnh thận đái tháo đường có thể tiến triển qua 5 giai đoạn trên bệnh nhân tiểu đường type 1 không được điều trị hiệu quả, cụ thể: Giai đoạn 1: Chỉ số đường trong máu tăng lên cao khiến lưu lượng máu đến thận tăng. Hậu quả là làm thay đổi kích thước thận. Giai đoạn 2: Cầu thận bắt đầu có sự thay đổi về mô học. Bệnh nhân chưa có triệu chứng lâm sàng. Giai đoạn 3: Tiểu đạm, tiểu albumin. Khi phát hiện ở giai đoạn này nghĩa là bệnh nhân tiến triển nặng và nếu không được điều trị thì biến chứng của đái tháo đường ở thận sẽ bắt đầu biểu hiện rõ trên lâm sàng. Giai đoạn 4: Tiểu đạm nhiều hơn, chức năng lọc của cầu thận suy giảm dần, tăng huyết áp xuất hiện. Giai đoạn 5: Giai đoạn cuối của bệnh thận mạn , người bệnh có thể cần phải điều trị bệnh bằng lọc thận hoặc ghép thận .
+4. Chẩn đoán sàng lọc bệnh thận đái tháo đường
+Trên lâm sàng, bệnh thận đái tháo đường giai đoạn đầu rất khó phát hiện vì không có triệu chứng. Tiểu albumin kéo dài là dấu hiệu nhận biết đầu tiên trên bệnh nhân tiểu đường type 1 và kèm theo tăng huyết áp trên bệnh nhân tiểu đường type 2 . Khi đến giai đoạn muộn, bệnh thận đái tháo đường mới được phát hiện vì có các triệu chứng của ure trong máu tăng lên cao như: Hay buồn nôn, nôn, ăn kém. Vì vậy, chẩn đoán sàng lọc bệnh nhân tiểu đường rất quan trọng để phát hiện sớm biến chứng của đái tháo đường ở thận. Chẩn đoán bệnh thận đái tháo đường bằng cách xét nghiệm nước tiểu để kiểm tra nồng độ albumin trong nước tiểu cũng như tìm kiếm những tổn thương khác. Đặc biệt, cần lưu ý với những bệnh nhân đái tháo đường có các yếu tố nguy cơ đã nêu ở trên. Thời điểm tiến hành xét nghiệm kiểm tra albumin trên từng đối tượng bệnh nhân sau: Tiểu đường type 1: 3 - 5 năm sau khi chẩn đoán phát hiện bệnh tiểu đường. Tiểu đường type 2: Ngay khi chẩn đoán phát hiện bệnh tiểu đường.
+
+5. Điều trị bệnh thận đái tháo đường
+Điều trị bệnh thận đái tháo đường bao gồm: Kiểm soát đường huyết: Duy trì HbA1c dưới 7.0 để chỉ số đường huyết được bình thường sẽ giúp làm giảm tình trạng tiểu albumin niệu. Kiểm soát huyết áp: Duy trì huyết áp dưới 130/80 mmHg bằng thuốc ức chế men chuyển hoặc chẹn thụ thể để giúp làm giảm albumin niệu cũng như chậm sự tiến triển của bệnh. Để đạt mức huyết áp mục tiêu, người bệnh được chỉ định dùng thuốc lợi tiểu và giảm liều khi bị hạ huyết áp tư thế hoặc nồng độ creatinin trong máu tăng. Trường hợp bệnh thận đái tháo đường chống chỉ định với thuốc chẹn thụ thể hoặc chống men chuyển mà nồng độ kali máu tăng lên thì có thể được chỉ định thay thế bằng thuốc chẹn kênh canxi để làm giảm tiểu albumin và bảo vệ thận. Rối loạn lipid máu : Điều trị rối loạn lipid máu bằng statin trên bệnh nhân đái tháo đường để làm giảm nguy cơ tử vong do tiểu albumin và các vấn đề về tim mạch. Điều trị khác: Chế độ ăn cần hạn chế đạm, tăng cường vitamin D, natri bicarbonat. Hạn chế ăn mặn, truyền dịch và dùng thuốc lợi tiểu để điều trị phù. Phẫu thuật ghép thận (hoặc ghép tụy): Được thực hiện trên bệnh nhân bị bệnh thận mạn giai đoạn cuối. Tóm lại, bệnh thận đái tháo đường là biến chứng xảy ra ở cầu thận, thường gặp trên người mắc bệnh đái tháo đường. Bệnh khó phát hiện ở giai đoạn đầu do không có triệu chứng. Do vậy, người bệnh cần tiến hành xét nghiệm chẩn đoán để sớm được điều trị, bảo vệ chức năng thận và giảm nguy cơ tử vong.

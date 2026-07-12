@@ -1,0 +1,54 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/thuoc-dieu-tri-dai-thao-duong-type-2-vi",
+  "title": "Thuốc điều trị ĐTĐ type 2",
+  "category": "medication",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:15:02.833332",
+  "source_name": "vinmec.com",
+  "document_title": "Thuốc điều trị ĐTĐ type 2",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 2090,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Thuốc điều trị ĐTĐ type 2
+
+-->
+
+Chuyên trang sức khoẻ
+Sức khoẻ tổng quát
+
+Thuốc điều trị đái tháo đường type 2
+
+Cố vấn chuyên môn
+
+Thạc sĩ,
+
+Vũ Thị Duyên
+
+☰
+Mục lục
+
+Bài viết được thực hiện bởi bác sĩ Vũ Thị Duyên - Khoa Khám bệnh & Nội khoa - Bệnh viện Đa khoa Quốc tế Vinmec Hải Phòng.
+
+Bệnh nhân đái tháo đường type 2 nên kết hợp sử dụng nhiều loại thuốc điều trị đái tháo đường để tăng hiệu quả trị bệnh. Bên cạnh đó, phối hợp nhiều loại thuốc còn tránh tình trạng nhờn thuốc phổ biến hiện nay.
+1. Đại cương
+Bệnh đái tháo đường là bệnh rối loạn chuyển hóa không đồng nhất, có đặc điểm tăng glucose huyết do khiếm khuyết về tiết insulin , về tác động của insulin, hoặc cả hai. Tăng glucose mạn tính trong thời gian dài gây nên những rối loạn chuyển hóa carbohydrate, protide, lipide, gây tổn thương ở nhiều cơ quan khác nhau, đặc biệt ở tim và mạch máu , thận , mắt , thần kinh. Sự nguy hiểm của bệnh đái tháo đường là những tổn thương (biến chứng) do đường máu tăng cao kéo dài gây ra tại các cơ quan đích như: tim, thận, mắt, thần kinh và mạch máu. Cho dù đó là bệnh đái tháo đường type 2 hay type 1 , biến chứng đều làm tăng nguy cơ về bệnh tim và đột quỵ , bệnh lý bàn chân , suy thận cùng với nhiều rủi ro khác. Nhưng bằng cách kiểm soát tốt đường huyết, kiểm soát tích cực các bệnh cơ hội như tăng huyết áp , rối loạn mỡ máu , phát hiện sớm và kiểm soát kịp thời biến chứng, bạn có thể hạn chế và cải thiện hiệu quả biến chứng để chung sống hòa bình với căn bệnh này. Khi mắc bệnh đái tháo đường làm thế nào để kiểm soát glucose máu và giảm biến chứng của bệnh gây ra, ngoài việc điều chỉnh chế độ ăn sinh hoạt hợp lý thì việc dùng thuốc và phối hợp thuốc trong điều trị bệnh đái tháo đường là rất quan trọng. Trước hết cần phải biết và hiểu có bao nhiêu thuốc điều trị đái tháo đường hiện nay trên thị trường và cá thể hóa điều trị tốt cho từng bệnh nhân.
+
+2. Thuốc điều trị đái tháo đường
+Kiểm soát tốt đường máu và giảm tối thiểu các biến chứng của bệnh là rất quan trọng. Khi kiểm soát glucose máu bằng điều chỉnh chế độ ăn, luyện tập không thành công thì việc dùng thuốc là chỉ định bắt buộc. Hiện nay thuốc điều trị đái tháo đường rất đa dạng và nhiều bởi sự phát triển không ngừng của y học.
+2.1 Mục tiêu điều trị HbA1c < 7% được coi là mục tiêu chung. Đường máu lúc đói nên duy trì ở mức 4,4 - 7,2 mmol/l. Đường máu sau ăn 2h < 10 mmol/l. Huyết áp < 140/90 mmHg, nếu có biến chứng thận thì HA < 130/80 mmHg. Lipid máu: LDL-C < 2,6 mmol/l chưa có biến chứng tim mạch. LDL-C < 1,8 mmol/l nếu đã có biến chứng tim mạch. Triglycerid < 1,7 mmol/l. HDL-C > 1.0 mmol/l ở nam và > 1,3 mmol/l ở nữ. 2.2 Các thuốc điều trị 2.2.1. Điều trị thuốc uống: Nhóm thuốc kích thích tụy bài tiết insulin (sulphonylurea): Sulfonylurea kích thích tụy tiết insulin. Các loại sulfonylurea trên thị trường: Thế hệ 1: thuốc thuộc nhóm này gồm Tolbutamide, Chlorpropamide, viên 500mg - nhóm này hiện ít được sử dụng do nhiều tác dụng phụ. Thế hệ 2: các thuốc thuộc nhóm này gồm Glibenclamid (Hemidaonil 2,5mg; Daonil 5mg; Glibenhexal 3,5mg;...); Gliclazid (Diamicron 80 mg; Diamicron MR30 mg; Diamicron MR 60 mg, Predian 80 mg;...); Glipizide (minidiab), Glyburide;...
+
+Chỉ định: Đái tháo đường type 2 thể trạng trung bình hoặc gầy. Phối hợp với Metformin, Thiazolidinedion (TZD), Acarbose, Insulin. Chống chỉ định: Đái tháo đường type 1, suy thận, suy gan nặng, đái tháo đường nhiễm toan ceton, có thai hoặc dị ứng với sulfonylurea. Tác dụng phụ: Hạ đường huyết , dị ứng , tăng cân. Liều lượng: Bắt đầu liều thấp, chỉnh liều dần theo đáp ứng. Nhóm thuốc tăng nhạy cảm insulin ở ngoại vi, giảm đề kháng insulin : Các loại thuốc: Metformin, Thiazolidinedione, Biguanide - Thuốc duy nhất còn sử dụng là Metformin (Glucophage, Metforan...). Metformin tác động chủ yếu là ức chế sản xuất glucose từ gan nhưng cũng làm tăng tính nhạy của insulin ở mô đích ngoại vi. Tác động hạ glucose trong khoảng 2-4 mmol/l và có thể giảm HbA1c đến 2%. Vì nó không kích thích tuỵ chế tiết insulin nên không gây hạ glucose máu khi sử dụng đơn độc. Metformin còn là thuốc được khuyến cáo lựa chọn dùng điều trị người đái tháo đường thừa cân, béo phì, để duy trì hoặc làm giảm cân nặng, thuốc còn có tác động có lợi đến giảm lipid máu. Chỉ định: Đái tháo đường type 2, nhất là người thừa cân hoặc béo phì và có rối loạn lipid máu. Chống chỉ định: Đái tháo đường type 1, nhiễm toan ceton , thiếu oxy tổ chức (suy tim, suy hô hấp), suy thận, rối loạn chức năng gan , có thai, chế độ ăn ít calo (để giảm cân), ngay trước và sau phẫu thuật hoặc người > 70 tuổi. Liều lượng: Liều từ 500 - 2500mg/ngày, uống sau bữa ăn. Tác dụng phụ: Tác dụng phụ đường tiêu hoá như chán ăn, buồn nôn, nôn, đầy bụng, tiêu chảy . Ít gặp tác dụng phụ gây độc trên da, huyết học. Metformin không gây hạ đường máu . Nhiễm toan lactic .
+
+Thiazolidinediones (Pioglitazone) : Thuốc làm tăng nhạy cảm của cơ và tổ chức mỡ với insulin bằng cách hoạt hóa PPAR γ (peroxisome proliferator-activated receptor γ) vì vậy làm tăng thu nạp glucose từ máu. Thuốc làm tăng nhạy cảm của insulin ở cơ vân, mô mỡ, đồng thời ngăn cản quá trình sản xuất glucose từ gan . Tên thuốc: Pioglitazone 15 mmg, 30 mg. Liều dùng: Liều từ 15 mg đến 45 mg/ ngày. Chỉ định: Điều trị kết hợp với sulfonylurea hoặc metformin hoặc insulin. Chống chỉ định: Mẫn cảm với thuốc và các thành phần của thuốc, có thai và cho con bú, bệnh gan (enzyme ALT > 2,5 lần giới hạn cao của bình thường), suy tim. Tác dụng phụ: tăng cân. Cần thận trọng khi điều trị TZD cho người bệnh suy tim hoặc có bệnh tim, viêm gan hoặc có men gan tăng cao. Nhóm ức chế enzyme alpha glucosidase làm giảm hấp thu glucose: Enzyme Alpha-glucosidase có tác dụng phá vỡ đường đôi (disaccharide) thành đường đơn (monosaccharide). Thuốc ức chế Alpha-glucosidase, vì thế có tác dụng làm chậm hấp thu monosaccharide, do vậy hạ thấp lượng glucose máu sau bữa ăn. Những thuốc nhóm này gồm: Acarbose: Glucobay 50 mg, 100 mg. Chỉ định: Tăng nhẹ đường huyết sau ăn. Điều trị đơn trị liệu kết hợp với chế độ ăn hoặc phối hợp với thuốc khác. Cách dùng: Uống thuốc sau miếng cơm đầu tiên. Bắt đầu bằng liều thấp nhất và tăng dần lên tùy theo đáp ứng với điều trị hoặc mức độ tác dụng phụ. Tác dụng phụ: Buồn nôn, đầy chướng bụng. Ỉa chảy Nhóm Glinides (Nateglinid, Repaglinid): Chỉ định: Tăng đường huyết sau ăn. Uống thuốc 1 - 10 phút trước bữa ăn, thường là bữa chính.
+
+Cách dùng: Uống 15 phút trước bữa ăn. Tác dụng phụ: Hạ đường huyết Nhóm các thuốc tác dụng trên hệ incretin: Các thuốc đồng phân GLP-1 Tác dụng: GLP-1 đến tụy sẽ kích thích tuyến tụy “tiết insulin”. Nhờ đó insulin được tiết ra từ tuyến tụy, lượng đường trong máu giảm xuống. Chỉ định: Đái tháo đường type 2, tăng đường huyết sau ăn. Liều lượng và cách dùng: Exenatide (Byeta dạng bút tiêm), tiêm dưới da 5 hoặc 10mg, 2 lần/ngày, trước bữa ăn 60 phút. Tác dụng phụ: Buồn nôn gặp khoảng 15 - 30% người dùng (thường tự hết), hạ đường huyết có thể xảy ra khi dùng cùng thuốc kích thích tiết insulin. Nhóm thuốc ức chế DPP 4 : Gliptin là nhóm thuốc ức chế enzym DPP-4 (Dipeptidylpeptidase-4) để làm tăng nồng độ GLP1 nội sinh, GLP1 có tác dụng kích thích bài tiết insulin, và ức chế sự tiết glucagon khi có tăng glucose máu sau khi ăn. Chỉ định: Đái tháo đường type 2, tăng đường huyết sau ăn. Cách dùng: Thuốc uống Sitagliptin như Januvia viên 25 mg, 50 mg và 100mg. Cần chỉnh liều ở người suy thận. Liều thông thường từ 50 – 100mg/ngày. Tác dụng phụ: Buồn nôn (nhưng ít hơn so với thuốc đồng phân GLP -1), đau đầu, đau họng. 2.2.2. Lựa chọn điều trị ban đầu: Đơn trị liệu: Béo phì, tăng lipid máu: Nên chọn nhóm Metformin, hoặc Glitazone hoặc ức chế alpha glucosidase (lưu ý chống chỉ định của từng nhóm). Đường huyết lúc đói > 13.7 mmol/l, gầy: Nên chọn nhóm sulfonylurea hoặc tiêm insulin. Nếu có tăng đường huyết sau ăn nhiều: Nên chọn nhóm ức chế alpha - glucosidase. Đường huyết > 16,5 mmol/l và/hoặc HbA1C > 11%: Điều trị insulin ngay sau khi ổn định mới chọn nhóm thuốc khác. Phối hợp thuốc : Khi đơn trị liệu không đạt mục tiêu ( thất bại). Có thể phối hợp nhiều nhóm thuốc uống khác nhau và tiêm insulin.
+2.3. Điều trị bằng tiêm insulin: Chỉ định tiêm insulin: Bắt buộc với đái tháo đường type 1, đái tháo đường thai kỳ. Đái tháo đường type 2 khi có: Mất bù do Stress, nhiễm trùng, vết thương cấp, tăng đường huyết với tăng ceton máu cấp nặng. Mất cân không kiểm soát được/Khi có can thiệp ngoại khoa/ Suy gan, thận Đái tháo đường thai kỳ Dị ứng/Thất bại với thuốc viên hạ đường huyết Chỉ định tạm thời ngay khi có đường huyết tăng cao > 250 - 300 mg/dl (14 - 16,5mmol/l), HbA1c > 11% Đái tháo đường hôn mê toan ceton hoặc tăng áp lực thẩm thấu Đái tháo đường do bệnh lý tụy: viêm tụy mạn, sau phẫu thuật cắt tụy... Trong một số trường hợp nhu cầu insulin của người bệnh tăng cao: điều trị một số thuốc gây tăng đường huyết (corticoid).
+
+Liều tiêm Insulin: Liều Insulin cần thiết ở những người bệnh đái tháo đường type 1 từ 0,5 - 1,0 UI/kg cân nặng. Liều khởi đầu từ 0,4 - 0,5UI/kg/ngày. Liều thông thường 0,6UI/kg, tiêm dưới da 1 - 2 lần trong ngày. Sau chỉnh liều theo kết quả đường huyết. Liều insulin ở người bệnh đái tháo đường type 2. Bắt đầu từ 0,2UI/kg/ngày, thường 0,3 - 0,6UI/kg/ngày. Liều insulin nền 0,1 - 0,2UI/kg. Vị trí tiêm Insulin: cần thay đổi vị trí tiêm để tránh thoái hóa mỡ dưới da chỗ tiêm Các phác đồ điều trị cụ thể tiêm insulin: Phác đồ 1 mũi Insulin : Phối hợp thuốc viên với 1 mũi insulin tác dụng trung gian hoặc hỗn hợp trước bữa ăn tối. Hoặc một mũi insulin tác dụng trung gian/Glargin trước khi đi ngủ. Liều 0,1 - 0,2UI/kg. Phác đồ 2 mũi Insulin: Sử dụng 2 mũi Insulin trung gian hoặc insulin hỗn hợp (Mixtard, Insulatard, Novomix) tiêm trước ăn sáng và tối. Liều 2/3 trước bữa sáng, 1/3 trước bữa tối. Khi thất bại, chế độ ăn và chế độ sinh hoạt thất thường, hoặc khi cần kiểm soát chặt chẽ đường huyết cần chuyển sang các phác đồ nhiều mũi insulin. Phác đồ nhiều mũi Insulin: Tiêm 3 lần trong ngày: 2 mũi insulin nhanh (Actrapid, Novopapid) và 1 mũi bán chậm (Mixtard, Insulatard). Hoặc 2 mũi insulin bán chậm/ insulin nền. Tiêm 4 lần trong ngày: 3 mũi insulin tác dụng nhanh trước 3 bữa ăn và 1 mũi insulin nền loại Insulatard trước khi ngủ (21h) hoặc Glargin (lantus).
+2.4 Điều trị các yếu tố nguy cơ và bệnh kèm theo: Tăng huyết áp, tăng lipid máu, điều trị các biến chứng. XEM THÊM: Chẩn đoán và điều trị đái tháo đường tuýp 1 Chẩn đoán và điều trị đái tháo đường tuýp 2 Các loại insulin điều trị đái tháo đường và cách dùng

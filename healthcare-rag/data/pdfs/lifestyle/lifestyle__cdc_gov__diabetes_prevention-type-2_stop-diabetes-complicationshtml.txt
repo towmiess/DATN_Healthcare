@@ -1,0 +1,89 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/prevention-type-2/stop-diabetes-complications.html",
+  "title": "Put the Brakes on Diabetes Complications - CDC",
+  "category": "lifestyle",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:10:07.750509",
+  "source_name": "cdc.gov",
+  "document_title": "Put the Brakes on Diabetes Complications - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 711,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Put the Brakes on Diabetes Complications - CDC
+
+May 15, 2024
+
+Español
+
+Put the Brakes on Diabetes Complications
+
+What to know
+
+People with diabetes are living longer with fewer complications.
+
+Greater awareness and better management of risk factors is helping.
+
+Find out what you can do to prevent or delay diabetes health problems.
+
+Diabetes complications are decreasing
+We've come a long way in reducing the impact of diabetes on people's lives. In the last 20 years, rates of several major complications have decreased among U.S. adults with diabetes.
+The greatest declines were for two leading causes of death: heart attack and stroke. This is real progress. People with diabetes are at higher risk for heart disease. They may also get it more severely and at a younger age than people who don't have diabetes.
+
+Diabetes complications are related
+Diabetes complications often share the same risk factors, and one complication can make other complications worse.
+For example, many people with diabetes also have high blood pressure, which in turn worsens eye and kidney diseases. Diabetes tends to lower HDL ("good") cholesterol and raise triglycerides (a kind of blood fat) and LDL ("bad") cholesterol. These changes can increase the risk for heart disease and stroke. Smoking doubles the risk of heart disease in people with diabetes.
+Take a closer look at these major diabetes complications:
+Heart disease and stroke
+People with diabetes are twice as likely to have heart disease or a stroke as people without diabetes.
+Blindness and other eye problems
+
+Damage to blood vessels in the retina (diabetic retinopathy)
+
+Clouding of the lens (cataract)
+
+Increase in fluid pressure in the eye (glaucoma)
+
+Kidney disease
+High blood sugar levels can damage the kidneys and cause chronic kidney disease (CKD) . If not treated, CKD can lead to kidney failure. About 1 in 3 adults with diabetes has CKD.
+Nerve damage (neuropathy)
+Nerve damage is a common diabetes complication that can cause numbness and pain. Nerve damage most often affects the feet and legs. It can also affect your digestion, blood vessels, and heart.
+Amputations
+Diabetes-related damage to blood vessels and nerves, especially in the feet, can lead to serious, hard-to-treat infections. Amputation can be necessary to stop the spread of infection.
+And more
+
+Gum disease can lead to tooth loss and higher blood sugar, making diabetes harder to manage. (Gum disease can also increase the risk of type 2 diabetes.)
+
+Diabetes increases the risk of depression. That risk grows as more diabetes-related health problems develop.
+
+Gestational diabetes can cause serious complications for mothers and their babies.
+
+Complications usually develop over a long time without any symptoms. That's why it's so important to make and keep doctor appointments even if you feel fine. Early treatment can help prevent or delay diabetes-related health conditions and improve your overall health.
+
+Your prevention toolkit
+A healthy lifestyle is your road map for managing diabetes. And that's the key to preventing or delaying complications:
+
+Follow a healthy eating plan .
+
+Be physically active for at least 150 minutes a week.
+
+Manage your ABCs: Get a regular A 1C test, keep your b lood pressure below 140/90 mm Hg, control your c holesterol levels, and stop s moking or don't start.
+
+Lose weight if needed.
+
+Take medicines as instructed.
+
+Make and keep appointments with your health care team.
+
+In charge, but not alone
+You're in the driver's seat when it comes to managing your diabetes . You follow a healthy eating plan, make time for physical activity, take medicine, check your blood sugar. Be sure to talk with your health care team to keep going in the right direction.
+Everyone's diabetes is different. Some people will still have complications even with good management. Maybe that's you—you've been trying hard but not seeing results. Or you've developed a health problem related to diabetes in spite of your best efforts.
+If you feel discouraged and frustrated , you may slip into unhealthy habits. You may stop monitoring your blood sugar, even skip doctor appointments.
+That's when your team can help you get back on track. They can support you in setting goals, remind you of your progress, and offer new ideas and strategies. You can also connect with others who know what you're going through. Ask the team about support groups near you or online.
+
+May 15, 2024

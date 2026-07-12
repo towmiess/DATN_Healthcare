@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Trứng chần nước sôi (poached egg)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trứng chần nước sôi (poached egg)
+Loại món: Món trứng | Ẩm thực: Vietnamese
+Từ khóa: trứng chần, poached, ít béo nhất
+
+Mô tả: Trứng chần không cần dầu mỡ, giữ lòng đỏ mềm, ít chất béo nhất trong các cách chế biến trứng.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 78 kcal
+Chất đạm (protein): 6.5 g
+Chất béo tổng: 5.0 g (bão hòa: 1.5 g, chuyển hóa: 0.1 g)
+Carbohydrate tổng: 0.5 g (chất xơ: 0.0 g, đường: 0.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 185 mg | Natri: 65 mg
+Kali: 65 mg | Phốt pho: 98 mg | Magie: 6 mg
+Canxi: 28 mg | Sắt: 0.9 mg | Vitamin D: 0.8 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Không dầu mỡ nhưng cholesterol vẫn cần kiểm soát tim mạch
+Khẩu phần khuyến nghị: 1 quả/bữa
+Chống chỉ định / thận trọng: Tim mạch và đột quỵ hạn chế
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: thấp
+
+--- Nguyên liệu ---
+1 quả trứng
+Giấm ít
+
+--- Cách chế biến ---
+1. Đun sôi nước với ít giấm
+2. Thả trứng vào khuấy nhẹ tạo xoáy
+3. Chần 3 phút vớt ra

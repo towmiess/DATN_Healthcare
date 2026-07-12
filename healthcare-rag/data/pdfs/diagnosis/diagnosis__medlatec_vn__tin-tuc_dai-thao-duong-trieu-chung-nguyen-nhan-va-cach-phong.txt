@@ -1,0 +1,80 @@
+===METADATA===
+{
+  "url": "https://medlatec.vn/tin-tuc/dai-thao-duong-trieu-chung-nguyen-nhan-va-cach-phong-ngua",
+  "title": "ĐTĐ triệu chứng nguyên nhân phòng ngừa",
+  "category": "diagnosis",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:08:08.484760",
+  "source_name": "medlatec.vn",
+  "document_title": "ĐTĐ triệu chứng nguyên nhân phòng ngừa",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1759,
+  "verified_by_doctor": false
+}
+===CONTENT===
+ĐTĐ triệu chứng nguyên nhân phòng ngừa
+
+Tin tức
+
+Tin tức y khoa
+Đái tháo đường: Triệu chứng, nguyên nhân và cách phòng ngừa
+
+Đái tháo đường: Triệu chứng, nguyên nhân và cách phòng ngừa
+
+Ngày 14/06/2025
+
+Tham vấn y khoa: ThS.BS Nguyễn Thị Ly
+
+Đái tháo đường hay tiểu đường, là bệnh rối loạn chuyển hóa mạn tính phổ biến trong cộng đồng. Tuy nhiên, thực tế hiện nay, rất ít người hiểu đúng về cơ chế bệnh sinh, triệu chứng và nguyên nhân gây bệnh, dẫn đến việc chăm sóc và phòng ngừa bệnh không hiệu quả. Bài viết dưới đây, hãy cùng đi tìm hiểu thông tin chi tiết về dấu hiệu, nguyên nhân và biện pháp phòng ngừa bệnh hiệu quả.
+
+16/06/2023 | Bệnh đái tháo đường và những kiến thức cơ bản ai cũng nên biết
+01/08/2023 | Chẩn đoán đái tháo đường type 2 bằng cách nào?
+01/08/2023 | Những cách điều trị đái tháo đường hiệu quả nhất hiện nay
+01/12/2023 | Xét nghiệm đái tháo đường và những điều cần lưu ý
+09/04/2025 | Biến chứng bệnh thận mạn do đái tháo đường nên điều trị thế nào cho hiệu quả?
+
+1. Đái tháo đường là gì?  Đái tháo đường hay tiểu đường, là một trong những bệnh lý rối loạn chuyển hóa mạn tính phổ biến hiện nay. Bệnh đặc trưng bởi tình trạng glucose trong máu cao hơn mức bình thường trong thời gian dài, do cơ thể sử dụng insulin không hiệu quả hoặc cơ thể không sản xuất đủ lượng insulin cần thiết. Nếu không phát hiện sớm và điều trị đúng cách, bệnh có thể gây nhiều biến chứng nguy hiểm ảnh hưởng đến chức năng hoạt động của nhiều cơ quan khác như tim mạch, thận, hệ thần kinh, làn da,... Dựa vào đặc trưng về cơ chế bệnh sinh, tiểu đường được phân thành 2 dạng chính:  Tiểu đường type 1: Bệnh khởi phát sớm, thường gặp ở trẻ em độ tuổi thanh thiếu niên, do tuyến tụy không sản xuất được hoặc sản xuất rất ít insulin. Loại tiểu đường này ít gặp hơn trong cộng đồng, chiếm khoảng 5 - 10% tổng số ca bệnh tiểu đường.  Tiểu đường type 2: Đây là dạng phổ biến trong cộng đồng, có số lượng người mắc bệnh lớn, chiếm khoảng 90 - 95% tổng số ca mắc. Bệnh thường gặp ở người lớn và người cao tuổi. Các biến chứng có thể gặp khi bị bệnh tiểu đường 2. Triệu chứng bệnh đái tháo đường  Các triệu chứng bệnh tiểu đường thường phát triển âm thầm, khiến người bệnh khó nhận ra cho đến khi bệnh tiến triển nặng. Dưới đây là một số dấu hiệu điển hình của bệnh tiểu đường:  Mệt mỏi, sụt nhiều cân trong khoảng thời gian ngắn (không rõ nguyên nhân sụt cân).  Thường xuyên khát nước, đi tiểu nhiều lần trong ngày.  Xuất hiện tình trạng mờ mắt.  Vết thương lâu lành, nhiễm trùng tái phát nhiều lần.  Da trở nên khô ráp, ngứa ngáy, đôi khi xuất hiện các vùng da có màu sắc bất thường.  Tê bì chân tay (thường gặp ở những người mắc bệnh tiểu đường giai đoạn muộn). Các triệu chứng khác như: ngứa da, hơi thở có mùi lạ, thay đổi tâm trạng thất thường, khó tập trung và hay cáu gắt, thường xuyên đói (đặc biệt sau khi ăn),.. Giai đoạn đầu, bệnh tiểu đường thường khó phát hiện và hay bị nhầm lẫn với các tình trạng suy nhược cơ thể thông thường. Để phát hiện sớm bệnh, việc kết hợp kiểm tra đường huyết định kỳ là điều quan trọng hơn cả, đặc biệt là ở những người có yếu tố nguy cơ cao như béo phì, gia đình có người mắc bệnh tiểu đường,... 3. Nguyên nhân gây bệnh  Bệnh tiểu đường do nhiều nguyên nhân khác nhau gây nên, bao gồm: yếu tố di truyền, chế độ ăn uống không lành mạnh, thừa cân, béo phì, lối sống ít vận động, căng thẳng kéo dài và tuổi tác. Dưới đây là thông tin chi tiết:  Yếu tố di truyền: Nếu trong gia đình có người mắc bệnh tiểu đường, nguy cơ bạn bị bệnh sẽ cao hơn người bình thường.  Chế độ ăn uống không lành mạnh: Dinh dưỡng không cân đối, dung nạp nhiều tinh bột, đường, chất béo xấu và ít xơ sẽ làm gia tăng nguy cơ mắc bệnh tiểu đường.  Thừa cân, béo phì: Đây là một trong những nguyên nhân chính gây nên bệnh tiểu đường type 2. Mỡ thừa, đặc biệt là mỡ ở vùng bụng có thể làm giảm độ nhạy của insulin, khiến cơ thể sử dụng đường không hiệu quả.  Lối sống ít vận động: Ngồi nhiều, lười vận động có thể làm giảm hiệu quả chuyển hóa đường trong cơ thể.  Căng thẳng kéo dài: Stress trong thời gian dài có thể làm gia tăng hormone cortisol, một trong những nguyên nhân gây rối loạn chuyển hóa đường trong cơ thể.  Tuổi tác: Tuổi càng cao, nguy cơ mắc đái tháo đường càng lớn, thường gặp ở nhóm tuổi sau 40 tuổi.  Hiểu rõ nguyên nhân gây bệnh sẽ giúp việc điều trị và chăm sóc thuận tiện hơn. Nhờ vậy, hạn chế được nguy cơ mắc biến chứng nguy hiểm ảnh hưởng đến sức khoẻ.  Thừa cân, béo phì là một trong những nguyên nhân chính gây nên bệnh tiểu đường type 2 4. Cách phòng ngừa bệnh hiệu quả Chúng ta hoàn toàn có thể phòng ngừa bệnh tiểu đường bằng một số cách sau:  Duy trì cân nặng hợp lý: Không chỉ giúp cơ thể luôn khỏe mạnh, mà còn giảm đáng kể nguy cơ mắc các bệnh lý mạn tính nguy hiểm, điển hình là tiểu đường. Người bệnh có thể dựa vào công cụ đánh giá cân nặng chuẩn BMI để xác định mức cân nặng phù hợp.  Chế độ dinh dưỡng lành mạnh: Chế độ ăn đầy đủ dưỡng chất dinh dưỡng, tăng cường rau xanh, hạn chế muối và chất béo xấu sẽ giúp làm giảm nguy cơ mắc bệnh tiểu đường.  Tập thể dục đều đặn: Nên duy trì thói quen tập luyện thể dục đều đặn 20 - 30 phút mỗi ngày, giúp tăng tuần hoàn máu và hỗ trợ chuyển hóa đường trong cơ thể. Bạn có thể bắt đầu với các bài tập nhẹ nhàng như đi bộ, đạp xe,... Tránh căng thẳng quá mức: Ngủ đủ giấc, giữ tâm lý ổn định, thoải mái sẽ giúp giảm nguy cơ mắc bệnh.  Kiểm tra sức khỏe định kỳ: Nên thăm khám sức khỏe định kỳ 6 - 12 tháng/lần để phát hiện sớm các dấu hiệu bất thường và có hướng điều trị kịp thời. Bạn có thể ưu tiên việc thực hiện xét nghiệm đường huyết, mỡ máu và HbA1c. Bạn nên thăm khám sức khỏe định kỳ, thực hiện xét nghiệm đường huyết để phát hiện các dấu hiệu sức khỏe bất thường Bài viết trên đây là toàn bộ thông tin về triệu chứng, nguyên nhân và cách phòng ngừa bệnh đái tháo đường. Đây là một trong những bệnh lý rối loạn chuyển hóa mạn tính phổ biến, tiềm ẩn nhiều biến chứng nguy hiểm ảnh hưởng đến chức năng tim mạch, thần kinh, thận,...  Để phòng ngừa bệnh hiệu quả, chúng ta cần: duy trì cân nặng hợp lý, chế độ ăn lành mạnh, tập thể dục đều đặn, tránh căng thẳng quá mức và kiểm tra sức khỏe định kỳ.  Nếu bạn có bất kỳ thắc mắc liên quan, hãy liên hệ Tổng đài MEDLATEC 1900 56 56 56 để được giải đáp nhanh chóng và đặt lịch thăm khám cùng bác sĩ chuyên khoa.
+
+Từ khoá:
+tiểu đường
+đái tháo đường
+
+Bình luận ( )
+
+Tin cùng chuyên mục
+
+Thứ Sáu, 22 tháng 5, 2026
+
+Thai phụ chóng mặt, mệt mỏi nhiều tưởng ốm nghén, đi khám...
+
+Thấy chóng mặt, mệt mỏi nhiều, thai phụ đi khám được chẩn đoán mắc cường giáp do thai kỳ - một chứng rối loạn chức năng tuyến giáp. Tuy nhiên, tình trạng này rất dễ nhầm lẫn với Basedow - một bệnh lý tuyến giáp có thể gây sảy thai, sinh non, tăng nguy cơ tiền sản giật…&#xD;&#xA;
+
+Thứ Hai, 18 tháng 5, 2026
+
+Cổ bị thâm đen là bệnh gì? Phương pháp chẩn đoán
+
+Tình trạng cổ bị thâm đen không chỉ gây mất thẩm mỹ mà còn có thể là dấu hiệu cảnh báo một số vấn đề sức khỏe tiềm ẩn. Vậy nguyên nhân khiến cổ bị thâm đen là bệnh gì, làm cách nào để xác định chính xác? Bài viết dưới đây sẽ cùng bạn tìm hiểu thông tin liên quan và giải đáp những băn khoăn này.&#xD;&#xA;
+
+Thứ Năm, 2 tháng 4, 2026
+
+Cảnh giác mắc ung thư tuyến giáp thể nhú ngay khi khỏe mạ...
+
+Không có bất kỳ dấu hiệu bất thường nào tại vùng cổ, nhưng nam thanh niên đi khám lại phát hiện mắc ung thư tuyến giáp thể nhú. Từ đó cảnh báo người dân nên đi kiểm tra sức khỏe định kỳ hàng năm để phát hiện bất thường sớm về sức khỏe khi chưa có biểu hiện bên ngoài.
+
+Thứ Hai, 23 tháng 2, 2026
+
+3 bệnh lý chuyển hóa thường gặp sau Tết: Chuyên gia cảnh...
+
+Sau kỳ nghỉ Tết, nhiều người đối mặt với tình trạng tăng cân, mệt mỏi, rối loạn sức khỏe do chế độ ăn uống dư thừa năng lượng và sinh hoạt thiếu điều độ. Các chuyên gia cảnh báo, đây cũng là thời điểm 3 bệnh lý chuyển hóa thường gặp có xu hướng gia tăng nhanh chóng, diễn tiến âm thầm nhưng tiềm ẩn nhiều biến chứng nguy hiểm nếu không được phát hiện và điều trị sớm.
+
+Thứ Năm, 5 tháng 2, 2026
+
+Đường huyết tăng cao sau Tết: Nguyên nhân và cách xử trí...
+
+Sau kỳ nghỉ Tết, không ít người bất ngờ khi kiểm tra sức khỏe và phát hiện chỉ số đường huyết tăng cao so với bình thường. Vậy tại sao đường huyết tăng cao sau Tết? Cần xử trí như thế nào để tránh biến chứng lâu dài? Bài viết sau sẽ giúp bạn hiểu rõ và chủ động thực hiện tốt các biện pháp phòng ngừa để duy trì kiểm soát đường huyết ổn định trong và sau Tết.&#xD;&#xA;
+
+Hotline
+1900565656

@@ -1,0 +1,72 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/type-1-diabetes/causes",
+  "title": "Type 1 causes",
+  "category": "diagnosis",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:07:13.923067",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Type 1 causes",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 694,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Type 1 causes
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+What causes type 1 diabetes?
+
+Causes of type 1 diabetes
+
+It’s normal to wonder if something you’ve done could have caused your type 1 diabetes – or a child’s type 1 diabetes. But there’s nothing you could have done to prevent it.
+
+We don’t know the exact cause of type 1 diabetes. Family history can increase your risk, as there are a number of genes linked to type 1 diabetes. But we know genes on their own don't cause diabetes, because most people with type 1 don't have a family history of it at all. Scientists think some things in the environment, like viruses, play a role in triggering type 1 diabetes and are doing research all the time to find out more.
+
+In type 1 diabetes, your body has destroyed the insulin-producing cells in your pancreas – called beta cells - so you can't produce any insulin. This can happen over years. You may hear it called an autoimmune condition. That’s because the immune system that usually protects you against illness has done the opposite.
+
+Researchers and scientists around the world including our own are working hard to find more answers about the causes of type 1 diabetes and to find a cure. See the latest findings .
+
+Ruling out rarer types of diabetes of diabetes
+
+If you have been diagnosed with type 1 diabetes (or type 2 diabetes) and are under 25 and have other family members with diabetes, speak to your diabetes healthcare team about genetic testing. This is to rule out Maturity Onset Diabetes (MODY), a rare form of monogenic diabetes , which has different causes and requires different treatment.
+
+What causes type 1 diabetes in adults?
+
+The causes of type 1 diabetes are the same at any age. Your immune system has attacked the insulin-producing cells that are found in your pancreas.
+
+As you can’t make enough insulin, you need to inject insulin or it’s released into your body using a small insulin pump you attach to your body
+
+Although type 1 diabetes is often diagnosed in childhood you can be diagnosed at any age.
+
+What causes type 1 diabetes in children?
+
+Like type 1 diabetes in adults, we don’t know the exact cause of type 1 diabetes in children. As with adults, the insulin-producing cells that are found in the pancreas stop working.
+
+Type 1 diabetes is the most common type of diabetes diagnosed in childhood. You can develop type 1 diabetes from the age of six months and over. If diabetes is diagnosed in a baby under six months, it’s not type 1 diabetes, it’s called neonatal diabetes .
+
+Go to our children and diabetes section .
+
+Is type 1 diabetes caused by diet?
+
+Type 1 diabetes is not thought to be caused by what you eat or drink. And there’s nothing you can do to prevent the condition developing. But if you have type 1 diabetes, it’s still important eat a healthy diet to help you manage your blood sugar levels Find out more about diet and type 1 diabetes on the type 1 diabetes treatments page .
+
+Who is at risk for type 1 diabetes?
+
+If someone in your family has type 1 diabetes, there’s a slightly higher chance of you or your child developing the condition. But many people with type 1 diabetes don’t have any family with the condition.
+
+There is a type 1 diabetes test that’s been developed that helps doctors know who is at high risk of type 1 diabetes. Find out more about type 1 diabetes screening which is currently only available for children aged three to 13 in the UK as part of a research study .
+
+Is type 1 diabetes to do with genes or lifestyle?
+
+Type 1 diabetes is thought to develop due to a combination of genetics and other factors which are not yet fully understood. But we don’t know more than that. There is nothing to indicate that lifestyle plays a part.
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Share this Page

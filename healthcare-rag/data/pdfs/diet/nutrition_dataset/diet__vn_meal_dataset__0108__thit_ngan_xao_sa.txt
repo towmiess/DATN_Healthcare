@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Thịt ngan xào sả", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thịt ngan xào sả
+Loại món: Món xào | Ẩm thực: Vietnamese
+Từ khóa: ngan, thịt ngan, protein, ít béo
+
+Mô tả: Thịt ngan ít béo hơn vịt, giàu protein và sắt, hương vị đậm đà.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.8
+Calo: 175 kcal
+Chất đạm (protein): 22.5 g
+Chất béo tổng: 7.5 g (bão hòa: 2.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 3.5 g (chất xơ: 1.2 g, đường: 1.0 g, đường bổ sung: 0.0 g)
+Cholesterol: 78 mg | Natri: 362 mg
+Kali: 468 mg | Phốt pho: 215 mg | Magie: 38 mg
+Canxi: 18 mg | Sắt: 2.8 mg | Vitamin D: 0.5 mcg | Omega-3: 0.4 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Protein và sắt tốt biến chứng thần kinh
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+250g thịt ngan
+3 cây sả
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Thịt ngan thái miếng
+2. Phi sả tỏi thơm
+3. Xào thịt vàng đều
+4. Nêm gia vị

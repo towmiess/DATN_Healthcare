@@ -1,0 +1,59 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/dai-thao-duong-thai-ky-va-che-do-dinh-duong-cho-dai-thao-duong-thai-ky-vi",
+  "title": "ĐTĐ thai kỳ và dinh dưỡng",
+  "category": "complication/pregnancy",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:17:58.811237",
+  "source_name": "vinmec.com",
+  "document_title": "ĐTĐ thai kỳ và dinh dưỡng",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1511,
+  "verified_by_doctor": false
+}
+===CONTENT===
+ĐTĐ thai kỳ và dinh dưỡng
+
+-->
+
+Chuyên trang sức khoẻ
+Trung tâm sức khoẻ phụ nữ
+
+Đái tháo đường thai kỳ và chế độ dinh dưỡng cho đái tháo đường thai kỳ
+
+☰
+Mục lục
+
+Bài viết được viết bởi ThS.BS Nguyễn Như Thu Trúc - Bác sĩ Sản phụ khoa, Khoa Sản phụ khoa - Bệnh viện Đa khoa Quốc tế Vinmec Nha Trang
+
+Đái tháo đường (ĐTĐ) trong thai kỳ là gì? Là tình trạng rối loạn chuyển hóa đường trong cơ thể lúc mang thai. Nó thường được phát hiện sớm nhất từ tháng thứ 4 trong thai kỳ và thường khỏi sau sinh 6 tháng.
+1. Yếu tố nguyên nhân gây đái tháo đường thai kỳ
+Tuổi mẹ >=35 Mẹ thuộc nhóm dân tộc nguy cơ cao (Aboriginal, Hispanic, Châu Á và Châu Phi) Mẹ bị béo phì (BMI>=25kg/m2) Mẹ từng sinh con to >= 4kg Mẹ điều trị thuốc corticosteroid Mẹ được chẩn đoán tiền đái tháo đường trước đó Mẹ bị đái tháo đường thai kỳ những lần mang thai trước Có cha mẹ, anh chị em ruột mắc đái tháo đường tuýp 2 Mẹ bị hội chứng buồng trứng đa nang
+
+2. Phát hiện đái tháo đường trong thai kỳ bằng cách nào?
+Nghiệm pháp dung nạp Glucose đường uống được khuyến cáo thực hiện thường quy ở các thai phụ lúc tuổi thai 24-28 tuần; sớm hơn lúc 16 tuần ở các thai phụ có nguy cơ cao như tiền sử sinh con trên 4kg, mẹ béo phì, mẹ có đái tháo đường ở lần mang thai trước.
+3. Chẩn đoán dựa trên chỉ số như thế nào?
+Chẩn đoán dựa trên lượng glucose lúc đói ( >5,1 mmol/L), 1 giờ sau khi uống glucose ( >10 mmol/L) và 2 giờ sau khi uống glucose (> 8,5 mmol/L). Nếu glucose máu lúc đói > 7,0mmol/L thì thai phụ bị đái tháo đường lâm sàng. Đồng thời nếu một hoặc nhiều hơn các thông số ở bảng 2 lớn hơn giá trị nêu trên là đái tháo đường thai kỳ. Ở thai phụ bình thường, cả 3 thông số đều nhỏ hơn các giá trị nêu trên.
+
+4. Ảnh hưởng đái tháo đường trong thai kỳ
+Đối với mẹ: Dễ bị đái tháo đường mãn tính sau khi sinh xong Nhiễm trùng vết khâu, vết khâu/ mổ lâu lành, viêm thận, viêm bể thận , băng huyết sau sinh Nếu không điều trị và kiểm soát đường máu tốt, đái tháo đường thai kỳ cũng có những biến chứng như bệnh đái tháo đường: Bệnh mạch vành dẫn đến nhồi máu cơ tim và đột quỵ, suy thận , giảm thị lực, hôn mê do đường huyết quá cao ... Đối với thai nhi: Sảy thai, thai lưu hoặc thai đột tử trong bụng mẹ Dị dạng thai, dị tật bẩm sinh về thần kinh, cơ ... Trẻ sinh ra với cân nặng lớn dễ bị sang chấn như gãy xương , trật khớp ... Hạ đường huyết , suy hô hấp , hạ canxi ngay sau sinh Nguy cơ cao bị đái tháo đường do di truyền
+
+5. Một số lời khuyên dành cho thai phụ bị tiểu đường thai kỳ
+Đái tháo đường thai kỳ có thể được điều chỉnh bằng chế độ ăn. Một số lời khuyên sau đây dành cho thai phụ có đái tháo đường thai kỳ hoặc rối loạn đường huyết :
+5.1 Thực phẩm thai phụ nên ăn
+Nên ăn nhiều bữa trong ngày, mỗi bữa ăn không ăn quá no, để không làm tăng đường huyết quá nhiều sau khi ăn và hạ đường huyết quá nhanh lúc xa bữa ăn. Ăn 3 bữa chính kèm 1-2 bữa phụ. Nên ăn thịt nạc, cá nạc, đậu hũ, sữa chua, sữa không béo, sữa không đường. Nên ăn thực phẩm ít gây tăng đường huyết như: gạo lức, đậu đỗ, rau củ (rau cải, cà chua, cà tím, cà rốt...), trái cây ít ngọt (bưởi, đào, táo, cam, lê, xoài...). Ưu tiên chế biến thức ăn bằng hấp, luộc.
+
+5.2 Thực phẩm thai phụ không nên ăn
+Giảm ăn các thực phẩm gây tăng đường huyết như: bánh kẹo, trái cây ngọt (mít, sầu riêng..), kem, chè ... Giảm ăn mặn và thực phẩm chế biến sẵn chứa nhiều muối để phòng ngừa tăng huyết áp : đồ ăn nhanh, đồ khô, thịt nguội, các loại mắm, mì gói, đồ hộp ... Giảm ăn các thực phẩm nhiều chất béo gây tăng mỡ máu như: da, lòng đỏ trứng, phủ tạng động vật, đồ ăn chiên xào. Giảm uống rượu bia, nước ngọt, cà phê, nước chè, nước ép trái cây ngọt. Không hút thuốc lá. Không bỏ bữa : Bỏ bữa ăn, cơ thể sẽ không tiếp thu đường để chuyển hóa thành năng lượng cho cơ thể. Mà dùng lượng đường có sẵn trong máu, gây hạ đường huyết, mệt mỏi. Bỏ bữa ăn còn làm gia tăng tình trạng tăng đường huyết đột ngột sau khi nạp một lượng thực phẩm sau đó.
+5.3 Một số gợi ý bữa ăn có thể tham khảo
+Bữa sáng: Phở bò, miến gà, bún cá, khoai lang, bắp luộc, cháo thịt heo, ngũ cốc nguyên hạt, bánh mỳ nâu + trứng. Bữa trưa và tối: cơm gạo lức, canh bí thịt heo, canh củ quả, canh rau, Thịt kho trứng, đậu hũ dồn thịt, gà hầm, các loại cá hấp,... Bữa phụ và tráng miệng: bột yến mạch + sữa không đường, các loại hạt, đậu, sữa chua, hạt điều, bánh quy hạt chia, salad, trái cây ít đường (lê, thanh long ruột đỏ, bơ, kiwi, ổi, táo, dâu tây ...)
+
+5.4 Vận động thường xuyên sẽ hỗ trợ ổn định đường huyết
+Kết hợp thực đơn ăn uống hàng ngày cho bà bầu tiểu đường với vận động thường xuyên mỗi ngày giúp kiểm soát tốt lượng đường huyết trong máu, kiểm soát cân nặng, và giúp thai phụ chuẩn bị tốt cho cuộc sinh nở sắp tới dễ dàng, khỏe mạnh cho mẹ và con. Bà bầu tiểu đường nên tham khảo ý kiến bác sĩ, cơ thể mình phù hợp với loại vận động nào: Đi bộ: Tốt cho hệ tim mạch, tử cung co bóp nhanh và dễ dàng hơn. Đốt cháy calo, kiểm soát trọng lượng tốt, giúp cơ thể khỏe mạnh, giảm nguy cơ các biến chứng tiểu đường thai kỳ như tiền sản giật,... Bơi lội: Giúp tiêu hao năng lượng thừa, giúp phòng tránh tiền sản giật và kiểm soát tốt bệnh tiểu đường. Người mẹ bầu bơi lội còn giúp giảm đau đầu, hệ thần kinh của bé phát triển khỏe mạnh. Yoga: Tập yoga giúp cơ thể dẻo dai, kiểm soát cân nặng, tập thở đều. Khiêu vũ: Giúp bà bầu có tinh thần vui vẻ và thoải mái. Hạn chế nguy cơ bệnh tiểu đường cho thai phụ.
+
+Tiêm INSULIN nếu cần Khi chế độ dinh dưỡng và hoạt động thể lực không đủ điều chỉnh nồng độ đường máu thì bác sĩ sẽ khuyến cáo bạn tiêm Insulin để điều trị trong suốt thai kỳ. Insulin sẽ làm hạ đường máu và giúp đảm bảo sức khỏe tốt cho thai của bạn. Trong quá trình điều trị bạn sẽ được tư vấn và hỗ trợ bạn suốt thời gian mang thai bởi đội ngũ của chúng tôi gồm bác sĩ và điều dưỡng. Tuy nhiên người chăm sóc sức khỏe bạn tốt nhất chính là bản thân của bạn. Bạn cần nhận thức được đúng và đầy đủ tầm quan trọng của bệnh lý đái tháo đường thai kỳ , đồng thời tuân thủ tốt chế độ điều trị của bạn. Lưu ý: Sau khi sinh, việc tầm soát nguy cơ đái tháo đường tuýp 2 cho bạn rất quan trọng: Bạn cần phải đi khám bác sĩ Sau khi sinh 6 tuần đến 6 tháng Trước khi mang thai tiếp theo Mỗi 3 năm hoặc gần hơn tùy thuộc yếu tố nguy cơ Hãy xây dựng thực đơn hàng ngày cho bà bầu tiểu đường một cách cẩn trọng, đầy đủ dinh dưỡng cho cả bà bầu và thai nhi mà vẫn kiểm soát tốt bệnh tiểu đường. Khi kiểm soát tốt được bệnh tiểu đường thai kỳ thì không còn lo lắng những biến chứng có thể ảnh hưởng đến sức khỏe mẹ và bé. Chương trình Thai sản trọn gói tại Bệnh viện Đa khoa Quốc tế Vinmec giúp khách hàng thực hiện đầy đủ các mốc khám thai và các xét nghiệm cần thiết trong quá trình mang bầu, bao gồm xét nghiệm tầm soát tiểu đường thai kỳ. Khách hàng đăng ký Thai sản trọn gói được chăm sóc, kiểm tra sức khỏe mẹ và bé trước khi sinh - trong khi sinh và sau khi sinh một cách đầy đủ, tận tâm. Xem thêm : Hướng dẫn chẩn đoán đái tháo đường thai kỳ
+
+Chóng mặt, choáng váng khi mang thai có nguy hiểm?

@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Trứng luộc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trứng luộc
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: sữa chua không đường, bữa phụ, ít calo, GI thấp
+
+Mô tả: Trứng luộc bữa phụ lành mạnh (biến thể 71) là món nướng kết hợp cải cúc và cải cúc, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 95 kcal
+Chất đạm (protein): 5.2 g
+Chất béo tổng: 8.9 g (bão hòa: 1.9 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.3 g (chất xơ: 3.5 g, đường: 5.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 125 mg | Natri: 557 mg
+Kali: 543 mg | Phốt pho: 123 mg | Magie: 72 mg
+Canxi: 147 mg | Sắt: 0.5 mg | Vitamin D: 1.5 mcg | Omega-3: 1.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Bữa phụ/Snack; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+1 phần sữa chua không đường (~80-100g)
+
+--- Cách chế biến ---
+1. Chuẩn bị sữa chua không đường theo khẩu phần khuyến nghị
+2. Dùng làm bữa phụ giữa các bữa chính
+3. Không thêm đường hoặc muối

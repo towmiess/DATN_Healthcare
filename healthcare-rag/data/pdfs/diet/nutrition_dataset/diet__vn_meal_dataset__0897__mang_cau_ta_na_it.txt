@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Mãng cầu ta (na) ít", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Mãng cầu ta (na) ít
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: mãng cầu ta, na, GI trung bình, kiểm soát lượng
+
+Mô tả: Na ngọt đậm nên cần kiểm soát lượng, dùng 1/4 quả thay vì cả quả.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 7.0
+Calo: 71 kcal
+Chất đạm (protein): 1.6 g
+Chất béo tổng: 0.4 g (bão hòa: 0.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 16.8 g (chất xơ: 1.9 g, đường: 11.5 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 3 mg
+Kali: 247 mg | Phốt pho: 21 mg | Magie: 18 mg
+Canxi: 17 mg | Sắt: 0.3 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI trung bình cao, vị ngọt đậm - chỉ dùng 1/4 quả
+Khẩu phần khuyến nghị: 1/4 quả/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+1/4 quả na (~50g)
+
+--- Cách chế biến ---
+1. Bóc vỏ bỏ hạt
+2. Ăn lượng nhỏ

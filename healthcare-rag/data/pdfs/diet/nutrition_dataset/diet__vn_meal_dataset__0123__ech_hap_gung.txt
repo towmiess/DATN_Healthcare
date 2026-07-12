@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Ếch hấp gừng", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Ếch hấp gừng
+Loại món: Hấp/Luộc | Ẩm thực: Vietnamese
+Từ khóa: ếch, hấp, protein cao, ít béo
+
+Mô tả: Hấp là cách chế biến tốt nhất cho ếch, giữ protein và loại bỏ mỡ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.8
+Calo: 132 kcal
+Chất đạm (protein): 26.5 g
+Chất béo tổng: 2.8 g (bão hòa: 0.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 1.5 g (chất xơ: 0.5 g, đường: 0.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 75 mg | Natri: 265 mg
+Kali: 468 mg | Phốt pho: 225 mg | Magie: 38 mg
+Canxi: 28 mg | Sắt: 1.5 mg | Vitamin D: 0.5 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Protein cao ít béo nhất các loại thịt
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+300g đùi ếch
+30g gừng
+Hành lá
+Sả
+
+--- Cách chế biến ---
+1. Ếch làm sạch
+2. Ướp gừng sả
+3. Hấp 15 phút
+4. Rưới mắm nhạt

@@ -1,0 +1,74 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/php/data-research/publications-1.html",
+  "title": "Publications",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:52.956065",
+  "source_name": "cdc.gov",
+  "document_title": "Publications",
+  "extraction_method": "<main>",
+  "word_count": 2134,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Publications
+
+Publications
+
+May 15, 2024
+
+At a glance
+
+Access recent scientific articles on research and surveillance outcomes. DDT authors are shown in bold.
+
+Applied research and surveillance
+
+Malik FS, Sauder KA, Isom S, Reboussin BA, Dabelea D, Lawrence JM, Roberts A, Mayer-Davis EJ, Marcovina S, Dolan L, Igudesman D, Pihoker C; SEARCH for Diabetes in Youth Study. Trends in glycemic control among youth and young adults with diabetes: the SEARCH for Diabetes in Youth Study. Diabetes Care . 2022;45(2):285–294.
+Lawrence JM, Reynolds K, Saydah SH, Mottl A, Pihoker C, Dabelea D, Dolan L, Henkin L, Liese AD, Isom S, Divers J, Wagenknecht L; SEARCH for Diabetes in Youth Study Group. Demographic correlates of short-term mortality among youth and young adults with youth-onset diabetes diagnosed from 2002 to 2015: the SEARCH for Diabetes in Youth Study. Diabetes Care . 2021;44(12):2691–2698.
+Brady RP, Shah AS, Jensen ET, Stafford JM, D'Agostino RB Jr, Dolan LM, Knight L, Imperatore G , Turley CB, Liese AD, Urbina EM, Lawrence JM, Pihoker C, Marcovina S, Dabelea D. Glycemic control is associated with dyslipidemia over time in youth with type 2 diabetes: the SEARCH for Diabetes in Youth Study. Pediatr Diabetes . 2021;22(7):951–959.
+Barrett CE, Koyama AK , &Aacute;lvarez P, Chow W, Lundeen EA , Perrine CG, Pavkov ME, Rolka DB , Wiltz JL, Bull-Otterson L, Gray S, Boehmer TK, Gundlapalli AV, Siegel DA, Kompaniyets L, Goodman AB, Mahon BE, Tauxe RV, Remley K, Saydah S. Risk for newly diagnosed diabetes >30 days after SARS-CoV-2 infection among persons aged <18 years — United States, March 1, 2020–June 28, 2021 . MMWR Morb Mortal Wkly Report . 2022;71(2):59-65.
+Czeisler ME, Barrett CE , Siegel KR , Weaver MD, Czeisler CA, Rajaratnam SMW, Howard ME, Bullard KM . Health care access and use among adults with diabetes during the COVID-19 pandemic — United States, February–March 2021 . MMWR Morb Mortal Wkly Report. 2021;70(46):1597–1602.
+Lawrence JM, Divers J, Isom S, Saydah S , Imperatore G , Pihoker C, Marcovina SM, Mayer-Davis EJ, Hamman RF, Dolan L, Dabelea D, Pettitt DJ, Liese AD; SEARCH for Diabetes in Youth Study Group. Trends in prevalence of type 1 and type 2 diabetes in children and adolescents in the US, 2001–2017. JAMA . 2021;326(8):717–727.
+Hirsch AG, Nordberg CM, Chang A, Poulsen MN, Moon KA, Siegel KR, Rolka DB , Schwartz BS. Association of community socioeconomic deprivation with evidence of reduced kidney function at time of type 2 diabetes diagnosis. Social Science & Medicine — Population Health . 2021;15:100876.
+Shah AS, Isom S, Dabelea D, D'Agostino R Jr, Dolan LM, Wagenknecht L, Imperatore G, Saydah S , Liese AD, Lawrence JM, Pihoker C, Urbina EM; SEARCH for Diabetes in Youth Study Group. A cross sectional study to compare cardiac structure and diastolic function in adolescents and young adults with youth-onset type 1 and type 2 diabetes: The SEARCH for Diabetes in Youth Study. Cardiovasc Diabetol . 2021;20(1):136.
+Jensen ET, Stafford JM, Saydah S , D'Agostino RB Jr, Dolan LM, Lawrence JM, Marcovina S, Mayer-Davis EJ, Pihoker C, Rewers A, Dabelea D. Increase in prevalence of diabetic ketoacidosis at diagnosis among youth with type 1 diabetes: the SEARCH for Diabetes in Youth Study. Diabetes Care . 2021;44(7):1573–1578.
+Shapiro ALB, Dabelea D, Stafford JM, D'Agostino R Jr, Pihoker C, Liese AD, Shah AS, Bellatorre A, Lawrence JM, Henkin L, Saydah S , Wilkening G; SEARCH for Diabetes in Youth Study Group. Cognitive function in adolescents and young adults with youth-onset type 1 versus type 2 diabetes: The SEARCH for Diabetes in Youth Study. Diabetes Care . 2021;44(6):1273–1280.
+Westreich KD, Isom S, Divers J, D'Agostino R, Lawrence JM, Kanakatti Shankar R, Dolan LM, Imperatore G , Dabelea D, Mayer-Davis EJ, Mottl AK. Trajectories in estimated glomerular filtration rate in youth-onset type 1 and type 2 diabetes: The SEARCH for Diabetes in Youth Study. J Diabetes Complications . 2021;35(2):107768.
+Poulsen MN, Schwartz BS, Nordberg C, DeWalle J, Pollak J, Imperatore G, Mercado CI , Siegel KR , Hirsch AG. Association of greenness with blood pressure among individuals with type 2 diabetes across rural to urban community types in Pennsylvania, USA. Int J Environ Res Public Health . 2021;18(2):614.
+Schwartz BS, Pollak J, Poulsen MN, Bandeen-Roche K, Moon K, DeWalle J, Siegel K , Mercado C , Imperatore G , Hirsch AG. Association of community types and features in a case-control analysis of new onset type 2 diabetes across a diverse geography in Pennsylvania. BMJ Open . 2021;11(1):e043528.
+Lawrence JM, Slezak JM, Quesenberry C, Li X, Yu L, Rewers M, Alexander JG, Takhar HS, Sridhar S, Albright A, Rolka DB, Saydah S, Imperatore G , Ferrara A. Incidence and predictors of type 1 diabetes among younger adults aged 20-45 years: The Diabetes in Young Adults (DiYA) Study. Diabetes Res Clin Pract . 2021;171:108624.
+Casagrande SS, Lessem SE, Orchard TJ, Bullard KM, Geiss LS, Saydah SH , Menke A, Imperatore G , Rust KF, Cowie CC. Comparison of several survey-based algorithms to ascertain type 1 diabetes among US adults with self-reported diabetes. BMJ Open Diabetes Res Care . 2020;8(2):e001917.
+Roberts AJ, Taplin CE, Isom S, Divers J, Saydah S , Jensen ET, Mayer-Davis EJ, Reid LA, Liese AD, Dolan LM, Dabelea D, Lawrence JM, Pihoker C. Association between fear of hypoglycemia and physical activity in youth with type 1 diabetes: The SEARCH for diabetes in youth study. Pediatr Diabetes . 2020;21(7):1277–1284.
+Sauder KA, Stafford JM, The NS, Mayer-Davis EJ, Thomas J, Lawrence JM, Kim G, Siegel KR , Jensen ET, Shah AS, D'Agostino RB Jr, Dabelea D; SEARCH for Diabetes in Youth Study Group. Dietary strategies to manage diabetes and glycemic control in youth and young adults with youth-onset type 1 and type 2 diabetes: The SEARCH for diabetes in youth study. Pediatr Diabetes . 2020;21(7):1093–1101.
+Chen Y, Rolka D, Xie H, Saydah S. Imputed state-level prevalence of achieving goals to prevent complications of diabetes in adults with self-reported diabetes — United States, 2017–2018 . MMWR Morb Mortal Wkly Rep . 2020;69(45):1665–1670.
+Crume TL, Hamman RF, Isom S, Divers J, Mayer-Davis EJ, Liese AD, Saydah S , Lawrence JM, Pihoker C, Dabelea D; SEARCH for Diabetes in Youth Study Group. The accuracy of provider diagnosed diabetes type in youth compared to an etiologic criteria in the SEARCH for Diabetes in Youth Study. Pediatr Diabetes . 2020;21(8):1403–1411.
+Fishbein HA, Birch RJ, Mathew SM, Sawyer HL, Pulver G, Poling J, Kaelber D, Mardon R, Johnson MC, Pace W, Umbel KD, Zhang X, Siegel KR, Imperatore G, Shrestha S, Proia K, Cheng Y, McKeever Bullard K, Gregg EW, Rolka D, Pavkov ME . The Longitudinal Epidemiologic Assessment of Diabetes Risk (LEADR): unique 1.4 M patient electronic health record cohort. HealthCare . 2020;8(4):100458.
+Hirsch AG, Carson AP, Lee NL, McAlexander T, Mercado C, Siegel K , Black NC, Elbel B, Long DL, Lopez P, McClure LA, Poulsen MN, Schwartz BS, Thorpe LE. The Diabetes Location, Environmental Attributes, and Disparities Network: protocol for nested case control and cohort studies, rationale, and baseline characteristics. JMIR Res Protoc . 2020;9(10):e21377.
+Wells BJ, Lenoir KM, Wagenknecht LE, Mayer-Davis EJ, Lawrence JM, Dabelea D, Pihoker C, Saydah S , Casanova R, Turley C, Liese AD, Standiford D, Kahn MG, Hamman R, Divers J. Detection of diabetes status and type in youth using electronic health records: The SEARCH for Diabetes in Youth Study. Diabetes Care . 2020;43(10):2418–2425.
+Nooney JG, Kirkman MS, Bullard KM , White Z, Meadows K, Campione JR, Mardon R, Rivero G, Benoit SR , Pfaff E, Rolka D , Saydah S. Identifying optimal survey-based algorithms to distinguish diabetes type among adults with diabetes. J Clin Transl Endocrinol . 2020;21:100231.
+Divers J, Mayer-Davis EJ, Lawrence JM, Isom S, Dabelea D, Dolan L, Imperatore G , Marcovina S, Pettitt DJ, Pihoker C, Hamman RF, Saydah S , Wagenknecht LE. Trends in incidence of type 1 and type 2 diabetes among youths—selected counties and Indian reservations, United States, 2002–2015. MMWR Morb Mortal Wkly Rep . 2020;69(6):161–165.
+
+Health policy and health services
+
+Siegel KR , Gregg EW , Duru OK, Shi L, Mangione CM, Thornton PL, Clauser S, Ali MK. Time to start addressing (and not just describing) the social determinants of diabetes: results from the NEXT-D 2.0 network. BMJ Open Diabetes Res Care . 2021;9( Suppl 1 ):e002524.
+Garabedian LF, Zhang F, LeCates R, Wallace J, Ross-Degnan D, Wharam JF. Trends in high deductible health plan enrolment and spending among commercially insured members with and without chronic conditions: a Natural Experiment for Translation in Diabetes (NEXT-D2) Study. BMJ Open . 2021;11(9):e044198.
+Furmanchuk A, Liu M, Song X, Waitman LR, Meurer JR, Osinski K, Stoddard A, Chrischilles E, McClay JC, Cowell LG, Tachinardi U, Embi PJ, Mosa ASM, Mandhadi V, Shah RC, Garcia D, Angulo F, Patino A, Trick WE, Markossian TW, Rasmussen-Torvik LJ, Kho AN, Black BS. Effect of the Affordable Care Act on diabetes care at major health centers: newly detected diabetes and diabetes medication management. BMJ Open Diabetes Res Care . 2021;9(1):e002205.
+Ogilvie D, Adams J, Bauman A, Gregg EW , Panter J, Siegel KR , Wareham NJ, White M. Using natural experimental studies to guide public health action: turning the evidence-based medicine paradigm on its head. J Epidemiol Community Health . 2020;74(2):203–208.
+
+Effectiveness research
+
+Chao AM, Wadden TA, Clark JM, Hayden KM, Howard MJ, Johnson KC, Laferr&egrave;re B, McCaffery JM, Wing RR, Yanovski SZ, Wagenknecht LE; Look AHEAD Research Group. Changes in the prevalence of symptoms of depression, loneliness, and insomnia in U.S. older adults with type 2 diabetes during the COVID-19 pandemic: the Look AHEAD Study. Diabetes Care . 2022;45(1):74–82.
+Lee CG, Heckman-Stoddard B, Dabelea D, Gadde KM, Ehrmann D, Ford L, Prorok P, Boyko EJ, Pi-Sunyer X, Wallia A, Knowler WC, Crandall JP, Temprosa M; Diabetes Prevention Program Research Group. Effect of metformin and lifestyle interventions on mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. Diabetes Care . 2021;44(12):2775–2782.
+Gong Q, Zhang P , Wang J, Gregg EW, Cheng YJ, Li G, Bennett PH; Da Qing Diabetes Prevention Outcome Study Group. Efficacy of lifestyle intervention in adults with impaired glucose tolerance with and without impaired fasting plasma glucose: a post hoc analysis of Da Qing Diabetes Prevention Outcome Study. Diabetes Obes Metab . 2021;23(10):2385–2394.
+Look AHEAD Research Group, Wadden TA, Chao AM, Anderson H, Annis K, Atkinson K, Bolin P, Brantley P, Clark JM, Coday M, Dutton G, Foreyt JP, Gregg EW , Hazuda HP, Hill JO, Hubbard VS, Jakicic JM, Jeffery RW, Johnson KC, Kahn SE, Knowler WC, Korytkowski M, Lewis CE, Laferr&egrave;re B, Middelbeek RJ, Munshi MN, Nathan DM, Neiberg RH, Pilla SJ, Peters A, Pi-Sunyer X, Rejeski JW, Redmon B, Stewart T, Vaughan E, Wagenknecht LE, Walkup MP, Wing RR, Wyatt H, Yanovski SZ, Zhang P . Changes in mood and health-related quality of life in Look AHEAD 6 years after termination of the lifestyle intervention. Obesity (Silver Spring). 2021;29(8):1294–1308.
+Chen Y, Zhang P , Wang J, Gong Q, An Y, Qian X, Zhang B, Li H, Gregg EW , Bennett PH, Li G. Associations of progression to diabetes and regression to normal glucose tolerance with development of cardiovascular and microvascular disease among people with impaired glucose tolerance: a secondary analysis of the 30 year Da Qing Diabetes Prevention Outcome Study. Diabetologia . 2021;64(6):1279–1287.
+Neuwahl SJ, Zhang P , Chen H, Shao H, Laxy M , Anderson AM, Craven TE, Hoerger TJ; Look AHEAD Research Group. Patient health utility equations for a type 2 diabetes model. Diabetes Care . 2021;44(2):381–389.
+Zhang P , Atkinson KM, Bray GA, Chen H, Clark JM, Coday M, Dutton GR, Egan C, Espeland MA, Evans M, Foreyt JP, Greenway FL, Gregg EW , Hazuda HP, Hill JO, Horton ES, Hubbard VS, Huckfeldt PJ, Jackson SD, Jakicic JM, Jeffery RW, Johnson KC, Kahn SE, Killean T, Knowler WC, Korytkowski M, Lewis CE, Maruthur NM, Michaels S, Montez MG, Nathan DM, Patricio J, Peters A, Pi-Sunyer X, Pownall H, Redmon B, Rushing JT, Steinburg H, Wadden TA, Wing RR, Wyatt H, Yanovski SZ; Look AHEAD Research Group. Within-trial cost-effectiveness of a structured lifestyle intervention in adults with overweight/obesity and type 2 diabetes: results from the Action for Health in Diabetes (Look AHEAD) Study. Diabetes Care . 2021;44(1):67–74.
+Look AHEAD Research Group, Chao AM, Wadden TA, Berkowitz RI, Blackburn G, Bolin P, Clark JM, Coday M, Curtis JM, Delahanty LM, Dutton GR, Evans M, Ewing LJ, Foreyt JP, Gay LJ, Gregg EW , Hazuda HP, Hill JO, Horton ES, Houston DK, Jakicic JM, Jeffery RW, Johnson KC, Kahn SE, Knowler WC, Kure A, Michalski KL, Montez MG, Neiberg RH, Patricio J, Peters A, Pi-Sunyer X, Pownall H, Reboussin D, Redmon B, Rejeski WJ, Steinburg H, Walker M, Williamson DA, Wing RR, Wyatt H, Yanovski SZ, Zhang P . Weight change 2 years after termination of the intensive lifestyle intervention in the Look AHEAD Study. Obesity (Silver Spring). 2020;28(5):893-901.
+
+May 15, 2024
+
+Syndicate

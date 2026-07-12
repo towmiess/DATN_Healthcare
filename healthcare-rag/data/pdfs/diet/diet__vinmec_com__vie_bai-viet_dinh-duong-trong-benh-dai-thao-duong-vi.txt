@@ -1,0 +1,40 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/dinh-duong-trong-benh-dai-thao-duong-vi",
+  "title": "Dinh dưỡng trong bệnh ĐTĐ",
+  "category": "diet",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:09:29.119605",
+  "source_name": "vinmec.com",
+  "document_title": "Dinh dưỡng trong bệnh ĐTĐ",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 848,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Dinh dưỡng trong bệnh ĐTĐ
+
+-->
+
+Chuyên trang sức khoẻ
+Dinh dưỡng
+
+Dinh dưỡng trong bệnh đái tháo đường
+
+☰
+Mục lục
+
+Bài viết được viết bởi TS.BS Phan Nguyễn Thanh Bình - Trưởng khoa Dinh dưỡng - Tiết chế - Khoa Nhi - Sơ sinh, Bệnh viện Đa khoa Quốc tế Vinmec Central Park
+
+Bệnh đái tháo đường là một bệnh rối loạn chuyển hóa carbohydrate làm giảm dung nạp đối với glucose đưa đến tăng đường huyết mạn tính. Chế độ ăn là vấn đề quan trọng nhất trong điều trị đái tháo đường đường với mục đích nhằm đảm bảo cung cấp đủ dinh dưỡng, cân bằng đủ cả về số lượng và chất lượng để có thể kiểm soát đường huyết, duy trì cân nặng lý tưởng và ngăn ngừa diễn tiến và biến chứng.
+Nguyên tắc cơ bản về chế độ ăn của người bệnh đái tháo đường là hạn chế chất bột đường để tránh tăng đường huyết sau khi ăn và hạn chế vừa phải chất béo nhất là các axit béo bão hoà để tránh rối loạn chuyển hóa , phân bố bữa ăn hợp lý - điều độ về thời gian và ổn định lượng đường bột trong các bữa chính và phụ.
+1. Cách phân chia bữa ăn
+Nên chia bữa ăn đều đặn gồm 3 bữa chính hoặc ngoài 3 bữa chính có thêm 1 – 2 bữa phụ (bữa phụ nên chọn các loại rau quả,...). Năng lượng các bữa có thể được phân bố như sau: sáng 20-25% tổng năng lượng, trưa 30-35 %, chiều 25-30%, bữa phụ 10% Giờ giấc ăn phải ổn định, phù hợp với thời gian dùng thuốc. Nếu đang dùng insulin , nên có bữa phụ trước khi đi ngủ để tránh cơn hạ đường huyết ban đêm. Số lượng carbohydrate trong các bữa ăn nên ổn định.
+
+2. Lựa chọn thực phẩm
+2.1 Thực phẩm nên dùng Thực phẩm giàu carbohydrate phức như cơm, gạo, bún, mì, phở, khoai, bắp, bánh mì, ngũ cốc và sản phẩm từ ngũ cốc. Nên chọn: gạo lứt, bánh mì đen hoặc ngũ cốc nguyên cám thay cho gạo trắng, bún, phở, bánh đúc... Các loại hạt đậu đỗ, đậu tương, đậu nành, đậu phụ,... Các loại thực phẩm giàu đạm nguồn gốc động vật ít béo như thịt nạc, cá nạc, tôm,... Dầu thực vật (dầu đậu nành, dầu vừng,..) Ăn đa dạng các loại rau, các loại quả có hàm lượng đường ít, trung bình: mận, thanh long, bưởi, ổi, dưa chuột, củ đậu, đu đủ chín,... Chọn sữa có chỉ số đường huyết thấp : sữa tươi không đường, sữa đậu nành không đường, các loại sữa cho người bệnh đái tháo đường... 2.2 Thực phẩm hạn chế dùng Các loại đường đơn: đường cát, đường phèn, đường thốt nốt, đường mía, mật ong, bánh kẹo, nước ngọt, nước trái cây ép,... Chất tạo ngọt. Các loại quả có hàm lượng đường cao: táo, nhãn, vải, mít, chuối, hồng xiêm,... Hạn chế ăn mặn : không nêm mặn, không chấm thêm nước mắm, nước tương hoặc muối khi ăn. Thực phẩm chứa nhiều chất béo bão hòa , cholesterol: mỡ động vật, thịt đỏ, óc, tim, gan, cật, da...), thức ăn chiên, xào, rán, đồ ngọt, bơ, sữa toàn phần,... 2.3 Thực phẩm không nên dùng Các loại quả sấy khô, các loại bánh kẹo ngọt chứa nhiều đường, mứt các loại. Rượu, bia, nước ngọt có đường... Thực phẩm chế biến sẵn (đồ hộp, lạp xưởng, xúc xích, giò chả, tương...), các loại hải sản khô (cá khô, tôm khô, mực khô...), thực phẩm muối chua,.. 2.4 Chế biến thực phẩm Hạn chế món rán, các loại mỡ động vật, thịt gà ăn nên bỏ da Các loại khoai củ: không nên chế biến dưới dạng nướng Chế biến thực phẩm dưới dạng luộc hầm Hạn chế sử dụng các loại nước ép, xay sinh tố nên ăn cả múi, miếng để có chất xơ
+
+Ngoài việc xây dựng chế độ ăn khoa học, việc kiểm tra sức khỏe định kỳ giúp phát hiện sớm bệnh tật, từ đó có kế hoạch điều trị đạt kết quả tối ưu. Hiện nay, Bệnh viện Đa khoa Quốc tế Vinmec có các gói Khám sức khỏe tổng quát phù hợp với từng độ tuổi, giới tính và nhu cầu riêng của quý khách hàng với chính sách giá hợp lý, bao gồm: Gói khám sức khỏe tổng quát kim cương Gói khám sức khỏe tổng quát Vip Gói khám sức khỏe tổng quát đặc biệt Gói khám sức khỏe tổng quát toàn diện Gói khám sức khỏe tổng quát tiêu chuẩn Kết quả khám của người bệnh sẽ được trả về tận nhà. Sau khi nhận được kết quả khám sức khỏe tổng quát, nếu phát hiện các bệnh lý cần khám và điều trị chuyên sâu, Quý khách có thể sử dụng dịch vụ từ các chuyên khoa khác ngay tại Bệnh viện với chất lượng điều trị và dịch vụ khách hàng vượt trội.

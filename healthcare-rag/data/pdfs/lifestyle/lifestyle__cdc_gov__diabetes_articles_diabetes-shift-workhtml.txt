@@ -1,0 +1,96 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/articles/diabetes-shift-work.html",
+  "title": "Diabetes and Shift Work - CDC",
+  "category": "lifestyle",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:10:29.044628",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes and Shift Work - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1012,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes and Shift Work - CDC
+
+May 15, 2024
+
+Diabetes and Shift Work
+
+Key points
+
+People who do shift work (night shifts, rotating shifts, or irregular schedules) have added challenges in managing diabetes.
+
+Shift workers also have a higher risk of developing type 2 diabetes.
+
+Find out how to navigate shift work challenges to still manage diabetes.
+
+About diabetes and shift work
+When it comes to managing diabetes, many people find it helpful to get into a daily routine. But what if your work schedule prevents you from keeping a regular routine?
+Jobs in fields like health care, service and hospitality, firefighting, law enforcement, security, and truck driving require evening or overnight shift work. People who work night, rotating, or irregular schedules have unique challenges managing a healthy lifestyle with diabetes.
+In 2019, the US Bureau of Labor Statistics reported that about 16% of the workforce had non-daytime work schedules. Benefits to shift work can include better pay and fewer work days per week. But research shows that people who work night and rotating shifts may have a higher risk of developing type 2 diabetes.
+
+Shift work and sleep patterns
+Your body naturally has a circadian rhythm, which is an internal clock that helps control your sleep and digestion.
+Circadian rhythms are usually linked to daylight and nighttime, which helps you regulate your waking and sleeping hours. When you wake up in the morning, your body releases cortisol, a hormone that makes you feel alert and energized. In the evening, your body releases melatonin, which makes you sleepy. Your circadian rhythm also helps you release insulin, a hormone that balances your blood sugar levels.
+
+When overnight or rotating shifts disrupt your circadian rhythm, these hormones can also be disrupted. Unbalanced cortisol and insulin levels can increase your blood sugar and cause insulin resistance .
+Healthy sleep is about more than just following your circadian rhythm. In addition to the timing and quality of your sleep, it also matters how much sleep you get. If you get less than 7 hours of sleep a day, you have an increased risk of type 2 diabetes.
+
+Shift work and eating patterns
+Overnight and rotating shifts can also affect your eating habits and appetite. Shift workers may sleep through daytime meals, work through dinner or breakfast, or eat large meals at irregular times.
+Skipping meals or eating very large meals can cause both low and high blood sugar. Both can be harmful in the short and long term. When you have diabetes, mealtimes should be as predictable as possible to keep your blood sugar levels in their target range.
+
+Shift work and physical activity
+Shift work can make it hard to get regular physical activity. It may be difficult to find time to be active and also make sure you're getting enough sleep between shifts.
+Some jobs may also require you to be on your feet and moving around throughout your shift. Be sure to have healthy snacks handy for physically demanding work. Monitor your blood sugar regularly to make sure it doesn't drop too low. Always have a fast-acting sugar source available in case you need to treat low blood sugar .
+
+Shift work and health care workers
+Doctors, nurses, emergency responders, and others in health care commonly work overnight and irregular shifts. While taking care of others, health care workers sometimes forget to pause and take care of themselves. If you're a health care worker with diabetes, make sure to take time to self-manage your diabetes.
+
+Lifestyle tips for shift workers
+Eating Habits
+
+Try to eat breakfast, lunch, and dinner at your normal times as much as possible. Avoid large meals in the middle of the night to reduce the chance of a spike in your blood sugar.
+
+Grabbing convenience foods or vending machine snacks can be tempting when working overnight. Prepping your food ahead is a great way to set yourself up for success and have healthy options at any hour.
+
+Sleep Schedule
+
+Try keeping track of your sleep to help you understand your patterns and how many hours you're getting. Take short naps when you can if you're not getting enough hours of sleep.
+
+Some shift workers have trouble falling asleep or staying asleep. You can set up your sleeping area with blackout curtains and a sound machine to create a comfortable environment.
+
+Avoid caffeine toward the end of your shift, so you'll be able to fall asleep and stay asleep.
+
+Physical Activity
+
+Make a physical activity plan that allows you to work around your shifts and sleep. If you're unable to be active on workdays, focus on being active on your days off.
+
+Some people find that physical activity helps them sleep, while others find that it keeps them awake. Pay attention to how physical activity affects you so it won't interrupt your sleep.
+
+Blood Sugar Monitoring
+
+Monitoring your blood sugar helps you identify patterns, and timing matters. For people who work day shifts, blood sugar taken first thing in the morning will be a fasting measurement (8 or more hours since your last meal). Keep in mind this isn't always the case if you work overnight.
+
+Make sure you're checking your blood sugar consistently throughout your shift, especially if your job requires you to move around.
+
+Medication Schedule
+
+Taking all medicines consistently is crucial to diabetes self-management, even if you're working when it's time for a dose. Plan ahead if you need to take medicines with food during a shift.
+
+Consider setting a reminder, like an alarm on your phone, so you don't miss any doses.
+
+Talk with your doctor about your medication schedule to figure out a realistic plan that will work for you.
+
+Stress and Fatigue
+
+Working overnight or rotating shifts can take a toll physically, emotionally, and socially. Some shift workers may feel added stress or fatigue from their unique work hours.
+
+It can be more difficult to feel socially connected if you work different hours from your family and friends. Find time when you can for hobbies, self-care, and social time with loved ones to help manage your stress.
+
+May 14, 2024

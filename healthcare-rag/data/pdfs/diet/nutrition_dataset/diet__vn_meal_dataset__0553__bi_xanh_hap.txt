@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "bí xanh hấp", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: bí xanh hấp
+Loại món: Rau củ | Ẩm thực: Vietnamese
+Từ khóa: bí xanh, rau củ, ít calo, chất xơ
+
+Mô tả: bí xanh hấp là món hấp kết hợp bí xanh và bí xanh, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 41 kcal
+Chất đạm (protein): 4.7 g
+Chất béo tổng: 3.3 g (bão hòa: 0.7 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 9.8 g (chất xơ: 3.4 g, đường: 4.0 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 503 mg
+Kali: 463 mg | Phốt pho: 120 mg | Magie: 75 mg
+Canxi: 67 mg | Sắt: 0.8 mg | Vitamin D: 1.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Rau củ; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+300g bí xanh
+Tỏi hoặc gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế bí xanh sạch
+2. Hấp đến chín vừa
+3. Nêm ít gia vị, tránh dùng nhiều dầu mỡ

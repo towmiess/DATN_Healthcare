@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Bánh mì đen hạt lanh", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Bánh mì đen hạt lanh
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: bánh mì đen, hạt lanh, omega-3 ALA, GI thấp
+
+Mô tả: Bánh mì đen hạt lanh GI thấp hơn bánh mì trắng, hạt lanh giàu omega-3 ALA và lignin.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 4.2
+Calo: 145 kcal
+Chất đạm (protein): 5.5 g
+Chất béo tổng: 4.5 g (bão hòa: 0.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 22.5 g (chất xơ: 5.5 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 195 mg
+Kali: 248 mg | Phốt pho: 155 mg | Magie: 38 mg
+Canxi: 42 mg | Sắt: 2.8 mg | Vitamin D: 0.2 mcg | Omega-3: 1.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI thấp + omega-3 ALA + chất xơ cao
+Khẩu phần khuyến nghị: 2 lát mỏng/bữa sáng
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+2 lát bánh mì đen hạt lanh
+200g rau sống
+Cá hồi hun khói hoặc trứng
+
+--- Cách chế biến ---
+1. Dùng nguyên lát
+2. Ăn kèm rau sống và protein

@@ -1,0 +1,40 @@
+===METADATA===
+{"title": "Bún bò Huế ít mắm ruốc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Bún bò Huế ít mắm ruốc
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: bún bò, sả, ớt, protein
+
+Mô tả: Bún bò Huế giảm mắm ruốc và muối, tăng thịt nạc và rau xanh.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 8.8
+Calo: 298 kcal
+Chất đạm (protein): 22.5 g
+Chất béo tổng: 8.5 g (bão hòa: 2.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 35.5 g (chất xơ: 3.5 g, đường: 3.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 65 mg | Natri: 445 mg
+Kali: 455 mg | Phốt pho: 225 mg | Magie: 45 mg
+Canxi: 52 mg | Sắt: 3.2 mg | Vitamin D: 0.5 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít mắm ruốc giảm natri; TĐ thai kỳ hạn chế
+Khẩu phần khuyến nghị: 1 tô nhỏ/bữa
+Chống chỉ định / thận trọng: TĐ thai kỳ và tim mạch kiểm soát muối
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: khó | Chi phí: trung bình
+
+--- Nguyên liệu ---
+80g bún
+100g thịt bò
+50g giò heo
+Sả ớt
+Nước dùng nhạt
+
+--- Cách chế biến ---
+1. Nấu nước dùng xương 3 giờ
+2. Phi sả ớt vào nước dùng
+3. Ít mắm ruốc
+4. Cho thịt vào
+5. Chan vào bún ăn kèm rau

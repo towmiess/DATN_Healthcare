@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Bún riêu chay đậu hũ cà chua", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Bún riêu chay đậu hũ cà chua
+Loại món: Chay/Đậu hũ | Ẩm thực: Vietnamese
+Từ khóa: bún riêu chay, đậu hũ, cà chua, lycopene
+
+Mô tả: Phiên bản chay của bún riêu, lycopene từ cà chua, đậu hũ thay cua.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 7.5
+Calo: 235 kcal
+Chất đạm (protein): 12.5 g
+Chất béo tổng: 6.5 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 32.5 g (chất xơ: 4.5 g, đường: 4.5 g, đường bổ sung: 0.7 g)
+Cholesterol: 0 mg | Natri: 358 mg
+Kali: 425 mg | Phốt pho: 185 mg | Magie: 42 mg
+Canxi: 135 mg | Sắt: 2.0 mg | Vitamin D: 0.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Hoàn toàn chay, lycopene bảo vệ mạch máu
+Khẩu phần khuyến nghị: ['bữa trưa', 'bữa tối']
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: thấp
+
+--- Nguyên liệu ---
+80g bún
+150g đậu hũ
+3 cà chua
+
+--- Cách chế biến ---
+1. Nấu nước dùng cà chua
+2. Thêm đậu hũ chiên
+3. Chan vào bún

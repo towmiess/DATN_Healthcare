@@ -1,0 +1,63 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/communication-resources/3-steps-healthy-habits.html",
+  "title": "3 Steps to Building Healthy Habits - CDC",
+  "category": "lifestyle",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:10:17.822897",
+  "source_name": "cdc.gov",
+  "document_title": "3 Steps to Building Healthy Habits - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 127,
+  "verified_by_doctor": false
+}
+===CONTENT===
+3 Steps to Building Healthy Habits - CDC
+
+May 15, 2024
+
+3 Steps to Building Healthy Habits: Motion Graphic
+
+Key points
+
+Graphic text: 3 steps to building healthy habits.
+
+Social media graphic and animation are available below.
+
+Format: PNG Dimensions: 684 x 641 pixels Language: English (US) Size: 694 KB Length:
+
+View
+
+Download
+View Larger
+
+Additional formats
+
+3_steps_healthy-habits-ENG
+Aug. 1, 2023
+Download
+Download
+
+Animation
+
+Transcript
+Low Resolution Video
+
+3 steps to building healthy habits
+STEP 1: make a plan
+so you know where you're going and how you'll get there.
+STEP 2: be accountable
+tracking your progress makes you more likely to succeed.
+STEP 3: recognize your success
+with healthy rewards.
+Visit cdc.gov/diabetes to learn more.
+Find out more:
+
+Fitting a New Habit Into Your Life
+
+Change Negative Thoughts to Get Motivated
+
+May 15, 2024

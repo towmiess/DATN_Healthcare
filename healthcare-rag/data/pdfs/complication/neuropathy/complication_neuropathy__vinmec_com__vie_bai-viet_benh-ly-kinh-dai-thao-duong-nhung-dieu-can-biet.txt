@@ -1,0 +1,45 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/benh-ly-kinh-dai-thao-duong-nhung-dieu-can-biet-vi",
+  "title": "Bệnh lý kinh ĐTĐ",
+  "category": "complication/neuropathy",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:17:04.392999",
+  "source_name": "vinmec.com",
+  "document_title": "Bệnh lý kinh ĐTĐ",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1014,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Bệnh lý kinh ĐTĐ
+
+-->
+
+Chuyên trang sức khoẻ
+Sức khoẻ tổng quát
+
+Bệnh lý thần kinh đái tháo đường: Những điều cần biết
+
+☰
+Mục lục
+
+Bệnh thần kinh đái tháo đường là người mắc đái tháo đường tuýp 1 hoặc đái tháo đường tuýp 2 có sự tổn thương hệ thần kinh, xảy ra do glucose tăng cao trong máu.
+1. Tìm hiểu chung về bệnh thần kinh đái tháo đường
+Bệnh lý thần kinh đái tháo đường được đặc trưng bởi sự tổn thương của dây thần kinh, xảy ra do glucose tăng cao trong máu. Khi đường huyết tăng cao, có thể làm tổn thương các dây thần kinh ở toàn thân, tuy nhiên dây thần kinh chi trên và chi dưới bị ảnh hưởng rõ rệt nhất. Bệnh thần kinh đái tháo đường được chia thành hai nhóm chính đó là bệnh thần kinh ngoại biên và bệnh thần kinh tự chủ. Bệnh lý thần kinh ngoại biên: ảnh hưởng đến dây thần kinh cảm giác như nóng, lạnh và đau. Dây thần kinh vận động kích thích cơ bắp cử động. Bệnh lý thần kinh tự chủ: dây thần kinh tự chủ kiểm soát các hoạt động tự động như nhịp đập của tim, các hoạt động của dạ dày , ruột, hệ tiết niệu ,... do đó ảnh hưởng đến nhịp tim, huyết áp , nhịp thở và hoạt động nuốt, sự cương cứng ở nam giới.
+
+Ở người mắc bệnh đái tháo đường, nồng độ glucose trong máu sẽ chuyển hóa theo con đường khác so với bình thường. Quá trình chuyển hóa này tạo ra một số chất như sorbitol, fructose làm phá vỡ cấu trúc bình thường của tế bào sợi thần kinh. Hơn nữa, đường huyết cao sẽ dẫn tới hình thành nhiều gốc tự do là tổn thương các mạch máu nhỏ, gây ra thiếu máu đến nuôi dưỡng tế bào thần kinh. Thần kinh đái tháo đường là biến chứng phổ biến ở các bệnh đái tháo đường tuýp 1 và đái tháo đường tuýp 2 . Đa số người trên 60 tuổi bị bệnh tiểu đường tuýp 2 mắc thần kinh ngoại biên.
+2. Nguyên nhân gây bệnh lý thần kinh đái tháo đường
+Nguyên nhân chủ yếu dẫn tới bệnh lý thần kinh đái tháo đường đó chính là tổn thương dây thần kinh và mạch máu. Đường huyết cao làm tổn thương bao thần kinh và giảm vận tốc dẫn truyền thần kinh. Ngoài ra, các mạch máu nhỏ nuôi dưỡng thần kinh bị tổn thương làm giảm sự cung cấp oxy và các chất dinh dưỡng đến não, dẫn tới dây thần kinh bị suy giảm. Những yếu tố khác làm tổn thương dây thần kinh đái tháo đường bao gồm: Tình trạng viêm thần kinh do phản ứng tự miễn: xảy ra do hệ thống miễn dịch của cơ thể nhầm lẫn dây thần kinh là vật thể lạ nên tấn công dây thần kinh. Yếu tố di truyền
+
+Sử dụng chất kích thích như hút thuốc lá, rượu bia,... Thời gian bị đái tháo đường lâu: thời gian càng lâu thì nguy cơ bị bệnh thần kinh càng cao. Bệnh thần kinh ngoại vi hay gặp ở những bệnh nhân đái tháo đường từ 25 năm trở lên. Bệnh thận mãn tính: các chất độc trong máu tăng cao sẽ làm tổn thương đến dây thần kinh
+3. Triệu chứng bệnh thần kinh đái tháo đường
+Triệu chứng của bệnh thần kinh đái tháo đường được chia thành 3 rối loạn chính: Rối loạn thần kinh cảm giác: ảnh hưởng đến những dây thần kinh mang cảm giác như đau, nóng, lạnh,... Chủ yếu ảnh hưởng ở các dây thần kinh ở chân và tay. Người bệnh có cảm giác tê ngứa, không cảm nhận được đau, nóng, lạnh, vật chạm vào, không thể phối hợp chuyển động của khớp do không nhận thức được vị trí của khớp. Bàn chân của người bệnh có nguy cơ cao nhất do không nhân biết được vật đâm vào chân, và có thể gây ra nhiễm trùng, hình thành vết loét. Rối loạn thần kinh tự động: những triệu chứng liên quan tới dạ dày, ruột,... Do đó, người bệnh sẽ cảm thấy đầy hơi, chướng bụng, tiêu chảy hoặc táo bón . Rối loạn thần kinh vận động: gây yếu cơ, giảm vận động ở các chi. Những triệu chứng điển hình như đi bộ khó khăn, dễ ngã. Những hoạt động thường ngày khi sử dụng tay cũng gây nên khó khăn. Có thể gây co cơ và chuột rút.
+
+4. Chẩn đoán bệnh thần kinh đái tháo đường
+Để chẩn đoán biến chứng thần kinh của bệnh tiểu đường, người bệnh có thể sẽ được chỉ định làm xét nghiệm máu để kiểm tra chỉ số đường huyết. Ngoài ra, để đánh giá những rối loạn thì người bệnh cần làm điện tâm đồ để đánh giá rối loạn nhịp tim , hay điện cơ đánh giá rối loạn vận động, chụp dạ dày nhằm chẩn đoán những biến chứng liệt dạ dày thực quản,...
+5. Điều trị bệnh thần kinh đái tháo đường
+Điều trị bệnh lý thần kinh đái tháo đường cần làm chậm tiến triển của bệnh, và giảm các triệu chứng đau do bệnh thần kinh đái tháo đường. Một số nhóm thuốc như thuốc giảm đau dẫn xuất từ á phiện, thuốc chống trầm cảm, hay các vitamin nhóm B. Người bệnh có thể sẽ được hướng dẫn các chương trình tập luyện nhằm duy trì sức mạnh cơ và thăng bằng trong di chuyển. Bệnh lý thần kinh đái tháo đường là một trong những biến chứng dẫn tới rối loạn thần kinh ở bệnh nhân tiểu đường. Để phòng ngừa biến chứng thần kinh đái tháo đường, người bệnh cần phải bỏ hút thuốc lá. Thực hiện khám định kỳ nhằm kiểm soát đường máu, và phát hiện được sớm những biến chứng để có biện pháp can thiệp kịp thời.

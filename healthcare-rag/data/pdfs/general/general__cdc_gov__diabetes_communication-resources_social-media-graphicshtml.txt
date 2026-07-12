@@ -1,0 +1,37 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/communication-resources/social-media-graphics.html",
+  "title": "Social Media Graphics - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:07:06.902352",
+  "source_name": "cdc.gov",
+  "document_title": "Social Media Graphics - CDC",
+  "fetch_method": "playwright_fallback",
+  "extraction_method": "<main>",
+  "word_count": 84,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Social Media Graphics - CDC
+
+Social Media
+
+Feb. 12, 2026 For Everyone
+
+What to know
+
+Social media is an essential part of the public health conversation. Social platforms make it possible to reach more people who can benefit from science-based information about preventing and managing diabetes. Social media graphics about diabetes are provided below to help organizations engage audiences.
+
+Social media graphics
+
+Diabetes Complications Social Media Graphics
+Diabetes-Related Amputations
+2 in 5 Americans Expected to Develop Diabetes
+Diabetic Retinopathy by 2050
+
+Diabetes Complications Social Media Graphics
+
+Feb. 12, 2026

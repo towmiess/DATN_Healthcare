@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 160-180)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Măng cụt: 65 kcal/100g | đạm 0.6g | béo 0.6g | carb 14.4g
+- Mề gà, luộc: 127 kcal/100g | đạm 27.3g | béo 1.6g | carb 0.7g
+- Mề gà, tươi: 99 kcal/100g | đạm 21.3g | béo 1.3g | carb 0.6g
+- Men bia, khô: 367 kcal/100g | đạm 52.5g | béo 3.2g | carb 32g
+- Men bia, tươi: 103 kcal/100g | đạm 16.2g | béo 1.3g | carb 6.5g
+- Mít dai, tươi: 54 kcal/100g | đạm 0.6g | béo 0.1g | carb 12.4g
+- Mít khô: 286 kcal/100g | đạm 2.9g | béo 0g | carb 68.5g
+- Mít mật, tươi: 67 kcal/100g | đạm 1.5g | béo 0g | carb 15.2g
+- Mơ, khô: 290 kcal/100g | đạm 3g | béo 1.1g | carb 66.9g
+- Mỡ lợn, muối: 827 kcal/100g | đạm 2g | béo 91g | carb 0g
+- Mỡ lợn, nước: 896 kcal/100g | đạm 0g | béo 99.6g | carb 0g
+- Mơ, tươi: 50 kcal/100g | đạm 0.9g | béo 0.2g | carb 11.0g
+- Mộc nhĩ, khô: 332 kcal/100g | đạm 10.6g | béo 0.2g | carb 72g
+- Mọc, từ thịt lợn, nấu canh: 286 kcal/100g | đạm 14.4g | béo 22.2g | carb 8.0g
+- Mực khô, sống: 291 kcal/100g | đạm 60.1g | béo 4.5g | carb 2.5g
+- Mực, tươi: 73 kcal/100g | đạm 16.3g | béo 0.9g | carb 0g
+- Mực tươi, hấp: 115 kcal/100g | đạm 25.4g | béo 1.4g | carb 0g
+- Mực tươi, nướng: 115 kcal/100g | đạm 25.4g | béo 1.4g | carb 0g
+- Muỗm, quéo, tươi: 69 kcal/100g | đạm 0.6g | béo 0.4g | carb 15.7g
+- Na, tươi: 69 kcal/100g | đạm 1.6g | béo 0.2g | carb 15.1g

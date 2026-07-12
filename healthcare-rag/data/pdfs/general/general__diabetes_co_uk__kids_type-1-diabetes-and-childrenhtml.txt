@@ -1,0 +1,20 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.co.uk/kids/type-1-diabetes-and-children.html",
+  "title": "Type 1 diabetes in children - Diabetes.co.uk",
+  "category": "general",
+  "language": "en",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:07:45.831192",
+  "source_name": "diabetes.co.uk",
+  "document_title": "Type 1 diabetes in children - Diabetes.co.uk",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 373,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Type 1 diabetes in children - Diabetes.co.uk
+
+Up next Published on 08 September 2022 Updated on 29 October 2023 Author Mike Watts Share article Facebook Twitter Pinterest Reddit Mail There are 2 types of diabetes, type 1 and type 2 This guide talks about type 1 diabetes and how it is developed. Type 1 diabetes usually happens to young people. You don’t catch diabetes, it isn’t a bug. You ‘develop’ diabetes. When doctors find someone has type 1 diabetes, this is called being diagnosed. People with type 1 diabetes are usually diagnosed when they are under 10, but can happen at any age Type 1 diabetes happens when the body does not produce enough insulin. This means that glucose produced in the breakdown of food (digestion) stays in the blood. Following diagnosis with type 1 diabetes, the body requires insulin injections, or insulin using an insulin pump. Insulin injections are usually done after breakfast, and after supper. However, this changes depending on the patient and the insulin used. Some insulin lasts for a short time, and some lasts for a long time. But your doctor will tell you all about that. Type 1 diabetes is a condition that need to be managed. Read about managing type 1 diabetes New words to remember: Type 1 diabetes, Diagnosed, insulin injections, insulin pump What's new on the forum? ⭐️ Yet another spiral into depression Emotional and Mental Health Maggie75 109 6 What have you eaten today? (Low carb forum) Low-carb Diet Forum Administrator 10084.44k 67.52k ‘Stop Eating After 7pm’ Challenge Type 2 Diabetes MissMuffett 269.78k 1.73k Third party apps for Freestyle Libre Ask A Question Antje77 429 19 Type 2s: What was your fasting blood glucose in a morning? (very low chat level) Type 2 Diabetes equipoise 8119.42k 82.39k MedM Health App display problem Ask A Question CatsFive 47 0 What was your fasting blood glucose? (with some chat) Diabetes Discussions NewdestinyX 8705.93k 84.85k Hi I’m julieclarke I’ve joined to find out more about T2 diabetes Diabetes Discussions lovinglife 70.44k 1.06k BGM - what model? Ask A Question CatsFive 477 17 Fasting Blood Sugar this morning + yesterday's food AND physical activity Type 2 Diabetes AGC_68 582.60k 6.12k Get our free newsletters Stay up to date with the latest news, research and breakthroughs.

@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Cải thìa hấp tỏi", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cải thìa hấp tỏi
+Loại món: Rau củ | Ẩm thực: Vietnamese
+Từ khóa: cải thìa, hấp, vitamin A, canxi
+
+Mô tả: Hấp giữ nguyên vitamin A và canxi của cải thìa hơn xào.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.0
+Calo: 38 kcal
+Chất đạm (protein): 2.5 g
+Chất béo tổng: 1.0 g (bão hòa: 0.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.0 g (chất xơ: 2.8 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 0 mg | Natri: 165 mg
+Kali: 325 mg | Phốt pho: 68 mg | Magie: 32 mg
+Canxi: 165 mg | Sắt: 1.2 mg | Vitamin D: 0.2 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Vitamin A cao tốt mắt - quan trọng biến chứng võng mạc TĐ
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+300g cải thìa
+Tỏi phi ít dầu
+
+--- Cách chế biến ---
+1. Rửa sạch cải thìa
+2. Hấp 8 phút
+3. Rưới tỏi phi ít dầu

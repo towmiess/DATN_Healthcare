@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "hành tây nướng ít dầu", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: hành tây nướng ít dầu
+Loại món: Rau củ | Ẩm thực: Vietnamese
+Từ khóa: hành tây, rau củ, ít calo, chất xơ
+
+Mô tả: hành tây nướng ít dầu là món nướng kết hợp hành tây và hành tây, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.4
+Calo: 57 kcal
+Chất đạm (protein): 3.4 g
+Chất béo tổng: 3.8 g (bão hòa: 1.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 13.3 g (chất xơ: 3.6 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 55 mg | Natri: 238 mg
+Kali: 263 mg | Phốt pho: 218 mg | Magie: 42 mg
+Canxi: 87 mg | Sắt: 3.3 mg | Vitamin D: 2.5 mcg | Omega-3: 1.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Rau củ; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+300g hành tây
+Tỏi hoặc gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế hành tây sạch
+2. Nướng đến chín vừa
+3. Nêm ít gia vị, tránh dùng nhiều dầu mỡ

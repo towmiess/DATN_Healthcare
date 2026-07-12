@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 380-400)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Thịt vịt, luộc: 371 kcal/100g | đạm 24.7g | béo 30.2g | carb 0g
+- Thịt vịt, lườn, hấp: 163 kcal/100g | đạm 27.5g | béo 5.9g | carb 0g
+- Thịt vịt, lườn, luộc: 163 kcal/100g | đạm 27.5g | béo 5.9g | carb 0g
+- Thịt vịt, tươi: 267 kcal/100g | đạm 17.8g | béo 21.8g | carb 0g
+- Thịt xá xíu: 189 kcal/100g | đạm 26.3g | béo 9.2g | carb 0g
+- Tía tô, tươi: 40 kcal/100g | đạm 2.9g | béo 0g | carb 7g
+- Tiết bò, luộc: 75 kcal/100g | đạm 17.8g | béo 0.2g | carb 0.4g
+- Tiết bò, tươi: 75 kcal/100g | đạm 18g | béo 0.2g | carb 0.4g
+- Tiết dê: 25 kcal/100g | đạm 5.7g | béo 0.1g | carb 0.2g
+- Tiết gà: 25 kcal/100g | đạm 5.7g | béo 0.1g | carb 0.2g
+- Tiết lợn, luộc: 44 kcal/100g | đạm 10.7g | béo 0.1g | carb 0g
+- Tiết lợn, tươi: 25 kcal/100g | đạm 5.7g | béo 0.1g | carb 0.2g
+- Tiết ngan, luộc: 50 kcal/100g | đạm 12.1g | béo 0g | carb 0g
+- Tim bò, luộc: 131 kcal/100g | đạm 22.0g | béo 4.4g | carb 0.8g
+- Tim bò, tươi: 89 kcal/100g | đạm 15g | béo 3g | carb 0.6g
+- Tim gà, luộc: 160 kcal/100g | đạm 22.5g | béo 7.7g | carb 0g
+- Tim gà, tươi: 114 kcal/100g | đạm 16g | béo 5.5g | carb 0g
+- Tim lợn, luộc: 138 kcal/100g | đạm 22.2g | béo 4.7g | carb 1.7g
+- Tỏi ta, tươi: 126 kcal/100g | đạm 6g | béo 0.3g | carb 24.6g
+- Tỏi tây, cả lá, tươi: 35 kcal/100g | đạm 1.4g | béo 0g | carb 7.4g

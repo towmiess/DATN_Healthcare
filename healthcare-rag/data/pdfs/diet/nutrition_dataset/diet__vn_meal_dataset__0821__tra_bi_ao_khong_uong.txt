@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Trà bí đao không đường", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trà bí đao không đường
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: bí đao, thanh nhiệt, lợi tiểu, ít calo
+
+Mô tả: Bí đao thanh nhiệt lợi tiểu tự nhiên, gần zero calo, phù hợp mùa nóng.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.0
+Calo: 15 kcal
+Chất đạm (protein): 0.3 g
+Chất béo tổng: 0.1 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 3.5 g (chất xơ: 0.5 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 0 mg | Natri: 5 mg
+Kali: 85 mg | Phốt pho: 12 mg | Magie: 8 mg
+Canxi: 8 mg | Sắt: 0.2 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Lợi tiểu hỗ trợ kiểm soát huyết áp và phù nề
+Khẩu phần khuyến nghị: 300ml/ngày
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g bí đao
+500ml nước
+
+--- Cách chế biến ---
+1. Bí đao cắt miếng để nguyên vỏ
+2. Nấu với nước 30 phút
+3. Lọc lấy nước uống, không thêm đường

@@ -1,0 +1,77 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications",
+  "title": "Diabetes complications overview",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:12:02.978182",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Diabetes complications overview",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 373,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes complications overview
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Complications of diabetes
+
+On this page we cover:
+
+What are the complications of diabetes
+What causes complications associated with diabetes?
+How can I reduce my risk of complications?
+
+What are the complications of diabetes?
+
+Complications of diabetes include eye problems, foot problems, heart attacks, nerve damage, and other chronic (long-term) issues. There are also acute complications (short-term) including hypos and diabetic ketoacidosis (DKA). But there are things you can do to prevent complications.
+
+Find out more about the individual long-term complications by following the links below.
+
+Eye problems (retinopathy)
+Heart attack
+Stroke
+Kidney disease (nephropathy)
+Diabetic neuropathy (nerve damage)
+Fatty liver disease
+Foot problems
+Serious foot problems
+Charcot foot
+Teeth, gum and mouth problem s
+Sexual problems in men
+Sexual problems in women
+Lung problems
+Leg pain
+Muscle pain and joint problems
+
+Short-term complications of diabetes usually come on quickly and need to be treated straight away. They are:
+
+hypos
+hypers
+diabetic ketoacidosis (DKA)
+hyperosmolar hyperglycemic state (HHS)
+
+What causes complications associated with diabetes?
+
+Long-term complications are caused by high blood sugar levels over time which can damage the blood vessels and nerves, which reduces blood flow and changing the feeling in different parts of the body, such as the feet. You find out your average blood sugar levels — known as your HbA1c — from a blood test.
+
+Short-term complications which need to be treated quickly are caused by your blood sugar levels going too low or too high if treatment isn't balanced with other things happening in your life, as lots of things can affect blood sugar levels.
+
+How can I reduce my risk of complications?
+
+Things you can do to help prevent or delay complications include:
+
+Going to your diabetes health checks .
+Checking your blood sugar levels if you have been asked to.
+Keeping your blood sugar levels (and HbA1c) within target .
+If you smoke — getting support to help you stop.
+
+If you feel overwhelmed or want to talk through any concerns or worries, do call our helpline and speak to one of our trained advisors on 0345 123 2399. You can have as much time as you need.
+
+Next Review Date

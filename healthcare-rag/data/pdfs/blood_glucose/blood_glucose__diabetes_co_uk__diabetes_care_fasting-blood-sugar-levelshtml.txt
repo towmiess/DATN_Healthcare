@@ -1,0 +1,20 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.co.uk/diabetes_care/fasting-blood-sugar-levels.html",
+  "title": "Fasting blood glucose levels - Diabetes.co.uk",
+  "category": "blood_glucose",
+  "language": "en",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:01:39.272396",
+  "source_name": "diabetes.co.uk",
+  "document_title": "Fasting blood glucose levels - Diabetes.co.uk",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 526,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Fasting blood glucose levels - Diabetes.co.uk
+
+Up next Published on 15 January 2019 Updated on 04 November 2022 Author Conor Seery Share article Facebook Twitter Pinterest Reddit Mail Fasting, as the name suggests, means refraining from eating of drinking any liquids other than water for eight hours. It is used as a test for diabetes. v After fasting, a carbohydrate metabolism test is conducted which measures blood glucose levels. Glucagon during fasting When fasting the hormone glucagon is stimulated and this increases plasma glucose levels in the body. If a patient doesn’t have diabetes, their body will produce insulin to rebalance the increased glucose levels. However people with diabetes either don’t produce enough insulin to rebalance their blood sugar (typically in type 1 diabetes ) or their body is not able to use the insulin effectively enough (typical of type 2 diabetes). Consequently when blood glucose levels are tested, people with diabetes will have blood sugar levels significantly higher than people who do not have diabetes. What is the fasting blood sugar test used for? The fasting blood sugar test is also used to test the effectiveness of different medication or dietary changes on people already diagnosed as diabetic Fasting tests The fasting test should be conducted on two separate occasions to ensure consistent results and in order to avoid a false diagnosis. This is the case as increased blood glucose levels may be as a result of Cushing’s syndrome liver or kidney disease , eclampsia and pancreatitis. However many of these conditions are often picked up in lab diagnostic tests. Fasting test results The results of a fasting test with respect to glucose levels in the body are as follows: Normal: 3.9 to 5.4 mmols/l (70 to 99 mg/dl) Prediabetes or Impaired Glucose Tolerance: 5.5 to 6.9 mmol/l (100 to 125 mg/dl) Diagnosis of diabetes: 7.0 mmol/l (126 mg/dl) or above [361] The American Diabetes Association reduced the level of diagnosis in this test from 140 to 126 mg/dl in 1997. What's new on the forum? ⭐️ Yet another spiral into depression Emotional and Mental Health Maggie75 109 6 What have you eaten today? (Low carb forum) Low-carb Diet Forum Administrator 10084.44k 67.52k ‘Stop Eating After 7pm’ Challenge Type 2 Diabetes MissMuffett 269.78k 1.73k Third party apps for Freestyle Libre Ask A Question Antje77 429 19 Type 2s: What was your fasting blood glucose in a morning? (very low chat level) Type 2 Diabetes equipoise 8119.42k 82.39k MedM Health App display problem Ask A Question CatsFive 47 0 What was your fasting blood glucose? (with some chat) Diabetes Discussions NewdestinyX 8705.93k 84.85k Hi I’m julieclarke I’ve joined to find out more about T2 diabetes Diabetes Discussions lovinglife 70.44k 1.06k BGM - what model? Ask A Question CatsFive 477 17 Fasting Blood Sugar this morning + yesterday's food AND physical activity Type 2 Diabetes AGC_68 582.60k 6.12k Get our free newsletters Stay up to date with the latest news, research and breakthroughs. You May Also Like Living with Diabetes As the days grow shorter and darker in autumn and winter, many… 3 minute read Living with Diabetes Overeating is common, harms glucose control and it is fixable with straight… 6 minute read

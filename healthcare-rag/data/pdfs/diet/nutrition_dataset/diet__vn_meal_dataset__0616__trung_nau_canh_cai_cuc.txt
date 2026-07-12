@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Trứng nấu canh cải cúc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trứng nấu canh cải cúc
+Loại món: Món trứng | Ẩm thực: Vietnamese
+Từ khóa: trứng, cải cúc, protein, choline
+
+Mô tả: Trứng nấu canh cải cúc là món nấu canh kết hợp cá trê và cải cúc, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 166 kcal
+Chất đạm (protein): 10.1 g
+Chất béo tổng: 7.8 g (bão hòa: 1.9 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.6 g (chất xơ: 2.9 g, đường: 0.6 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 414 mg
+Kali: 563 mg | Phốt pho: 135 mg | Magie: 34 mg
+Canxi: 148 mg | Sắt: 2.5 mg | Vitamin D: 0.2 mcg | Omega-3: 0.8 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Món trứng; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+2 quả trứng
+100g cải cúc
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Đánh trứng hoặc để nguyên theo món
+2. Sơ chế cải cúc
+3. Nấu canh kết hợp
+4. Nêm gia vị nhạt

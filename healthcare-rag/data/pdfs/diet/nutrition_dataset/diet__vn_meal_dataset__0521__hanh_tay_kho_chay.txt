@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "hành tây kho chay", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: hành tây kho chay
+Loại món: Rau củ | Ẩm thực: Vietnamese
+Từ khóa: hành tây, rau củ, ít calo, chất xơ
+
+Mô tả: hành tây kho chay là món kho kết hợp hành tây và hành tây, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.4
+Calo: 51 kcal
+Chất đạm (protein): 4.7 g
+Chất béo tổng: 4.0 g (bão hòa: 1.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 12.9 g (chất xơ: 3.6 g, đường: 3.9 g, đường bổ sung: 0.0 g)
+Cholesterol: 85 mg | Natri: 357 mg
+Kali: 214 mg | Phốt pho: 203 mg | Magie: 41 mg
+Canxi: 57 mg | Sắt: 2.5 mg | Vitamin D: 0.0 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Rau củ; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+300g hành tây
+Tỏi hoặc gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế hành tây sạch
+2. Kho đến chín vừa
+3. Nêm ít gia vị, tránh dùng nhiều dầu mỡ

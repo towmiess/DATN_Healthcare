@@ -1,0 +1,52 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/living-with/10-things-that-spike-blood-sugar.html",
+  "title": "10 Things That Can Spike Blood Sugar - CDC",
+  "category": "blood_glucose",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:01:04.422377",
+  "source_name": "cdc.gov",
+  "document_title": "10 Things That Can Spike Blood Sugar - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 273,
+  "verified_by_doctor": false
+}
+===CONTENT===
+10 Things That Can Spike Blood Sugar - CDC
+
+May 15, 2024
+
+10 Surprising Things That Can Spike Your Blood Sugar
+
+What to know
+
+When you first found out you had diabetes, you tested your blood sugar often. This helped you understand how food, activity, stress, and illness could affect your blood sugar levels. Even now that you know the ups and downs, some causes of blood sugar spikes may surprise you.
+
+Do you know all these blood sugar triggers?
+
+Sunburn —the pain causes stress, and stress increases blood sugar levels.
+
+Artificial sweeteners—more research is needed, but some studies show they can raise blood sugar.
+
+Coffee—even without sweetener. Some people's blood sugar is extra-sensitive to caffeine.
+
+Losing sleep—even just one night of too little sleep can make your body use insulin less well.
+
+Skipping breakfast—going without that morning meal can increase blood sugar after both lunch and dinner.
+
+Time of day—blood sugar can be harder to control the later it gets.
+
+Dawn phenomenon—people have a surge in hormones early in the morning whether they have diabetes or not. For people with diabetes, blood sugar can spike.
+
+Dehydration—less water in your body means your blood sugar is more concentrated.
+
+Nose spray—some have chemicals that trigger your liver to make more blood sugar.
+
+Gum disease —it's both a complication of diabetes and a blood sugar spiker.
+
+Watch out for other triggers that can make your blood sugar fall. For example, extreme heat can cause blood vessels to dilate (widen). That makes insulin absorb more quickly and could lead to low blood sugar. If an activity or food is new, check your blood sugar before and after to see how you respond.
+
+May 15, 2024

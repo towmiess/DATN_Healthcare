@@ -1,0 +1,38 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/risk-factors/gestational-diabetes.html",
+  "title": "Gestational Diabetes - CDC",
+  "category": "complication/pregnancy",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:17:39.206314",
+  "source_name": "cdc.gov",
+  "document_title": "Gestational Diabetes - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 126,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Gestational Diabetes - CDC
+
+The page you're looking for was not found.
+Please try the CDC
+archives or the A-Z index .
+Search CDC.gov
+
+The page you were looking for has moved.
+You will be automatically redirected to the new location in 10 seconds or you can
+click here to go to link .
+Please update any bookmarks you may have saved for this page.
+
+The page you were looking for has moved.
+Please see:
+
+Please update any bookmarks you may have saved for this page.
+
+The page you were looking for has moved to archive.cdc.gov .
+You will be automatically redirected to the new location in 10 seconds or you can
+click here to go to link .
+Please update any bookmarks you may have saved for this page.

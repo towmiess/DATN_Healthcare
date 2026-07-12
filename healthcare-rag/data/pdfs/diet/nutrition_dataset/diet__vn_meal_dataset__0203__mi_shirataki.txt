@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Mì shirataki", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Mì shirataki
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: mì shirataki, konjac, zero calo, GI gần 0
+
+Mô tả: Mì shirataki từ konjac gần như zero calo và zero carb, GI=0, hoàn hảo cho TĐ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.1
+Calo: 15 kcal
+Chất đạm (protein): 0.5 g
+Chất béo tổng: 0.2 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 2.5 g (chất xơ: 2.0 g, đường: 0.0 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 18 mg
+Kali: 15 mg | Phốt pho: 5 mg | Magie: 2 mg
+Canxi: 5 mg | Sắt: 0.1 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI=0 và zero calo - tốt nhất cho bệnh nhân TĐ muốn kiểm soát carb
+Khẩu phần khuyến nghị: Không giới hạn lượng
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g mì konjac
+Nước sôi
+Gia vị theo ý
+
+--- Cách chế biến ---
+1. Chần mì konjac 2 phút
+2. Xả nước lạnh
+3. Trộn với gia vị yêu thích

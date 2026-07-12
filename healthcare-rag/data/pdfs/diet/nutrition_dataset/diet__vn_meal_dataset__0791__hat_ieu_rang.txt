@@ -1,0 +1,32 @@
+===METADATA===
+{"title": "Hạt điều rang", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Hạt điều rang
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: hạt điều, cashew, magie, đồng
+
+Mô tả: Hạt điều giàu magie và đồng, chất béo không bão hòa đơn tốt cho tim mạch.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.5
+Calo: 165 kcal
+Chất đạm (protein): 5.5 g
+Chất béo tổng: 13.0 g (bão hòa: 2.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 9.0 g (chất xơ: 1.0 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 0 mg | Natri: 3 mg
+Kali: 185 mg | Phốt pho: 168 mg | Magie: 82 mg
+Canxi: 12 mg | Sắt: 1.9 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GL cao hơn các hạt khác nên kiểm soát lượng; magie tốt nhạy cảm insulin
+Khẩu phần khuyến nghị: 20g (khoảng 15 hạt)/bữa phụ
+Chống chỉ định / thận trọng: Dị ứng hạt thận trọng
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: cao
+
+--- Nguyên liệu ---
+20g hạt điều
+
+--- Cách chế biến ---
+1. Dùng trực tiếp hoặc rang nhẹ không dầu

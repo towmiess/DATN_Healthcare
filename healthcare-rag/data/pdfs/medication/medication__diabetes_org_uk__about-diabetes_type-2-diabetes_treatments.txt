@@ -1,0 +1,30 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/treatments",
+  "title": "Type 2 treatments",
+  "category": "medication",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:14:40.040594",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Type 2 treatments",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 648,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Type 2 treatments
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Type 2 diabetes treatments
+
+What is the main treatment for type 2 diabetes? The main treatments for managing blood sugar levels if you have type 2 diabetes are: Eating well and moving more Weight loss Metformin (usually taken as a tablet) Insulin along with other medication that helps lower blood sugar levels Other types of diabetes medicine that is injected or taken as tablets. Weight loss surgery Support with your emotional health Using a flash glucose monitor or continuous glucose monitor can also make it easier for people with type 2 diabetes to monitor their blood sugar levels without having to do so many finger prick checks. This tech isn’t offered to everyone with type 2 diabetes. Find out if you may qualify for a flash glucose monitor or continuous glucose monitor on the NHS. We understand that being diagnosed with type 2 diabetes can be shocking and overwhelming, and we're here for you. We can offer you all the information, practical tips and guidance you need in bite sized blocks through our email support journey. When do I need medication for type 2 diabetes? Some people can manage their type 2 diabetes through healthy eating, being more active or losing weight. And some people have put their type 2 diabetes into remission through weight loss. Medication may be necessary to put your blood sugar levels in the healthy range. And you may be prescribed diabetes medication that can also help keep your heart healthy. So you may be taking a combination of treatments. Your healthcare team should consider what medication you are already taking, your preferences and make a shared decision with you about switching treatments or adding further medication. Diabetes medications are safe but like many other medications they may have side effects or interact with other medications you’re taking. Because medicines can affect you in different ways, your healthcare team will speak to you about what's best and discuss any side effects. Even if you’re taking medication for type 2 diabetes , it’s still important to stay active and eat a healthy diet to help you prevent complications from your diabetes. What are the side effects of type 2 treatments? Find out more about the side effects of insulin and the side effects of metformin . What is the fastest way to treat type 2 diabetes? The fastest way to treat high blood sugar levels is with insulin. If someone has dangerously high blood sugar levels – and are in DKA or HHS – they will need to go to hospital where insulin, replacement fluids and nutrients will be given by an intravenous drip. If you notice symptoms of low blood sugar levels (known as a hypo)the fastest way to treat this is to immediately eat or drink 15 to 20g of fast-acting carbohydrate. Find out what to do if someone is having a severe hypo. We know people with type 2 diabetes who are living with overweight or obesity can manage their blood sugar levels effectively and quickly by losing weight following a very low-calorie diet. They should do this with support from their healthcare team. In some cases they may be able to put their diabetes into remission. Find out about low calories diets for people with type 2 diabetes on the NHS to help rapid weight loss. Can someone with type 2 diabetes be cured? We know people can put their type 2 diabetes into remission by losing weight. It can be life-changing, but it's not possible for everyone. And it is not a cure. Your blood sugar levels can return to the diabetic range if you put weight back on, for example. Learn more about  diabetes remission .
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Share this Page

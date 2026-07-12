@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Khế ngọt ăn vặt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Khế ngọt ăn vặt
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: khế ngọt, vitamin C, ít calo
+
+Mô tả: Khế ngọt ít calo, vitamin C khá cao, hình dạng đẹp mắt khi cắt lát.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.5
+Calo: 31 kcal
+Chất đạm (protein): 1.0 g
+Chất béo tổng: 0.3 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.1 g (chất xơ: 2.8 g, đường: 4.0 g, đường bổ sung: 0.6 g)
+Cholesterol: 0 mg | Natri: 3 mg
+Kali: 133 mg | Phốt pho: 10 mg | Magie: 8 mg
+Canxi: 3 mg | Sắt: 0.1 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít calo nhiều chất xơ - bữa phụ lành mạnh
+Khẩu phần khuyến nghị: 100g/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g khế ngọt
+
+--- Cách chế biến ---
+1. Rửa sạch cắt lát hình sao
+2. Ăn trực tiếp

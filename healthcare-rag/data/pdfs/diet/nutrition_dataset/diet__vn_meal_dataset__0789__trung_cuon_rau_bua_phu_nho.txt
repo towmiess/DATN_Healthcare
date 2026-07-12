@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Trứng cuộn rau bữa phụ nhỏ", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trứng cuộn rau bữa phụ nhỏ
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: trứng cuộn, rau, protein, ít carb
+
+Mô tả: Trứng cuộn rau cỡ nhỏ phù hợp bữa phụ, ít carb giàu protein.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.0
+Calo: 118 kcal
+Chất đạm (protein): 9.5 g
+Chất béo tổng: 7.5 g (bão hòa: 2.2 g, chuyển hóa: 0.2 g)
+Carbohydrate tổng: 3.5 g (chất xơ: 1.0 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 185 mg | Natri: 165 mg
+Kali: 195 mg | Phốt pho: 118 mg | Magie: 18 mg
+Canxi: 32 mg | Sắt: 1.0 mg | Vitamin D: 0.8 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Cholesterol từ trứng cần kiểm soát với tim mạch và đột quỵ
+Khẩu phần khuyến nghị: 1 phần nhỏ/bữa phụ
+Chống chỉ định / thận trọng: Tim mạch và đột quỵ hạn chế
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+1 trứng
+30g rau hỗn hợp băm nhỏ
+
+--- Cách chế biến ---
+1. Đánh trứng với rau băm
+2. Chiên mỏng không dầu hoặc ít dầu
+3. Cuộn lại cắt miếng

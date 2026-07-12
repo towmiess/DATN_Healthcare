@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Thịt bò xào cải bó xôi tỏi", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thịt bò xào cải bó xôi tỏi
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: thịt bò, cải bó xôi, magie, sắt
+
+Mô tả: Magie từ cải bó xôi cải thiện nhạy cảm insulin, kết hợp sắt heme từ thịt bò.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.5
+Calo: 178 kcal
+Chất đạm (protein): 18.5 g
+Chất béo tổng: 8.5 g (bão hòa: 3.0 g, chuyển hóa: 0.2 g)
+Carbohydrate tổng: 4.5 g (chất xơ: 2.8 g, đường: 1.0 g, đường bổ sung: 0.1 g)
+Cholesterol: 52 mg | Natri: 338 mg
+Kali: 548 mg | Phốt pho: 195 mg | Magie: 68 mg
+Canxi: 128 mg | Sắt: 3.5 mg | Vitamin D: 0.3 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Nguy cơ đột quỵ
+Ghi chú phù hợp: Magie + sắt combo tốt insulin và thần kinh; tim mạch hạn chế béo bão hòa
+Khẩu phần khuyến nghị: 1 phần/bữa
+Chống chỉ định / thận trọng: Tim mạch hạn chế
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+150g thịt bò
+200g cải bó xôi
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Thịt bò thái mỏng ướp gia vị
+2. Phi tỏi xào thịt nhanh
+3. Cho cải bó xôi vào xào 2 phút

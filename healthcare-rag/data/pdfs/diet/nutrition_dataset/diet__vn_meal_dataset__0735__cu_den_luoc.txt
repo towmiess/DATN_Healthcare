@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Củ dền luộc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Củ dền luộc
+Loại món: Rau củ | Ẩm thực: Vietnamese
+Từ khóa: củ dền, betalain, nitrate, huyết áp
+
+Mô tả: Nitrate tự nhiên từ củ dền hỗ trợ giãn mạch và hạ huyết áp, betalain chống oxy hóa.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 5.5
+Calo: 58 kcal
+Chất đạm (protein): 2.0 g
+Chất béo tổng: 0.2 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 12.5 g (chất xơ: 2.5 g, đường: 7.5 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 75 mg
+Kali: 358 mg | Phốt pho: 48 mg | Magie: 18 mg
+Canxi: 18 mg | Sắt: 0.8 mg | Vitamin D: 0.1 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Nitrate hạ huyết áp tốt biến chứng tim mạch và đột quỵ
+Khẩu phần khuyến nghị: 1 củ nhỏ/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g củ dền
+
+--- Cách chế biến ---
+1. Củ dền rửa sạch để nguyên vỏ
+2. Luộc 25 phút
+3. Gọt vỏ khi nguội cắt lát

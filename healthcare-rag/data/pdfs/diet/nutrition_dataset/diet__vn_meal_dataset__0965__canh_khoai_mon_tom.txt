@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Canh khoai môn tôm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh khoai môn tôm
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: khoai môn, tôm, chất xơ, GI trung bình
+
+Mô tả: Khoai môn GI trung bình kết hợp tôm, canh đặc sệt tự nhiên từ chất nhầy.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 6.0
+Calo: 158 kcal
+Chất đạm (protein): 14.5 g
+Chất béo tổng: 3.5 g (bão hòa: 0.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 22.5 g (chất xơ: 3.0 g, đường: 2.0 g, đường bổ sung: 0.3 g)
+Cholesterol: 85 mg | Natri: 348 mg
+Kali: 425 mg | Phốt pho: 178 mg | Magie: 32 mg
+Canxi: 52 mg | Sắt: 1.5 mg | Vitamin D: 0.3 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI trung bình - dùng lượng vừa phải; TĐ thai kỳ hạn chế
+Khẩu phần khuyến nghị: 1 tô nhỏ/bữa
+Chống chỉ định / thận trọng: TĐ thai kỳ hạn chế
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: trung bình
+
+--- Nguyên liệu ---
+150g khoai môn
+100g tôm
+Hành lá
+
+--- Cách chế biến ---
+1. Khoai môn gọt vỏ cắt miếng
+2. Nấu 18 phút
+3. Thêm tôm nấu 5 phút

@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Bưởi", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Bưởi
+Loại món: Trái cây | Ẩm thực: Vietnamese
+Từ khóa: GI thấp, naringenin, insulin
+
+Mô tả: Bưởi chứa naringenin có nghiên cứu hỗ trợ cải thiện nhạy cảm insulin, GI thấp.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 100g (phần ăn được)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 4.0
+Calo: 42 kcal
+Chất đạm (protein): 0.8 g
+Chất béo tổng: 0.1 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 10.7 g (chất xơ: 1.6 g, đường: 7.3 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 1 mg
+Kali: 184 mg | Phốt pho: 15 mg | Magie: 7 mg
+Canxi: 15 mg | Sắt: 0.1 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Naringenin cải thiện nhạy cảm insulin; lưu ý tương tác thuốc statin/huyết áp
+Khẩu phần khuyến nghị: 150-200g/lần
+Chống chỉ định / thận trọng: Người dùng thuốc statin hoặc huyết áp tham khảo bác sĩ trước khi dùng thường xuyên
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g bưởi (phần ăn được)
+
+--- Cách chế biến ---
+1. Rửa sạch bưởi
+2. Gọt vỏ/bỏ hạt nếu cần
+3. Ăn trực tiếp, không thêm đường

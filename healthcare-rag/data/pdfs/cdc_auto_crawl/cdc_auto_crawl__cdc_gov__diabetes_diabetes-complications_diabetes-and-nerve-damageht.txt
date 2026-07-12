@@ -1,0 +1,116 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-nerve-damage.html",
+  "title": "Nerve Damage",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:13:32.628201",
+  "source_name": "cdc.gov",
+  "document_title": "Nerve Damage",
+  "extraction_method": "<main>",
+  "word_count": 501,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Nerve Damage
+
+May 15, 2024
+
+Español
+
+Nerve Damage
+
+What to know
+
+High blood sugar can lead to nerve damage called diabetic neuropathy.
+
+Nerve damage can affect your hands, feet, arms, and legs.
+
+You can prevent or delay nerve damage by closely managing your blood sugar.
+
+All about nerve damage
+Anyone with diabetes can develop nerve damage, but some factors increase your risk:
+
+High blood sugar levels.
+
+Having diabetes for many years.
+
+Having overweight or obesity.
+
+Being older than 40.
+
+Having high blood pressure or high cholesterol.
+
+Types of nerve damage
+There are four main types of nerve damage: peripheral, autonomic, proximal, and focal. It's possible to have more than one type. Symptoms depend on the type of nerve damage you have and which nerves are affected.
+
+Make a note if you have any of the symptoms listed below and share them with your doctor.
+
+Peripheral nerve damage
+Peripheral nerve damage is the most common type of nerve damage for people with diabetes. It can affect your hands, feet, legs, and arms, but it usually starts in the feet. Symptoms may include:
+
+Tingling, or "pins and needles."
+
+Pain or increased sensitivity, especially at night.
+
+Numbness or weakness.
+
+Serious foot problems, such as ulcers, infections, and bone and joint pain.
+
+If you have numbness, you may not notice cuts, blisters, or sores. This could lead to infections and serious foot problems. Sometimes amputation (removal by surgery) is necessary, but in some cases can be prevented by checking and caring for your feet.
+
+Autonomic nerve damage
+Autonomic nerve damage affects your heart, bladder, stomach, intestines, sex organs, or eyes. Symptoms may include:
+
+Bladder or bowel problems that may cause urine leakage, constipation, or diarrhea.
+
+Nausea, loss of appetite, and vomiting.
+
+Changes in how your eyes adjust from light to dark.
+
+Sexual dysfunction, including trouble getting an erection or vaginal dryness.
+
+Proximal nerve damage
+Proximal nerve damage affects nerves in the thighs, hips, buttocks, or legs. It can also affect the stomach and chest area. Symptoms may include:
+
+Severe pain in a hip, thigh, or buttock.
+
+Trouble getting up from a sitting position.
+
+Severe stomach pain.
+
+Focal nerve damage
+Focal nerve damage affects a single nerve, most often in your head, torso, or a hand or leg. Symptoms may include:
+
+Trouble focusing your vision, double vision, or aches behind one eye.
+
+Not being able to move one side of your face (Bell's palsy).
+
+Numbness or tingling in your hands or fingers.
+
+Weakness in your hand that may make you drop things.
+
+When to see your doctor
+Call your doctor if you have any of the following symptoms:
+
+A cut or sore on your foot that's infected or won't heal.
+
+Burning, tingling, weakness, or pain in your hands or feet that interferes with daily activities or sleep.
+
+Changes in digestion, urination, or sexual function.
+
+Dizziness or fainting.
+
+Most people with diabetes can prevent or delay serious nerve damage complications:
+
+Practice foot care at home.
+
+Go to doctors' appointments.
+
+Have regular foot and eye exams.
+
+May 14, 2024
+
+Syndicate

@@ -1,0 +1,39 @@
+===METADATA===
+{"title": "Canh kim chi đậu hũ", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh kim chi đậu hũ
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: kim chi, đậu hũ, probiotic, lactobacillus
+
+Mô tả: Kim chi nhạt muối cung cấp probiotic tốt cho đường ruột và kiểm soát đường huyết.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.5
+Calo: 118 kcal
+Chất đạm (protein): 10.5 g
+Chất béo tổng: 5.8 g (bão hòa: 1.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.5 g (chất xơ: 3.5 g, đường: 2.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 285 mg
+Kali: 385 mg | Phốt pho: 155 mg | Magie: 38 mg
+Canxi: 125 mg | Sắt: 2.2 mg | Vitamin D: 0.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Probiotic trong kim chi cải thiện nhạy cảm insulin
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: TĐ thai kỳ tránh kim chi muối nhiều
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+150g đậu hũ
+100g kim chi nhạt
+50g nấm
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Phi tỏi
+2. Xào kim chi sơ
+3. Đổ 400ml nước sôi
+4. Cho đậu hũ nấm vào
+5. Nấu 10 phút nêm gia vị ít muối

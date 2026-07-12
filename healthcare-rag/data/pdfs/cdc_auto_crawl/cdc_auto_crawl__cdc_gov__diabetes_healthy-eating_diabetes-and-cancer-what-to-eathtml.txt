@@ -1,0 +1,60 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/healthy-eating/diabetes-and-cancer-what-to-eat.html",
+  "title": "I Have Diabetes and Cancer. What Can I Eat?",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:13:57.329421",
+  "source_name": "cdc.gov",
+  "document_title": "I Have Diabetes and Cancer. What Can I Eat?",
+  "extraction_method": "<main>",
+  "word_count": 720,
+  "verified_by_doctor": false
+}
+===CONTENT===
+I Have Diabetes and Cancer. What Can I Eat?
+
+May 15, 2024
+
+Español
+
+I Have Diabetes and Cancer. What Can I Eat?
+
+Key points
+
+Nearly 1 in 5 people with cancer also has diabetes.
+
+A cancer diagnosis can disrupt your diabetes management and your eating plan.
+
+Find out how cancer treatment can affect your blood sugar, and get tips to help you get the nutrition you need.
+
+Cancer treatment and your blood sugar
+Chemotherapy , or chemo, helps kill or shrink cancer cells, but it also hurts some healthy cells. This can cause side effects, like mouth sores, nausea, vomiting, and loss of appetite. These side effects may make it hard to eat, which could cause low blood sugar.
+Radiation therapy kills cancer cells by using high-energy rays. Radiation therapy causes your body to release extra sugar to help cope with the treatment. This reaction can cause a spike in your blood sugar. Radiation can also cause fatigue, which may make it harder to stick to your meal and activity plans.
+Hormone therapy is often used to treat prostate and breast cancers. This treatment blocks cancer cells from getting the hormones they need to grow. But it can cause nausea and fatigue. These side effects can make it hard to eat nourishing meals and stay active.
+In addition, other medicines used in your cancer treatment may affect your blood sugar. Steroids are often given with chemo to lessen nausea and vomiting. But steroids raise your blood sugar.
+Despite these side effects, diabetes management doesn't have to take a back seat to cancer treatment. In fact, managing your blood sugar could benefit your cancer treatment by lowering the risk of getting infections.
+
+What to eat when you have diabetes and cancer
+On days when you feel well enough, try eating a balanced meal plan that supports your diabetes management. There may be times when you don't want to eat. It's normal to have hard times, so don't restrict your diet too much.
+If you lose interest in eating or lose weight quickly, talk to your diabetes health care team and cancer treatment team. If needed, you may want to try:
+Foods that are higher in calories or protein but still healthy
+It can be hard to eat a big meal when you lose your appetite. But enjoying high-calorie foods in small portions can give you the nutrition you need. For example, you can add avocado, olive oil, hard-boiled eggs, beans, peas, nuts or seeds to a salad. You can also try high-protein milk or yogurt.
+Foods that improve your appetite
+Foods that are naturally sweet, such as bananas and nut butter, may help stimulate your appetite. Bitter substances like lemon juice and vinegar can also improve your appetite by stimulating saliva production.
+Foods that you enjoy
+Having diabetes doesn't mean you can't enjoy your favorite treats in moderation. This can help keep you motivated during cancer treatment. Don't be afraid to try some healthy foods you didn't like before. Cancer treatment can change how foods taste, so you may find a new favorite!
+
+Support from caregivers
+If you are caring for a loved one with diabetes and cancer, you play an important role in helping them eat well. Here are some steps you can take:
+Keep track of what your loved one eats, and record their blood sugar levels. Share this record with their health care team. They can help find a meal plan that supports both diabetes management and cancer treatment.
+Prepare five or six small meals throughout the day, if possible, instead of three big meals. Eating small portions slowly can help with loss of appetite and help prevent blood sugar spikes. Consider cooking meals in advance and freezing them to save time.
+Keep healthy snacks nearby. Some examples include sliced apples with peanut butter, yogurt with berries, or whole-grain crackers.
+Don't blame yourself or your loved one if they have trouble eating. Even with your best efforts, they may lose their appetite from cancer treatment side effects. Talk with their health care team about what you're doing and where you may need help.
+Living with both diabetes and cancer can be challenging, but you're not alone . Ask your health care team how to manage both conditions at the same time. Additional help is available through diabetes self-management education and support (DSMES) services.
+
+May 15, 2024
+
+Syndicate

@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 220-240)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Ốc nhồi, tươi: 84 kcal/100g | đạm 11.9g | béo 0.7g | carb 7.6g
+- Ốc vặn, hấp: 289 kcal/100g | đạm 48.8g | béo 2.8g | carb 17.2g
+- Ốc vặn, luộc: 289 kcal/100g | đạm 48.8g | béo 2.8g | carb 17.2g
+- Ốc vặn, nướng: 289 kcal/100g | đạm 48.8g | béo 2.8g | carb 17.2g
+- Ốc vặn, raw: 72 kcal/100g | đạm 12.2g | béo 0.7g | carb 4.3g
+- Ổi, quả chín, tươi: 61 kcal/100g | đạm 0.6g | béo 0.7g | carb 12.9g
+- Ớt đỏ to, tươi: 31 kcal/100g | đạm 0.9g | béo 0.3g | carb 6.0g
+- Ớt xanh to, tươi: 31 kcal/100g | đạm 1.3g | béo 0.1g | carb 6.0g
+- Phổi bò, tươi: 103 kcal/100g | đạm 15.2g | béo 4.7g | carb 0g
+- Phổi lợn, tươi: 92 kcal/100g | đạm 14.8g | béo 3.6g | carb 0g
+- Quả bơ vỏ tím, tươi: 76 kcal/100g | đạm 1.8g | béo 6.2g | carb 3.2g
+- Quả bơ vỏ xanh, tươi: 103 kcal/100g | đạm 1.9g | béo 9.4g | carb 2.8g
+- Quả cóc, tươi: 62 kcal/100g | đạm 1.8g | béo 0g | carb 13.7g
+- Quả đậu ván, tươi: 39 kcal/100g | đạm 2.8g | béo 0g | carb 7g
+- Quả dọc, tươi: 19 kcal/100g | đạm 0.8g | béo 0g | carb 3.9g
+- Quả kiwi, tươi: 68 kcal/100g | đạm 1.1g | béo 0.5g | carb 14.6g
+- Quả me chua, tươi: 35 kcal/100g | đạm 1.9g | béo 0g | carb 6.8g
+- Quả sấu xanh, tươi: 19 kcal/100g | đạm 1.8g | béo 0g | carb 3g
+- Quả su su, tươi: 23 kcal/100g | đạm 0.8g | béo 0.1g | carb 4.6g
+- Quả thanh long, tươi: 47 kcal/100g | đạm 1.3g | béo 0g | carb 10.5g

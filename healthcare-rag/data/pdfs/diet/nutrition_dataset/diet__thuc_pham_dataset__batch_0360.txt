@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 360-380)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Thịt lợn, nửa nạc, nửa mỡ, tươi: 260 kcal/100g | đạm 16.5g | béo 21.5g | carb 0g
+- Thịt ngan, luộc: 400 kcal/100g | đạm 23.6g | béo 33.9g | carb 0g
+- Thịt ngan, tươi: 288 kcal/100g | đạm 17.0g | béo 24.4g | carb 0g
+- Thịt ngỗng, luộc: 568 kcal/100g | đạm 19.4g | béo 54.4g | carb 0g
+- Thịt ngỗng, tươi: 409 kcal/100g | đạm 14g | béo 39.2g | carb 0g
+- Thịt ngựa, tươi: 176 kcal/100g | đạm 21.5g | béo 10g | carb 0g
+- Thịt thỏ nhà, tươi: 158 kcal/100g | đạm 21.5g | béo 8g | carb 0g
+- Thịt thỏ rừng, tươi: 103 kcal/100g | đạm 23.5g | béo 1g | carb 0g
+- Thịt trâu bắp, chần: 153 kcal/100g | đạm 29.2g | béo 4g | carb 0g
+- Thịt trâu bắp, luộc: 171 kcal/100g | đạm 32.6g | béo 4.4g | carb 0g
+- Thịt trâu khô: 226 kcal/100g | đạm 50.4g | béo 2.7g | carb 0g
+- Thịt trâu thăn, chần: 161 kcal/100g | đạm 30.4g | béo 4.4g | carb 0g
+- Thịt trâu thăn, luộc: 180 kcal/100g | đạm 34.0g | béo 4.9g | carb 0g
+- Thịt trâu, bắp, tươi: 115 kcal/100g | đạm 21.9g | béo 3g | carb 0g
+- Thịt trâu, cổ, tươi: 112 kcal/100g | đạm 20.9g | béo 3.1g | carb 0g
+- Thịt trâu, đùi, tươi: 121 kcal/100g | đạm 22.8g | béo 3.3g | carb 0g
+- Thịt trâu, đùi, tươi: 112 kcal/100g | đạm 21.2g | béo 3g | carb 0g
+- Thịt trâu, tươi: 97 kcal/100g | đạm 20.3g | béo 1.3g | carb 0.8g
+- Thịt vịt, cánh, hấp: 261 kcal/100g | đạm 26.5g | béo 17.2g | carb 0g
+- Thịt vịt, đùi, luộc: 267 kcal/100g | đạm 17.8g | béo 21.8g | carb 0g

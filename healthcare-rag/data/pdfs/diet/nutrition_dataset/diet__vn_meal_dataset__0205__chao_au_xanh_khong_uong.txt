@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cháo đậu xanh không đường", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cháo đậu xanh không đường
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: cháo đậu xanh, protein thực vật, GI thấp, chất xơ
+
+Mô tả: Cháo đậu xanh không đường GI thấp, protein và chất xơ cao.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 4.5
+Calo: 198 kcal
+Chất đạm (protein): 10.5 g
+Chất béo tổng: 2.5 g (bão hòa: 0.4 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 32.5 g (chất xơ: 7.5 g, đường: 1.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 185 mg
+Kali: 485 mg | Phốt pho: 185 mg | Magie: 55 mg
+Canxi: 32 mg | Sắt: 2.8 mg | Vitamin D: 0.1 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Protein chất xơ cao GI thấp - cháo đặc hơn tốt hơn
+Khẩu phần khuyến nghị: 1 tô/bữa sáng hoặc tối
+Chống chỉ định / thận trọng: Không dùng đường
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g đậu xanh
+400ml nước
+1/4 muỡng muối
+
+--- Cách chế biến ---
+1. Ngâm đậu xanh 2 giờ
+2. Nấu cháo đặc 35 phút
+3. Không cho đường
+4. Có thể thêm gừng

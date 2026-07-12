@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Trà ổi non", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trà ổi non
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: lá ổi non, guava leaf, tanin, đường huyết
+
+Mô tả: Lá ổi non có một số nghiên cứu sơ bộ về hỗ trợ ổn định đường huyết, dùng như trà thảo mộc.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 5 kcal
+Chất đạm (protein): 0.2 g
+Chất béo tổng: 0.0 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 1.0 g (chất xơ: 0.0 g, đường: 0.0 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 2 mg
+Kali: 15 mg | Phốt pho: 5 mg | Magie: 3 mg
+Canxi: 5 mg | Sắt: 0.1 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Một số nghiên cứu sơ bộ về hỗ trợ đường huyết - cần thêm nghiên cứu xác nhận
+Khẩu phần khuyến nghị: 1-2 ly/ngày
+Chống chỉ định / thận trọng: Tham khảo bác sĩ trước khi dùng thường xuyên
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+10g lá ổi non khô
+400ml nước nóng
+
+--- Cách chế biến ---
+1. Hãm lá ổi non với nước nóng 12 phút
+2. Lọc bỏ xác lá
+3. Uống ấm

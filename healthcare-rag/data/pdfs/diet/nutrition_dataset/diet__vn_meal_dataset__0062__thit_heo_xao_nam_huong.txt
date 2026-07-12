@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Thịt heo xào nấm hương", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thịt heo xào nấm hương
+Loại món: Món xào | Ẩm thực: Vietnamese
+Từ khóa: thịt heo, nấm hương, beta-glucan, protein
+
+Mô tả: Nấm hương chứa lentinan và beta-glucan tăng miễn dịch và ổn định đường huyết.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.5
+Calo: 175 kcal
+Chất đạm (protein): 19.5 g
+Chất béo tổng: 7.8 g (bão hòa: 2.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.5 g (chất xơ: 3.5 g, đường: 1.8 g, đường bổ sung: 0.0 g)
+Cholesterol: 52 mg | Natri: 358 mg
+Kali: 435 mg | Phốt pho: 185 mg | Magie: 38 mg
+Canxi: 28 mg | Sắt: 1.8 mg | Vitamin D: 0.8 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Lentinan từ nấm hương tăng miễn dịch cho bệnh nhân TĐ
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+150g thịt nạc
+150g nấm hương
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Nấm hương ngâm nở bỏ cuống
+2. Phi tỏi
+3. Xào thịt chín
+4. Cho nấm hương vào xào 5 phút
+5. Nêm gia vị

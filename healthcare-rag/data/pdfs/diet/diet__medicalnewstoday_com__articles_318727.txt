@@ -1,0 +1,22 @@
+===METADATA===
+{
+  "url": "https://www.medicalnewstoday.com/articles/318727",
+  "title": "Best drinks for diabetics",
+  "category": "diet",
+  "language": "en",
+  "source_priority": 3,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:10:31.498132",
+  "source_name": "medicalnewstoday.com",
+  "document_title": "Best drinks for diabetics",
+  "fetch_method": "playwright_fallback",
+  "extraction_method": "fallback",
+  "word_count": 283,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Best drinks for diabetics
+
+Error Page
+
+Podcast: ADHD in women - Breaking the stereotypes Health Conditions Alzheimer's & Dementia Anxiety Asthma & Allergies Atopic Dermatitis Breast Cancer Cancer Cardiovascular Health COVID-19 Diabetes Endometriosis Environment & Sustainability Exercise & Fitness Eye Health Headache & Migraine Health Equity HIV & AIDS Human Biology Leukemia LGBTQIA+ Men's Health Mental Health Multiple Sclerosis (MS) Nutrition Parkinson's Disease Psoriasis Sexual Health Ulcerative Colitis Women's Health Health Products All Nutrition & Fitness Vitamins & Supplements CBD Sleep Mental Health At-Home Testing Men’s Health Women’s Health News Latest News Medicare 2026 Costs Original Series Medical Myths Honest Nutrition Through My Eyes New Normal Health Podcasts All ADHD in women: Breaking the stereotypes Is sleep the missing piece in mental health? Artificial sweeteners and brain aging: What we know so far Does the Mediterranean diet hold the key to longevity? AMA: Registered dietitian answers 5 key questions about fiber and weight loss Health misinformation and disinformation: How to avoid it General Health Drugs A-Z Health Hubs Newsletter Medicare Plans by State Health Tools Find a Doctor BMI Calculators and Charts Blood Pressure Chart: Ranges and Guide Breast Cancer: Self-Examination Guide Sleep Calculator Quizzes RA Myths vs Facts Type 2 Diabetes: Managing Blood Sugar Ankylosing Spondylitis Pain: Fact or Fiction About Medical News Today Who We Are Our Editorial Process Content Integrity Conscious Language Find Community Bezzy Breast Cancer Bezzy MS Bezzy Migraine Bezzy Psoriasis Follow Us Oops! Looks like we’ve hit a bit of a snag. We seem to have misplaced this page. Status: 404 Message: Not Found Let us know so we can get the page back up and running. In the meantime, why not search for what you need right here on MNT?

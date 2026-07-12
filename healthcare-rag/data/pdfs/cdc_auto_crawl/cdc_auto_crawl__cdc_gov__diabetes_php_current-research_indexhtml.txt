@@ -1,0 +1,72 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/php/current-research/index.html",
+  "title": "Current Research Projects",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:16.057289",
+  "source_name": "cdc.gov",
+  "document_title": "Current Research Projects",
+  "extraction_method": "<main>",
+  "word_count": 510,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Current Research Projects
+
+Current Research Projects
+
+May 15, 2024
+
+What to know
+
+The Division of Diabetes Translation (DDT) conducts and supports studies, often in collaboration with partners, to develop and apply sound science to reduce the burden of diabetes. These studies also help to address the research needs of DDT programs and the diabetes community.
+
+Applied research and surveillance
+Applied research includes studies to:
+
+Identify risk factors that can change.
+Determine the effectiveness of interventions at the individual, health care system, community, and policy levels.
+Prioritize the value of successful interventions.
+
+Surveillance involves the collection and analysis of data to:
+
+Identify the burden and magnitude of diabetes and its related conditions.
+Evaluate the impact of diabetes prevention programs.
+Guide decision-making.
+Prioritize national public health objectives.
+
+Current projects
+
+Diabetes in Young Adults (DiYA) Study – The DiYA study assesses new cases of type 1 and type 2 diabetes in young adults (aged 20–45 years) using data from Kaiser Permanente in California. Although half of the cases of type 1 diabetes occur in adulthood, there are very limited data on the incidence of type 1 diabetes in the U.S. adult population.
+Assessing the Burden of Diabetes by Type in Children, Adolescents, and Young Adults (DiCAYA) Study – The DiCAYA study is a multicenter collaboration that seeks to capitalize on electronic health record data to modernize diabetes surveillance efforts and monitor trends in diabetes prevalence and incidence by diabetes type.
+
+Health policy and health services
+Health policy and health services research examines the effect of health policies and system-based approaches on the risks and outcomes of diabetes for various population groups.
+Current projects
+Natural Experiments for Translation in Diabetes 3.0 (NEXT-D3) Study – The NEXT-D3 Network is a 5-year research collaboration to evaluate the impacts of naturally occurring policies and practice changes, with a focus on diabetes-related outcomes.
+NEXT-D3 projects address:
+
+Whether and to what extent federal or state legislative policies and health plan innovations affect type 2 diabetes risk and diabetes treatment and outcomes.
+
+The real-world effects of increased access to health insurance under the Affordable Care Act.
+The effectiveness of interventions that reduce barriers to medication access.
+
+Effectiveness research
+Effectiveness research assesses whether interventions and strategies to prevent, diagnose, treat, and monitor diabetes work. This research is designed to identify for patients, health care providers, and decision makers the interventions or strategies that are most effective for specific populations under certain circumstances.
+Current projects
+
+Action for Health in Diabetes (Look AHEAD)-Extension – The Look AHEAD-Extension study assesses the long-term effect of an intensive lifestyle intervention on life expectancy, health care costs, and key dimensions of healthy aging (less frailty, reduced small blood vessel complications from diabetes, and improved quality of life).
+30-Year Follow-up of Da Qing Diabetes Prevention Study – This study examines the long-term effects of lifestyle changes on major cardiovascular disease, microvascular (small blood vessel) complications (such as eye and kidney diseases), and life expectancy.
+
+U.S. Diabetes Surveillance System
+Chronic Kidney Disease Surveillance System
+Vision and Eye Health Surveillance System
+Diabetes State Burden Toolkit
+Diabetes Prevention Impact Toolkit
+
+May 15, 2024
+
+Syndicate

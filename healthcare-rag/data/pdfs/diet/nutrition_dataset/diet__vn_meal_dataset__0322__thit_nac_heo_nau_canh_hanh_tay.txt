@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Thịt nạc heo nấu canh hành tây", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thịt nạc heo nấu canh hành tây
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: thịt nạc heo, hành tây, protein, nấu canh
+
+Mô tả: Thịt nạc heo nấu canh hành tây là món nấu canh kết hợp thịt nạc heo và hành tây, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.4
+Calo: 208 kcal
+Chất đạm (protein): 20.0 g
+Chất béo tổng: 11.2 g (bão hòa: 3.7 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 10.9 g (chất xơ: 4.1 g, đường: 1.3 g, đường bổ sung: 0.0 g)
+Cholesterol: 45 mg | Natri: 261 mg
+Kali: 222 mg | Phốt pho: 175 mg | Magie: 57 mg
+Canxi: 28 mg | Sắt: 1.8 mg | Vitamin D: 0.0 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Thịt nạc; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g thịt nạc heo
+200g hành tây
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế thịt nạc heo và hành tây
+2. Nấu canh theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

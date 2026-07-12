@@ -1,0 +1,61 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/risk-factors/diabetes-and-smoking.html",
+  "title": "Diabetes and Smoking - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:10.641249",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes and Smoking - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 474,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes and Smoking - CDC
+
+May 15, 2024
+
+Español
+
+Diabetes and Smoking
+
+Key points
+
+Smoking can increase your risk of type 2 diabetes.
+
+If you have diabetes, smoking can worsen your condition and cause health complications.
+
+Find out how they're related, and why quitting is one of the best things you can do for your health.
+
+Increased risk of type 2 diabetes
+If you smoke, you have a 30% to 40% higher risk of developing type 2 diabetes than people who don't smoke. The more you smoke, the higher your risk.
+Nicotine, a chemical found in tobacco products, raises your blood sugar. The chemicals in cigarettes and other tobacco products also damage your body and cause inflammation (an immune response). Inflammation and nicotine both make it harder for your body to regulate blood sugar.
+People who smoke have a higher risk of belly fat, which also increases the risk of type 2 diabetes, even if they don't have overweight.
+
+Smoking and managing diabetes
+Managing diabetes is challenging, and smoking can make it even harder. Since nicotine increases your blood sugar levels, people with diabetes who smoke often need larger doses of insulin.
+Diabetes causes serious health complications such as heart disease, kidney disease, vision loss, or an amputation (removal by surgery) of a toe, foot, or leg. If you have diabetes and smoke, you're more likely to have complications—and worse complications—than people with diabetes who don't smoke.
+
+Quit for good
+No matter how long you've smoked—or how much—quitting will improve your health. When you stop smoking, your body starts healing itself:
+
+In 12 hours, carbon monoxide (a toxic gas from cigarette smoke) in your blood drops to normal.
+
+In 2 weeks to 3 months, your circulation and lungs improve.
+
+In a year, your risk for heart disease is half that of someone who still smokes.
+
+Quitting smoking also helps to make your blood sugar levels easier to manage. After quitting, you may need to check your blood sugar more often (since your levels may go down) until your body adjusts to being smoke-free.
+Help for quitting
+Nicotine replacement products such as gum, patches, and lozenges are some of the best tools to help you stop smoking. They can double your chances of quitting for good. Products with nicotine raise your blood sugar, so be sure to talk to your doctor about using them if you have diabetes.
+
+Don't give up if you're not able to quit on your first try. And don't be too hard on yourself if you slip up. It can take several attempts until you're smoke-free for good (though some people quit their first time).
+
+Did you know?
+You don't have to do it alone: ask friends and family for support. You can get free, confidential coaching to help you quit by calling 1-800-QUIT-NOW (1-800-784-8669; also available in Spanish and several Asian languages).
+
+May 15, 2024

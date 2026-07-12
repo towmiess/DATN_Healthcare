@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Chuối luộc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Chuối luộc
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: chuối, luộc, kali, GI trung bình
+
+Mô tả: Chuối luộc GI thấp hơn chuối tươi do tinh bột chuyển hóa chậm hơn khi nấu chín vừa.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 7.5
+Calo: 89 kcal
+Chất đạm (protein): 1.1 g
+Chất béo tổng: 0.3 g (bão hòa: 0.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 22.8 g (chất xơ: 2.6 g, đường: 12.0 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 1 mg
+Kali: 358 mg | Phốt pho: 22 mg | Magie: 27 mg
+Canxi: 5 mg | Sắt: 0.3 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI trung bình - dùng lượng vừa phải; TĐ thai kỳ hạn chế
+Khẩu phần khuyến nghị: 1 quả nhỏ/bữa phụ
+Chống chỉ định / thận trọng: TĐ thai kỳ hạn chế lượng
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+1 quả chuối chưa chín hẳn
+
+--- Cách chế biến ---
+1. Chuối để nguyên vỏ
+2. Luộc 10 phút
+3. Ăn khi còn ấm

@@ -1,0 +1,75 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/risk-factors/diabetes-and-men.html",
+  "title": "Diabetes and Men - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:13.393583",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes and Men - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 458,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes and Men - CDC
+
+May 15, 2024
+
+Español
+
+Diabetes and Men
+
+Key points
+
+Men are more likely to develop type 2 diabetes at a lower weight than women. Men tend to store fat in their bellies—a known risk factor.
+
+Diabetes can cause sexual health problems.
+
+Men are less likely to talk about sexual health, but these problems are often treatable.
+
+Diabetes complications for men
+Men are less likely to go to the doctor than women. Research shows this is because they don't want to hear bad news about their health.
+When diabetes isn't diagnosed and managed, it could cause health complications like heart disease, stroke, vision loss, kidney failure, even amputation of a toe, foot, or leg. Some diabetes problems also hit men below the belt.
+Keep Reading:
+Diabetes Complications
+
+Erectile dysfunction (ED)
+With ED, a man can't get or keep an erection firm enough for sex. ED is common in middle-aged and older men, affecting as many as 30 million in the United States. Diabetes increases the risk of ED because high blood sugar damages nerves and blood vessels needed to have an erection.
+
+Did you know?
+Men with diabetes are 3 times more likely to have erectile dysfunction, but 95% of cases are treatable.
+
+It's not uncommon to have trouble getting an erection sometimes, but if it gets worse, happens often, or prevents you from living the life you want, it's time to get it checked out.
+Men with diabetes are more likely to have heart disease, and ED can be a warning sign of blood vessel problems. If you have both, talk to your doctor about treatment. Some ED medicines aren't safe to take with certain heart medicines, so make sure you let your doctor know about all medicines you're taking.
+It can be tough to talk about ED, but it's a conversation worth having with your doctor so you can get treated. There are a number of treatment options available including:
+
+Medicines.
+
+Testosterone.
+
+Vacuum devices.
+
+Injections or suppositories.
+
+Implants.
+
+Each treatment option has pros and cons, but almost all men with ED can be successfully treated. Be sure to talk to your doctor about your options to find one that works for you.
+
+Other health problems
+In addition to ED, nerve damage from diabetes can cause other problems for men, including:
+
+Overactive bladder (urinating often, especially at night)
+
+Incontinence (leaking urine)
+
+Urinary tract infections (UTIs)
+
+Retrograde ejaculation (semen is released into the bladder)
+
+These problems could mean you need to change how you're managing your diabetes. If you're having health complications from diabetes, it could be a sign that your blood sugar is too high. Healthy habits like being active and eating a balanced diet can help you manage diabetes, and prevent or delay complications.
+
+May 15, 2024

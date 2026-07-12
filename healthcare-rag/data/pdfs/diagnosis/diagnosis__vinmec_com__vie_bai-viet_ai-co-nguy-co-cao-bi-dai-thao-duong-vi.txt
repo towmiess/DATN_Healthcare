@@ -1,0 +1,34 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/ai-co-nguy-co-cao-bi-dai-thao-duong-vi",
+  "title": "Ai có nguy cơ cao bị ĐTĐ",
+  "category": "diagnosis",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:07:55.461447",
+  "source_name": "vinmec.com",
+  "document_title": "Ai có nguy cơ cao bị ĐTĐ",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 874,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Ai có nguy cơ cao bị ĐTĐ
+
+-->
+
+Chuyên trang sức khoẻ
+Sức khoẻ tổng quát
+
+Ai có nguy cơ cao bị đái tháo đường?
+
+☰
+Mục lục
+
+Đái tháo đường là tình trạng giảm tiết insulin và kháng insulin ngoại vi dẫn tới tăng glucose máu. Đái tháo đường có thể gây ra biến chứng muộn như các bệnh mạch máu, bệnh thận, bệnh thần kinh ngoại vi,... Vậy ai có nguy cơ cao bị đái tháo đường?
+1. Biểu hiện của bệnh đái tháo đường
+Bệnh đái tháo đường là tình trạng giảm tiết insulin và kháng insulin ngoại vi dẫn tới tăng glucose máu gây ra do nhiều nguyên nhân khác nhau. Một số yếu tố nguy cơ đái tháo đường như yếu tố di truyền, chế độ sinh hoạt, chế độ ăn,... Đái tháo đường có 2 tuýp bao gồm: Đái tháo đường tuýp 1 : thường gặp ở người trẻ do tụy không sản xuất ra insulin và phải bắt buộc điều trị bằng insulin. Đái tháo đường tuýp 2 : thường gặp nhất và đa số là những người trên 40 tuổi, do insulin hoạt động không hiệu quả và có thể kèm theo giảm tiết insulin tuỳ vào từng giai đoạn của bệnh. Đái tháo đường là tình trạng rối loạn chuyển hóa phức tạp, người bệnh thường có những biểu hiện như khát nước, tiểu nhiều, uống nhiều, mờ mắt, yếu mệt,... Để xác định người bệnh mắc đái tháo đường thì cần xét nghiệm đường huyết 2 lần, đường huyết cao khi: Đường huyết bất kỳ ≥ 11mmol/l Đường huyết lúc đói ≥ 7mmol/l Đường huyết sau 2 giờ uống 75 gram glucose ≥ 11,1 mmol/l
+2. Ai có nguy cơ cao bị đái tháo đường?
+2.1 Thường xuyên ăn thức ăn nhiều calo Ngày nay, mức sống ngày càng được cải thiện và hầu hết mọi người đều ưa chuộng những thực phẩm giàu đạm, nhiều chất béo và tiêu thụ quá nhiều. Trong thời gian dài nếu vẫn tiếp tục duy trì thì cơ thể hoàn toàn không thể tiêu thụ một lượng lớn thịt và các loại thực phẩm khác. Nếu lượng calo trong cơ thể tăng cao vượt ngưỡng tiêu chuẩn thì cơ thể sẽ bị thiếu hụt hàm lượng insulin. Trong đó, insulin là thành phần quan trọng để phá vỡ lượng đường trong máu, nếu hàm lượng insulin không đủ sẽ khiến cho glucose máu tăng cao và khả năng mắc bệnh đái tháo đường cũng tăng. 2.2 Không tập thể dục Khi làm việc với cường độ cao nhiều ngày, nhiều người thường lựa chọn nằm nghỉ thay vì tập thể dục. Nghỉ ngơi sau khi ăn no sẽ khiến cho chất béo trong cơ thể tích tụ lại và lượng đường trong máu sẽ không được sử dụng hiệu quả, lâu dần sẽ là cơ hội làm tăng nguy cơ mắc đái tháo đường. 2.3 Tiền sử gia đình mắc bệnh đái tháo đường Bệnh đái tháo đường có tính di truyền nhất định và các số liệu liên quan cho thấy nếu như bố hoặc mẹ mắc bệnh đái tháo đường thì xác suất con cái mắc bệnh sẽ cao gấp 3 lần so với người bình thường. Nếu trường hợp cả bố và mẹ đều mắc đái tháo đường thì xác suất con cái mắc bệnh cao gấp 6 lần so với người bình thường. 2.4 Thừa cân béo phì Thừa cân béo phì chủ yếu ảnh hưởng tới độ nhạy insulin của cơ thể. Cơ thể sẽ tăng khối lượng công việc của các tiểu đảo, hàm lượng insulin cũng sẽ bị ảnh hưởng tới một mức độ nhất định, những thụ thể insulin cũng sẽ không nhạy cảm và tự nhiên xác suất mắc bệnh sẽ tăng lên. Ngoài ra, những người thừa cân béo phì bởi tình trạng béo bụng cũng sẽ ảnh hưởng tới các cơ quan nội tạng. 2.5 Bệnh nhân tăng lipid máu và tăng huyết áp Bệnh nhân tăng huyết áp và lipid máu đều có nguy cơ mắc bệnh đái tháo đường cao, bởi vì lipid máu và huyết áp tăng cao có thể khiến cơ thể xuất hiện tình trạng kháng insulin. 2.6 Hút thuốc Những người thường xuyên hút thuốc lá sẽ có nguy cơ cao mắc bệnh đái tháo đường. Bởi vì, hút thuốc lá có thể khiến cho cơ thể phát triển kháng insulin và dung nạp glucose bất thường. 2.7 Người ở độ tuổi trung niên và người già Những người ở độ tuổi trung niên và người già, lúc này cơ thể bắt đầu lão hóa, mọi chức năng và hoạt động sẽ không còn tốt bao gồm cả thụ thể insulin nên cũng dễ mắc bệnh hơn. Tóm lại, đái tháo đường là một bệnh lý mãn tính chưa có biện pháp chữa khỏi hoàn toàn. Hơn nữa, bệnh đái tháo đường có thể gây ra biến chứng tim mạch, bệnh thận, dễ nhiễm khuẩn,... ảnh hưởng nghiêm trọng tới sức khỏe người bệnh. Vì vậy, những người có yếu tố nguy cơ đái tháo đường cần phải thực hiện các biện pháp phòng ngừa hiệu quả, kết hợp chế độ ăn và lối sống lành mạnh.

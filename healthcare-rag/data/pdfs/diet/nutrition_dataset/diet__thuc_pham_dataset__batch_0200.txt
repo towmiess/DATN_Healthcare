@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 200-220)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Nhút (dưa muối từ mít non, lá đậu xanh non...): 25 kcal/100g | đạm 2.5g | béo 0g | carb 3.8g
+- Nụ mướp, tươi: 36 kcal/100g | đạm 4.9g | béo 0g | carb 4g
+- Nước canh: 1 kcal/100g | đạm 0g | béo 0g | carb 0g
+- Nước dùng: 1 kcal/100g | đạm 0g | béo 0g | carb 0g
+- Nước hầm xương lợn: 1 kcal/100g | đạm 0g | béo 0g | carb 0g
+- Óc bò, luộc: 134 kcal/100g | đạm 9.7g | béo 10.3g | carb 0.5g
+- Óc bò, tươi: 124 kcal/100g | đạm 9g | béo 9.5g | carb 0.5g
+- Ốc bươu, luộc: 336 kcal/100g | đạm 44.4g | béo 2.8g | carb 33.2g
+- Ốc bươu, tươi: 84 kcal/100g | đạm 11.1g | béo 0.7g | carb 8.3g
+- Ốc đá, tươi: 63 kcal/100g | đạm 11.2g | béo 0.3g | carb 3.9g
+- Ốc hương, hấp: 94 kcal/100g | đạm 22.4g | béo 2.7g | carb 2.4g
+- Ốc hương, luộc: 94 kcal/100g | đạm 22.4g | béo 2.7g | carb 2.4g
+- Ốc hương, nướng: 94 kcal/100g | đạm 22.4g | béo 2.7g | carb 2.4g
+- Ốc len, hấp: 94 kcal/100g | đạm 22.4g | béo 2.7g | carb 2.4g
+- Ốc len, nướng: 94 kcal/100g | đạm 22.4g | béo 2.7g | carb 2.4g
+- Óc lợn, luộc: 134 kcal/100g | đạm 9.7g | béo 10.3g | carb 0.4g
+- Óc lợn, tươi: 123 kcal/100g | đạm 9g | béo 9.5g | carb 0.4g
+- Ốc móng tay, luộc: 123 kcal/100g | đạm 15.8g | béo 5.6g | carb 2.0g
+- Ốc móng tay, nướng: 123 kcal/100g | đạm 15.8g | béo 5.6g | carb 2.0g
+- Ốc nhồi, hấp: 337 kcal/100g | đạm 47.6g | béo 2.8g | carb 30.4g

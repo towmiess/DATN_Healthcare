@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Tôm nấu canh với mướp", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Tôm nấu canh với mướp
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: tôm, mướp, protein, nấu canh
+
+Mô tả: Tôm nấu canh với mướp là món nấu canh kết hợp tôm và mướp, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 191 kcal
+Chất đạm (protein): 16.9 g
+Chất béo tổng: 7.5 g (bão hòa: 2.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.7 g (chất xơ: 4.0 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 165 mg | Natri: 431 mg
+Kali: 195 mg | Phốt pho: 136 mg | Magie: 33 mg
+Canxi: 85 mg | Sắt: 1.2 mg | Vitamin D: 0.0 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Thịt nạc; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g tôm
+200g mướp
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế tôm và mướp
+2. Nấu canh theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

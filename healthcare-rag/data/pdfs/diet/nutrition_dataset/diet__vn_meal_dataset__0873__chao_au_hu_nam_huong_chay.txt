@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Cháo đậu hũ nấm hương chay", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cháo đậu hũ nấm hương chay
+Loại món: Chay/Đậu hũ | Ẩm thực: Vietnamese
+Từ khóa: cháo chay, đậu hũ, nấm hương, GI thấp
+
+Mô tả: Cháo chay hoàn toàn thực vật, gạo lứt GI thấp kết hợp đậu hũ và nấm hương.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 4.5
+Calo: 195 kcal
+Chất đạm (protein): 11.5 g
+Chất béo tổng: 5.5 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 28.5 g (chất xơ: 4.5 g, đường: 2.0 g, đường bổ sung: 0.3 g)
+Cholesterol: 0 mg | Natri: 295 mg
+Kali: 425 mg | Phốt pho: 165 mg | Magie: 45 mg
+Canxi: 118 mg | Sắt: 2.2 mg | Vitamin D: 0.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Hoàn toàn chay phù hợp mọi loại TĐ ăn chay
+Khẩu phần khuyến nghị: ['bữa sáng']
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+80g gạo lứt
+100g đậu hũ
+50g nấm hương
+
+--- Cách chế biến ---
+1. Nấu cháo gạo lứt đặc
+2. Thêm đậu hũ nấm hương
+3. Nêm gia vị nhạt

@@ -1,0 +1,106 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/living-with/managing-sick-days.html",
+  "title": "Managing Sick Days",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:13:19.221475",
+  "source_name": "cdc.gov",
+  "document_title": "Managing Sick Days",
+  "extraction_method": "<main>",
+  "word_count": 522,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Managing Sick Days
+
+May 15, 2024
+
+Español
+
+Managing Sick Days
+
+Key points
+
+Like everyone, people with diabetes can get sick even when trying to prevent it.
+
+Find out how to be prepared so you'll know what to do if you get sick.
+
+Prepare now before getting sick
+Make sure you have insulin, other diabetes medicines, and easy-to-make foods, enough for several weeks or longer. Consider having these medicines and supplies in your home:
+
+Milk of magnesia
+
+Medicine to control diarrhea
+
+Antacid
+
+Pain reliever
+
+Thermometer
+
+Suppositories to treat vomiting
+
+Some examples of foods you may want on hand include:
+
+Sports drinks
+
+Canned soup
+
+Fruit juice or regular soda
+
+Instant cooked cereals
+
+Crackers
+
+Instant pudding
+
+Unsweetened applesauce
+
+If you can't eat meals, you'll need to eat or drink about 50 grams of carbohydrates every 4 hours. Some examples include 1&frac12; cup of unsweetened applesauce or 1&frac12; cup of fruit juice.
+
+If you get sick
+If you do get sick, your blood sugar can be hard to manage. You may not be able to eat or drink as much as usual, which can affect blood sugar levels.
+Your doctor may ask you to test your blood sugar more often when you're sick. That's because when your body releases hormones to fight the illness, it can also raise your blood sugar levels. If you take insulin, being sick may affect how much you need.
+Diabetic ketoacidosis (DKA)
+If your body doesn't have enough insulin, it starts breaking down fat as fuel, which produces a byproduct called ketones. When too many ketones are produced too fast, they can cause DKA . DKA is very serious and can cause a coma or even death.
+You can use an over-the-counter kit to test your urine for ketones. If ketones are present, call your doctor right away. You'll probably need to go to the hospital for treatment.
+More tips if you get sick
+Follow these additional steps when you're sick even if your blood sugar is within your target range:
+
+Continue taking your insulin and diabetes pills as usual.
+
+Test your blood sugar every 4 hours and keep track of the results.
+
+Drink plenty of water to prevent dehydration.
+
+Try to eat as you normally would.
+
+Weigh yourself every day. Losing weight without trying is a sign of high blood sugar.
+
+Check your temperature every morning and evening. A fever may be a sign of infection.
+
+When to go to the emergency room
+Go to the emergency room right away if any of the following occurs:
+
+You're having trouble breathing.
+
+You have ketones in your urine.
+
+You can't keep any liquids down for more than 4 hours, or can't keep food down more than 24 hours.
+
+You lose 5 pounds or more during the illness.
+
+Your blood sugar is lower than 60 mg/dl.
+
+You have vomiting and/or severe diarrhea for more than 6 hours.
+
+Your temperature is over 101 degrees F for 24 hours.
+
+Being sick and/or having a low blood sugar level can cause fatigue or difficulty thinking clearly. If needed, have someone else call your doctor or take you to the emergency room to avoid unsafe driving.
+
+May 14, 2024
+
+Syndicate

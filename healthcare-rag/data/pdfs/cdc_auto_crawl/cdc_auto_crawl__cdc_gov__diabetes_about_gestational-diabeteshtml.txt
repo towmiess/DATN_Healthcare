@@ -1,0 +1,78 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/about/gestational-diabetes.html",
+  "title": "Gestational Diabetes",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:01.186866",
+  "source_name": "cdc.gov",
+  "document_title": "Gestational Diabetes",
+  "extraction_method": "<main>",
+  "word_count": 595,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Gestational Diabetes
+
+May 15, 2024
+
+Español
+
+Gestational Diabetes
+
+Key points
+
+Gestational diabetes can develop during pregnancy in women who don't already have diabetes.
+
+It usually develops around the 24th week of pregnancy.
+
+Gestational diabetes may not cause symptoms, so testing for it between 24 and 28 weeks is important.
+
+Overview
+Gestational diabetes can develop during pregnancy in women who don't already have diabetes. Every year, 5% to 9% of U.S. pregnancies are affected by gestational diabetes. Managing gestational diabetes can help make sure you have a healthy pregnancy and a healthy baby.
+
+Gestational diabetes often doesn't have any symptoms. If you do have symptoms, they may be mild, such as being thirstier than normal or having to urinate more often. You'll need to be tested to know for sure if you have gestational diabetes.
+
+You're at higher risk for gestational diabetes if you:
+
+Had gestational diabetes during a previous pregnancy.
+
+Have given birth to a baby who weighed over 9 pounds.
+
+Are overweight.
+
+Have a family history of type 2 diabetes.
+
+Have a hormone disorder called polycystic ovary syndrome (PCOS).
+
+Are an African American, Hispanic or Latino, American Indian, Alaska Native, Native Hawaiian, or Pacific Islander person.
+
+Causes
+Gestational diabetes happens when your body can't make enough insulin during your pregnancy. Insulin is a hormone made by your pancreas. It acts like a key to let blood sugar into the cells in your body for use as energy.
+During pregnancy, your body makes more hormones and goes through other changes, such as weight gain. These changes cause your body's cells to use insulin less well, a condition called insulin resistance . Insulin resistance increases your body's need for insulin.
+All pregnant women have some insulin resistance during late pregnancy. However, some women have insulin resistance even before they get pregnant. They start pregnancy with an increased need for insulin and are more likely to develop gestational diabetes.
+
+Before you get pregnant, you may be able to prevent gestational diabetes with lifestyle changes. These include losing weight if you're overweight, eating a healthy diet, and getting regular physical activity .
+Don't try to lose weight if you're already pregnant. You'll need to gain some weight for your baby to be healthy. Talk to your doctor about how much weight you should gain for a healthy pregnancy.
+
+Prevent type 2 diabetes
+About half of women with gestational diabetes go on to develop type 2 diabetes. Talk to your doctor about how to lower your risk. Ask how often to have your blood sugar checked to make sure you're on track.
+
+It's important to be tested for gestational diabetes so you can begin treatment to protect your baby's health and your own.
+Gestational diabetes usually develops around the 24 th week of pregnancy. You'll probably be tested between 24 and 28 weeks.
+If you're at higher risk for gestational diabetes, your doctor may test you earlier. If your blood sugar is higher than normal early in your pregnancy, you may not have gestational diabetes. You may have type 1 or type 2 diabetes instead.
+You can do a lot to manage your gestational diabetes. Go to all your prenatal appointments and follow your treatment plan, including:
+
+Checking your blood sugar to make sure your levels stay in a healthy range.
+
+Being active lowers your blood sugar and makes you more sensitive to insulin.
+
+Eating healthy food in the right amounts at the right times.
+
+If healthy eating and being active aren't enough to manage your blood sugar, your doctor may prescribe insulin, metformin, or other medication.
+
+May 14, 2024
+
+Syndicate

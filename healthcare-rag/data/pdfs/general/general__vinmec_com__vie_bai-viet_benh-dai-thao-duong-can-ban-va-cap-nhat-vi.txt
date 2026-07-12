@@ -1,0 +1,127 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/benh-dai-thao-duong-can-ban-va-cap-nhat-vi",
+  "title": "Bệnh ĐTĐ căn bản và cập nhật",
+  "category": "general",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:12:10.675608",
+  "source_name": "vinmec.com",
+  "document_title": "Bệnh ĐTĐ căn bản và cập nhật",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 2439,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Bệnh ĐTĐ căn bản và cập nhật
+
+-->
+
+Chuyên trang sức khoẻ
+Sức khoẻ tổng quát
+
+Bệnh thận đái tháo đường: Căn bản và cập nhật
+
+Cố vấn chuyên môn
+
+Bác sĩ chuyên khoa II,
+
+Nguyễn Xuân Thắng
+
+☰
+Mục lục
+
+Bài viết được viết bởi BS Chuyên khoa II Nguyễn Xuân Thắng - Khoa Khám bệnh & Nội khoa - Bệnh viện Đa khoa Quốc tế Vinmec Central Park
+
+Bệnh đái tháo đường (ĐTĐ) được xem như nguyên nhân hàng đầu dẫn đến bệnh thận giai đoạn cuối cần điều trị thay thế thận. Bệnh thận do ĐTĐ hay còn được gọi bệnh thận ĐTĐ, thuộc nhóm biến chứng mạch máu nhỏ của bệnh ĐTĐ, là một trong những nguyên nhân hàng đầu gây bệnh thận mạn và suy thận mạn giai đoạn cuối trên thế giới.
+Theo thời gian, bệnh ĐTĐ được kiểm soát kém có thể gây tổn thương các cụm mạch máu trong thận. Điều này có thể dẫn đến tổn thương thận và gây ra huyết áp cao. Huyết áp cao có thể gây tổn thương thận thêm do làm tăng áp lực lọc cầu thận. Bệnh thận ĐTĐ thường xuất hiện âm ỉ, từ từ và kín đáo và thường kèm các biến chứng mạch máu nhỏ khác như biến chứng thần kinh ngoại biên, bệnh võng mạc ĐTĐ. Bệnh thận ĐTĐ cũng là một yếu tố nguy cơ tim mạch. Cả bệnh thận mạn và ĐTĐ đều làm tăng nguy cơ tử vong sớm, bệnh tim mạch và bệnh thận giai đoạn cuối. Can thiệp vào các giai đoạn thận ĐTĐ giai đoạn sớm rất cần thiết để ngăn tiến triển, làm chậm diễn tiến của bệnh. Kiểm soát tốt đường huyết và điều trị tốt các yếu tố nguy cơ: tăng lipid máu , kiểm soát huyết áp , thay đổi lối sống sử dụng các thuốc ức chế hệ renin angiotensin đã được chứng minh làm giảm biến chứng thận, cũng như các biến chứng tim mạch, giảm tử vong về lâu dài cho bệnh nhân ĐTĐ type 1 và type 2. Việc điều trị bệnh thận ĐTĐ hiện nay đã có nhiều thuốc mới để chọn lựa và được chứng minh có hiệu quả tốt. Bệnh thận mạn ở bệnh nhân ĐTĐ có thể không phải là biến chứng của bệnh ĐTĐ. Chức năng thận có thể bị suy giảm do những nguyên nhân khác: Mất dịch trong cơ thể, thuốc cản quang, thuốc kháng viêm, các bệnh đồng mắc... Để đánh giá suy giảm chức năng thận cần kiểm tra định kỳ độ lọc cầu thận và tỷ lệ Albumin/ Creatinin nước tiểu (ACR).
+1. Dịch tễ
+Khoảng 30 - 40% bệnh nhân ĐTĐ có bệnh thận mạn. Khoảng 40% bệnh nhân suy thận mạn giai đoạn cuối có nguyên nhân là bệnh thận ĐTĐ. Thế giới có 1,7 tỷ người bệnh thận ĐTĐ, và tỷ lệ này dự kiến có thể sẽ tăng gấp đôi vào 2030.
+
+2. Các khái niệm
+Bệnh thận mạn: Tổn thương thận kèm hoặc không kèm giảm độ lọc cầu thận kéo dài trên 3 tháng. Bệnh thận ĐTĐ (Diabetic kidney disease): Bệnh thận do ĐTĐ, có hiện diện albumin trong nước tiểu Bệnh nhân ĐTĐ có bệnh thận mạn, được chẩn đoán DKD khi: + Tiểu albumin đại lượng hoặc vi lượng kèm bệnh võng mạc ĐTĐ Tiểu albumin vi lượng : 30 - 300 mg/24 giờ Tiểu albumin đại lượng : Trên 300 mg/24 giờ + Tiểu albumin vi lượng trên ĐTĐ type 1 được chẩn đoán trên 10 năm + Loại trừ các bệnh thận hoặc đường niệu khác trên bệnh nhân ĐTĐ Bảng 1 : Phân độ tổn thương thận dựa vào tỷ lệ Albumin/ Creatinin nước tiểu (ACR)
+
+Phân độ
+
+ACR (mg/mmol)
+
+Không có tổn thương
+
+< 3
+
+Đạm niệu vi lượng (Microalbumin)
+
+3 - 30
+
+Đạm niệu đại lượng (Macroalbumin)
+
+> 30
+
+Bảng 2: Các giai đoạn của bệnh thận mạn tính theo KDIGO dựa trên độ lọc cầu thận ước tính
+
+Giai đoạn
+
+Đặc điểm
+
+ĐLCT ước tính (mL/phút/1,73m2)
+
+1
+
+Bệnh ĐTĐ với ĐLCT BT hoặc tăng cùng với tiểu albumin trường diễn
+
+≥ 90
+
+2
+
+Bệnh ĐTĐ với ĐLCT giảm nhẹ cùng với tiểu albumin trường diễn
+
+60-89
+
+3a
+
+Giảm ĐLCT nhẹ đến trung bình
+
+45-59
+
+3b
+
+Giảm ĐLCT trung bình đến trầm trọng
+
+30-44
+
+4
+
+Giảm ĐLCT trầm trọng
+
+15-29
+
+5
+
+Suy chức năng thận
+
+<15 (hay lọc thận)
+
+3. Tiến triển của bệnh thận ĐTĐ
+Tiểu albumin vi lượng thường xuyên 30 - 300 mg/24 giờ, sau đó tiểu albumin đại lượng ( Trên 300 mg/24 giờ). Giai đoạn này thường đã có tăng huyết áp. Sau đó giảm độ lọc cầu thận và tăng creatinin máu , diễn tiến đến bệnh thận mạn giai đoạn cuối.
+4. Các yếu tố nguy cơ
+Các yếu tố nguy cơ không thay đổi được gồm khuynh hướng di truyền, chủng tộc, tuổi. Các yếu tố nguy cơ thay đổi được gồm đường huyết, huyết áp, mỡ máu, cân nặng, thuốc lá và các yếu tố nguy cơ bệnh thận khác.
+5 . Triệu chứng lâm sàng
+Trong giai đoạn đầu của bệnh thận do tiểu đường, bạn có thể không nhận thấy bất kỳ dấu hiệu hoặc triệu chứng nào. Trong các giai đoạn sau, các dấu hiệu và triệu chứng bao gồm: Mệt mỏi, cảm giác hụt hơi, ăn mất ngon, buồn nôn và ói mửa, ngứa Tăng huyết áp Đường huyết dao động Phù bàn chân, mắt cá chân, bàn tay hoặc mắt, tiểu ít Lú lẫn hoặc khó tập trung
+
+6. Cận lâm sàng
+Albumin , đạm trong nước tiểu. Creatinin huyết thanh có thể bình thường hoặc tăng. Khoảng 20-25% người bệnh ĐTĐ có tăng độ lọc cầu thận (>120/ml/phút) ở giai đoạn sớm của bệnh, tình trạng này sẽ tăng gấp ba lần khả năng diễn tiến đến bệnh thận ĐTĐ. Siêu âm thận để loại trừ các bệnh lý khác ở thận như thận đa nang, sỏi thận... Sinh thiết thận : không thực hiện để chẩn đoán bệnh thận ĐTĐ nếu người bệnh có diễn tiến điển hình. Có thể cần sinh thiết trong các trường hợp nghi ngờ có bệnh lý khác ở thận như bệnh cầu thận tiến triển nhanh, bệnh thoái biến dạng bột...
+7. Phân biệt các bệnh thận không do ĐTĐ trong các trường hợp
+Tiểu đạm đại lượng khi mới chẩn đoán ĐTĐ dưới 5 năm (nhất là ở bệnh nhân ĐTĐ type 1) Đạm niệu hay hội chứng thận hư diễn tiến nhanh Tăng huyết áp kháng trị Có triệu chứng hay dấu hiệu của bệnh lý toàn thân khác Hiện diện của cặn lắng nước tiểu hay tiểu máu đơn độc Giảm độ lọc cầu thận trên 30% trong vòng 2-3 tháng sau khi khởi phát điều trị chế men chuyển hay ức chế thụ thể Độ lọc cầu thận thấp hay giảm nhanh Không có bệnh lý võng mạc đi kèm
+8. Điều trị
+Mục tiêu điều trị của bệnh nhân bệnh thận ĐTĐ: HbA1c # 7% Huyết áp < 130/80 mmHg Kiểm soát cholesterol máu: LDL <100mg/dL (2,6mmol/L) nếu chưa có biến cố tim mạch Kiểm soát đường huyết Bên cạnh các nhóm thuốc căn bản đã có từ trước, một số loại thuốc hạ đường huyết được phát triển những năm gần đây đã mang lại lợi ích trên tim mạch và thận bên cạnh mục tiêu kiểm soát đường huyết . Theo khuyến cáo của Hội thận học Quốc tế KDIGO 2020 (Kidney Disease Improving Global Outcomes - Clinical Practice Guideline on Diabetes Management in Chronic Kidney Disease) nên ưu tiên chọn nhóm SGLT -2i (Sodium Glucose Co Transporter 2 inhibitor) cho bệnh nhân ĐTĐ type 2 có bệnh thận ĐTĐ có mức lọc cầu thận (GFR) trên 30 ml/phút/ 1.73 m2 vì bên cạnh hiệu quả kiểm soát đường huyết còn giúp giảm albumin niệu và làm chậm tiến triển của bệnh thận mạn, giảm biến cố tim mạch cho bệnh nhân ĐTĐ type 2. Theo Hiệp hội ĐTĐ Hoa Kỳ (ADA - The American Diabetes Association) 2020, bệnh nhân ĐTĐ có bệnh thận mạn với độ lọc cầu thận ước tính 30 - 60 ml/phút/ 1.73 m2 có tiểu albumin vi lượng, đặc biệt tiểu albumin đại lượng thì khuyến cáo hàng đầu chọn lựa cho hạ đường huyết cũng là nhóm SGLT -2i vì đã được chứng minh có lợi ích trên thận và tim mạch. Bước đầu tiên trong điều trị bệnh thận do tiểu đường là điều trị và kiểm soát bệnh tiểu đường của bạn và nếu cần, huyết áp cao (tăng huyết áp). Với việc quản lý tốt lượng đường trong máu và tăng huyết áp, bạn có thể ngăn ngừa hoặc trì hoãn rối loạn chức năng thận và các biến chứng khác. Kiểm soát huyết áp cao Các loại thuốc được gọi là chất ức chế men chuyển (ACE) và thuốc chẹn thụ thể angiotensin II (ARB) được sử dụng để điều trị huyết áp cao. Giảm cholesterol máu Statin là nhóm được ưu tiên chọn lựa sử dụng để điều trị cholesterol. Các bằng chứng nhiên cứu gần đây cho thấy cần xem xét nghiêm khắc hơn việc hạ cholesterol máu. Ngoài LDLc liên quan mạnh đến sự hình thành các mảng xơ vữa mạch máu thì giảm nồng độ HDLc và tăng Triglyceride cũng cần được quan tâm. Rối loạn lipid máu trên bệnh nhân ĐTĐ type 2 có liên quan đến đề kháng insulin. Tùy dung mạo lipid máu và các tình trạng biến chứng đã có, bệnh nhân ĐTĐ sẽ được chọn lựa các nhóm thuốc điều chỉnh. Bệnh thận mạn giai đoạn cuối Lọc thận là biện pháp thay thế thận thường dùng nhất cho bệnh nhân ĐTĐ có bệnh thận giai đoạn cuối Ghép thận Chi phí tốn kém do phẫu thuật và thuốc dùng sau ghép.
+
+9. Phòng ngừa và quản lý lâu dài
+Để giảm nguy cơ phát triển bệnh thận do ĐTĐ: Kiểm soát đường huyết Kiểm soát huyết áp Kiểm soát lipid máu Theo dõi bệnh theo hướng dẫn và xét nghiệm kiểm tra định kỳ, đặc biệt là chức năng thận gồm độ lọc cầu thận , albumin niệu . Người bệnh ĐTĐ và bệnh thận mạn tính giai đoạn 1-2 cần được theo dõi chức năng thận mỗi 6 tháng. Người bệnh ĐTĐ và bệnh thận mạn giai đoạn 3-5 cần được theo dõi chức năng thận mỗi ba tháng. ĐTĐ và bệnh thận mạn tính giai đoạn 1-2: có thể đảo ngược diễn tiến bệnh bằng kiểm soát chặt chẽ glucose huyết, kiểm soát huyết áp, dùng thuốc ức chế hệ renin angiotensin, nhất là ở ĐTĐ type 1. ĐTĐ và bệnh thận mạn tính giai đoạn 3-4: làm chậm diễn tiến tiến bệnh bằng các phương tiện điều trị kể trên, tránh các thuốc gây độc thận. Phát hiện sớm và điều trị ĐTĐ, nhất là những người có tiền sử gia đình ĐTĐ Điều trị kịp thời các biến chứng khác của ĐTĐ như bệnh võng mạc ĐTĐ, bàn chân ĐTĐ, bệnh tim mạch. Tránh các thuốc gây độc thận, như thuốc kháng viêm không steroid , kháng sinh nhóm aminoglycosides. Thay đổi lối sống. Duy trì cân nặng hợp lý. Tránh thuốc lá.
+10. Dinh dưỡng
+Không khuyến cáo giảm lượng đạm trong khẩu phần ăn dưới mức bình thường vì không làm thay đổi đường huyết, nguy cơ tim mạch hay tiến triển của giảm độ lọc cầu thận. Chế độ ăn hạn chế đạm có thể được xem xét, đặc biệt là cho những bệnh nhân có bệnh thận có xu hướng tiếp tục tiến triển cho dù đã kiểm soát đường huyết và huyết áp tối ưu và đã dùng ức chế men chuyển hoặc hoặc ức chế thụ thể . Tổng lượng calo trong ngày thay đổi tùy tình trạng của từng người bệnh. Khi bệnh thận đã tiến triển, người bệnh cần giảm đạm trong khẩu phần ăn: Khoảng 0,8 -1gam/kg cân nặng/ngày. Cũng cần hạn chế lượng muối trong khẩu phần, khoảng 5-6 gam/ngày. Khi bệnh thận tiến triển cũng cần hạn chế phospho bằng các chất gắn phosphat và hạn chế kali.
+
+Ở bệnh nhân đái tháo đường có bệnh thận mạn: Các mục tiêu chặt chẽ hơn cho đường huyết, huyết áp, kiểm soát protein niệu . Cần theo dõi bài xuất albumin niệu, tầm soát và chẩn đoán sớm bệnh thận đái tháo đường, xử trí sớm nhằm làm chậm diễn tiến của bệnh thận đái tháo đường. Giai đoạn trễ (giai đoạn 5), cần tránh gây ra tình trạng suy thận cấp trên nền suy thận mạn tính , thí dụ chụp hình mạch vành với thuốc cản quang , hoặc, điều trị duy trì trong khi chờ đợi lọc thận hoặc ghép thận. Điều trị kịp thời các biến chứng khác của ĐTĐ như bệnh võng mạc ĐTĐ, bàn chân ĐTĐ, bệnh tim mạch. Trong tất cả các giai đoạn, cần chú ý các bệnh đi kèm có thể điều trị được như nhiễm trùng tiểu, bí tiểu, u lành tiền liệt tuyến ... Bệnh thận ĐTĐ là một trong những biến chứng rất quan trọng vì không những có khả năng gây tàn phế và tử vong mà còn làm ảnh hưởng rất xấu đến sự xuất hiện và tiến triển của các biến chứng mạn tính khác như tăng huyết áp, bệnh lý mạch máu lớn, bệnh lý võng mạc ĐTĐ Bệnh thận ĐTĐ: Kiểm soát chặt các mục tiêu đường huyết, huyết áp, albumin niệu. Cần tầm soát phát hiện sớm các biến chứng, đặc biệt bệnh thận ĐTĐ ngay khi mới phát hiện bệnh ĐTĐ, theo dõi bài xuất albumin niệu. Chẩn đoán sớm bệnh thận đái tháo đường và xử trí sớm sẽ làm chậm diễn tiến của bệnh thận ĐTĐ. Tại bệnh viện Đa khoa Quốc tế Vinmec luôn triển khai gói sàng lọc đái tháo đường, rối loạn mỡ máu nhằm giúp phát hiện sớm tình trạng tiền đái tháo đường, phân loại chính xác type tiểu đường, xây dựng chế độ dinh dưỡng, theo dõi giảm thiểu các nguy cơ, biến chứng do tiểu đường gây ra.
+
+Bài viết tham khảo nguồn: American Diabetes Association; Nephropathy in Diabetes; Diabetes Care. 2020 Kidney Disease Improving Global Outcomes KDIGO 2020 (Clinical Practice Guideline on Diabetes Management in Chronic Kidney) Bộ Y tế. Hướng dẫn và quy trình lâm sàng chẩn đoán và điều trị đái tháo đường type 2. 2017.

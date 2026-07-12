@@ -1,0 +1,38 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/duong-huyet-luc-doi-binh-thuong-vi",
+  "title": "Đường huyết lúc đói bình thường",
+  "category": "blood_glucose",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:05:54.333656",
+  "source_name": "vinmec.com",
+  "document_title": "Đường huyết lúc đói bình thường",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 684,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Đường huyết lúc đói bình thường
+
+-->
+
+Chuyên trang sức khoẻ
+Sức khoẻ tổng quát
+
+Đường huyết lúc đói bình thường
+
+☰
+Mục lục
+
+Bài viết được tham vấn chuyên môn cùng Bác sĩ Vũ Thị Duyên - Khoa Khám bệnh & Nội khoa, Bệnh viện Đa khoa Quốc tế Vinmec Hải Phòng.
+Chỉ số đường huyết ( đói) trước ăn là một xét nghiệm cận lâm sàng giúp chẩn đoán bệnh lý đái tháo đường cũng như tiền đái tháo đường. Bên cạnh đó đường huyết trước ăn còn được theo dõi liên tục trong quá trình điều trị các bệnh nhân bị đái tháo đường giúp chỉnh liều thuốc điều trị cho bệnh nhân.
+1. Chỉ số đường huyết trước ăn (đói)
+Đường huyết trước ăn là chỉ số đường huyết được thực hiện vào đầu buổi sáng khi bệnh nhân không ăn ít nhất trên 8 giờ. Đây là chỉ số có giá trị giúp chẩn đoán xác định bệnh cũng như theo dõi điều trị bệnh nhân đái tháo đường . Theo khuyến nghị từ Hiệp hội tiểu đường Hoa Kỳ ADA nếu trên 45 tuổi và không có những yếu tố nguy cơ của đái tháo đường thì cần thực hiện xét nghiệm đường huyết trước ăn khoảng 2 – 3 năm 1 lần để theo dõi sức khỏe một cách tốt. Một số trường hợp mà có nhiều yếu tố nguy cơ cao thì cần làm xét nghiệm glucose máu đói 1 năm/lần để giúp chẩn đoán sớm đái tháo đường bao gồm: Người có lối sống tĩnh tại. Có tiền sử các thành viên trong gia đình mắc phải bệnh lý đái tháo đường type 2 Bệnh nhân là sản phụ mang thai đang mắc phải đái tháo đường thai kỳ hoặc sinh trẻ có cân nặng > 4000g. Người mắc các bệnh tim mạch như tăng huyết áp với chỉ số huyết áp ≥ 140/90 mmHg và đang điều trị với thuốc điều chỉnh huyết áp. Đối tượng có chỉ số HDL -C < 35mg/dl hay yếu tố Triglyceride > 250mg/dl. Bệnh nhân bị hội chứng buồng trứng đa nang Có tiền sử mắc phải bệnh lý tim mạch Người bệnh mắc phải hội chứng đề kháng insulin hoặc những bệnh lý khác liên quan đến vấn đề kháng insulin. Trong trường hợp bệnh nhân được chẩn đoán tiền đái tháo đường hoặc đái tháo đường cần phải kiểm tra chỉ số đường huyết trước ăn hàn tuần, hàng tháng và theo dõi sát theo hướng dẫn chỉ định của bác sĩ
+
+2. Đường huyết lúc đói bình thường
+Với người bình thường thì đường huyết lúc đói bình thường là 3.9 – 5.5 mmol/l. Nếu đường huyết trước ăn trong khoảng 5.6 – 6.9 mmol/l thì bệnh nhân được chẩn đoán là tiền đái tháo đường . Để chẩn đoán xác định bệnh đái tháo đường có thể dựa vào chỉ số đường huyết trước ăn ( đói) bằng cách cho bệnh nhân nhịn ăn ít nhất trên 8 tiếng sau đó tiến hành đo nồng độ Glucose huyết tương lúc đói nếu ≥ 7mmol/l hoặc ≥ 126mg/dl trong 2 lần vào 2 ngày riêng biệt cách nhau khoảng 1 – 7 ngày thì được chẩn đoán xác định. Ngược lại nếu đường huyết trước ăn dưới 3.9 mmol/l hay < 70 mg/dl thì bệnh nhân được chẩn đoán là hạ đường huyết có biểu hiện lâm sàng dễ nhận biết là đói bụng cồn cào, tay chân run rẩy, đổ nhiều mồ hôi... Đây là một cấp cứu cần được xử trí điều trị ngay bằng cách nạp đường vào cho người bệnh.
+3. Kết luận
+Vậy chỉ số đường huyết trước ăn( đói) là một trong những tiêu chuẩn chẩn đoán quan trọng với những bệnh nhân bị tiền đái tháo đường và đái tháo đường. Để hạn chế tình trạng này người bệnh nên chủ động kiểm tra đường huyết trước ăn theo khuyến cáo, đồng thời có một lối sống lành mạnh và dinh dưỡng khoa học để duy trì đường huyết lúc đói bình thường .

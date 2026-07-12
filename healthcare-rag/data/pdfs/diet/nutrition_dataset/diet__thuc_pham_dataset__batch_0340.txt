@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 340-360)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Thịt gà công nghiệp, đùi, tươi: 137 kcal/100g | đạm 18g | béo 6.8g | carb 0.8g
+- Thịt gà công nghiệp, lườn, raw: 134 kcal/100g | đạm 22.8g | béo 4.6g | carb 0g
+- Thịt gà rừng, tươi: 141 kcal/100g | đạm 24.4g | béo 4.8g | carb 0g
+- Thịt gà, ta, cánh, đùi, luộc: 261 kcal/100g | đạm 26.5g | béo 17.2g | carb 0g
+- Thịt gà, ta, chân, đùi, luộc: 214 kcal/100g | đạm 20g | béo 14.3g | carb 0.2g
+- Thịt gà, ta, đùi, luộc: 261 kcal/100g | đạm 26.5g | béo 17.2g | carb 0g
+- Thịt gà, ta, lườn, đùi, luộc: 186 kcal/100g | đạm 31.7g | béo 6.5g | carb 0g
+- Thịt gà ta, tươi: 199 kcal/100g | đạm 20.3g | béo 13.1g | carb 0g
+- Thịt gà tây, tươi: 218 kcal/100g | đạm 20.0g | béo 15.3g | carb 0.0g
+- Thịt hươu, tươi: 94 kcal/100g | đạm 19g | béo 2g | carb 0g
+- Thịt lợn, mỡ, tươi: 394 kcal/100g | đạm 14.5g | béo 37.3g | carb 0g
+- Thịt lợn, mông, sống: 131 kcal/100g | đạm 20.4g | béo 5.4g | carb 0g
+- Thịt lợn nạc mông, luộc: 120 kcal/100g | đạm 20.9g | béo 4g | carb 0g
+- Thịt lợn, nạc mông, tươi: 141 kcal/100g | đạm 24.6g | béo 4.7g | carb 0g
+- Thịt lợn nạc thăn, luộc: 100 kcal/100g | đạm 19.4g | béo 2.4g | carb 0.0g
+- Thịt lợn, nạc thăn, tươi: 118 kcal/100g | đạm 23g | béo 2.9g | carb 0.0g
+- Thịt lợn, nạc, tươi: 139 kcal/100g | đạm 19g | béo 7g | carb 0g
+- Thịt lợn, nạc vai, tươi: 149 kcal/100g | đạm 20.8g | béo 7.2g | carb 0g
+- Thịt lợn nửa nạc, nửa mỡ, luộc: 220 kcal/100g | đạm 13.9g | béo 18.2g | carb 0g
+- Thịt lợn nửa nạc, nửa mỡ, nướng: 401 kcal/100g | đạm 20.5g | béo 35.2g | carb 0.5g

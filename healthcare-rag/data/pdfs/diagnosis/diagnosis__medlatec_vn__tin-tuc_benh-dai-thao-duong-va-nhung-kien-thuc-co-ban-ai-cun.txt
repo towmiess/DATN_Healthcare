@@ -1,0 +1,169 @@
+===METADATA===
+{
+  "url": "https://medlatec.vn/tin-tuc/benh-dai-thao-duong-va-nhung-kien-thuc-co-ban-ai-cung-nen-biet-s62-n33632",
+  "title": "Bệnh ĐTĐ kiến thức cơ bản - Medlatec",
+  "category": "diagnosis",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:08:11.034919",
+  "source_name": "medlatec.vn",
+  "document_title": "Bệnh ĐTĐ kiến thức cơ bản - Medlatec",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1841,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Bệnh ĐTĐ kiến thức cơ bản - Medlatec
+
+Tin tức
+
+Tin tức y khoa
+Bệnh đái tháo đường và những kiến thức cơ bản ai cũng nên biết
+
+Bệnh đái tháo đường và những kiến thức cơ bản ai cũng nên biết
+
+Ngày 16/06/2023
+
+Tham vấn y khoa: BSCKI. Dương Ngọc Vân
+
+Số ca mắc bệnh đái tháo đường ngày càng tăng và có dấu hiệu “trẻ hóa”. Đáng lo ngại hơn khi bệnh có thể gây ra nhiều biến chứng nguy hiểm. Dưới đây là tổng hợp những thông tin về căn bệnh này giúp bạn có những kiến thức cơ bản nhất để phòng tránh, phát hiện sớm những dấu hiệu bệnh để kịp thời thăm khám và điều trị.&#xA0;
+
+15/06/2023 | Tổng quan về bệnh đái tháo đường thai kỳ
+02/06/2023 | Tiền đái tháo đường là gì? Điều trị thế nào?
+29/04/2022 | Cách phòng ngừa biến chứng mạch máu lớn ở người đái tháo đường
+29/10/2022 | Gợi ý thực phẩm có chỉ số GI thấp tốt cho bệnh nhân đái tháo đường
+11/05/2022 | Mức độ nguy hiểm của biến chứng bàn chân đái tháo đường
+
+1. Bệnh đái tháo đường là gì? Được phân loại như thế nào?
+
+Đái tháo đường là dạng bệnh rối loạn chuyển hóa khiến lượng đường trong máu tăng cao hơn so với bình thường do cơ thể không sản xuất đủ insulin hoặc đề kháng với insulin hoặc do cả 2 nguyên nhân này.
+
+Đái tháo đường là bệnh không thể chữa khỏi dứt điểm
+
+Bệnh đái tháo đường được chia thành những loại sau:
+
+- Đái tháo đường type I: Là những trường hợp bệnh nhân không sản xuất đủ hoặc mất khả năng sản xuất insulin.
+
+- Đái tháo đường type II: Cơ thể vẫn tạo ra đủ insulin nhưng không được sử dụng hiệu quả.
+
+- Đái tháo đường thai kỳ: Là những trường hợp phụ nữ bị đái tháo đường trong thời gian mang thai. Thông thường, bệnh sẽ hết sau khi sinh con.
+
+- Tiền đái tháo đường: Là những trường hợp bệnh nhân có chỉ số đường huyết tăng cao hơn mức bình thường, nhưng chỉ số này lại không cao như những bệnh nhân mắc đái tháo đường.
+
+Nếu phát hiện sớm và điều chỉnh lối sống hoặc áp dụng những phương pháp điều trị phù hợp, phòng tránh bệnh đái tháo đường. Tuy nhiên, nếu không kịp thời phát hiện và không thay đổi thói quen ăn uống, sinh hoạt hiện tại thì bệnh có thể tiến triển thành đái tháo đường type II.
+
+2. Bệnh đái tháo đường là do những nguyên nhân nào?
+
+- Nguyên nhân bị đái tháo đường type I: Tuy chưa thể kết luận chính xác về nguyên nhân gây bệnh nhưng căn bệnh này có thể là hậu quả của tình trạng hệ miễn dịch tấn công và phá hủy những tế bào tuyến tụy đảm nhiệm vai trò sản xuất insulin khiến cơ thể không có hoặc có rất ít insulin, từ đó làm tăng lượng glucose tích tụ trong máu. Ngoài ra, yếu tố môi trường và di truyền cũng có thể góp phần làm tăng nguy cơ bị đái tháo đường type I.
+
+- Nguyên nhân bị đái tháo đường type II và tiền tiểu đường cũng chưa được xác định rõ ràng. Bên cạnh đó, yếu tố di truyền, thừa cân béo phì cũng có liên quan đến các trường hợp bệnh này. Tuy nhiên, điều đó không có nghĩa là những bệnh nhân bị đái tháo đường type II hay tiền tiểu đường đều bị thừa cân.
+
+- Nguyên nhân bị tiểu đường thai kỳ: Có thể do những hormone từ nhau thai tiết ra dẫn tới kháng insulin, gây tăng lượng đường trong máu của mẹ bầu.
+
+3. Đái tháo đường và những biểu hiện thường gặp
+
+Ở giai đoạn đầu, phần lớn các trường hợp mắc bệnh đều không có biểu hiện và nếu có thì rất dễ nhầm lẫn với các bệnh lý khác. Vì thế, khi được chẩn đoán mắc bệnh với chỉ số đường trong máu quá cao, nhiều bệnh nhân rất hoang mang và bất ngờ. Bên cạnh đó, biểu hiện của bệnh đái tháo đường cũng rất đa dạng, tùy thuộc vào thể trạng người bệnh và cả một số bệnh lý mạn tính mà người bệnh đang mắc phải.
+
+Tiểu đường thai kỳ khiến nhiều chị em vô cùng lo lắng
+
+Do đó, bác sĩ khuyên bạn nên lắng nghe cơ thể và nếu thấy những biểu hiện dưới đây thì nên đi khám sớm:
+
+- Cơ thể luôn cảm thấy mệt mỏi, dù có chế độ ăn uống đầy đủ nhưng cơ thể vẫn thường xuyên cảm thấy đói và hay khát nước.
+
+- Sụt cân.
+
+- Đi tiểu nhiều lần trong ngày.
+
+- Thị lực giảm.
+
+- Vết thương lâu lành, mẩn ngứa, tê tay và tê chân.
+
+- Ở bệnh nhân nam: Người bệnh còn có biểu hiện rối loạn cương dương, không còn ham muốn “chuyện ấy”.
+
+- Ở bệnh nhân nữ: Người bệnh thường xuyên bị viêm nhiễm phụ khoa, da khô và thường xuyên bị mẩn ngứa.
+
+4. Các biến chứng nguy hiểm từ bệnh đái tháo đường
+
+Nếu không được điều trị kịp thời và đúng cách, bệnh đái tháo đường có thể gây ra những biến chứng vô cùng nguy hiểm, ảnh hưởng nghiêm trọng đến sức khỏe và chất lượng sống của người bệnh. Dưới đây là một số biến chứng thường gặp ở bệnh nhân mắc bệnh đái tháo đường:
+
+Xét nghiệm đái tháo đường sớm và chữa bệnh kịp thời để phòng tránh biến chứng bệnh
+
+- Khi bị bệnh, tình trạng đường huyết tăng có thể khiến các tế bào thần kinh bị tổn thương, tăng nguy cơ xơ vữa mạch máu não. Chính vì thế, nguồn dinh dưỡng và oxy đến tế bào não bị thiếu hụt, khiến người bệnh mệt mỏi và có nguy cơ bị trầm cảm . Bên cạnh đó, người bệnh cũng có thể bị trầm cảm do lo lắng quá nhiều về vấn đề sức khỏe, kiểm soát đường huyết.
+
+- Suy giảm trí nhớ.
+
+- Suy giảm thị lực, có nguy cơ cao mắc bệnh võng mạc.
+
+- Dễ mắc phải các bệnh về da, nhất là tình trạng nhiễm trùng.
+
+- Thời gian phục hồi vết thương kéo dài.
+
+- Dễ mắc phải các bệnh về thận, bệnh thần kinh và đặc biệt là nguy cơ cao về bệnh tim mạch. Bệnh nhân đái tháo đường có nguy cơ đột quỵ rất cao nếu không áp dụng phương pháp kiểm soát bệnh hiệu quả.
+
+- Mẹ bầu bị bệnh trong thời gian mang thai có nguy cơ bị tiền sản giật, sinh non, sảy thai và nguy cơ mắc bệnh đái tháo đường type II trong tương lai và phần lớn các trường hợp này thường phải sinh mổ. Khi mẹ bị đái tháo đường, thai nhi có thể tăng trưởng quá mức, mắc dị tật, em bé có nguy cơ bị đái tháo đường type II,  mắc hội chứng nguy kịch hô hấp, thậm chí có thể tử vong ngay sau sinh.
+
+5. Phương pháp chẩn đoán và điều trị đái tháo đường
+
+- Phương pháp chẩn đoán bệnh phổ biến:
+
++ Xét nghiệm HbA1C: Theo dõi mức đường huyết của bệnh nhân trong vòng 2 đến 3 tháng để đánh giá về tình trạng tiến triển của bệnh.
+
++ Xét nghiệm FPG (Glucose huyết tương lúc đói): Người bệnh cần nhịn ăn ít nhất 8 tiếng để thực hiện xét nghiệm.
+
++ Phương pháp đánh giá tình trạng của người bệnh sau khi dung nạp glucose bằng đường uống.
+
++ Xét nghiệm glucose huyết tương ngẫu nhiên.
+
+Điều chỉnh thói quen ăn uống để kiểm soát bệnh
+
+- Phương pháp điều trị bệnh:
+
++ Điều chỉnh chế độ ăn uống, sinh hoạt để kiểm soát tốt lượng đường trong máu.
+
+Tiêm insulin để kiểm soát bệnh
+
++ Sử dụng thuốc: Bệnh nhân mắc đái tháo đường type I thì cần dùng insulin. Bệnh nhân mắc bệnh đái tháo đường type II thì bác sĩ có thể chỉ định một số loại thuốc đường uống hoặc đường tiêm.
+
+Hi vọng những thông tin trên đã giúp bạn hiểu rõ hơn về bệnh đái tháo đường. Nếu có thắc mắc hoặc có nhu cầu kiểm tra sức khỏe, xét nghiệm đái tháo đường, quý khách vui lòng liên hệ đến Bệnh viện Đa khoa MEDLATEC thông qua đường dây nóng 1900 56 56 56.
+
+Từ khoá:
+tiểu đường
+
+Bình luận ( )
+
+Tin cùng chuyên mục
+
+Thứ Hai, 25 tháng 5, 2026
+
+Nam thanh niên phát hiện ung thư tuyến giáp thể nhú phải...
+
+Không xuất hiện bất kỳ triệu chứng bất thường nào, nam thanh niên 43 tuổi bất ngờ phát hiện mắc ung thư tuyến giáp thể nhú trong lần kiểm tra sức khỏe định kỳ tại Bệnh viện Đa khoa MEDLATEC. Sau đó, bệnh nhân được phẫu thuật nhằm ngăn chặn tình trạng di căn hoặc xâm lấn cơ quan khác.
+
+Thứ Sáu, 22 tháng 5, 2026
+
+Thai phụ chóng mặt, mệt mỏi nhiều tưởng ốm nghén, đi khám...
+
+Thấy chóng mặt, mệt mỏi nhiều, thai phụ đi khám được chẩn đoán mắc cường giáp do thai kỳ - một chứng rối loạn chức năng tuyến giáp. Tuy nhiên, tình trạng này rất dễ nhầm lẫn với Basedow - một bệnh lý tuyến giáp có thể gây sảy thai, sinh non, tăng nguy cơ tiền sản giật…&#xD;&#xA;
+
+Thứ Hai, 18 tháng 5, 2026
+
+Cổ bị thâm đen là bệnh gì? Phương pháp chẩn đoán
+
+Tình trạng cổ bị thâm đen không chỉ gây mất thẩm mỹ mà còn có thể là dấu hiệu cảnh báo một số vấn đề sức khỏe tiềm ẩn. Vậy nguyên nhân khiến cổ bị thâm đen là bệnh gì, làm cách nào để xác định chính xác? Bài viết dưới đây sẽ cùng bạn tìm hiểu thông tin liên quan và giải đáp những băn khoăn này.&#xD;&#xA;
+
+Thứ Bảy, 25 tháng 4, 2026
+
+Nên uống thuốc nội tiết trong bao lâu và một số loại thuố...
+
+Thuốc nội tiết là giải pháp được nhiều chị em tìm đến để cải thiện triệu chứng của tiền mãn kinh, mãn kinh. Nhưng không phải ai cũng biết chính xác nên uống thuốc nội tiết trong bao lâu. Trong bài viết dưới đây, MEDLATEC sẽ giúp bạn đọc giải đáp thắc mắc này.
+
+Thứ Năm, 2 tháng 4, 2026
+
+Cảnh giác mắc ung thư tuyến giáp thể nhú ngay khi khỏe mạ...
+
+Không có bất kỳ dấu hiệu bất thường nào tại vùng cổ, nhưng nam thanh niên đi khám lại phát hiện mắc ung thư tuyến giáp thể nhú. Từ đó cảnh báo người dân nên đi kiểm tra sức khỏe định kỳ hàng năm để phát hiện bất thường sớm về sức khỏe khi chưa có biểu hiện bên ngoài.
+
+Hotline
+1900565656

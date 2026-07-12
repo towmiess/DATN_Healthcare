@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Sò huyết hấp kiểu Việt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Sò huyết hấp kiểu Việt
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: sò huyết, mồng tơi, protein, hấp
+
+Mô tả: Sò huyết hấp kiểu Việt là món hấp kết hợp sò huyết và mồng tơi, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.4
+Calo: 124 kcal
+Chất đạm (protein): 26.9 g
+Chất béo tổng: 7.1 g (bão hòa: 1.7 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 11.7 g (chất xơ: 2.7 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 55 mg | Natri: 239 mg
+Kali: 516 mg | Phốt pho: 218 mg | Magie: 44 mg
+Canxi: 28 mg | Sắt: 1.1 mg | Vitamin D: 2.5 mcg | Omega-3: 0.8 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Thịt nạc; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g sò huyết
+200g mồng tơi
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế sò huyết và mồng tơi
+2. Hấp theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

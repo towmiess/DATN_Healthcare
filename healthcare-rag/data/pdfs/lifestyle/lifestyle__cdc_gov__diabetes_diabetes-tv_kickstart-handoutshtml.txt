@@ -1,0 +1,74 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/diabetes-tv/kickstart-handouts.html",
+  "title": "Diabetes Kickstart Handouts - CDC",
+  "category": "lifestyle",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:10:21.491615",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes Kickstart Handouts - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 265,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes Kickstart Handouts - CDC
+
+Diabetes Kickstart Handouts
+
+Jan. 2, 2026
+
+Español
+
+What to know
+
+Use these handouts along with the Diabetes Kickstart video series for a quick reference on diabetes management tips and strategies. You can also add questions for your health care provider and write down any information and guidance you receive during your checkup.
+
+Printable handouts
+
+Kickstart Handout - Being Active
+Download this 2 page handout and watch the Being Active video! www.cdc.gov/diabeteskickstart
+Download
+Download
+
+Kickstart Handout - Healthy Eating
+Download this 2 page handout and watch the Healthy Eating video! www.cdc.gov/diabeteskickstart
+Download
+Download
+
+Kickstart Handout - Lowering Risk
+Download this 2 page handout and watch the Lowering Your Risk video! www.cdc.gov/diabeteskickstart
+Download
+Download
+
+Kickstart Handout - Managing Stress
+Download this 2 page handout and watch the Managing Stress video! www.cdc.gov/diabeteskickstart
+Download
+Download
+
+Kickstart Handout - Monitoring
+Download this 2 page handout and watch the Monitoring video! www.cdc.gov/diabeteskickstart
+Download
+Download
+
+Kickstart Handout - Solving Problems
+Download this 2 page handout and watch the Solving Problems video! www.cdc.gov/diabeteskickstart
+Download
+Download
+
+Kickstart Handout - Taking Medicines
+Download this 2 page handout and watch the Taking Medicines video! www.cdc.gov/diabeteskickstart
+Download
+Download
+
+Earn continuing education credit
+Ready to learn how to integrate Kickstart videos into your patient care? Earn continuing education (CE) credit through our training for health care providers!
+Visit CDC Train to register and participate in this self-guided webinar.
+
+Integrating CDC Diabetes Kickstart Videos into Patient Education Activities
+Experts weigh in with actionable tips to help you make better use of this CDC resource! CE credits are available for physicians as well as other medical professionals.
+
+Jan. 2, 2026

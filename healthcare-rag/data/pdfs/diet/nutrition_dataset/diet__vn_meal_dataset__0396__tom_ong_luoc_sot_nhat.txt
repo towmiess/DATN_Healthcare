@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Tôm đồng luộc sốt nhạt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Tôm đồng luộc sốt nhạt
+Loại món: Cá/Hải sản | Ẩm thực: Vietnamese
+Từ khóa: tôm đồng, hành tây, protein, luộc
+
+Mô tả: Tôm đồng luộc sốt nhạt là món luộc kết hợp tôm đồng và hành tây, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 144 kcal
+Chất đạm (protein): 18.3 g
+Chất béo tổng: 3.0 g (bão hòa: 0.9 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.7 g (chất xơ: 3.1 g, đường: 2.1 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 475 mg
+Kali: 341 mg | Phốt pho: 184 mg | Magie: 38 mg
+Canxi: 54 mg | Sắt: 1.9 mg | Vitamin D: 0.0 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Cá/Hải sản; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g tôm đồng
+200g hành tây
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế tôm đồng và hành tây
+2. Luộc theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

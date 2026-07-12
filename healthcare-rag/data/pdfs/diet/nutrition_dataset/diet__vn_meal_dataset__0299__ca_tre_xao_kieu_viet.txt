@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá trê xào kiểu Việt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá trê xào kiểu Việt
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: cá trê, bông cải xanh, protein, xào
+
+Mô tả: Cá trê xào kiểu Việt là món xào kết hợp cá trê và bông cải xanh, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 198 kcal
+Chất đạm (protein): 23.9 g
+Chất béo tổng: 11.2 g (bão hòa: 3.3 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.8 g (chất xơ: 2.7 g, đường: 1.1 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 183 mg
+Kali: 454 mg | Phốt pho: 153 mg | Magie: 16 mg
+Canxi: 60 mg | Sắt: 0.9 mg | Vitamin D: 2.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Thịt nạc; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g cá trê
+200g bông cải xanh
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cá trê và bông cải xanh
+2. Xào theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

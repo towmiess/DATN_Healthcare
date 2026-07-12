@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Súp đậu lăng rau củ", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Súp đậu lăng rau củ
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: súp, đậu lăng, protein thực vật, GI thấp
+
+Mô tả: Súp đậu lăng giàu protein thực vật, chất xơ cao, GI rất thấp.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.1
+Calo: 195 kcal
+Chất đạm (protein): 14.2 g
+Chất béo tổng: 2.8 g (bão hòa: 0.4 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 28.5 g (chất xơ: 8.2 g, đường: 3.1 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 320 mg
+Kali: 580 mg | Phốt pho: 210 mg | Magie: 45 mg
+Canxi: 42 mg | Sắt: 3.8 mg | Vitamin D: 0.1 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Xuất sắc cho mọi loại TĐ - GI cực thấp
+Khẩu phần khuyến nghị: 1 tô/bữa chính
+Chống chỉ định / thận trọng: Người bệnh gout hạn chế
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g đậu lăng
+1 cà rốt
+1 khoai tây nhỏ
+1/2 hành tây
+
+--- Cách chế biến ---
+1. Ngâm đậu lăng 2 giờ
+2. Xào hành tỏi
+3. Cho rau củ vào
+4. Đổ 600ml nước nấu 25 phút

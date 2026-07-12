@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá trê xào súp lơ", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá trê xào súp lơ
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: cá trê, súp lơ, protein, xào
+
+Mô tả: Cá trê xào súp lơ là món xào kết hợp cá trê và súp lơ, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 211 kcal
+Chất đạm (protein): 20.0 g
+Chất béo tổng: 3.7 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 10.1 g (chất xơ: 2.0 g, đường: 2.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 65 mg | Natri: 544 mg
+Kali: 226 mg | Phốt pho: 81 mg | Magie: 75 mg
+Canxi: 128 mg | Sắt: 1.7 mg | Vitamin D: 0.5 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Thịt nạc; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g cá trê
+200g súp lơ
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cá trê và súp lơ
+2. Xào theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 100-120)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Dâu tây, tươi: 59 kcal/100g | đạm 1.8g | béo 0.4g | carb 12.1g
+- Dầu thảo mộc (Lạc, vừng, cám...): 897 kcal/100g | đạm 0g | béo 99.7g | carb 0g
+- Dồi lợn, chín: 114 kcal/100g | đạm 12.4g | béo 7.1g | carb 0g
+- Đu đủ chín, tươi: 38 kcal/100g | đạm 1g | béo 0.1g | carb 8.1g
+- Dưa bở, tươi: 21 kcal/100g | đạm 0.5g | béo 0.2g | carb 4.3g
+- Dưa cải bắp: 24 kcal/100g | đạm 1.2g | béo 0g | carb 4.9g
+- Dưa cải bẹ: 25 kcal/100g | đạm 1.8g | béo 0g | carb 4.5g
+- Dưa cải sen: 17 kcal/100g | đạm 1.1g | béo 0g | carb 3.1g
+- Dưa chuột, muối: 17 kcal/100g | đạm 0.8g | béo 0.1g | carb 3g
+- Dưa giá đậu xanh: 47 kcal/100g | đạm 5g | béo 0g | carb 6.8g
+- Dưa hấu, tươi: 18 kcal/100g | đạm 1.2g | béo 0.2g | carb 2.8g
+- Dưa hồng, tươi: 19 kcal/100g | đạm 0.3g | béo 0.1g | carb 4.1g
+- Dưa lê, tươi: 20 kcal/100g | đạm 0.4g | béo 0g | carb 4.7g
+- Dưa lưới: 38 kcal/100g | đạm 0.8g | béo 0.1g | carb 8.1g
+- Dứa ta, tươi: 32 kcal/100g | đạm 0.8g | béo 0g | carb 7.3g
+- Dứa tây, tươi: 40 kcal/100g | đạm 0.5g | béo 0g | carb 9.2g
+- Đuôi bò, tươi: 137 kcal/100g | đạm 19.7g | béo 6.5g | carb 0g
+- Đuôi lợn, tươi: 467 kcal/100g | đạm 10.8g | béo 47.1g | carb 0g
+- Ếch (thịt đùi), tươi: 90 kcal/100g | đạm 20g | béo 1.1g | carb 0g
+- Gan bò, tươi: 110 kcal/100g | đạm 17.4g | béo 3.1g | carb 3g

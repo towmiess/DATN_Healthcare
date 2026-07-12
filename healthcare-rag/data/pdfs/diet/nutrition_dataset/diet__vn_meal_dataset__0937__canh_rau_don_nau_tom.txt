@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Canh rau dớn nấu tôm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh rau dớn nấu tôm
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: rau dớn, tôm, chất xơ, đặc sản
+
+Mô tả: Rau dớn đặc sản miền núi giàu chất xơ và sắt, kết hợp tôm tạo vị ngọt tự nhiên.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 118 kcal
+Chất đạm (protein): 15.5 g
+Chất béo tổng: 3.5 g (bão hòa: 0.8 g, chuyển hóa: 0.1 g)
+Carbohydrate tổng: 5.5 g (chất xơ: 3.0 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 75 mg | Natri: 358 mg
+Kali: 385 mg | Phốt pho: 165 mg | Magie: 35 mg
+Canxi: 68 mg | Sắt: 2.0 mg | Vitamin D: 0.3 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Chất xơ và sắt cao - tốt biến chứng thần kinh
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Dị ứng tôm thận trọng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: trung bình
+
+--- Nguyên liệu ---
+100g tôm
+200g rau dớn
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Phi tỏi xào tôm
+2. Đổ nước sôi
+3. Cho rau dớn vào nấu 3 phút

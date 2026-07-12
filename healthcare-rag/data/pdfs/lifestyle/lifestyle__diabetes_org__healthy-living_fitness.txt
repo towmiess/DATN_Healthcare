@@ -1,389 +1,111 @@
 ===METADATA===
 {
   "url": "https://www.diabetes.org/healthy-living/fitness",
-  "title": "Fitness for Diabetes - ADA",
+  "title": "Fitness - ADA",
   "category": "lifestyle",
   "language": "en",
   "source_priority": 1,
   "source_type": "web_article",
-  "crawled_at": "2026-06-11T03:10:50.028941",
+  "crawled_at": "2026-06-27T23:13:09.719592",
   "source_name": "diabetes.org",
-  "document_title": "Fitness for Diabetes - ADA",
+  "document_title": "Fitness - ADA",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 593,
   "verified_by_doctor": false
 }
 ===CONTENT===
-Fitness for Diabetes - ADA
-
-Get Active! | Exercise & Diabetes | ADA 
- 
- 
- 
- 
-
- 
-
- 
- 5) ? true : false; "
- >
- 
- 
- Skip to Main content
- 
- 
- 
-
- 
- 
-
- 
-
- 
- 
- 
-
- 
-
- 
-
- 
- 
- 
- 
- 
-
- 
-
- 
-
- main content start 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- Health & Wellness
- 
- 
- 
- 
- Fitness
- 
- 
- 
- 
- It’s a great time to get moving
- 
- 
- 
- 
- Whether you're just getting started or are an experienced athlete, regular physical activity is an important part of diabetes management. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Image 
- 
- 
- 
- 
- 
- 
-
- 
-
- 
- 
-
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- Regular exercise can help put you in control of your life. If you’re not into regular exercise, putting together an exercise plan can be a bummer. But remember, along with your diet and medications, regular physical activity is an important part of managing diabetes or dealing with prediabetes. Because when you’re active, your cells become more sensitive to insulin so it works more effectively to lower your blood glucose, also known as blood sugar. (You might notice that exercising sometimes raises your blood glucose, find out why .) Exercise just makes you feel better. So, however you want to do it—taking regular walks around the block, going for a run, or signing up for a marathon—getting started is the most important part. How to get started exercising safely It doesn’t matter where you are physically. If you’ve never set foot in a gym, that’s okay—as long as you start doing something now. If you haven’t been very active or are worried about your health, it’s important to consult your doctor and start slowly. Light walking is a great place to start—and a great habit to incorporate into your life. Walk with a loved one, with your dog, or just by yourself while listening to an audio book. Set goals every day and meet them and you’ll start feeling like you’re back in control of your life. Learn more about how to get started safely. Even little changes make a big difference If you’re still struggling with getting started or feeling overwhelmed by the idea of starting a more active life, take heart: every change, no matter how small, makes a difference in your ability to manage diabetes. Even losing 10–15 pounds can have a significant impact on your health. The power to change is firmly in your hands—so get moving today. 
- 
- 
-
- 
- 
- 
- 
- 
- 
-
- 
- 
-
- 
- 
- 
- 
- Inspiration for your fitness journey
- 
- 
- 
- 
- 
-
- 
- 
-
- 
- 
- 
- Sign up today 
- 
- 
- 
- 
- 
- 
- Image 
- 
- 
- 
- 
- 
- 
-
- 
-
- 
- 
-
- 
-
- 
- 
-
- 
- 
- 
- Get the latest resources for Healthy Living
- 
-
- 
- Stay connected and live a healthy life with diabetes. 
- 
-
- 
- Sign up today 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- Read more 
- 
- 
- 
- 
- 
- 
- Image 
- 
- 
- 
- 
- 
- 
-
- 
-
- 
- 
-
- 
-
- 
- 
-
- 
- 
- 
- Anaerobic vs. Aerobic Exercise
- 
-
- 
- Even if you don’t think you know what aerobic exercise is, chances are you know all about it. 
- 
-
- 
- Read more 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- Read more 
- 
- 
- 
- 
- 
- 
- Image 
- 
- 
- 
- 
- 
- 
-
- 
-
- 
- 
-
- 
-
- 
- 
-
- 
- 
- 
- Overcome Roadblocks
- 
-
- 
- Don't let roadblocks stop you from getting moving. 
- 
-
- 
- Read more 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- Read more 
- 
- 
- 
- 
- 
- 
- Image 
- 
- 
- 
- 
- 
- 
-
- 
-
- 
- 
-
- 
-
- 
- 
-
- 
- 
- 
- Exercise with Type 1
- 
-
- 
- Regardless of the type of diabetes you have, regular physical activity is important for your overall health and wellness. 
- 
-
- 
- Read more 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Give Today and Change lives! 
- With your support, the American Diabetes Association® can continue our lifesaving work to make breakthroughs in research and provide people with the resources they need to fight diabetes. 
- 
- Give Today 
- 
- 
- 
- 
-
- 
- 
- 
- Advertisement 
- x
+Fitness - ADA
+
+Health & Wellness
+
+Fitness
+
+It’s a great time to get moving
+
+Whether you're just getting started or are an experienced athlete, regular physical activity is an important part of diabetes management.
+
+Image
+
+Regular exercise can help put you in control of your life. If you’re not into regular exercise, putting together an exercise plan can be a bummer. But remember, along with your diet and medications, regular physical activity is an important part of managing diabetes or dealing with prediabetes. Because when you’re active, your cells become more sensitive to insulin so it works more effectively to lower your blood glucose, also known as blood sugar. (You might notice that exercising sometimes raises your blood glucose, find out why .) Exercise just makes you feel better. So, however you want to do it—taking regular walks around the block, going for a run, or signing up for a marathon—getting started is the most important part. Advertisement How to get started exercising safely It doesn’t matter where you are physically. If you’ve never set foot in a gym, that’s okay—as long as you start doing something now. If you haven’t been very active or are worried about your health, it’s important to consult your doctor and start slowly. Light walking is a great place to start—and a great habit to incorporate into your life. Walk with a loved one, with your dog, or just by yourself while listening to an audio book. Set goals every day and meet them and you’ll start feeling like you’re back in control of your life. Learn more about how to get started safely. Even little changes make a big difference If you’re still struggling with getting started or feeling overwhelmed by the idea of starting a more active life, take heart: every change, no matter how small, makes a difference in your ability to manage diabetes. Even losing 10–15 pounds can have a significant impact on your health. The power to change is firmly in your hands—so get moving today.
+
+Inspiration for your fitness journey
+
+Image
+
+Anaerobic vs. Aerobic Exercise
+
+Even if you don’t think you know what aerobic exercise is, chances are you know all about it.
+
+Image
+
+Overcome Roadblocks
+
+Don't let roadblocks stop you from getting moving.
+
+Image
+
+Exercise with Type 1
+
+Regardless of the type of diabetes you have, regular physical activity is important for your overall health and wellness.
+
+Sign up today
+
+Image
+
+Get the latest resources for Healthy Living
+
+Stay connected and live a healthy life with diabetes.
+
+Sign up today
+
+Image
+
+Anaerobic vs. Aerobic Exercise
+
+Even if you don’t think you know what aerobic exercise is, chances are you know all about it.
+
+Image
+
+Overcome Roadblocks
+
+Don't let roadblocks stop you from getting moving.
+
+Image
+
+Exercise with Type 1
+
+Regardless of the type of diabetes you have, regular physical activity is important for your overall health and wellness.
+
+Sign up today
+
+Image
+
+Get the latest resources for Healthy Living
+
+Stay connected and live a healthy life with diabetes.
+
+Sign up today
+
+Image
+
+Anaerobic vs. Aerobic Exercise
+
+Even if you don’t think you know what aerobic exercise is, chances are you know all about it.
+
+Image
+
+Overcome Roadblocks
+
+Don't let roadblocks stop you from getting moving.
+
+Image
+
+Exercise with Type 1
+
+Regardless of the type of diabetes you have, regular physical activity is important for your overall health and wellness.
+
+Give Today and Change lives!
+With your support, the American Diabetes Association® can continue our lifesaving work to make breakthroughs in research and provide people with the resources they need to fight diabetes.
+
+x

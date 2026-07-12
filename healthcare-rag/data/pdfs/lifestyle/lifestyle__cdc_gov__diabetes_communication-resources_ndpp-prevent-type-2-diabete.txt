@@ -1,0 +1,91 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/communication-resources/ndpp-prevent-type-2-diabetes.html",
+  "title": "National Diabetes Prevention Program Infographic - CDC",
+  "category": "lifestyle",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:10:14.869994",
+  "source_name": "cdc.gov",
+  "document_title": "National Diabetes Prevention Program Infographic - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 379,
+  "verified_by_doctor": false
+}
+===CONTENT===
+National Diabetes Prevention Program Infographic - CDC
+
+National Diabetes Prevention Program Infographic
+
+Feb. 17, 2026
+
+What to know
+
+National Diabetes Prevention Program (National DPP) is a lifestyle change program that provides a trained lifestyle coach, a CDC-approved curriculum, and group support over one year to reduce the risk of type 2 diabetes.
+
+Format: PDF Page count: 1 Language: English (US) Size: 975 KB Length: Last updated: February 17, 2026
+
+View
+
+Download
+View Larger
+
+Additional formats
+
+National DPP Working Together to Prevent Type 2 Diabetes
+Infographic about how the National Diabetes Prevention Program reduces the risk of Type 2 Diabetes.
+Download
+Download
+National DPP Working Together to Prevent Type 2 Diabetes - Spanish
+Infographic in Spanish about how the National Diabetes Prevention Program reduces the risk of Type 2...
+Download
+Download
+
+Graphic text
+National Diabetes Prevention Program
+Working together to prevent type 2 diabetes
+The Growing Threat of Prediabetes
+
+115.2 million American adults— more than 2 in 5 —have prediabetes.
+8 in 10 adults with prediabetes don't know they have it.
+
+About the National Diabetes Prevention Program
+Congress authorized CDC to establish the National Diabetes Prevention Program (National DPP) , a public-private partnership working to build a nationwide delivery system for a lifestyle change program proven to prevent or delay type 2 diabetes in adults with prediabetes.
+It brings together:
+
+Community organizations
+Private insurers
+Employers
+Health care organizations
+Faith-based organizations
+Government agencies
+
+to achieve a greater impact on reducing type 2 diabetes.
+Lifestyle Change Program
+A key part of the National DDP is a lifestyle change program that provides:
+
+A trained Lifestyle Coach
+CDC-approved curriculum
+Group support over the course of a year
+
+CDC is working to:
+
+Build a workforce that can implement the lifestyle change program effectively.
+Ensure quality and standardized reporting of participant outcomes in the program.
+Deliver the lifestyle change program through organizations nationwide and sustain it through public/private payer coverage.
+Increase referrals to and participation in the lifestyle change program.
+
+Join in this National Effort
+Everyone can play a part in preventing type 2 diabetes.
+
+Raise awareness of prediabetes.
+Share information about the National DPP.
+Encourage participation in the lifestyle change program.
+Promote the National DPP lifestyle change program as a covered health benefit.
+
+Find out how to get involved in the National DPP .
+View Page In: PDF [2M]
+
+Feb. 17, 2026

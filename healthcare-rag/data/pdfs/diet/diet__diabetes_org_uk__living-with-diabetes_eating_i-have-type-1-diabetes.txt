@@ -1,0 +1,141 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/i-have-type-1-diabetes",
+  "title": "Eating guide type 1",
+  "category": "diet",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:09:20.885710",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Eating guide type 1",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 1345,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Eating guide type 1
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+I have type 1 diabetes - what can I eat?
+
+From the moment you are diagnosed with type 1 diabetes you are likely to be faced with what seems like an endless list of new tasks that need to become part of everyday life – injections, testing, treating a hypo, monitoring and eating a healthy, balanced diet. No wonder it can all seem daunting and overwhelming.
+
+One of your first questions is likely to be “what can I eat and drink?” But, with so much to take in, you could still come away from appointments feeling unsure about the answer.
+
+Plus, there are lots of myths about diabetes and food that you will need to navigate too. So if you aren’t sure about what you can and can’t eat, we have information for you, so you can manage your type 1 diabetes with confidence.
+
+What can I eat with type 1?
+
+In one word... anything. It may come as a surprise, but all kinds of food are fine for people with type 1 diabetes to eat.
+
+With more flexible insulin regimens and the use of insulin pumps, the days of “do's and don'ts” are long gone. The way to go nowadays is to try and fit your diabetes treatment around your current lifestyle. But the same healthy, balanced diet is recommended for everyone, which includes food from all the main food groups.
+
+It is a good idea to include some carbs with your meals as, without carbohydrate, your insulin may cause blood glucose levels to drop too low. Choose healthier carbs such as wholegrains, starchy foods, fruit and veg, pulses, unsweetened yogurt and milk, nut and seeds.
+
+There is no strong evidence that a low carb diet is safe or beneficial for people with type 1 diabetes.
+
+What foods type 1s should avoid
+
+Before your diagnosis of diabetes, it is likely that you experienced extreme thirst. It is a good idea to avoid sugary drinks and fruit juices as a way of quenching your thirst. They usually put blood glucose levels up very high and very quickly – which is why they can be a useful treatment for a hypo (low blood glucose levels).
+
+Instead, drink water, sugar-free and diet soft drinks. Tea and coffee are still OK to include, too. Read more about what to drink when you have diabetes .
+
+Don’t bother with foods labelled ‘diabetic’ or ‘suitable for diabetics’. These foods contain similar amounts of calories and fat, and they can affect your blood glucose levels. They are usually more expensive and can have a laxative effect. Stick to your usual foods. If you want to have an occasional treat, go for your normal treats and watch your portion sizes.
+
+Understanding carbohydrates
+
+All carbs affect blood sugar levels, and the total amount of carbs you eat will have the biggest effect on your blood glucose levels.
+
+Carb counting is really important to keep your blood sugar levels steady. This means matching insulin to the amount of carbs you eat and drink.
+
+It takes time and effort, but once you get the hang of it, carb counting can lead to better blood sugar control. It also gives you more choice over when – and how much – you eat. You can enjoy special occasions and treats by making changes to insulin doses.
+
+You might need to lose, gain or maintain your weight, but it’s important to make healthier food choices whilst you are doing this.
+
+Extra education can help you to manage the amount of carbohydrate you eat and the insulin you take to help control blood glucose levels.
+
+There’s a lot to learn about type 1 diabetes. And knowing about diabetes is crucial to managing your diabetes. It can take some commitment but, in the long run, things become much easier.
+
+How to enjoy a healthy type 1 diabetes diet
+
+There's no such thing as a 'diabetic diet’ for type 1. Your diet should include making healthier food choices that are lower in saturated fat, sugar and salt.
+
+Doing this will help you to:
+
+control blood fats
+control blood pressure
+maintain a healthy weight.
+
+This can also help to reduce your risk of diabetes complications , including heart disease and stroke. As with any lifestyle changes, making gradual and realistic changes over a longer period of time is more likely to lead to success. See a registered dietitian for specific advice and an eating plan that is tailored to your individual needs and lifestyle.
+
+Your diet and insulin
+
+If you are using a basal bolus insulin regime, injecting several times a day, or you’re on an insulin pump then it's possible to be much more flexible in how many carbs you can eat and when.
+
+Most people who follow this regime will count the carbohydrates that they eat and drink, and then calculate how much insulin they need to take. The amount of insulin will be adjusted depending on how much carbohydrate they are eating and other factors, such as physical activity, blood sugar levels or illness.
+
+This can let you be more flexible with your food choices and meal times, without compromising your blood glucose control.
+
+If you are on a twice-daily fixed insulin regimen you need to have regular meal times and eat roughly the same carbohydrate portion at these meals from day to day.
+
+More carbohydrate than usual can cause blood glucose levels to go too high. In contrast, eating less carbs than usual can cause a hypo.
+
+I think carb counting has been one of the most beneficial things for managing my diabetes along with managing my insulin to cover food before eating.
+
+Read Pauline's story about how she's learnt to manage type 1 diabetes.
+
+What can I eat for breakfast, lunch and dinner?
+
+What do you normally eat? If the answer includes some carbohydrate at each meal then really there is nothing more to consider for now – but try to go with healthier carb options, and be aware of your portion sizes.
+
+Try and eat five portions of fruit and veg a day by incorporating them at mealtimes, and swap low fibre carbs, such as white bread, white rice and highly-processed cereals, for wholegrain varieties.
+
+You can check food labels when you’re looking for foods high in fibre if you’re unsure. Get advice on understanding food labels .
+
+If you are stuck for ideas, choose one of these:
+
+Breakfast
+
+a bowl of wholegrain cereal such as porridge or bran flakes, with semi-skimmed or skimmed milk. If you prefer a dairy alternative like soya or almond milk, choose one that’s unsweetened and calcium-fortified.
+egg and wholegrain toast with unsaturated spread (sunflower or olive oil)
+unsweetened yogurt and fruit
+fruity French toast
+
+Find out more healthy breakfast swaps .
+
+Lunch
+
+a sandwich made with wholegrain bread or a wrap with chicken, turkey or fish, filled with plenty of salad
+a bean or chickpea and tuna salad
+a healthy soup such as our cauliflower and leek soup , paired with wholegrain/rye crispbreads
+sesame salmon and broccoli microwave mug
+
+...with a piece of fruit and an unsweetened yogurt.
+
+Read more about healthy lunchtime swaps .
+
+Dinner
+
+lasagne and salad
+roast chicken with potatoes and vegetables
+Thai chicken stir fry
+Our healthier fish, chips and peas
+mixed vegetable and bean curry
+chicken tortillas and salad
+
+Healthy snacks for type 1 diabetes
+
+Sometimes, you might need to eat a small snack between meals, to help keep blood glucose levels up. Regular snacks can make it difficult to maintain a healthy weight so check with the diabetes team for specific advice that is tailored for your diabetes management.
+
+The healthiest snack choices are unsweetened yogurts, unsalted nuts, seeds, fruits and vegetables instead of crisps, chips, biscuits and chocolates. But watch your portions still – it’ll help you keep an eye on your weight.
+
+Read more about healthy snack swaps .
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Share this Page

@@ -1,0 +1,119 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/complications/stroke",
+  "title": "Stroke and diabetes",
+  "category": "complication/cardiovascular",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:16:02.283680",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Stroke and diabetes",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 1155,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Stroke and diabetes
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Diabetes and stroke
+
+When you have diabetes, you're more at risk of problems with your heart and circulation. You might hear this being called cardiovascular disease. Sometimes this can lead to a stroke.
+
+A stroke is a serious medical condition that happens when the blood supply to part of the brain is cut off. This causes damage to the brain and can affect how the body works, and how you think and feel. The effects of a stroke vary depending on what areas of the brain have been damaged.
+
+On this page:
+
+What causes a stroke?
+Why does diabetes increase your risk of a stroke?
+What are the symptoms of a stroke?
+What is the screening process for your stroke risk?
+How can you reduce your risk of having a stroke?
+
+What causes a stroke?
+
+The major blood vessels in your body, are:
+
+arteries – they carry blood away from your heart
+veins – they carry blood back to your heart.
+
+If these blood vessels get damaged, it can be harder for blood to flow around the body and get to the areas it’s needed, like your brain.
+
+Strokes can be caused by blood clots, high blood pressure, irregular heartbeats or blood vessels that break open. A stroke can happen to anyone but there are things that can increase the risk including age and family history. Living with diabetes can also increase your risk of having a stroke.
+
+There are different types of stroke. An ischaemic stroke is caused by a blockage in the blood vessel cutting off the blood supply to the brain. A haemorrhagic stroke is caused by bleeding in or around the brain.
+
+A transient ischaemic attack (TIA) or mini stroke, is caused by a temporary blockage in the blood vessel. The symptoms only last for a short amount of time.
+
+The Stroke Association has more information on types of stroke and recovery .
+
+Diabetes is a cause in over 770 strokes and 590 heart attacks every week in the UK we estimate.
+
+Why does diabetes increase your risk of a stroke?
+
+You have many miles of blood vessels inside your body, which carry oxygen and nutrients to and from your heart. If your blood sugar levels are too high over time, they can damage your blood vessels.
+
+Your body can't use all this sugar properly, so more of it sticks to your red blood cells and builds up in your blood. This build-up can damage the blood vessels making them harder, and more likely to become blocked.
+
+These changes can lead to a blood clot. If a clot travels to the brain, it causes a stroke.
+
+Even mildly raised blood sugar levels can put you more at risk of a stroke. Getting support from your healthcare team to help lower them and keep your HbA1c in your target range will help protect your blood vessels.
+
+As well as high blood sugar levels, blood vessels can also be damaged by high cholesterol and high blood pressure. Living with diabetes can increase the risk of having high cholesterol and high blood pressure.
+
+High cholesterol
+
+Cholesterol is a fatty substance found naturally in your blood. Too much cholesterol can block your arteries. They can become narrow and stiff, known as atherosclerosis. Damage to the arteries may cause a clot to form, this can travel to the brain and cause a stroke.
+
+High blood pressure
+
+High blood pressure is when your blood pressure stays high over a long period. This can make your blood vessels become narrower and stiff. This can lead to blood clots in the brain.
+
+High blood pressure can also damage the tiny blood vessels deep inside the brain. So it can also make a stroke caused by bleeding in the brain, more likely.
+
+By managing your blood sugar levels, blood pressure and cholesterol, you'll help protect yourself against strokes and heart disease .
+
+What are the symptoms of a stroke?
+
+Use the word FAST to help you remember the main symptoms of stroke:
+
+Face – your face may have dropped on one side. You may not be able to smile, or your mouth or eye may have dropped.
+Arms – you may not be able to lift both arms and keep them there, because of weakness or numbness in one arm.
+Speech – your speech may be slurred or garbled. Or you may not be able to talk at all despite looking awake. People may also have problems understanding what you're saying to them.
+Time – if you see any of these signs it’s time to dial 999.
+
+It can be difficult to notice or be able to act if it is you having a stroke. Tell your friends and family what to look out for so they can get help for you if they spot any of these signs.
+
+What is the screening process for your stroke risk?
+
+To understand your risk of stroke, get your HbA1c, blood pressure and blood cholesterol measured at least once a year as part of your annual diabetes review – make sure you get advice and support from your healthcare team to keep them within your target range
+
+How can you reduce your risk of having a stroke?
+
+You can help prevent damage to your blood vessels and reduce the risk of having a stroke by looking after your:
+
+blood sugar levels
+blood pressure
+cholesterol.
+
+Tips to reduce your risk of having a stroke include:
+
+Get your HbA1c, blood pressure and blood cholesterol measured at least once a year as part of your annual diabetes review – make sure you get advice and support from your healthcare team to keep them within your target range. Your healthcare team may give you medication to help manage your blood pressure or cholesterol levels.
+Reducing your alcohol intake. Regularly drinking too much alcohol increases your risk of stroke and heart disease. The NHS have more advice.
+If you smoke, getting help to stop , as it makes it harder for blood to flow around the vital parts of your body.
+Eating a healthy, balanced diet
+Being as active as possible.
+If you are living with obesity or overweight, get support to help you lose some weight. Even losing a small amount can make a real difference in reducing your risk of stroke.
+Take your medication as prescribed. Some medicines help to protect your heart by reducing high blood pressure or cholesterol. You may be prescribed these medicines even if you don’t have any blood pressure or high cholesterol problems to help protect your heart or kidneys.
+
+Our research on diabetes and strokes
+
+We're funding research to help us understand how blood vessel damage leads to serious complications, like sight loss and stroke, in people with diabetes.
+
+Find out more about our research on stopping stroke and heart attacks .
+
+Next Review Date

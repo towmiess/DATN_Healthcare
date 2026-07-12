@@ -1,0 +1,56 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/phac-do-dieu-tri-tieu-duong-type-2-vi",
+  "title": "Phác đồ điều trị tiểu đường type 2",
+  "category": "medication",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:15:16.417587",
+  "source_name": "vinmec.com",
+  "document_title": "Phác đồ điều trị tiểu đường type 2",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1514,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Phác đồ điều trị tiểu đường type 2
+
+-->
+
+Chuyên trang sức khoẻ
+Sức khoẻ tổng quát
+
+Phác đồ điều trị tiểu đường type 2
+
+☰
+Mục lục
+
+Đái tháo đường type 2 là một trong các bệnh về hệ nội tiết gặp nhiều nhất hiện nay. Bệnh có thể gây ra nhiều biến chứng nguy hiểm nếu mức đường trong máu không được kiểm soát tốt. Vậy phác đồ điều trị tiểu đường type 2 như thế nào?
+1. Bệnh đái tháo đường type 2 là gì?
+Đái tháo đường type 2 là một rối loạn chuyển hóa glucose mạn tính, bệnh có những đặc điểm cơ bản như: Mức glucose trong máu tăng cao Xuất hiện những bất thường về chuyển hóa carbohydrate, lipid và protein trong cơ thể. Biến chứng lâu dài của bệnh gây ra là do sự phát triển của những mảng xơ vữa , bao gồm các bệnh lý về thận, đáy mắt, thần kinh và tim mạch.
+
+2. Phác đồ điều trị tiểu đường type 2
+Mục đích việc điều trị Kiểm soát ổn định lượng glucose máu khi đói , glucose máu sau ăn đến gần mức độ sinh lý. Đưa được HbA1c về mức lý tưởng để giảm thiểu được các biến chứng của bệnh, giảm tỷ lệ tử vong do đái tháo đường type 2 . Duy trì cân nặng, giảm cân với người béo phì và duy trì cân nặng chuẩn. Nguyên tắc điều trị Phải kết hợp giữa các loại thuốc điều trị tiểu đường tuýp 2 , chế độ ăn và luyện tập. Kết hợp kiểm soát đường huyết với điều chỉnh các lipid máu, đạt mức huyết áp hợp lý... Dùng Insulin khi cần thiết, đặc biệt là trong các đợt cấp của các bệnh lý mạn tính, bệnh nhiễm trùng hoặc bệnh lý tim mạch nặng... Mục tiêu điều trị Glucose máu lúc đói (mmol/L): mức tốt là từ 4.4 đến 6.1; mức độ chấp nhận được là dưới 6.5. Glucose máu sau ăn (mmol/L): mức tốt là từ 4.4 đến 7.8 và chấp nhận được nếu dưới 9.0. Mức HbA1c tốt là dưới 7.0% và chấp nhận với mức từ 7 đến dưới 7.5%. Tuy nhiên, mức HbA1c điều chỉnh theo từng cá thể, tùy tình huống lâm sàng. Người bệnh trẻ, mới chẩn đoán đái tháo đường, chưa có biến chứng mạn tính, không có bệnh đi kèm thì cần giữ HbA1c ở mức 6.5%, nhưng nếu người bệnh lớn tuổi, bị bệnh đái tháo đường đã lâu, có biến chứng mạn tính, có nhiều bệnh đi kèm thì chỉ cần HbA1c ở mức 7.5% chấp nhận được.
+
+3. Lựa chọn thuốc điều trị tiểu đường tuýp 2
+3.1 Metformin (Dimethylbiguanide)
+Đây là nhóm thuốc được sử dụng rộng rãi nhất hiện nay. Hàm lượng thuốc viên có các loại bao gồm: 500mg, 850mg, 1000mg Liều khởi đầu viên 500 hoặc 850mg: 2 viên mỗi ngày. Liều tối đa: 2500 mg một ngày Cơ chế tác dụng của Metformin là ức chế sản xuất glucose từ gan và tăng nhạy cảm của insulin ngoại vi. Thuốc có thể hạ glucose máu khoảng 2-4 mmol/l và giảm HbA1c lên đến 2%. Thuốc không gây biến chứng hạ đường máu quá mức nếu dùng đơn độc. Metformin được khuyến cáo để điều trị cho bệnh nhân đái tháo đường type kèm theo thừa cân, béo phì vì thuốc giúp duy trì hoặc làm giảm cân nặng. Tuy nhiên tác dụng phụ của Metformin là trên đường tiêu hóa, do đó nên dùng cùng bữa ăn và bắt đầu bằng liều thấp (500 mg/ngày). Chống chỉ định: suy tim nặng , suy gan, suy thận... Metformin cũng chống chỉ định ở những trường hợp có thiếu oxy mô cấp như người đang có nhồi máu cơ tim , shock nhiễm trùng...
+3.2 Nhóm Sulphonylurea
+Cơ chế của các thuốc điều trị tiểu đường tuýp 2 nhóm Sulfonylurea là kích thích tụy bài tiết insulin, có thể làm giảm glucose từ 50 đến 60 mg/dl, giảm mức HbA1c khoảng 2%. Sử dụng thận trọng Sulphonylurea với bệnh nhân lớn tuổi, người bị bệnh lý thận (creatinin máu > 200 μmol/L) hoặc rối loạn chức năng gan.Các loại sulphonylurea: Thế hệ 1: tolbutamide, chlorpropamide, diabetol... hàm lượng thường gặp là 500 mg, các thuốc thuộc nhóm này hiện nay ít được sử dụng do độc tính cao đối với thận. Thế hệ 2: glibenclamide, gliclazide, glipizide, glyburide... Liều thông thường với các nhóm thuốc là: Glipizide từ 2.5 mg đến 20.0 mg/ngày. Gliclazide từ 40 – 320mg/ngày Gliclazide MR từ 30 – 120 mg/ngày. Glimepiride từ 1.0 – 6.0 mg/ngày – tối đa lên đến 8.0 mg/ngày. Glibenclamide từ 1.25 – 15.0 mg/ngày.
+
+3.3 Nhóm thuốc Ức chế Alpha – glucosidase
+Cơ chế tác dụng của thuốc là ức chế enzym alpha-glucosidase, giúp phá vỡ carbohydrate thành đường đơn (monosaccharide), qua đó làm chậm hấp thu monosaccharide và hạ thấp lượng glucose máu sau bữa ăn. Những thuốc nhóm này gồm: Thế hệ 1 (nhóm acarbose): Loại này thường gây các tác dụng không mong muốn kèm theo như đầy bụng, tiêu lỏng... Liều thuốc có thể tăng từ 25mg đến 50mg hoặc 100mg trong mỗi bữa ăn. Thế hệ 2 (nhóm voglibose): thuốc nhóm này chủ yếu ức chế quá trình phân hủy đường đôi nên ít các tác dụng không mong muốn hơn. Liều thuốc có thể tăng từ 01 đến 02 viên trong mỗi bữa ăn.
+3.4 Meglitinide/Repaglinide
+Thuốc này cũng gây kích thích tế bào beta tuyến tụy tiết insulin nhưng không thuộc nhóm sulfonylurea. Liều dùng: Hiện có hai thuốc trong nhóm này Repaglinide liều từ 0.5 đến 4 mg/bữa ăn. Liều tối đa 16 mg/ngày. Netaglinide liều từ 60 đến 180 mg/bữa ăn. Liều tối đa 540 mg/ngày.
+3.5 Thiazolidinedione (glitazone)
+Thuốc làm tăng nhạy cảm của cơ và tổ chức mỡ với insulin bằng cách hoạt hóa PPAR (peroxisome proliferator-activated receptor), làm tăng thu nạp glucose từ máu, tăng nhạy cảm của insulin ở cơ vân, đồng thời ngăn cản quá trình sản sinh glucose từ gan. Liều dùng: Pioglitazone liều từ 15 đến 45 mg/ngày. Chống chỉ định của nhóm thuốc này là ở những người có triệu chứng hoặc dấu hiệu suy tim, tổn thương gan, thận. Nhiều chuyên gia, nhiều quốc gia cũng khuyến cáo không nên phối hợp nhóm thuốc pioglitazone với insulin.
+3.6 Thuốc ức chế DPP-4
+Đây là những thuốc có đuôi Gliptin, cơ chế là giúp tăng nồng độ incretin nội sinh, kích thích bài tiết insulin do tăng glucose máu sau ăn. Liều dùng: Sitagliptin liều 100mg/ngày Vildagliptin liều 100mg chia 2 lần mỗi ngày. Saxagliptin liều 2.5 – 5 mg/ngày.
+
+4. Khi nào chỉ định sử dụng insulin?
+Có thể chỉ định insulin ngay từ lần khám đầu tiên nếu HbA1C > 9.0% và glucose máu lúc đói trên 15.0 mmol/l (270 mg/dL). Người bệnh đái tháo đường typ 2 đang mắc một bệnh cấp tính khác như nhiễm trùng nặng, nhồi máu cơ tim, đột quỵ... Người bệnh đái tháo đường suy thận có chống chỉ định dùng thuốc viên hạ glucose máu hoặc bệnh nhân suy gan, có tổn thương gan... Đái tháo đường thai kỳ. Người điều trị các thuốc hạ glucose máu bằng thuốc viên không hiệu quả Người bị dị ứng với các thuốc viên hạ glucose máu... Liều dùng của Insulin: Khi bắt đầu dùng insulin kết hợp với sulfonylurea thì thường liều sulfonylurea cần giảm đi 50% và chỉ uống vào buổi sáng. Liều insulin bắt đầu là 0.1 đơn vị/kg cân nặng (0.1 UI/kg) loại NPH, tiêm dưới da trước lúc đi ngủ hoặc 2 mũi tiêm với insulin hỗn hợp (insulin premixed) tùy thuộc vào mức glucose huyết tương và/hoặc HbA1c.
+
+5. Nguyên tắc sử dụng thuốc điều trị tiểu đường type 2
+Nếu mức HbA1c > 9.0% mà mức glucose huyết tương lúc đói > 13.0 mmol/l có thể cân nhắc kết hợp 2 loại thuốc viên hạ glucose máu. Nếu HbA1C > 9.0% mà mức glucose máu lúc đói > 15.0 mmol/l có thể chỉ định dùng ngay insulin. Theo dõi và đánh giá các chỉ số glucose máu lúc đói, glucose máu sau ăn, và HbA1c (kiểm tra mỗi 3 tháng/lần) có đạt mục tiêu điều trị hay không. Nếu glucose huyết ổn định tốt có thể kiểm tra HbA1c mỗi 6 tháng một lần. Đối với các cơ sở y tế không thực hiện được xét nghiệm HbA1c, có thể đánh giá theo mức glucose huyết tương trung bình hoặc theo dõi hiệu quả điều trị bằng glucose máu lúc đói, glucose máu 2 giờ sau ăn. Khoảng 1/3 số người bệnh đái tháo đường type 2 sử dụng insulin để duy trì lượng glucose huyết ổn định. Duy trì mức glucose máu gần mức độ sinh lý được chứng minh là cách tốt nhất để phòng chống bệnh mạch máu, giúp giảm tỷ lệ tử vong, kéo dài tuổi thọ và nâng cao chất lượng cuộc sống của bệnh nhân.

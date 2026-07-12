@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Hạt óc chó", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Hạt óc chó
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: cà chua bi, bữa phụ, ít calo, GI thấp
+
+Mô tả: Hạt óc chó bữa phụ lành mạnh (biến thể 82) là món xào kết hợp mồng tơi và mồng tơi, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.4
+Calo: 158 kcal
+Chất đạm (protein): 4.7 g
+Chất béo tổng: 6.5 g (bão hòa: 1.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 14.8 g (chất xơ: 1.4 g, đường: 4.7 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 373 mg
+Kali: 223 mg | Phốt pho: 99 mg | Magie: 19 mg
+Canxi: 20 mg | Sắt: 0.5 mg | Vitamin D: 2.5 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Bữa phụ/Snack; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+1 phần cà chua bi (~80-100g)
+
+--- Cách chế biến ---
+1. Chuẩn bị cà chua bi theo khẩu phần khuyến nghị
+2. Dùng làm bữa phụ giữa các bữa chính
+3. Không thêm đường hoặc muối

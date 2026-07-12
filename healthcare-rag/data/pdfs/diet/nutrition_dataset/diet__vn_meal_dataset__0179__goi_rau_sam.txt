@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Gỏi rau sam", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Gỏi rau sam
+Loại món: Gỏi/Salad, Rau | Ẩm thực: Vietnamese
+Từ khóa: rau sam, omega-3 thực vật, portulaca, vitamin C
+
+Mô tả: Rau sam giàu omega-3 ALA nhất trong rau xanh, chống oxy hóa cao.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.8
+Calo: 45 kcal
+Chất đạm (protein): 2.5 g
+Chất béo tổng: 0.8 g (bão hòa: 0.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 4.5 g (chất xơ: 2.5 g, đường: 0.8 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 85 mg
+Kali: 315 mg | Phốt pho: 52 mg | Magie: 28 mg
+Canxi: 68 mg | Sắt: 2.5 mg | Vitamin D: 0.2 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Omega-3 ALA cao nhất trong rau xanh
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g rau sam
+1 muỡng giấm gạo
+1 tép tỏi
+Ớt
+
+--- Cách chế biến ---
+1. Rửa rau sam
+2. Chần nhẹ 30 giây
+3. Trộn với tỏi ớt giấm nhạt

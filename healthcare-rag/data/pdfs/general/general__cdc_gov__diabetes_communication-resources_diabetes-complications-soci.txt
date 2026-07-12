@@ -1,0 +1,81 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/communication-resources/diabetes-complications-social-media-graphics.html",
+  "title": "Diabetes Complications Social Media Graphics - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:07:09.728557",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes Complications Social Media Graphics - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 105,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes Complications Social Media Graphics - CDC
+
+May 15, 2024
+
+Diabetes Complications Social Media Graphics
+
+At a glance
+
+Learn more about how diabetes can affect different parts of your body. Graphics available for Instagram and X (formerly Twitter).
+
+Instagram and X graphics
+Diabetes and your body
+
+X
+
+Diabetes and your blood vessels
+
+X
+
+Diabetes and your stomach
+
+X
+
+Diabetes and your skin
+
+X
+
+Diabetes and your sexual health
+
+X
+
+Diabetes and your nerves
+
+X
+
+Diabetes and your mouth
+
+X
+
+Diabetes and your kidneys
+
+X
+
+Diabetes and your heart
+
+X
+
+Diabetes and your feet
+
+X
+
+Diabetes and your eyes
+
+X
+
+Diabetes and your ears
+
+X
+
+Diabetes and your brain
+
+X
+
+May 14, 2024

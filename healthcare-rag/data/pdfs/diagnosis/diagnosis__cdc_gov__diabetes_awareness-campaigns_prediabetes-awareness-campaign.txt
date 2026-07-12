@@ -1,0 +1,72 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/awareness-campaigns/prediabetes-awareness-campaign.html",
+  "title": "Do I Have Prediabetes Campaign - CDC",
+  "category": "diagnosis",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:01:53.510562",
+  "source_name": "cdc.gov",
+  "document_title": "Do I Have Prediabetes Campaign - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 535,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Do I Have Prediabetes Campaign - CDC
+
+May 15, 2024
+
+Do I Have Prediabetes? Campaign
+
+At a glance
+
+The Do I Have Prediabetes? campaign reaches American adults at risk for prediabetes. The campaign empowers adults to know their prediabetes risk and take action.
+
+About the campaign
+Research shows that once people are aware that they have prediabetes, they're more likely to make the necessary long-term lifestyle changes. These include eating healthier, managing weight, and being active, which can help prevent or delay the onset of type 2 diabetes. Take the 1-minute risk test to learn if you're at high risk for prediabetes.
+
+About the campaign
+Learn more about the nation's first prediabetes awareness campaign and get the most recent data.
+
+See Also:
+To learn more, visit the campaign website
+
+Phase 5: 2023
+Be your own hero against prediabetes.
+
+Nearly 98 million American adults (1 in 3) have prediabetes and are at higher risk of developing type 2 diabetes. Of those with prediabetes, 81% don't know they have it. The good news is prediabetes can often be reversed. CDC has partnered with the Ad Council to launch a new suite of public service announcements (PSAs) as part of their "Do I Have Prediabetes?" awareness campaign.
+The PSA campaign encourages people to visit DoIHavePrediabetes.org — PodriaTenerPrediabetes.org in Spanish—where they can take a 1-minute online prediabetes risk test to learn where they stand. Here, they can learn about lifestyle change programs and ways to help reverse prediabetes and prevent or delay the onset of type 2 diabetes.
+Go to DoIHavePrediabetes.org to take the 1-minute prediabetes risk test and find a National Diabetes Prevention Program near you.
+
+Phase 4: 2021
+Change the outcome
+
+Type 2 diabetes is one of the chronic health conditions that poses a significant risk for complications to those who contract COVID-19. A recent study showed type 2 diabetes is one of the top comorbidities associated with COVID-19 severity and deaths. That's why CDC, the American Medical Association (AMA), and the Ad Council launched a series of PSAs taking a serious look at prediabetes.
+
+Phase 3: 2018
+1 in 3 adults has prediabetes. It could be you, or someone you know.
+
+At the time of launch for phase 3, more than 88 million American adults—that's 1 in 3—had prediabetes. That 1 in 3 could be you, your brother, your other brother. You, your co-pilot, your co-pilot's co-pilot. These PSAs bring the risk of prediabetes home to viewers by making it up close and personal.
+
+Phase 2: 2017
+The perfect way to spend a minute.
+
+This PSA offers viewers the "perfect way to spend a minute": take a 1-minute test to learn their prediabetes risk while also doing something everyone loves—watching adorable animal videos. Viewers who score 5 or higher are urged to talk to their doctor and visit DoIHavePrediabetes.org to learn more.
+
+Phase 1: 2016
+No one is excused from prediabetes.
+
+Busy lives can stop people from taking steps to improve their health, but a prediabetes diagnosis can spur them to act. From the campaign's key messages:
+
+Prediabetes is real, and you could have it.
+
+"Know where you stand", a relatable, humorous creative concept.
+
+No one is excused from prediabetes.
+
+Visit DoIHavePrediabetes.org to take the risk test and learn more.
+
+May 15, 2024

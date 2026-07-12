@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá thu xào hành tây", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá thu xào hành tây
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: cá thu, hành tây, protein, xào
+
+Mô tả: Cá thu xào hành tây là món xào kết hợp cá thu và hành tây, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 156 kcal
+Chất đạm (protein): 16.6 g
+Chất béo tổng: 9.1 g (bão hòa: 2.6 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.8 g (chất xơ: 2.2 g, đường: 4.0 g, đường bổ sung: 0.0 g)
+Cholesterol: 85 mg | Natri: 521 mg
+Kali: 284 mg | Phốt pho: 157 mg | Magie: 75 mg
+Canxi: 50 mg | Sắt: 3.0 mg | Vitamin D: 0.2 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Thịt nạc; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g cá thu
+200g hành tây
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cá thu và hành tây
+2. Xào theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

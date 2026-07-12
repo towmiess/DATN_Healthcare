@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Ổi tươi", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Ổi tươi
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: ổi, guava, vitamin C cao nhất, chất xơ
+
+Mô tả: Ổi có vitamin C cao nhất trong các loại trái cây thông dụng, chất xơ rất cao.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 4.5
+Calo: 68 kcal
+Chất đạm (protein): 2.6 g
+Chất béo tổng: 1.0 g (bão hòa: 0.3 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 14.3 g (chất xơ: 5.4 g, đường: 8.9 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 2 mg
+Kali: 417 mg | Phốt pho: 40 mg | Magie: 22 mg
+Canxi: 18 mg | Sắt: 0.3 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Vitamin C và chất xơ cao nhất - bữa phụ tối ưu cho TĐ
+Khẩu phần khuyến nghị: 1 quả vừa/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+1 quả ổi vừa (~150g)
+
+--- Cách chế biến ---
+1. Rửa sạch
+2. Ăn nguyên vỏ hoặc bỏ hạt nếu muốn

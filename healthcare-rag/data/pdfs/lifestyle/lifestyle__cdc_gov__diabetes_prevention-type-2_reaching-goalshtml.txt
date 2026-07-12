@@ -1,0 +1,61 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/prevention-type-2/reaching-goals.html",
+  "title": "Change Negative Thoughts to Reach Goals - CDC",
+  "category": "lifestyle",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:10:01.154396",
+  "source_name": "cdc.gov",
+  "document_title": "Change Negative Thoughts to Reach Goals - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 639,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Change Negative Thoughts to Reach Goals - CDC
+
+May 15, 2024
+
+Español
+
+Change Negative Thoughts to Get Motivated
+
+Key points
+
+Many people think motivation is the same thing as willpower, but it’s more than that.
+Lasting motivation comes from positive thinking and self-confidence.
+Find out how you can identify 5 common negative thoughts and change them into positive motivation.
+
+All-or-nothing thinking
+All-or-nothing thinking happens when you believe there are only two possible outcomes: success or failure. This could lead you to set too many goals because you believe this is the only path to success. It could also lead you to abandon your goals when mistakes happen—you believe you've already failed. This is common during the holiday season or while on vacation. Thinking of your progress in black and white can be discouraging.
+Try this instead: Remind yourself of your small successes and ways you're making gradual progress.
+Keep Reading:
+3 steps to building a healthy habit
+
+Overgeneralizing or labeling
+Overgeneralizing is when you see a single event and assume it's always true. For example, "I failed today, so that means I can't do it." Labeling is when you define yourself based on one instance. For example, "I couldn't walk today, so that means I'm just not in shape." Some people can also label or overgeneralize foods or activities as "good" or "bad." In reality, a healthy lifestyle is about balance. Labeling and overgeneralizing can make you feel stuck, and this may make it hard to get motivated.
+Try this instead: Ask yourself if you've made any labels or assumptions and if there's another way to think about your situation. Be kind to yourself. Remember that just because you haven't succeeded yet doesn't mean you can't or won't with time and practice.
+Keep Reading:
+Fitting a new habit into your life
+
+Overlooking the positives
+Do you have high expectations for yourself? This makes it easy to focus too much on the negatives. For example, if your goal was to walk 2 miles but you only completed 1 mile, you might tell yourself that it didn't go well. But the big picture is that you got out there and did something physically active. Overlooking the positives makes it hard to stay motivated.
+Try this instead: Remember not only how you'd like to improve, but also what's going well!
+
+Emotional decision-making
+Emotions, both positive and negative, can affect your attitude and your choices. It's important to not let negative emotions drive decision-making. For example, you might not feel like making a healthy choice after a long and stressful day. But sometimes that's just the thing that could turn your mood around.
+Try this instead: Practice mindfulness to check in with yourself. Understand how you feel now and think about how you'll feel when you stick to your healthy habit. Make a mindful choice instead of reacting out of emotion, and remember to give yourself healthy rewards.
+Keep Reading:
+Diabetes and Mental Health
+
+Blaming yourself or others
+It's very common to blame yourself or others when things don't go as planned. Focusing on the blame game is distracting and leads to unhelpful negative thoughts. This makes it hard to see a way forward.
+Try this instead: Many things in life are outside your control. Give yourself a break and focus instead on the positive things you can do to pursue your goals. Focus on problem solving and how you can keep moving forward.
+
+Bonus tip: Try positive self-talk
+Self-talk, that conversation you have in your own head, has a big impact on attitude. Positive self-talk can help you feel more confident in the face of challenges. You may be used to speaking more kindly to others than to yourself, so saying “I can do it” or “it’s OK to make a mistake” may feel forced at first. To practice positive self-talk, imagine you’re encouraging a loved one!
+
+May 14, 2024

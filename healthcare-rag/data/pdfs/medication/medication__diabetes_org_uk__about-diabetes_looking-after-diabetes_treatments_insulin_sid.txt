@@ -1,0 +1,58 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/treatments/insulin/side-effects",
+  "title": "Insulin side effects",
+  "category": "medication",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:14:59.407540",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Insulin side effects",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 527,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Insulin side effects
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Side effects of insulin
+
+General side effects
+
+As with all prescribed medication, everyone reacts differently. Check the patient information leaflet supplied with your insulin to see what the side effects are. Remember, you’re unlikely to experience all of them.
+
+You should let your healthcare professional know if you have headaches, nausea or flu-like symptoms within the first 72 hours of starting any new insulin.
+
+Common side effects
+
+Hypos
+
+Hypos are the most common side effect of taking insulin. Hypos are when your blood sugar is too low (below 4mmol/l), and they are very common when you take insulin.
+
+If you’re having a lot of hypos, you may be on the wrong dose and you should speak to your healthcare professional. We’ve got more information on the symptoms of hypos, as well as how to manage them .
+
+It’s worth knowing that lots of other things can increase your risk of hypos, such as miscalculating your insulin dose, taking too much insulin, missing a meal, doing lots of intense exercise without adjusting your insulin dose or drinking alcohol on an empty stomach.
+
+Weight gain
+
+When you start taking insulin, you may start to put on weight. There are lots of reasons for this, like how much you take, your diet and the type of insulin you’re taking. If you’re worried about putting on weight, or you’d like some help losing weight, then we’re here to help.
+
+Insulin is a growth hormone, and any growth hormone you take as medication can encourage weight gain. Growth hormones usually make you feel hungry, and so you could eat more than your body needs. This is why your diet is so important, Insulin helps your body to use glucose from food as energy, and store any extra. But eating well and following a healthy lifestyle, can help you manage your weight.
+
+When you’re first diagnosed with diabetes you may have lost some weight in a short space of time, as this is one of the symptoms, and the weight regain may be an important part of the recovery if you've lost a lot of weight.
+
+Similarly, if you’ve changed your diet to try and lose weight and are therefore using less insulin, switching back to your previous dose and eating patterns may mean you quickly put weight back on. So you may want to discuss new insulin doses with your healthcare team as you start to reintroduce more food.
+
+How much insulin can affect your weight and hunger depends on the type of insulin you’re taking and what it's made of. Analogue insulin doesn’t cause much weight gain, but you’re more likely to put on weight if you take human insulin or animal insulin.
+
+Dose is also very important. If you take too much insulin, this could lead to you putting on weight as well. Having low blood sugars, or hypos, makes you feel hungry too. If you are having frequent hypos you should talk to your healthcare team.
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Share this Page

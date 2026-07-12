@@ -1,0 +1,34 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/benh-dai-thao-duong-che-do-nhu-nao-vi",
+  "title": "Bệnh đái tháo đường: chế độ ăn như thế nào?",
+  "category": "diet",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:10:07.880298",
+  "source_name": "vinmec.com",
+  "document_title": "Bệnh đái tháo đường: chế độ ăn như thế nào?",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1233,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Bệnh đái tháo đường: chế độ ăn như thế nào?
+
+-->
+
+Sức khoẻ tổng hợp
+
+Bệnh đái tháo đường: chế độ ăn như thế nào?
+
+☰
+Mục lục
+
+1. Nguyên tắc cơ bản trong chế độ ăn bệnh đái tháo đường.
+- Đảm bảo cung cấp đủ dinh dưỡng cân bằng cả về số lượng và chất lượng. - Không làm tăng đường huyết nhiều sau ăn, không làm hạ đường huyết xa bữa ăn. - Duy trì hoạt động thể lực bình thường. - Duy trì cân nặng hợp lý. - Không làm tăng các yếu tố nguy cơ như: tăng huyết áp, rối loạn chuyển hóa Lipid máu. - Không thay đổi quá nhanh và quá nhiều cơ cấu và khối lượng bữa ăn. - Đơn giản không quá đắt tiền. - Phù hợp với tập quán địa phương dân tộc.
+2. Kiểm soát cân nặng
+- Người thừa cân, béo phì cần giảm cân, mục tiêu giảm 5-10% trọng lượng cơ thể trong vòng 3-6 tháng. Do vậy mức năng lượng khẩu phần ăn cũng giảm dần, 250-500 kcal/ngày (giảm từng giai đoạn, không giảm đột ngột) - Chế độ ăn tăng năng lượng ở những BN gầy yếu. - Đạt được và duy trì mức cân nặng hợp lý - Cân nặng lý tưởng = Chiều cao (m) X chiều cao (m) X 22 - Vòng eo < 80 cm (Nữ), vòng eo < 90 cm (Nam). - Cân bằng năng lượng là: năng lượng ăn vào = năng lượng tiêu hao. - Năng lượng được cung cấp từ thực phẩm: Glucid: 50 - 60% tổng năng lượng Lipid: 20 - 30% tổng năng lượng Protein: 15 - 20% tổng năng lượng - Mức năng lượng của BN cần được cá nhân hóa dựa trên: thói quen ăn uống, tình trạng sức khỏe, phác đồ điều trị, phong tục tập quán... - Có thể khởi đầu với mức năng lượng 20-30 kcal/kg cân nặng lý tưởng/ngày.
+3. Nguồn cung cấp năng lượng:
+a) Chất bột đường (Glucid): - Nguồn gốc: + Ngũ cốc và các sản phẩm chế biến: Gạo, bún, phở, ngô, bánh mì + Khoai củ: Khoai tây, khoai lang, khoai sọ, sắn, dong, từ, miến dong + Hoa quả: chuối tây, chuối tiêu, lê, nho, mận, .... - Nhu cầu: + Lượng Glucid ăn vào nên chiếm 50 - 60% tổng số năng lượng. + Tối thiểu: 130g Glucid/ngày. - Khuyến cáo lựa chọn thực phẩm: + Bữa ăn nên sử dụng các thực phẩm chứa nhiều chất xơ như rau, đậu, các loại ngũ cốc nguyên hạt như gạo lứt/gạo lật, khoai củ, bánh mì đen, hoa quả. + Nên hạn chế các thức ăn chứa nhiều đường như bánh kẹo, mứt sấy khô, mật ong, hoa quả ngọt như mít, đu đủ, xoài, ... b) Chất béo (Lipid): - Nguồn gốc: + Nguồn gốc động vật như: thịt m , m cá, bơ, sữa, phomat, lòng đỏ trứng gà. + Nguồn gốc thực vật như: dầu thực vật, lạc, vừng,đậu tương, cùi dừa, hạt dẻ, sôcôla. + Chất béo bão hòa có nhiều trong thực phẩm có nguồn gốc động vật. + Chất béo không bão hòa có nhiều trong thực phẩm có nguồn gốc thực vật. + Chất bột đường và chất đạm trong cơ thể có thể chuyển thành acid béo no nhưng không thể tổng hợp acid béo không no. - Nhu cầu: 20 - 25% tổng năng lượng, trong đó: + Chất béo bão hòa nên dưới 10% tổng năng lượng + Cholesterol nên dưới 300mg/ngày. - Lựa chọn thực phẩm: + Chọn thực phẩm có ít chất béo bão hòa như: cá, thịt nạc, đậu phụ, lạc, vừng. + Tránh ăn các thức ăn: thịt m , nội tạng động vật, dầu cọ, dầu dừa, hoặc các thực ăn chiên rán kỹ. + Chọn các dầu thực vật thay thế cho mỡ động vật: dầu đậu nành, dầu hướng dương... + Không nên sử dụng lại dầu đã sử dụng ở nhiệt độ cao: xào, rán... c) Chất đạm (Protein): - Nguồn gốc: + Nguồn gốc động vật: Thịt, cá, trứng, sữa, tôm, cua, ốc, hến, ... + Nguồn thực vật: đậu đỗ, lạc, vừng, gạo, ... - Nhu cầu: + 15 - 20% tổng năng lượng + Khuyến cáo mức cung cấp Protein là 1g-1,2g/kg cân nặng/ ngày đối với BN ĐTĐ không có Proteine niệu, không có suy thận. + BN có biến chứng thận, khuyến cáo mức protein là 0,8g/kg cân nặng/ngày. Tùy từng giai đoạn suy thận, mức protein sẽ được điều chỉnh phù hợp nhằm đảm bảo cung cấp đủ lượng a. amin cần thiết cho cơ thể nhưng không làm nặng lên tình trạng suy thận. - Lựa chọn thực phẩm: + Tăng cường sử dụng cá và thủy hải sản + Ăn các loại thịt bò, thịt lợn ít m + Ăn thịt gia cầm bỏ da + Hạn chế các thực phẩm giàu Cholesterol: phủ tạng động vật, chocolate, ... + Có thể sử dụng trứng 2-4 quả/tuần, ăn cả lòng đỏ và lòng trắng. + Chọn các thực phẩm có nhiều chất béo chưa bão hòa có lợi cho sức khỏe: đậu đỗ, lạc, vừng, dầu oliu, dầu cá, ... d) Vi chất dinh dưỡng: Bao gồm: vitamin và muối khoáng - Người bệnh đái tháo đường cần được cung cấp các vi chất dinh dưỡng như người bình thường. - Vi chất dinh dưỡng có nhiều trong rau và trái cây - Nên sử dụng vi chất có trong tự nhiên e) Muối: - Nên ăn nhạt tương đối, < 5g muối/ngày (2,000 mg Na/ngày) - Hạn chế các thực phẩm chế biến sẵn chứa nhiều muối: dưa muối, cà muối, mỳ tôm, xúc xích, ... - Hạn chế cho thêm nước mắm, gia vị khi ăn uống. - BN có tăng huyết áp và suy thận nên hỏi ý kiến bác sĩ hoặc chuyên gia dinh dưỡng. f) Đồ uống có chứa cồn: - Rượu, bia: có nguy cơ làm hạ đường huyết. Người nghiện rượu có nguy cơ xơ gan. Người bị bệnh ĐTĐ vẫn được uống rượu nhưng không quá 1-2 đơn vị rượu. Một đơn vị rượu chứa 10g cồn, tương đương 120 mL rượu vang, 300 mL bia, hoặc 30mL rượu mạnh. - Các loại nước ngọt, nước giải khát có ga: chỉ sử dụng các loại nước không hoặc ít đường. g) Chất xơ : - Chất xơ có tác dụng giúp thức ăn ở dạ dày lâu hơn, ngăn cản men tiêu hóa tác dụng với thức ăn => chậm tốc độ tiêu hóa, giải phóng Glucose vào máu từ từ. Ngoài ra, chất xơ còn có tác dụng giảm hấp thu Cholesterol, chống xơ vữa động mạch, điều hòa nhu động ruột, tác dụng hữu ích trong giảm táo bón và hạn chế các tác nhân ung thư trực tràng và đường ruột, .... - Chất xơ có nhiều trong các phần như vỏ, dây, lá, hạt, ... của các loại cây lấy quả, rau xanh và ngũ cốc. - Nhu cầu: 20 - 30g/ngày. TÀI LIỆU THAM KHẢO: Số 5481/QĐ-BYT ' VỀ VIỆC BAN HÀNH TÀI LIỆU CHUYÊN MÔN “HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ ĐÁI THÁO ĐƯỜNG TÍP 2”, 30/12/2020 Xem thêm: Hội chứng chuyển hóa Bệnh đái tháo nhạt không quá nguy hiểm nhưng cần cảnh giác

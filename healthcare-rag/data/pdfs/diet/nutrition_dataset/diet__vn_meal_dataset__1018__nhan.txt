@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Nhãn", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Nhãn
+Loại món: Trái cây | Ẩm thực: Vietnamese
+Từ khóa: GI cao, đường cao, theo mùa
+
+Mô tả: Nhãn rất ngọt tương tự vải, GI cao, cần kiểm soát nghiêm ngặt lượng dùng.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 100g (phần ăn được)) ---
+Chỉ số đường huyết (GI): cao | Tải lượng đường huyết (GL): 11.0
+Calo: 60 kcal
+Chất đạm (protein): 1.3 g
+Chất béo tổng: 0.1 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 15.1 g (chất xơ: 1.1 g, đường: 14.0 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 0 mg
+Kali: 266 mg | Phốt pho: 21 mg | Magie: 10 mg
+Canxi: 1 mg | Sắt: 0.1 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI và GL cao - hạn chế nghiêm ngặt như vải thiều
+Khẩu phần khuyến nghị: 5-6 quả (~80g), không quá 2 lần/tuần
+Chống chỉ định / thận trọng: Hạn chế dùng thường xuyên
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g nhãn (phần ăn được)
+
+--- Cách chế biến ---
+1. Rửa sạch nhãn
+2. Gọt vỏ/bỏ hạt nếu cần
+3. Ăn trực tiếp, không thêm đường

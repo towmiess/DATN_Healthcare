@@ -1,0 +1,73 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/diabetes-complications/effects-of-diabetes-brain.html",
+  "title": "Your Brain and Diabetes",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:13:43.021331",
+  "source_name": "cdc.gov",
+  "document_title": "Your Brain and Diabetes",
+  "extraction_method": "<main>",
+  "word_count": 580,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Your Brain and Diabetes
+
+July 16, 2024
+
+Your Brain and Diabetes
+
+Key points
+
+Your brain is sensitive to the amount of glucose (sugar) it receives.
+
+Both high and low blood sugar can damage blood vessels in the brain.
+
+Help prevent problems by keeping your blood sugar close to target levels.
+
+The diabetes-brain connection
+Your brain is your body's command center. To do all its work, your brain uses sugar in your blood for energy. In fact, the brain is the most energy-demanding organ. It needs half of all the sugar energy in the body to function properly.
+If your blood sugar levels fall outside your normal range, it can throw your command center off balance. In the same way diabetes can damage nerves in other parts of your body, it can damage nerves in your brain.
+
+This can lead to problems with memory and learning, mood shifts, weight gain, and hormonal changes. Over time, it can also lead to other serious problems like Alzheimer's disease. Both high and low blood sugar levels can cause these harms. That's why it's important for people with diabetes to keep their blood sugar at target levels.
+Your doctor will set a personal blood sugar target range for you. You can help protect your brain by keeping your blood sugar levels close to your target. Eat a diet rich in vegetables, fiber, and fruit and make sure to get regular physical activity. These healthy habits can help you manage your diabetes and support your brain health.
+
+High blood sugar
+Having frequent episodes of high blood sugar (hyperglycemia) can stress the brain. The effects of high blood sugar happen over time and aren't obvious right away. People often don't know that their brain is being affected.
+High blood sugar over time damages blood vessels in the brain that carry oxygen-rich blood. When your brain receives too little blood, brain cells can die. This can cause problems with memory and thinking and eventually can lead to vascular dementia .
+
+Low blood sugar
+Low blood sugar (hypoglycemia) happens when your blood sugar levels drop below 70 mg/dL. It can be very dangerous if left untreated.
+When your brain doesn't get enough sugar, it also doesn't get enough oxygen. And unlike high blood sugar, the signs of low blood sugar are often immediate. Symptoms of low blood sugar may include feeling dizzy, shaky, or irritable. You may have trouble walking or talking. Severe low blood sugar can cause you to pass out or have seizures. It can even put you in a coma.
+Some people with low blood sugar may not have any symptoms, which can make it hard to treat early. This is why it's important to check your blood sugar often. That way you can catch low blood sugar before it causes serious problems.
+Some research shows that big dips in blood sugar may be linked to problems with depression, memory, and attention. If you have any of these problems and often have low blood sugar, talk to your doctor, who can:
+
+Help figure out why you're having low blood sugar.
+
+Adjust your medicine if needed.
+
+Refer you to a mental health counselor.
+
+Keep brain health top of mind
+You can take steps to improve or prevent problems with brain health and diabetes, such as:
+
+Follow a healthy eating plan .
+
+Maintain a healthy weight.
+
+Keep your blood sugar within target levels.
+
+Get regular physical activity.
+
+Take medicine as prescribed.
+
+Stop smoking if you smoke.
+
+Manage stress.
+
+July 16, 2024
+
+Syndicate

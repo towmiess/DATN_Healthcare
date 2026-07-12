@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Trứng su su xào", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trứng su su xào
+Loại món: Món trứng | Ẩm thực: Vietnamese
+Từ khóa: trứng, su su, protein, choline
+
+Mô tả: Trứng su su xào là món xào kết hợp tôm đồng và su su, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.1
+Calo: 168 kcal
+Chất đạm (protein): 10.5 g
+Chất béo tổng: 8.2 g (bão hòa: 1.9 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 2.5 g (chất xơ: 0.9 g, đường: 2.4 g, đường bổ sung: 0.0 g)
+Cholesterol: 85 mg | Natri: 573 mg
+Kali: 201 mg | Phốt pho: 160 mg | Magie: 39 mg
+Canxi: 25 mg | Sắt: 2.2 mg | Vitamin D: 3.5 mcg | Omega-3: 2.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Món trứng; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+2 quả trứng
+100g su su
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Đánh trứng hoặc để nguyên theo món
+2. Sơ chế su su
+3. Xào kết hợp
+4. Nêm gia vị nhạt

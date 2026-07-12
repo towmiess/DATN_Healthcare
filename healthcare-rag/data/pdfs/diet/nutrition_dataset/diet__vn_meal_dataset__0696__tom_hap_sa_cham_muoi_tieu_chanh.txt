@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Tôm hấp sả chấm muối tiêu chanh", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Tôm hấp sả chấm muối tiêu chanh
+Loại món: Cá/Hải sản | Ẩm thực: Vietnamese
+Từ khóa: tôm hấp, sả, ít muối, protein
+
+Mô tả: Hấp với sả giữ vị ngọt tự nhiên, chấm muối tiêu chanh giảm natri so với nước mắm.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.5
+Calo: 112 kcal
+Chất đạm (protein): 22.5 g
+Chất béo tổng: 1.5 g (bão hòa: 0.3 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 2.0 g (chất xơ: 0.0 g, đường: 0.5 g, đường bổ sung: 0.1 g)
+Cholesterol: 165 mg | Natri: 265 mg
+Kali: 385 mg | Phốt pho: 225 mg | Magie: 38 mg
+Canxi: 82 mg | Sắt: 1.8 mg | Vitamin D: 0.5 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít natri nhất nhờ chấm muối tiêu chanh thay nước mắm
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Gút thận trọng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+300g tôm
+3 cây sả
+Muối tiêu chanh
+
+--- Cách chế biến ---
+1. Xếp sả vào xửng hấp
+2. Cho tôm lên hấp 10 phút
+3. Chấm muối tiêu chanh

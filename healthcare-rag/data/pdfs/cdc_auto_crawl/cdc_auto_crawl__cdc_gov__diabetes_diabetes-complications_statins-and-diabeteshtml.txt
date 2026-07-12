@@ -1,0 +1,56 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/diabetes-complications/statins-and-diabetes.html",
+  "title": "Statins and Diabetes: What You Should Know",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:13:45.074164",
+  "source_name": "cdc.gov",
+  "document_title": "Statins and Diabetes: What You Should Know",
+  "extraction_method": "<main>",
+  "word_count": 474,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Statins and Diabetes: What You Should Know
+
+May 15, 2024
+
+Español
+
+Statins and Diabetes: What You Should Know
+
+Key points
+
+People with diabetes are twice as likely to have heart disease or a stroke.
+Statins can reduce that risk by lowering cholesterol.
+Statins may raise blood sugar, but the benefits for many outweigh that risk.
+
+Why are statins prescribed?
+Heart disease is the leading cause of death for people in the United States. People with diabetes are twice as likely to have heart disease or a stroke compared to people without diabetes. The longer you have diabetes, the more likely you are to have heart disease. This is because over time high blood sugar can damage the blood vessels and nerves that control your heart.
+A common cause of heart disease is plaque (cholesterol deposits) that builds up in the arteries. When plaque continues to build, your arteries narrow, making it harder for blood to flow to your heart. This can cause heart muscles to weaken and increases the risk of heart attack and stroke.
+For this reason, your doctor may prescribe a statin (cholesterol-lowering medicine) to reduce your risk of heart disease. About half of people who take medicine to manage high blood cholesterol take a statin.
+
+How do statins work?
+Statins are a type of medicine that reduces the amount of cholesterol made in the liver. Statins also help remove LDL ("bad") cholesterol that's already in the blood and raise your HDL ("good") cholesterol. They can also:
+
+Reduce the buildup of plaque on artery walls.
+Stabilize plaque so that it doesn't break off and block blood flow to the heart or brain.
+Decrease swelling in artery walls.
+Lower the chance of blood clots forming.
+
+There are several types of statins, each with different dosage levels and strengths. A statin prescription will be based on your individual factors. These include your blood cholesterol levels, your risk for heart disease, and your tolerance of a specific statin. Your health care team will work with you to determine the best type and dosage.
+
+Can statins increase blood sugar?
+Some research has found that using statins increases blood sugar because statins can stop your body's insulin from working well. This can put people who use statins at higher risk of developing type 2 diabetes.
+Statins are still recommended for many people who have high blood cholesterol. Even though there are risks with taking a statin, your risk may be greater if you don't take it. It's always best to talk to your doctor about your individual risks and benefits of taking statins.
+
+What else can I do to protect my heart?
+Having healthy cholesterol and blood sugar levels are important to lower your risk of heart disease.
+Although statins help reduce your risk of heart disease , healthy lifestyle habits are an important part of reducing your risk too.
+
+May 14, 2024
+
+Syndicate

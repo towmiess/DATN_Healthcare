@@ -1,0 +1,87 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/articles/managing-diabetes-in-the-heat.html",
+  "title": "Managing Diabetes in the Heat - CDC",
+  "category": "lifestyle",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:10:34.582594",
+  "source_name": "cdc.gov",
+  "document_title": "Managing Diabetes in the Heat - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 834,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Managing Diabetes in the Heat - CDC
+
+May 15, 2024
+
+Español
+
+Managing Diabetes in the Heat
+
+At a glance
+
+Did you know that people who have diabetes—either type 1 or type 2—feel the heat more than people who don’t have diabetes? Read on to find out some reasons why.
+
+Heat affects people with diabetes more
+Certain diabetes complications , such as damage to blood vessels and nerves, can affect your sweat glands so your body can't cool as effectively . That can lead to heat exhaustion and heat stroke, which is a medical emergency.
+People with diabetes get dehydrated (lose too much water from their bodies) more quickly. Not drinking enough liquids can raise blood sugar , and high blood sugar can make you urinate more, causing dehydration. Some commonly used medicines like diuretics ("water pills" to treat high blood pressure) can dehydrate you too.
+High temperatures can change how your body uses insulin . You may need to test your blood sugar more often and adjust your insulin dose and what you eat and drink.
+
+It's the heat and the humidity
+Even when it doesn't seem very hot outside, the combination of heat and humidity (moisture in the air) can be dangerous. When sweat evaporates (dries) on your skin, it removes heat and cools you. It's harder to stay cool in high humidity because sweat can't evaporate as well.
+Whether you're working out or just hanging out, it's a good idea to check the heat index . The heat index is a measurement that combines temperature and humidity. Take steps to stay cool when it reaches 80&deg;F in the shade with 40% humidity or above. Important to know: The heat index can be up to 15&deg;F higher in full sunlight, so stick to the shade when the weather warms up.
+Physical activity is key to managing diabetes. But don't get active outdoors during the hottest part of the day or when the heat index is high. Get out early in the morning or in the evening when temperatures are lower. Work out at home if you have air-conditioning. Or go to an air-conditioned mall or gym to get active.
+
+Your blood sugar knows best
+Kids out of school, vacations, get-togethers, family reunions. The summer season can throw off your routine, and possibly your diabetes management plan. Check your blood sugar more often to make sure it's in your target range no matter what the summer brings. It's especially important to recognize what low blood sugar feels like and treat it as soon as possible.
+Warm-weather wisdom:
+
+Drink plenty of water—even if you're not thirsty—so you don't get dehydrated.
+
+Avoid alcohol and drinks with caffeine, like coffee, soda, and energy or sports drinks. They can lead to water loss and spike your blood sugar levels.
+
+Check your blood sugar before, during, and after you're active. You may need to change how much insulin you use.
+
+Wear loose-fitting, lightweight, light-colored clothing.
+
+Wear sunscreen and a hat when you're outside. Sunburn can raise your blood sugar levels.
+
+Don't go barefoot, even on the beach or at the pool.
+
+Use your air conditioner or go to an air-conditioned building or mall to stay cool. In very high heat, a room fan won't cool you enough.
+
+Too hot to handle
+Know what else feels the heat? Diabetes medicines, supplies, and equipment.
+Don't store insulin or oral diabetes medicine in direct sunlight or in a hot car. Check package information about how high temperatures can affect insulin and other medicines.
+If you're traveling, keep insulin and other medicines in a cooler. Don't put insulin directly on ice or on a gel pack.
+Heat can damage your blood sugar monitor, insulin pump, and other diabetes equipment. Don't leave them in a hot car, by a pool, in direct sunlight, or on the beach. The same goes for supplies such as test strips.
+But don't let the summer heat stop you from taking your diabetes supplies with you when you're out and about. You'll need to be able to test your blood sugar and take steps if it's too high or too low. Just make sure to protect your diabetes gear from the heat.
+
+Stormy weather
+June 1 marks the beginning of hurricane season. Severe thunderstorms with hail, high winds, and tornadoes are more likely in warm weather too. People with diabetes face extra challenges if the power goes out or they have to seek shelter away from home. Plan how you'll handle medicine that needs refrigeration, such as insulin. And be prepared by packing an emergency go-bag—a supply kit you can grab quickly if you need to leave your home.
+Here's to staying cool, staying safe, and enjoying the long summer days!
+
+Your summer checklist
+
+Drink plenty of water.
+
+Test your blood sugar often.
+
+Keep medicines, supplies, and equipment out of the heat.
+
+Stay inside in air-conditioning when it's hottest.
+
+Wear loose, light clothing.
+
+Get medical attention for heat-related illness.
+
+Make a plan in case you lose power.
+
+Have a go-bag ready for emergencies.
+
+May 14, 2024

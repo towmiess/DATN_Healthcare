@@ -1,0 +1,129 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/hcp/clinical-guidance/diabetes-podiatrist-health.html",
+  "title": "Promoting Foot Health",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:30.979750",
+  "source_name": "cdc.gov",
+  "document_title": "Promoting Foot Health",
+  "extraction_method": "<main>",
+  "word_count": 909,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Promoting Foot Health
+
+May 15, 2024
+
+Promoting Foot Health
+
+Key points
+
+People with diabetes are at risk of diabetes-related foot conditions.
+
+Conditions include neuropathy, arthropathy, and vasculopathy.
+
+Complications can be avoided or delayed with yearly comprehensive foot exams and treatment.
+
+Podiatrists in diabetes care
+Podiatrists play a key role in detecting and treating foot problems in people with diabetes. These include neuropathy (nerve damage), arthropathy (joint damage), and vasculopathy (blood vessel damage). Complications can be avoided or delayed with yearly comprehensive foot exams and treatment.
+
+Key messages to share with your patients
+Encourage your patients to do the following:
+
+Ask for a basic foot check at every health care visit.
+
+Get yearly comprehensive foot exams.
+
+Get their feet checked more often (such as every 3 to 6 months) if they have difficulty managing their blood sugar or blood pressure.
+
+Learn more about diabetes and your feet and tips for healthy feet .
+
+Let patients know:
+
+Regular foot checks combined with yearly comprehensive exams can help identify problems early.
+
+Annual foot exams assess pulses, sensation, foot structure and function, and nails.
+
+They should contact their doctor if they notice a foot problem rather than treat it themselves.
+
+Diabetes-related complications can start in their feet and may not cause recognizable symptoms.
+
+Take these 5 actions to help your patients
+1. Know the risks of foot disorders and amputation for diabetes patients.
+People with diabetes are at risk of diabetes-related foot conditions. However, many do not get regular preventive care.
+Nearly half of people with diabetic peripheral neuropathy may not have symptoms. Without preventive foot care, this condition can lead to foot injury in areas where patients lack feeling. 1
+Statistics
+
+People with both diabetes and peripheral vascular disease have a higher risk of amputation. 2
+
+Low-income, rural, African American, and American Indian people with diabetes have a higher risk of amputation. 2
+
+About 12% of people with diabetes develop diabetic foot ulcers during their lifetime. 3
+
+In 2016, there were 4.9 lower-extremity amputations per 1,000 adults diagnosed with diabetes. 4
+
+In 2016, about 130,000 diabetes-related hospital discharges involved a lower-extremity amputation. 5
+
+19% to 53% of diabetes patients with a lower-extremity amputation will have another amputation of the opposite extremity within 5 years. 3
+
+Keep Reading:
+Preventing diabetes-related amputations 2. Encourage your patients to watch for foot problems.
+At each health care visit, tell your patients with diabetes about the signs of foot problems. This will help them be aware of changes in their feet when they start. You can make sure your patients understand the information by asking them to repeat what they heard.
+
+Common signs of foot health issues
+Feelings of tingling, burning, or numbness; sensation of bugs crawling on the skin; puncture wounds, ulcers, or redness; new foot pain; corns or calluses; toenail deformity, or bleeding beneath the nail; changes in foot shape; walking with a limp, or foot swelling; shoes no longer fitting.
+
+3. Ask your patients about their foot health at each visit.
+For example:
+
+Do you check your own feet every day?
+
+Do you know how to check your feet?
+
+Do you have appropriate footwear to prevent ulcers?
+
+Do you visit a podiatrist for a comprehensive foot exam at least once a year?
+
+Do you contact a health care provider when you notice a foot problem?
+
+You can refer your patients to a podiatrist or provide them with more information about recommended foot care for people with diabetes.
+4. Help your patients see the connection between diabetes management and healthy feet.
+Use the following pointers to support healthy diabetes management for your patients:
+
+Promote the ABCs of diabetes (A1C, blood pressure, cholesterol, and smoking cessation) and a healthy lifestyle.
+
+Connect patients to health coaches, patient navigators, nutritionists, community health workers, and local community resources, when possible.
+
+Encourage patients to get regular foot health checkups.
+
+Follow up with patients regularly to track how well they are managing their diabetes and connecting with their health care team.
+
+Consider socioeconomic factors (food and housing security, social support) that may affect your patient's diabetes management.
+
+5. Refer your patients to diabetes self-management education and support (DSMES) services.
+DSMES services help people live well with diabetes at any stage of their journey. Participants work with diabetes care and education specialists to learn practical skills in diabetes self-care. Skills include improving their blood sugar, eating well, being active, and solving problems to manage their diabetes.
+
+DSMES services
+Learn more about DSMES and encourage your patients to find a DSMES program recognized by the American Diabetes Association or accredited by the Association of Diabetes Care & Education Specialists.
+
+Resources
+
+Diabetes Complications
+
+Lower Extremity Amputation Prevention (LEAP)
+
+Tips for Healthy Feet (social media graphics)
+
+May 14, 2024
+
+Syndicate
+
+References American Diabetes Association. Microvascular complications and foot care: standards of medical care in diabetes—2020. Diabetes Care . 2020;43(Suppl 1):S135–151. doi:10.2337/dc20-S011
+Barnes JA, Eid MA, Creager MA, Goodney PP. Epidemiology and risk of amputation in patients with diabetes mellitus and peripheral artery disease. Arterioscler Thromb Vasc Biol . 2020;40(8):1808–1817. doi:10.1161/ATVBAHA.120.314595
+Boyko EJ, Mont Monteiro-Soares M, Wheeler SGB. Peripheral arterial disease, foot ulcers, lower extremity amputations, and diabetes. In Diabetes in America. 3rd ed. National Institutes of Health; 2018.
+US Department of Health and Human Services. Reduce the rate of foot and leg amputations in adults with diabetes — D-08. Published August 18, 2020. Accessed September 21, 2021. https://health.gov/healthypeople/objectives-and-data/browse-objectives/diabetes/reduce-rate-foot-and-leg-amputations-adults-diabetes-d-08
+Centers for Disease Control and Prevention. National Diabetes Statistics Report, 2020. Updated August 28, 2020. Accessed September 21, 2021. https://www.cdc.gov/diabetes/data/statistics-report/index.html

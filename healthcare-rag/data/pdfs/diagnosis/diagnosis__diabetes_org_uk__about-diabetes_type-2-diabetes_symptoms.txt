@@ -1,0 +1,32 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/symptoms",
+  "title": "Type 2 symptoms",
+  "category": "diagnosis",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:07:19.745484",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Type 2 symptoms",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 615,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Type 2 symptoms
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Type 2 diabetes symptoms
+
+What are the first warning signs and symptoms of type 2 diabetes? A lot of people don’t get any signs or symptoms of type 2 diabetes – or don’t notice them. Symptoms can include: Weeing a lot, especially at night. Being really thirsty. Feeling more tired than usual. Losing weight without trying to – and getting thinner. Genital itching or thrush. Cuts and wounds taking longer to heal. Blurred eyesight. Behaviour changes like feeling more irritable. Can type 2 diabetes be cured? There isn’t a cure for type 2 diabetes or any other type of diabetes. By losing weight, some people can reverse their type 2 diabetes, known as remission . This means their blood sugar levels are back at ‘normal’ levels rather than within the range for diabetes or prediabetes and they don’t need to take diabetes medication to manage their blood sugar levels. But type 2 diabetes can come back if people put weight back on. Type 2 diabetes symptoms in adults Everyone is different so your symptoms may not always be the same. But the most common symptoms of type 2 diabetes are increased thirst, needing to go to the toilet more, feeling tired and losing weight. Type 2 diabetes can be easier to miss than type 1 diabetes because the symptoms may not be so obvious. To find out more about these symptoms and what causes them, watch our video
+
+Type 2 diabetes symptoms in children or young people (under 18s) Symptoms for type 2 diabetes in children and young people are the same as those above but may be more obvious. Type 2 diabetes in children is much less common in children than type 1 diabetes. Risk factors include a family history of type 2 diabetes, ethnicity and living with obesity or overweight. Find out more about the symptoms of diabetes in children . There are now more young people (under 25s) being diagnosed with type 2 diabetes - read our news story about this. What should I do if I believe I have type 2 diabetes? If you think you have some of the symptoms of type 2 diabetes, ask your GP for a blood test for diabetes. Find out more about  getting tested for diabetes . It’s important that type 2 diabetes is picked up as early as possible. In some people, undiagnosed type 2 diabetes can lead to very high blood sugar levels that cause them to become dangerously ill and condition called  Hyperosmolar Hyperglycaemic State (HHS) or in more rare cases - diabetic ketoacidosis (DKA). See how how undiagnosed type 2 diabetes affects children . The longer type 2 diabetes remains undiagnosed the greater the risk of developing long-term complications such as eye disease (retinopathy). Being diagnosed earlier means these can be spotted and treated. You can check your risk of type 2 diabetes by using our Know Your Risk tool . It takes just a few minutes to fill in. We understand that being diagnosed with type 2 diabetes can be shocking and overwhelming, and we're here for you. We can offer you all the information, practical tips and guidance you need in bite sized blocks through our email support journey. What does undiagnosed type 2 diabetes feel like? Jordan thought his type 2 diabetes symptoms were long Covid. He had fatigue, muscle cramps, needed to pee frequently and lost his appetite. “I was trying to wait it out, hoping it would get better soon.” Read Jordan’s story
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Share this Page

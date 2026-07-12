@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Tôm tích hấp bia", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Tôm tích hấp bia
+Loại món: Cá/Hải sản | Ẩm thực: Vietnamese
+Từ khóa: tôm tích, hấp bia, protein, ít béo
+
+Mô tả: Tôm tích (bề bề) hấp bia khử mùi, giàu protein ít chất béo bão hòa.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.8
+Calo: 118 kcal
+Chất đạm (protein): 20.5 g
+Chất béo tổng: 1.8 g (bão hòa: 0.3 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 2.5 g (chất xơ: 0.0 g, đường: 0.5 g, đường bổ sung: 0.1 g)
+Cholesterol: 145 mg | Natri: 298 mg
+Kali: 385 mg | Phốt pho: 235 mg | Magie: 38 mg
+Canxi: 68 mg | Sắt: 1.5 mg | Vitamin D: 0.5 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít béo nhất trong các loại hải sản
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Gút thận trọng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: cao
+
+--- Nguyên liệu ---
+300g tôm tích
+1 lon bia (chỉ dùng hấp)
+Sả gừng
+
+--- Cách chế biến ---
+1. Tôm tích rửa sạch
+2. Đổ bia vào nồi hấp với sả gừng
+3. Hấp 12 phút

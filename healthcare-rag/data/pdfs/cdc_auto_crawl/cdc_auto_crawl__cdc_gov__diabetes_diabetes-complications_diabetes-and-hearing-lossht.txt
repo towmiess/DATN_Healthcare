@@ -1,0 +1,76 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-hearing-loss.html",
+  "title": "Hearing Loss",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:13:20.949469",
+  "source_name": "cdc.gov",
+  "document_title": "Hearing Loss",
+  "extraction_method": "<main>",
+  "word_count": 466,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Hearing Loss
+
+May 15, 2024
+
+Español
+
+Hearing Loss
+
+What to know
+
+Over time, high or low blood sugar can damage nerves that affect hearing.
+
+Managing blood sugar can help protect your hearing.
+
+Find out about the signs of hearing loss and how you can help prevent it.
+
+The diabetes and hearing loss connection
+Diabetes can lead to nerve damage that affects many parts of the body, including your ears.
+
+Over time, high blood sugar levels can damage small blood vessels and nerves in the inner ear. Low blood sugar over time can damage how nerve signals travel from the inner ear to your brain. Both types of nerve damage can lead to hearing loss.
+Hearing loss is twice as common in people who have diabetes as it is in people the same age who don't. Even people with prediabetes have a 30% higher rate of hearing loss than people with normal blood sugar levels.
+
+Signs of hearing loss
+Hearing loss can happen slowly, so it can be hard to notice. Often, friends and family members will notice your hearing loss before you do.
+Signs of hearing loss include:
+
+Often asking others to repeat themselves.
+
+Trouble following conversations with more than one person.
+
+Thinking that others are mumbling.
+
+Problems hearing in noisy places, such as busy restaurants.
+
+Trouble hearing small children and others with quiet voices.
+
+Turning up the TV or radio volume too loud for others who are nearby.
+
+Problems with your inner ear may also affect your balance.
+
+Test your hearing now
+Is your hearing OK? Find out in just a few minutes using this app . If your result shows you may have hearing loss, ask your doctor whether you should see an audiologist for further testing.
+
+How to protect your ears
+You can't reverse hearing loss, but you can follow these tips to help protect your ears:
+
+Keep your blood sugar as close to your target levels as possible.
+
+Get your hearing checked every year.
+
+Avoid other causes of hearing loss, including loud noises.
+
+Ask your doctor if medicines you're taking can damage your hearing and if other options are available.
+
+Have your hearing tested by an audiologist (a health care professional who evaluates your hearing for medical problems). Do this when you first find out you have diabetes and then every year after. Make it part of your diabetes care schedule . If you think you have hearing loss, talk to your doctor. They can help you decide if you should see an audiologist.
+Hearing loss can be frustrating for you and your family, and it can affect your social life. There are many reasons to keep your blood sugar in your target range. Protecting your hearing is just one of them. You'll also feel better and have more energy.
+
+May 14, 2024
+
+Syndicate

@@ -1,0 +1,101 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/about/diabetic-ketoacidosis.html",
+  "title": "Diabetic Ketoacidosis",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:14.055867",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetic Ketoacidosis",
+  "extraction_method": "<main>",
+  "word_count": 719,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetic Ketoacidosis
+
+Diabetic Ketoacidosis
+
+May 15, 2024
+
+Español
+
+Key points
+
+Diabetic ketoacidosis (DKA) develops when your body doesn’t have enough insulin to allow blood sugar into your cells for use as energy.
+DKA is most common among people with type 1 diabetes.
+DKA is serious and can be life-threatening.
+
+Overview
+DKA is a serious complication of diabetes that can be life-threatening. DKA is most common among people with type 1 diabetes . People with type 2 diabetes can also develop DKA.
+DKA develops when your body doesn't have enough insulin to allow blood sugar into your cells for use as energy. Instead, your liver breaks down fat for fuel, a process that produces acids called ketones. When too many ketones are produced too fast, they can build up to dangerous levels in your body.
+Read on to learn more about DKA, how you can prevent DKA, and how to treat it if needed.
+
+Signs and symptoms
+DKA usually develops slowly. Early symptoms include:
+
+Being very thirsty.
+Urinating a lot more than usual.
+
+If untreated, more severe symptoms can appear quickly, such as:
+
+Fast, deep breathing.
+Dry skin and mouth.
+Flushed face.
+Fruity-smelling breath.
+Headache.
+Muscle stiffness or aches.
+Being very tired.
+Nausea and vomiting.
+Stomach pain.
+
+Sometimes DKA is the first noticeable sign of diabetes in people who haven't yet been diagnosed.
+
+Causes
+Very high blood sugar and low insulin levels lead to DKA. The two most common causes are:
+
+Illness. You may not be able to eat or drink as much as usual, which can make blood sugar hard to manage.
+Missing insulin shots, a clogged insulin pump, or the wrong insulin dose.
+
+Other causes of DKA include:
+
+Heart attack or stroke.
+Physical injury, such as from a car accident.
+Alcohol or drug use.
+Certain medicines, such as some diuretics (water pills) and corticosteroids (used to treat inflammation in the body).
+
+DKA is a serious condition, but you can take steps to help prevent it:
+
+Check your blood sugar often, especially if you're sick.
+Keep your blood sugar levels in your target range as much as possible.
+Take medicines as prescribed, even if you feel fine.
+Talk to your doctor about how to adjust your insulin based on what you eat, how active you are, or if you're sick.
+
+If you're at risk for type 1 diabetes, you can also prevent DKA through early treatment. Even people who don't get treatment to prevent type 1 diabetes can monitor for signs and symptoms of DKA to avoid an emergency situation.
+If you're concerned about DKA or have questions about how to manage your diabetes , talk to your diabetes care team. Ask them for a referral to diabetes self-management education and support (DSMES) for individual guidance. DSMES services are a vital tool to help you manage and live well with diabetes while protecting your health.
+
+Test for ketones
+If you have diabetes and you're sick or your blood sugar is 250 mg/dL or above, you'll need to check your blood sugar every 4 to 6 hours and check your urine for ketones. Ketone test kits are affordable and widely available over the counter to check your ketones at home. You should also test for ketones if you have any of the symptoms of DKA. Elevated ketones are a sign of DKA. This is a medical emergency that needs to be treated immediately .
+Go to the emergency room or call 911 right away if you're having any of these signs:
+
+Your blood sugar stays at 300 mg/dL or above.
+Your breath smells fruity.
+You are vomiting and can't keep food or drinks down.
+You're having trouble breathing.
+You have multiple signs and symptoms of DKA.
+
+High ketones? Call 911
+High ketones can be an early sign of DKA, which is a medical emergency. Call 911 or go to the emergency room right away.
+
+If you have DKA, you'll be treated in the emergency room or admitted to the hospital. Your treatment will likely include:
+
+Replacing fluids you lost through frequent urination and to help dilute excess sugar in your blood.
+Replacing electrolytes (minerals in your body). Too little insulin can lower electrolytes.
+Receiving insulin . Insulin reverses the conditions that cause DKA.
+Taking medicines for any underlying illness that caused DKA, such as antibiotics for an infection.
+
+May 15, 2024
+
+Syndicate

@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá bống luộc hành tây", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá bống luộc hành tây
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: cá bống, hành tây, protein, luộc
+
+Mô tả: Cá bống luộc hành tây là món luộc kết hợp cá bống và hành tây, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 145 kcal
+Chất đạm (protein): 17.1 g
+Chất béo tổng: 10.2 g (bão hòa: 2.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.8 g (chất xơ: 4.1 g, đường: 2.7 g, đường bổ sung: 0.0 g)
+Cholesterol: 45 mg | Natri: 206 mg
+Kali: 444 mg | Phốt pho: 111 mg | Magie: 33 mg
+Canxi: 56 mg | Sắt: 1.4 mg | Vitamin D: 0.0 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Thịt nạc; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g cá bống
+200g hành tây
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cá bống và hành tây
+2. Luộc theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

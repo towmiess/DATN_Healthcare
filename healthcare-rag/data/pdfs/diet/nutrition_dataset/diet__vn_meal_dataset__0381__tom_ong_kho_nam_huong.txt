@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Tôm đồng kho nấm hương", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Tôm đồng kho nấm hương
+Loại món: Cá/Hải sản | Ẩm thực: Vietnamese
+Từ khóa: tôm đồng, nấm hương, protein, kho
+
+Mô tả: Tôm đồng kho nấm hương là món kho kết hợp tôm đồng và nấm hương, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 200 kcal
+Chất đạm (protein): 23.7 g
+Chất béo tổng: 3.6 g (bão hòa: 1.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.8 g (chất xơ: 1.8 g, đường: 2.6 g, đường bổ sung: 0.0 g)
+Cholesterol: 35 mg | Natri: 530 mg
+Kali: 559 mg | Phốt pho: 191 mg | Magie: 56 mg
+Canxi: 54 mg | Sắt: 0.6 mg | Vitamin D: 0.0 mcg | Omega-3: 0.8 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Cá/Hải sản; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g tôm đồng
+200g nấm hương
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế tôm đồng và nấm hương
+2. Kho theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

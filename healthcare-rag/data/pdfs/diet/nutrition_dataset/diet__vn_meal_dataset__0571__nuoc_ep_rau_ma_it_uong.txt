@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Nước ép rau má ít đường", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Nước ép rau má ít đường
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: lá sen, đồ uống, không đường, ít calo
+
+Mô tả: Nước ép rau má ít đường là món hấp kết hợp cà rốt và cà rốt, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 80 kcal
+Chất đạm (protein): 1.9 g
+Chất béo tổng: 1.7 g (bão hòa: 0.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 12.9 g (chất xơ: 2.5 g, đường: 5.4 g, đường bổ sung: 0.0 g)
+Cholesterol: 85 mg | Natri: 529 mg
+Kali: 226 mg | Phốt pho: 257 mg | Magie: 46 mg
+Canxi: 151 mg | Sắt: 2.2 mg | Vitamin D: 1.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Đồ uống; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200ml nước lá sen
+Không đường hoặc đường ăn kiêng
+Đá (tùy chọn)
+
+--- Cách chế biến ---
+1. Rửa sạch lá sen
+2. Xay hoặc hãm với nước
+3. Lọc lấy nước, không thêm đường
+4. Dùng lạnh hoặc ấm

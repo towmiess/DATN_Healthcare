@@ -1,0 +1,20 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.co.uk/diabetes_care/blood_glucose_monitor_guide.html",
+  "title": "Blood glucose meter guide - Diabetes.co.uk",
+  "category": "blood_glucose",
+  "language": "en",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:01:10.884075",
+  "source_name": "diabetes.co.uk",
+  "document_title": "Blood glucose meter guide - Diabetes.co.uk",
+  "fetch_method": "requests",
+  "extraction_method": "fallback",
+  "word_count": 86,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Blood glucose meter guide - Diabetes.co.uk
+
+Guide to Blood Glucose Meters (Blood Glucose Monitors) Living with Diabetes Blood Glucose Meter Guide 4 minute read Up next Published on 15 January 2019 Updated on 29 October 2023 Author Conor Seery Share article Facebook Twitter Pinterest Reddit Mail All Abbott Bayer BBI Healthcare Braun Cambridge Sensors Dario GlucoRX iCare IME Infopia Inside Biometrics Lifescan Menarini Mendor Nipro Diagnostics Roche Sanofi SD Bionsensor Spirit Healthcare Wavesense Ypsomed Active WordPress &rsaquo; Error There has been a critical error on this website. Learn more about troubleshooting WordPress.

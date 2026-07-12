@@ -1,0 +1,39 @@
+===METADATA===
+{"title": "Cải thảo xào thịt bò nấm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cải thảo xào thịt bò nấm
+Loại món: Món xào | Ẩm thực: Vietnamese
+Từ khóa: cải thảo, thịt bò, nấm, protein, chất xơ
+
+Mô tả: Ba nguyên liệu kết hợp cung cấp đầy đủ protein, chất xơ và beta-glucan.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.2
+Calo: 165 kcal
+Chất đạm (protein): 18.5 g
+Chất béo tổng: 7.8 g (bão hòa: 2.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.5 g (chất xơ: 4.0 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 48 mg | Natri: 348 mg
+Kali: 445 mg | Phốt pho: 185 mg | Magie: 42 mg
+Canxi: 52 mg | Sắt: 2.2 mg | Vitamin D: 0.8 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp TĐ trừ biến chứng tim mạch cần giảm natri
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Tim mạch kiểm soát lượng muối
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+120g thịt bò
+200g cải thảo
+100g nấm hương
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Phi tỏi
+2. Xào thịt bò nhanh
+3. Cho nấm vào xào 3 phút
+4. Thêm cải thảo xào 2 phút
+5. Nêm gia vị

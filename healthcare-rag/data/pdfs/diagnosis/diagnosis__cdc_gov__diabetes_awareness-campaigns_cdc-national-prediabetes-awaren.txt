@@ -1,0 +1,61 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/awareness-campaigns/cdc-national-prediabetes-awareness-campaign.html",
+  "title": "First National Prediabetes Awareness Campaign - CDC",
+  "category": "diagnosis",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:01:56.456394",
+  "source_name": "cdc.gov",
+  "document_title": "First National Prediabetes Awareness Campaign - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 761,
+  "verified_by_doctor": false
+}
+===CONTENT===
+First National Prediabetes Awareness Campaign - CDC
+
+About CDC's First National Prediabetes Awareness Campaign
+
+May 14, 2024
+
+What to know
+
+In 2016, CDC launched the first national campaign to raise awareness of prediabetes. The campaign reached millions of people through public service ads. It also offered an easy online test and real-time videos to help people find out if they were at risk of prediabetes.
+
+Why we need to raise awareness of prediabetes
+Prediabetes is a serious health condition that can lead to type 2 diabetes and other long-term health risks, like heart attack and stroke. But prediabetes can also be prevented or reversed with early action.
+CDC saw a need to get the word out about prediabetes. So in 2016, it partnered with the Ad Council, the American Diabetes Association, and the American Medical Association to launch a national campaign called Do I Have Prediabetes? This partnership of national diabetes and communication experts helped create an award-winning campaign that reached millions of people.
+
+Campaign goals
+The goal was to increase awareness and educate people that prediabetes can be reversed. Public service announcements were promoted on TV, radio, and social media platforms, as well as through printed ads on billboards and in newspapers and magazines.
+The campaign is ongoing because prediabetes remains a significant public health concern. Its messages are designed to reach all U.S. adults aged 40 to 65, with a special focus on communities most affected by diabetes, including Black, Hispanic or Latino, and male populations.
+
+How the campaign has evolved
+The Do I Have Prediabetes? campaign has evolved since its initial launch. Each phase brings a fresh and engaging take on prediabetes awareness, features a strong call to action, and prompts viewers to take the prediabetes risk test . If they likely have prediabetes, they're encouraged to get a diagnosis from their health care provider, take action to reverse it, and enroll in the National Diabetes Prevention Program.
+The innovative 1-minute prediabetes risk test has been key to the campaign's success. The test can be taken online or in real time during promotional videos, a first-of-its-kind communication technique. The real-time test featured in the videos is interactive, user-friendly, and accessible. Both versions of the risk test guide viewers through seven questions to help them know where they stand with prediabetes.
+The campaign's initial launch and early phases were centered around humor, relatability, and a lighthearted tone to engage audiences. Research shows that humor-based campaigns tend to be more memorable and may help reduce stigma. The witty and fun messages of the campaign effectively motivated audiences to take action.
+In recent years, the prevalence of both prediabetes and diabetes has increased in the United States. During the global COVID-19 pandemic, researchers found that people with diabetes and other chronic conditions were at higher risk of getting very sick from COVID-19.
+In response, the campaign adopted a more urgent tone. Themes shifted from cute animals and funny catch lines to an image of a shark attack. This communicated the seriousness of prediabetes and the urgency to prevent or delay type 2 diabetes.
+
+Measuring success
+An important part of any public health effort is measuring its success. Researchers started with baseline surveys and then did regular tracking to measure how people were responding to the campaign. They found that millions of people have seen campaign messages through a variety of channels, and that prediabetes awareness has increased.
+Awareness
+Since 2016, the percentage of people who say they've heard the term "prediabetes" has increased from 50% to 68% among English speakers. The percentage increased from 53% to 80% among Spanish speakers.
+Audience engagement and ad placements
+
+7.1 million people visited the Do I Have Prediabetes? website.
+2.1 million people completed the online prediabetes risk test.
+10.6 million people completed the real-time prediabetes risk test video.
+261,000 people clicked on the "Find a National Diabetes Prevention Program" website.
+Donated public service ad placements have totaled over $214 million .
+
+The results shown here are from when the campaign launched in 2016 through October 2023.
+
+More work to be done
+Although the Do I Have Prediabetes? campaign has helped raise awareness, prediabetes in the United States continues to increase. The good news is that when people learn they have prediabetes, they're more likely to make lifestyle changes to prevent or delay type 2 diabetes.
+For these reasons, CDC and its partners will continue looking for new ways to expand and promote the Do I Have Prediabetes? campaign. For more information about the campaign and how you can help spread the word, see the Prediabetes Awareness Campaign Toolkit .
+
+May 14, 2024

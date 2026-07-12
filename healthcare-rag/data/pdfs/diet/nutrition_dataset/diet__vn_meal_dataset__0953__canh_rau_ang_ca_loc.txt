@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Canh rau đắng cá lóc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh rau đắng cá lóc
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: rau đắng, cá lóc, đặc sản miền Tây
+
+Mô tả: Rau đắng vị đặc trưng, kết hợp cá lóc tạo canh đậm chất miền Tây.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 148 kcal
+Chất đạm (protein): 20.5 g
+Chất béo tổng: 5.5 g (bão hòa: 1.0 g, chuyển hóa: 0.1 g)
+Carbohydrate tổng: 4.5 g (chất xơ: 2.5 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 62 mg | Natri: 358 mg
+Kali: 448 mg | Phốt pho: 195 mg | Magie: 38 mg
+Canxi: 32 mg | Sắt: 1.5 mg | Vitamin D: 2.0 mcg | Omega-3: 0.6 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Rau đắng hỗ trợ tiêu hóa và có thể giúp giảm cảm giác thèm ngọt
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: trung bình
+
+--- Nguyên liệu ---
+250g cá lóc
+150g rau đắng
+Gừng
+
+--- Cách chế biến ---
+1. Cá lóc làm sạch nấu nước dùng
+2. Nấu 15 phút
+3. Thêm rau đắng nấu 3 phút

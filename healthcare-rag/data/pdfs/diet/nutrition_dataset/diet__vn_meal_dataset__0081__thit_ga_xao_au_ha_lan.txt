@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Thịt gà xào đậu Hà Lan", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thịt gà xào đậu Hà Lan
+Loại món: Món xào | Ẩm thực: Vietnamese
+Từ khóa: gà, đậu Hà Lan, protein, GI thấp
+
+Mô tả: Đậu Hà Lan GI thấp, giàu protein thực vật và chất xơ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.2
+Calo: 162 kcal
+Chất đạm (protein): 19.5 g
+Chất béo tổng: 5.8 g (bão hòa: 1.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 12.5 g (chất xơ: 4.8 g, đường: 3.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 65 mg | Natri: 348 mg
+Kali: 465 mg | Phốt pho: 195 mg | Magie: 38 mg
+Canxi: 28 mg | Sắt: 2.5 mg | Vitamin D: 0.3 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Đậu Hà Lan GI thấp và giàu protein tốt TĐ
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+150g ức gà
+150g đậu Hà Lan
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Gà thái miếng
+2. Phi tỏi
+3. Xào gà chín
+4. Cho đậu Hà Lan vào xào 3 phút
+5. Nêm gia vị

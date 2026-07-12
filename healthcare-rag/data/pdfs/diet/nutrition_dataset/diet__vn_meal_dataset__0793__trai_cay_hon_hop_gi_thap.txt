@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Trái cây hỗn hợp GI thấp", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trái cây hỗn hợp GI thấp
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: dâu tây, việt quất, mâm xôi, berry
+
+Mô tả: Hỗn hợp các loại berry GI thấp nhất trong trái cây, giàu anthocyanin chống oxy hóa.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.5
+Calo: 65 kcal
+Chất đạm (protein): 1.0 g
+Chất béo tổng: 0.5 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 15.5 g (chất xơ: 4.5 g, đường: 8.5 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 2 mg
+Kali: 165 mg | Phốt pho: 28 mg | Magie: 15 mg
+Canxi: 18 mg | Sắt: 0.5 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Berry GI thấp nhất + anthocyanin cao nhất trong trái cây
+Khẩu phần khuyến nghị: 100g hỗn hợp/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: cao
+
+--- Nguyên liệu ---
+50g dâu tây
+30g việt quất
+20g mâm xôi
+
+--- Cách chế biến ---
+1. Rửa sạch các loại berry
+2. Trộn chung
+3. Ăn trực tiếp

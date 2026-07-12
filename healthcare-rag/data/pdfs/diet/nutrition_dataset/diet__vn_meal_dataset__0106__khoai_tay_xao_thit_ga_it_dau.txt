@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Khoai tây xào thịt gà ít dầu", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Khoai tây xào thịt gà ít dầu
+Loại món: Món xào | Ẩm thực: Vietnamese
+Từ khóa: khoai tây, gà, kali, vitamin C
+
+Mô tả: Khoai tây luộc sơ trước giảm GI, kết hợp protein gà làm chậm hấp thu.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 8.5
+Calo: 212 kcal
+Chất đạm (protein): 20.5 g
+Chất béo tổng: 6.5 g (bão hòa: 1.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 22.5 g (chất xơ: 3.2 g, đường: 1.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 65 mg | Natri: 368 mg
+Kali: 815 mg | Phốt pho: 225 mg | Magie: 42 mg
+Canxi: 18 mg | Sắt: 2.2 mg | Vitamin D: 0.3 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Khoai tây GI trung bình - luộc sơ và ăn ít
+Khẩu phần khuyến nghị: 1 đĩa nhỏ/bữa, kiểm soát lượng
+Chống chỉ định / thận trọng: TĐ thai kỳ hạn chế khoai tây
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+150g khoai tây
+150g gà
+1 ớt chuông
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Khoai tây luộc sơ cắt miếng
+2. Phi tỏi xào gà
+3. Cho khoai tây vào xào 5 phút
+4. Thêm ớt chuông nêm gia vị

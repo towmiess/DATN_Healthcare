@@ -1,0 +1,80 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/hcp/clinical-guidance/index.html",
+  "title": "Clinical Guidance for Diabetes",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T10:47:57.748782",
+  "source_name": "cdc.gov",
+  "document_title": "Clinical Guidance for Diabetes",
+  "extraction_method": "<main>",
+  "word_count": 604,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Clinical Guidance for Diabetes
+
+May 15, 2024
+
+Clinical Guidance for Diabetes
+
+Key points
+
+Health care providers play a crucial role in helping patients prevent or delay type 2 diabetes and manage all types of diabetes.
+
+They are often the first line in screening and referring patients to a type 2 diabetes prevention program or diabetes self-management education and support services.
+
+Preventing type 2 diabetes
+About 1 in 3 American adults has prediabetes, which increases their risk for developing type 2 diabetes. More than 8 in 10 of them don’t know they have prediabetes.
+
+As a health care provider, you're often the first line in screening and referring patients to a type 2 diabetes prevention program.
+Refer your patients with prediabetes to the CDC-led National Diabetes Prevention Program (National DPP) lifestyle change program. Research shows that the program can cut the risk of type 2 diabetes by more than half.
+This yearlong program, delivered by a trained Lifestyle Coach, will teach your patients how to eat healthy, increase physical activity, manage stress, and stay motivated. They can also lower their risk of a heart attack or stroke and improve their overall health.
+Keep Reading:
+Talking to Patients about CDC-Recognized Lifestyle Change Program Already delivering the lifestyle change program?
+Find resources and support.
+National DPP Customer Service Center
+
+Managing diabetes
+
+Stay up to date on the latest Diabetes Standards of Care to ensure your patients are receiving timely, equitable, and high-quality care. These guidelines include screenings and management for diabetes and related complications, such as cardiovascular disease and chronic kidney disease.
+
+Your patients manage their diabetes care with regular guidance and support from their health care team. At every health care visit, you and other care team members can encourage them to take the steps needed to manage their diabetes effectively:
+
+Promoting Ear Health for People With Diabetes
+
+Promoting Eye Health for People With Diabetes
+
+Promoting Foot Health for People With Diabetes
+
+Promoting Medication Management for People With Diabetes
+
+Promoting Oral Health for People With Diabetes
+
+As a health care provider, you know firsthand that these actions are key to preventing complications and enhancing quality of life for people with diabetes. Living successfully with diabetes means developing the skills to self-manage outside the clinical setting.
+Diabetes self-management education and support (DSMES) helps people learn practical skills and personalized strategies to manage diabetes in their everyday life. DSMES provides structured support so people with diabetes can make sustainable lifestyle changes with the help of a diabetes care and education specialist. People who participate in DSMES are more likely to have better health outcomes, including lower A1C levels and fewer complications.
+Diabetes education helps you and your patients
+DSMES improves your patients' diabetes management skills and health outcomes. But less than 7% of patients participate within the first year of diagnosis. Health care providers like you are the best way to increase access to DSMES.
+DSMES for Health Care Providers
+
+Resources
+
+The Role of Community Health Workers in Addressing Food and Nutrition Security and Social Support During the COVID-19 Pandemic . This white paper focuses on CHW efforts in social support and food and nutrition security. Download infographic in English or en Espa&ntilde;ol .
+
+The American Medical Association (AMA) can help you prevent type 2 diabetes .
+
+AMA's Diabetes Prevention Toolkit
+
+Consensus report on the benefits of DSMES for adults with type 2 diabetes
+
+Guiding Principles for the Care of People With or at Risk for Diabetes
+
+Find a DSMES program through the Association of Diabetes Care & Education Specialists .
+
+The DSMES Toolkit is a comprehensive collection of tools and guides for promoting, implementing, and supporting DSMES.
+
+May 15, 2024
+
+Syndicate

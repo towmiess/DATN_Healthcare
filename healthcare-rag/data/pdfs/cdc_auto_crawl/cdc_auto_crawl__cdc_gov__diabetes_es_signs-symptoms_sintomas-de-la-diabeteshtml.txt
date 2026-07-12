@@ -1,0 +1,74 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/es/signs-symptoms/sintomas-de-la-diabetes.html",
+  "title": "Síntomas de la diabetes",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:07.693236",
+  "source_name": "cdc.gov",
+  "document_title": "Síntomas de la diabetes",
+  "extraction_method": "<main>",
+  "word_count": 378,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Síntomas de la diabetes
+
+el 25 abril del 2024
+
+English (US)
+
+Síntomas de la diabetes
+
+Puntos clave
+
+Los s&iacute;ntomas de la diabetes tipo 1 pueden presentarse en apenas unas semanas o meses y pueden ser graves.
+
+Los s&iacute;ntomas de la diabetes tipo 2 pueden tardar a&ntilde;os en presentarse.
+
+La diabetes gestacional generalmente no presenta s&iacute;ntomas. Su m&eacute;dico deber&iacute;a hacerle la prueba de detecci&oacute;n entre la semana 24 y 28 del embarazo.
+
+S&iacute;ntomas
+Si tiene alguno de los siguientes s&iacute;ntomas de la diabetes, vea a su m&eacute;dico para que le revise los niveles de az&uacute;car en la sangre:
+
+Mucha necesidad de orinar (hacer pis), con frecuencia a la noche
+
+Mucha sed
+
+P&eacute;rdida de peso sin intentarlo
+
+Mucha hambre
+
+Visi&oacute;n borrosa
+
+Hormigueo o entumecimiento en las manos o los pies
+
+Mucho cansancio
+
+Piel muy seca
+
+Llagas que cicatrizan muy lentamente
+
+M&aacute;s infecciones de lo habitual
+
+Seguir leyendo:
+Pruebas de diabetes S&iacute;ntomas de la diabetes tipo 1
+Las personas que tienen diabetes tipo 1 tambi&eacute;n pueden tener n&aacute;useas, v&oacute;mitos y dolor de est&oacute;mago. La diabetes tipo 1 puede diagnosticarse a cualquier edad. Los s&iacute;ntomas pueden presentarse en apenas unas semanas o meses y pueden ser graves.
+S&iacute;ntomas de la diabetes tipo 2
+Los s&iacute;ntomas de la diabetes tipo 2 generalmente tardan varios a&ntilde;os en presentarse. Algunas personas no notan ning&uacute;n s&iacute;ntoma. La diabetes tipo 2 generalmente empieza cuando se es adulto, aunque cada vez se ve m&aacute;s en ni&ntilde;os y adolescentes . Debido a que los s&iacute;ntomas son dif&iacute;ciles de identificar, es importante saber los factores de riesgo de la diabetes tipo 2.
+Seguir leyendo:
+Factores de riesgo de la diabetes S&iacute;ntomas de la diabetes gestacional
+La diabetes gestacional (diabetes durante el embarazo) generalmente no presenta s&iacute;ntomas. Si est&aacute; en estado de embarazo, su m&eacute;dico deber&iacute;a hacerle la prueba de detecci&oacute;n de diabetes gestacional entre la semana 24 y 28 del embarazo. Si es necesario, puede hacer cambios, como alimentarse de manera saludable y hacer actividad f&iacute;sica, para proteger su salud y la de su beb&eacute;. Si esos cambios no son suficientes para manejar sus niveles de az&uacute;car en la sangre, su m&eacute;dico podr&iacute;a recetarle medicamentos para ayudar.
+
+el 25 abril del 2024
+
+Fuentes
+Imprimir
+Compartir
+
+Syndicate
+
+Fuente del contenido:
+Centro Nacional para la Prevenci&oacute;n de Enfermedades Cr&oacute;nicas y Promoci&oacute;n de la Salud ; Diabetes

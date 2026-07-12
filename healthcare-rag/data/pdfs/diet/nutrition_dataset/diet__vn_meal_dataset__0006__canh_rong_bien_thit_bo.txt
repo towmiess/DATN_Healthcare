@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Canh rong biển thịt bò", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh rong biển thịt bò
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: rong biển, thịt bò, iod, kali
+
+Mô tả: Rong biển cung cấp iod, fucoidan hỗ trợ tim mạch và thần kinh.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.5
+Calo: 150 kcal
+Chất đạm (protein): 18.2 g
+Chất béo tổng: 5.5 g (bão hòa: 2.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.8 g (chất xơ: 4.2 g, đường: 0.8 g, đường bổ sung: 0.0 g)
+Cholesterol: 45 mg | Natri: 410 mg
+Kali: 620 mg | Phốt pho: 175 mg | Magie: 48 mg
+Canxi: 115 mg | Sắt: 2.5 mg | Vitamin D: 0.5 mcg | Omega-3: 0.6 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Giàu kali omega-3 tốt tim mạch
+Khẩu phần khuyến nghị: 1 tô/bữa 2-3 lần/tuần
+Chống chỉ định / thận trọng: Không dùng quá nhiều rong biển
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+20g rong biển khô
+100g thịt bò nạc
+1 củ gừng nhỏ
+
+--- Cách chế biến ---
+1. Ngâm rong biển 30 phút
+2. Xào thịt bò gừng
+3. Đổ 500ml nước sôi
+4. Cho rong biển vào nấu 10 phút

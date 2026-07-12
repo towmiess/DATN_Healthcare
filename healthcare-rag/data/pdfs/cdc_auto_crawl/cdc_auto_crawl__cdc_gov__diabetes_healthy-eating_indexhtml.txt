@@ -1,0 +1,97 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/healthy-eating/index.html",
+  "title": "Healthy Eating",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:38.063115",
+  "source_name": "cdc.gov",
+  "document_title": "Healthy Eating",
+  "extraction_method": "<main>",
+  "word_count": 414,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Healthy Eating
+
+May 15, 2024
+
+Español
+
+Healthy Eating
+
+Key points
+
+Managing blood sugar is the key to living well with diabetes, and healthy eating is the key to managing blood sugar.
+
+Simply put, eat healthy foods in the right amounts at the right times so your blood sugar stays in your target range as much as possible.
+
+Work with your dietitian or diabetes educator to create a healthy eating plan and check out these resources to learn more.
+
+Eating well with diabetes
+
+Diabetes Meal Planning
+Discover helpful tools like the plate method and carb counting and learn about portion sizes.
+May 14, 2024
+
+Carb Counting
+Here’s how counting carbs can help people with diabetes manage their blood sugar levels.
+May 14, 2024
+
+Carb Choices
+Find out how many carbs are contained in common foods.
+May 14, 2024
+
+Eating Out
+Here's how to enjoy a meal out while sticking to your healthy eating plan.
+May 14, 2024
+
+Can People With Diabetes Have Dessert?
+These tips can help people with diabetes plan ahead to enjoy sweets and manage their blood sugar.
+May 14, 2024
+
+Healthy Eating and the Holidays
+Enjoying the holidays doesn’t mean you have to have mean a setback in your diabetes goals.
+May 14, 2024
+
+Diabetes and Cultural Foods
+Find out how you can embrace your culture when creating your diabetes meal plan.
+May 14, 2024
+
+I Have Diabetes and Cancer. What Can I Eat?
+Cancer treatment can disrupt your diabetes eating plan. Find tips to help manage both conditions.
+May 14, 2024
+
+Diabetes and Kidney Disease: What to Eat?
+​Help for figuring out what to eat if you have diabetes and kidney disease.
+May 14, 2024
+
+Fiber: The Carb That Helps You Manage Diabetes
+Fiber can help you manage diabetes. Learn more about the surprising role of fiber.
+May 14, 2024
+
+Diabetes and Food Insecurity
+Food insecurity could increase your risk of developing type 2 diabetes or make it harder to manage.
+May 14, 2024
+
+6 Tips for Eating Healthy on a Budget
+These tips can help people with diabetes eat healthy on a budget.
+May 14, 2024
+
+Buffet Table Tips for People with Diabetes
+Provides tips for healthier eating at buffets for people with diabetes
+May 14, 2024
+
+Choosing Healthy Carbs
+Find out how to choose the most nutritious carbs if you’re living with diabetes.
+May 14, 2024
+
+Spotting Hidden Sugars in Everyday Foods
+Do you know how to spot hidden sugars in your everyday foods?
+June 3, 2024
+
+May 14, 2024
+
+Syndicate

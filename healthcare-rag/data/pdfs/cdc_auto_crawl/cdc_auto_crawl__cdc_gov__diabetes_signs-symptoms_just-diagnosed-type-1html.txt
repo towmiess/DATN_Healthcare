@@ -1,0 +1,112 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/signs-symptoms/just-diagnosed-type-1.html",
+  "title": "Just Diagnosed With Type 1 Diabetes",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:09.272740",
+  "source_name": "cdc.gov",
+  "document_title": "Just Diagnosed With Type 1 Diabetes",
+  "extraction_method": "<main>",
+  "word_count": 1243,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Just Diagnosed With Type 1 Diabetes
+
+May 15, 2024
+
+Español
+
+Just Diagnosed With Type 1 Diabetes
+
+Key points
+
+Type 1 diabetes can develop at any age.
+
+People of all ages are leading full, healthy lives with type 1 diabetes.
+
+Your health care team will help you learn about day-to-day care.
+
+Getting your diagnosis
+You may have found out you have type 1 diabetes from a routine blood test . Or you may have had symptoms that led to a trip to the doctor or even the emergency room.
+You're likely to have lots of questions. Did you somehow cause type 1 diabetes? What will life be like now? Is there a cure, or is type 1 forever?
+Managing a chronic (long-term) health condition like diabetes takes work, but you won't have to do it alone. Your health care team will help you learn about day-to-day care. They'll let you know about all the tools available to make it easier. Type 1 diabetes is very treatable. Let's take it one step at a time.
+Currently, there isn’t a cure for type 1 diabetes. However, what we know about the condition is constantly evolving. New technologies and medicines are being developed, and researchers are making important breakthroughs. Right now, people of all ages are leading full, healthy lives with type 1 diabetes. You can too!
+
+Anyone can get type 1 diabetes
+It isn't completely clear what causes type 1 diabetes , but we know that diet and lifestyle habits don't. Type 1 is thought to be the result of an autoimmune response. This is where your body attacks the cells in your pancreas that make insulin. Insulin is a hormone that acts like a key to let blood sugar into your body's cells for use as energy.
+Sometimes infection with a virus seems to trigger the autoimmune response. Many people with type 1 diabetes have family members with type 1, but most don't.
+
+Living with type 1 diabetes
+You'll need to take insulin every day by injecting it or using an insulin pump. You'll also check your blood sugar levels throughout the day. This will help make sure you're in your target range as much as possible. Your health care team will help you understand what your target range is and how to stay within it.
+Get diabetes education
+Type 1 diabetes requires your attention every day. To learn what you need to know, ask your doctor to refer you to diabetes self-management education and support (DSMES) services. There you'll find out how to balance insulin, food, and physical activity. You'll also get tips on how to cope with the emotional side of living with diabetes. All these things can affect your blood sugar levels.
+
+Over time, having high blood sugar can cause serious health problems , such as heart disease, vision loss, and kidney failure. But you can lower your risk. You'll need to understand how food, activity, and other factors in your life affect your blood sugar. Then you can make changes to improve your blood sugar levels.
+
+Managing blood sugar
+Time in range
+Time in range is how long your blood sugar stays in your target range throughout the day. Most people with diabetes aim for 70% time in range, or between 16 and 17 hours out of 24.
+High and low blood sugar
+Blood sugar levels change often during the day. You'll need to notice if your blood sugar drops too low ( hypoglycemia ) and be prepared to treat it right away.
+If your blood sugar is very high and your insulin is low, you can develop diabetic ketoacidosis (DKA). DKA is a serious complication of diabetes that can be life-threatening. You'll need medical care immediately if you develop DKA.
+Your health care team will let you know how to spot and treat high and low blood sugar and related health problems. Be sure to get in touch with your doctor or diabetes educator if you have any questions.
+How managing blood sugar helps now
+Keeping your blood sugar levels on target can help you avoid serious health problems later. But did you know avoiding ups and downs in blood sugar can help you feel better right away?
+Steady blood sugar levels can help you have more energy, better sleep, better focus, and stable moods. If you're having trouble meeting your target, talk to your doctor or diabetes educator. They can help you make changes to your treatment plan to stay in range longer and feel better.
+Keep Reading:
+Manage Blood Sugar
+
+Doctor visits
+Your diabetes care team
+It takes a health care team to help you manage diabetes. And you're the most important member of the team. You're the one managing diabetes every day. And it really is a team. It's a group of dedicated, focused health care experts to assist you in feeling good and living a long, healthy life.
+Your team will include:
+
+Primary care doctor
+
+Endocrinologist (a doctor who treats diabetes and other hormone problems)
+
+Foot doctor
+
+Eye doctor
+
+Dentist
+
+Pharmacist
+
+Nurse
+
+Dietitian
+
+Diabetes educator
+
+They specialize in helping you manage every aspect of diabetes. You'll schedule regular visits with them to ensure your treatment plan is on track. Ask your primary care doctor for referrals to these specialists to begin building your team.
+Keep Reading:
+Your Diabetes Care Schedule
+
+Parents: diabetes care tips
+If your young child or teen is newly diagnosed, they will need help with everyday diabetes care, especially at first. You can help them check their blood sugar, take insulin, and adjust levels if they use an insulin pump.
+Your child's health care team will give you detailed guidance about managing your child's diabetes. Here are some highlights.
+Use an insulin pump
+If your insurance and finances allow, you may have your child use an insulin pump. This can lower the risk of low blood sugar and help keep blood sugar levels in range. Your diabetes educator will need to train you and your child on using the pump.
+Use a CGM
+You may also have your child use a continuous glucose monitor (CGM), if possible, for around-the-clock blood sugar readings. Your child will still need twice-daily finger sticks to ensure the CGM is measuring blood sugar levels accurately.
+Make healthy changes
+Talk to your child about healthy eating and being active. Both have a big impact on blood sugar levels and on feeling well in general.
+Keep Reading:
+3 Ways to Help Manage Your Child's Type 1 Diabetes
+
+Get support
+Family members
+With support from your family , you can feel more in control and less overwhelmed by this new life with diabetes. Ask your loved ones for the help you need to make diabetes more manageable. They could go to doctor appointments with you, or you could make healthy food together.
+DSMES
+Diabetes self-management education and support (DSMES) can help you solve problems, deal with stress, and lower your risk for other health problems. And not just when you're first diagnosed. Have your doctor refer you to DSMES if you're feeling stressed or if a life change like a job loss or a new health condition is affecting your diabetes self-care. You can also find out about the latest treatment options and get answers to any questions you have.
+Support groups
+Connect with others to share experiences and learn tips and techniques for living well with diabetes. Ask your doctor or diabetes care and education specialist about support groups you could join.
+
+May 15, 2024
+
+Syndicate

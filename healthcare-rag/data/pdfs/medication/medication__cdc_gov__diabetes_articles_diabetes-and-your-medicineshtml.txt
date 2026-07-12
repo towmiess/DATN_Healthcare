@@ -1,0 +1,63 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/articles/diabetes-and-your-medicines.html",
+  "title": "Take Charge of Your Diabetes Medicines - CDC",
+  "category": "medication",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:11:42.037948",
+  "source_name": "cdc.gov",
+  "document_title": "Take Charge of Your Diabetes Medicines - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 423,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Take Charge of Your Diabetes Medicines - CDC
+
+May 15, 2024
+
+Español
+
+Take Charge of Your Diabetes Medicines
+
+Key points
+
+It's important to take your diabetes medicines correctly to stay healthy.
+Use this guide to help you stay on track to take all of your diabetes medications as prescribed.
+
+Tips to manage your medicines
+Take all medicines as directed. Tell your pharmacist and your doctor if:
+
+You develop any new problems like nausea, diarrhea, itching, or a rash.
+You have any problems taking your medicines (including forgetting to take them).
+You have questions about your medicines.
+You have any changes in your diet or health.
+You are pregnant or breastfeeding.
+You have trouble paying for your medicines.
+
+Why your medicines matter
+Make a list of all your medicines for your pharmacist and doctor. This way, you won't have to remember them all. It can be helpful to keep a copy in your wallet just in case. Be sure to include all over-the-counter medicines like vitamins, supplements, cold medicines, or pain medicines (like aspirin or ibuprofen).
+Some medicines that are safe by themselves can mix badly with other medicines. This includes some prescription medicines mixed with certain over-the-counter medications. Your doctor and pharmacist can advise you on which medicines aren't recommended to take together.
+
+How can your pharmacist help you?
+Pharmacists are easy to reach. They are often available all day, in the evening, and on weekends. You can talk to them in person or call the phone number on your prescription bottle. Pharmacists can also tell you about programs to help you save money on medicines. They can help you with your diabetes management.
+Questions to ask your pharmacist
+You can always ask your pharmacist these questions if you're unsure:
+
+What are the brand and generic (nonbrand) names of my medicines?
+What are each of my medicines for?
+When should I take each medicine and how much should I take?
+How long should I use this medicine? Can I stop using it if I feel better?
+What should I do if I miss a dose or take too much?
+What are the possible side effects?
+How should I store my medicine? Does it have to be kept in the fridge?
+Will this medicine take the place of anything I already take?
+Are there other medicines I should avoid? Are there foods, drinks, or activities that I should avoid?
+
+For additional support
+Ask your doctor for a referral to diabetes self-management education and support (DSMES). You'll learn practical skills to manage your diabetes, including how to take your medicines.
+
+May 14, 2024

@@ -1,0 +1,65 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/risk-factors/diabetes-risk-lgbtq.html",
+  "title": "Diabetes and the LGBTQ Community - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:22.453933",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes and the LGBTQ Community - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 668,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes and the LGBTQ Community - CDC
+
+Diabetes and the LGBTQ Community
+
+May 15, 2024
+
+Key points
+
+Lesbian, gay, bisexual, transgender, or queer (LGBTQ) people have a higher risk of developing type 2 diabetes.
+10% of the general population has diabetes, but 25% of gay or bisexual men and 14% of lesbian or bisexual women have it. Find out why.
+
+Overweight and obesity
+Having overweight or obesity can put you at risk for type 2 diabetes. In fact, nearly 90% of US adults with diabetes have overweight or obesity. Some research shows that LGBTQ people may have a higher risk for overweight or obesity. For example:
+
+Lesbian and bisexual women are more likely to have overweight or obesity.
+Transgender men are also more likely to have overweight or obesity.
+
+Overweight and obesity have been linked to long-term stress. The increased levels of stress the LGBTQ community faces may have negative health effects. Some research also shows that LGBTQ people may also have less healthy sleep patterns. Inconsistent sleep is another risk factor contributing to weight gain, long-term stress, and type 2 diabetes.
+While we can't control outside stressors, making certain lifestyle changes can help you lose weight (if recommended), manage stress, and improve sleep. Small changes can have big results over time.
+Talk to your doctor to find out what a healthy weight is for you and the best way to get there.
+
+Other health conditions
+Certain health conditions can increase your diabetes risk or make it harder to manage if you already have it. Although research is limited, there is evidence that LGBTQ adults have higher rates of chronic health conditions. For example:
+
+Gay and bisexual men are more likely to have two or more chronic health conditions like high blood pressure, heart disease, and kidney disease.
+Gay men, bisexual men, and transgender women have higher rates of HIV. Because some HIV medicines can increase insulin resistance, it's important to have your blood sugar tested to know your diabetes risk.
+Lesbian and bisexual women are more likely to have polycystic ovary syndrome (PCOS) , which increases the risk of type 2 diabetes.
+
+Behaviors that can increase risk
+Smoking
+Smoking causes a number of serious health conditions, including diabetes. If you smoke, you're 30% to 40% more likely to get type 2 diabetes than people who don't smoke. Research shows that:
+
+Lesbian, gay, or bisexual adults have higher rates of cigarette smoking and use of other commercial tobacco products than non-LGBTQ adults.
+Transgender adults are more likely to use commercial tobacco products than adults who are not transgender (cisgender).
+
+Many factors can explain why LGBTQ people experience higher rates of smoking. The tobacco industry aggressively markets their products to the LGBTQ community.
+Quitting smoking is one of the most important steps you can take to improve your health and your risk of type 2 diabetes. Remember you don't have to do it alone. Talk to a doctor about ways to quit.
+
+Gender-affirming hormones
+While research is limited, some studies show that gender-affirming hormones can cause weight gain, high blood pressure, insulin resistance, and higher cholesterol in transgender people. All are risk factors for type 2 diabetes. If you already have diabetes, these conditions can make it harder to manage.
+Talk to your doctor about any concerns or questions you have about hormone therapy and how it can affect your risk of type 2 diabetes, or diabetes management.
+
+Mental health
+Did you know that experiencing mental distress can also increase your risk for developing type 2 diabetes? And if you have diabetes, experiencing mental distress could make it harder to stick to your diabetes care plan.
+Members of the LGBTQ community have worse health outcomes for certain conditions, including mental health, compared to non-LGBTQ people. Feelings of rejection, shame, and low self-esteem that many LGBTQ people experience can affect mental and physical health.
+If you're experiencing mental distress, you're not alone. Don't wait to talk to a mental health professional. They can help manage your symptoms through medicine, talk therapy, or stress-relieving activities.
+
+May 15, 2024

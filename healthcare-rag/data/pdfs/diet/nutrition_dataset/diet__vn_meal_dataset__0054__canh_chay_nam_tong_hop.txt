@@ -1,0 +1,40 @@
+===METADATA===
+{"title": "Canh chay nấm tổng hợp", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh chay nấm tổng hợp
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: nấm tổng hợp, chay, beta-glucan, kali
+
+Mô tả: Kết hợp nhiều loại nấm tạo hỗn hợp beta-glucan tối ưu hỗ trợ miễn dịch và đường huyết.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.2
+Calo: 112 kcal
+Chất đạm (protein): 10.5 g
+Chất béo tổng: 3.8 g (bão hòa: 0.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.5 g (chất xơ: 4.5 g, đường: 2.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 268 mg
+Kali: 455 mg | Phốt pho: 165 mg | Magie: 45 mg
+Canxi: 22 mg | Sắt: 2.2 mg | Vitamin D: 1.2 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Beta-glucan nhiều loại nấm hiệu quả hỗ trợ insulin
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+50g nấm đông cô
+50g nấm hương
+50g nấm kim châm
+50g nấm mèo
+100g cải bẹ
+
+--- Cách chế biến ---
+1. Ngâm nấm khô nở
+2. Phi tỏi vàng
+3. Xào các loại nấm
+4. Đổ 500ml nước sôi nấu 12 phút
+5. Thêm cải bẹ nêm gia vị

@@ -6,180 +6,41 @@
   "language": "en",
   "source_priority": 1,
   "source_type": "web_article",
-  "crawled_at": "2026-06-11T03:11:13.089660",
+  "crawled_at": "2026-06-27T23:15:55.251935",
   "source_name": "heart.org",
   "document_title": "Diabetes and Heart Disease - AHA",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 514,
   "verified_by_doctor": false
 }
 ===CONTENT===
 Diabetes and Heart Disease - AHA
 
-Diabetes Complications and Risks | American Heart Association 
- 
- 
- 
- 
- 
- 
- 
+The effect diabetes has on the body happens slowly and can often progress without notice. Over time, having too much glucose (sugar) in the blood can damage a number of organs. These are often referred to as “complications” of diabetes.
+If you have been told you have prediabetes, you can take important healthy steps now to reduce your risk of developing a number of health problems:
+Heart and blood vessel damage
+Type 2 diabetes can increase your risk of developing complications, such as cardiovascular disease, atherosclerosis, stroke, peripheral artery disease and chronic kidney disease.
+Nerve damage
+Over time, high blood sugar levels can damage nerves, a condition called diabetic neuropathy. This can lead to numbness in the fingers, hands, toes and feet or tingling, burning, or shooting pains that usually begins at the fingers or toes and spread upwards. Symptoms of this nerve damage can also include vomiting, diarrhea, constipation, problems with sexual function, dizziness, and other symptoms.
+Kidney damage
+The kidneys filter about a half cup of blood every minute, removing wastes and extra fluid from your body. Over time, diabetes can damage your kidneys so they stop working effectively, requiring dialysis or a transplant. Dialysis is a procedure that removes waste products and excess fluid from the blood.
+Eye damage
+People with diabetes may have damage to the blood vessels and lenses in their eyes due to the high blood sugar levels. This can cause diseases such as glaucoma and cataracts and can lead to blindness.
+Foot damage
+Feet are also at risk of nerve and blood vessel damage from prolonged high blood sugar. This damage causes numbness, tingling, pain or a loss of feeling in the feet. Minor cuts and blisters can lead to ulcers, infections and amputations in serious cases.
+Skin and mouth conditions
+Diabetes may increase the risk of skin infections, mouth infections and gum disease.
+Osteoporosis
+People with Type 1 diabetes have a high risk of osteoporosis. Osteoporosis is a disease that causes your bones to become weak and brittle, making them more prone to fracture.
+Alzheimer’s disease and dementia
+Poor blood sugar control appears to have some effect on the risk of developing Alzheimer’s disease and dementia later in life. The reasons why are still being investigated, but we know brain cells are fueled by glucose. When the cells can’t access the fuel they need, the brain cells may become damaged.
+Although the list of diabetes-related problems is lengthy, it’s important to realize these problems mainly occur when diabetes is left untreated.
+The good news is that diabetes can be managed and is often preventable. By adopting a healthy lifestyle and treating all related conditions, most people with diabetes can postpone these problems or avoid them all together.
+If you have diabetes, you may be able to avoid or delay other health complications by:
 
- 
- 
- 
- 
- 
- 
- 
+Working with your health care team to manage the disease, which may include the use of medications.
+Knowing your numbers , including your blood sugar, weight, blood cholesterol and blood pressure.
+Adopting a healthy lifestyle .
 
-
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
-
-
- 
-
- 
- 
-
- The effect diabetes has on the body happens slowly and can often progress without notice. Over time, having too much glucose (sugar) in the blood can damage a number of organs. These are often referred to as &ldquo;complications&rdquo; of diabetes. 
- If you have been told you have prediabetes, you can take important healthy steps now to reduce your risk of developing a number of health problems: 
- Heart and blood vessel damage 
- Type 2 diabetes can increase your risk of developing complications, such as cardiovascular disease, atherosclerosis, stroke, peripheral artery disease and chronic kidney disease. 
- Nerve damage 
- Over time, high blood sugar levels can damage nerves, a condition called diabetic neuropathy. This can lead to numbness in the fingers, hands, toes and feet or tingling, burning, or shooting pains that usually begins at the fingers or toes and spread upwards. Symptoms of this nerve damage can also include vomiting, diarrhea, constipation, problems with sexual function, dizziness, and other symptoms. 
- Kidney damage 
- The kidneys filter about a half cup of blood every minute, removing wastes and extra fluid from your body. Over time, diabetes can damage your kidneys so they stop working effectively, requiring dialysis or a transplant. Dialysis is a procedure that removes waste products and excess fluid from the blood. 
- Eye damage 
- People with diabetes may have damage to the blood vessels and lenses in their eyes due to the high blood sugar levels. This can cause diseases such as glaucoma and cataracts and can lead to blindness. 
- Foot damage 
- Feet are also at risk of nerve and blood vessel damage from prolonged high blood sugar. This damage causes numbness, tingling, pain or a loss of feeling in the feet. Minor cuts and blisters can lead to ulcers, infections and amputations in serious cases. 
- Skin and mouth conditions 
- Diabetes may increase the risk of skin infections, mouth infections and gum disease. 
- Osteoporosis 
- People with Type 1 diabetes have a high risk of osteoporosis. Osteoporosis is a disease that causes your bones to become weak and brittle, making them more prone to fracture. 
- Alzheimer&rsquo;s disease and dementia 
- Poor blood sugar control appears to have some effect on the risk of developing Alzheimer&rsquo;s disease and dementia later in life. The reasons why are still being investigated, but we know brain cells are fueled by glucose. When the cells can&rsquo;t access the fuel they need, the brain cells may become damaged. 
- Although the list of diabetes-related problems is lengthy, it&rsquo;s important to realize these problems mainly occur when diabetes is left untreated. 
- The good news is that diabetes can be managed and is often preventable. By adopting a healthy lifestyle and treating all related conditions, most people with diabetes can postpone these problems or avoid them all together. 
- If you have diabetes, you may be able to avoid or delay other health complications by: 
- 
- Working with your health care team to manage the disease, which may include the use of medications. 
- Knowing your numbers , including your blood sugar, weight, blood cholesterol and blood pressure. 
- Adopting a healthy lifestyle . 
- 
- View resource: Understanding Type 2 Diabetes (PDF) 
-
- 
- 
- 
- 
- 
- Last Reviewed: Apr 2, 2024 
- 
- 
- 
- 
-
-
-
-
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
-
-
- 
- 
-
-
-
- 
- 
- 
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- Watch, Learn and Live 
- 
- See your cardiovascular system in action with our interactive illustrations and animations.
-
- 
- 
- Explore the Library
+View resource: Understanding Type 2 Diabetes (PDF)

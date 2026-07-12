@@ -1,0 +1,39 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/php/toolkits/index.html",
+  "title": "Toolkits for Diabetes Educators and Community Health Workers",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:08.634818",
+  "source_name": "cdc.gov",
+  "document_title": "Toolkits for Diabetes Educators and Community Health Workers",
+  "extraction_method": "<main>",
+  "word_count": 81,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Toolkits for Diabetes Educators and Community Health Workers
+
+May 15, 2024
+
+Toolkits for Diabetes Educators and Community Health Workers
+
+About these resources
+Use these resources to engage communities, increase cultural competence, and promote type 2 diabetes prevention and diabetes management.
+
+Toolkits
+
+New Beginnings Toolkit: Overview
+Read an overview of the New Beginnings Toolkit, and learn how facilitators can use it.
+
+May 14, 2024
+Road to Health Toolkit
+This toolkit supports community health workers in helping people prevent or delay type 2 diabetes.
+
+May 14, 2024
+
+May 14, 2024
+
+Syndicate

@@ -1,0 +1,90 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/treatment/diabetes-doctors.html",
+  "title": "Your Diabetes Care Team - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:24.508999",
+  "source_name": "cdc.gov",
+  "document_title": "Your Diabetes Care Team - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 812,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Your Diabetes Care Team - CDC
+
+May 15, 2024
+
+Español
+
+Your Diabetes Care Team
+
+What to know
+
+Your diabetes care team will include specialists from several health fields.
+
+They'll help you prevent or manage specific diabetes-related health problems.
+
+Look for care team members who respect your needs and preferences.
+
+The right diabetes care team can set you up for diabetes management success.
+
+Why your diabetes care team matters
+Managing diabetes means managing the health of your whole body. This is why it's important to have a diabetes care team that includes specialists from different fields.
+With your team, you'll develop a diabetes management plan to help you stay healthy. Your plan will also help you prevent or delay diabetes-related complications.
+You’ll want to find members for your diabetes care team who listen, support, and respect you. This means having a team that uses your preferences, needs, and values to help guide health decisions. You're the most important member of your diabetes care team.
+
+Primary care provider (PCP)
+This doctor is usually your general or family doctor who gives you routine medical care. You'll typically see your PCP for yearly checkups, physical exams, lab tests , and prescriptions.
+
+Endocrinologist
+This is a doctor who treats hormone problems. Diabetes affects how your body produces and uses insulin (a hormone).
+Your PCP may want you to see an endocrinologist. An endocrinologist is sometimes the primary doctor who helps you manage diabetes.
+
+Diabetes care and education specialist
+This health care professional is trained to provide personalized diabetes self-management education and support (DSMES) . You'll work together to create a diabetes management plan that's specific to your health needs, lifestyle, and culture. Ask your doctor for a referral to DSMES to get personalized help managing your diabetes. Find a diabetes education program in your area.
+
+Registered dietitian
+A dietitian is an expert in nutrition. They can help you develop healthy eating patterns to improve your overall health. They also help you:
+
+Reach and maintain body weight goals.
+
+Reach blood sugar, blood pressure, and cholesterol goals.
+
+Delay or prevent diabetes complications.
+
+Make sure to work with a dietitian who is trained in diabetes care.
+
+Ophthalmologist or optometrist
+This specialist, also known as an eye doctor, diagnoses and treats problems and diseases of the eyes .
+Diabetes may affect your vision by damaging blood vessels in the eyes. Schedule an eye exam as soon as you're diagnosed with diabetes. This will help your eye doctor monitor any changes to your vision and eye health.
+An eye doctor could be either an optometrist or an ophthalmologist. Here's the difference:
+An optometrist provides primary vision care. They can diagnose and treat some eye diseases and disorders, give you an eye exam, and test for vision problems.
+An ophthalmologist is a medical doctor who specializes in eye and vision care. They can diagnose and treat all eye diseases and disorders, prescribe medicine, and perform eye surgery.
+
+Podiatrist
+This kind of doctor treats the feet and lower legs. Diabetes can harm the blood vessels and nerves in your legs and feet . This can cause healing problems—a cut or blister can become a hard-to-treat infection. If you notice any sores on your feet or legs, don't wait for your next appointment. See a foot doctor right away.
+
+Audiologist
+This doctor specializes in hearing and balance problems. Diabetes can damage small blood vessels and nerves in the inner ear. Have your hearing tested when you first find out you have diabetes. If you think you have hearing loss, ask your PCP for a referral.
+
+Pharmacist
+Besides filling your prescriptions, a pharmacist can tell you which medicines may affect your blood sugar. They can also let you know which shouldn't be used together. This includes over-the-counter and prescription medicines.
+
+Dentist
+A dentist is trained to take care of your teeth and gums. People with diabetes may have a higher risk of gum disease . Make sure to let your dentist know you have diabetes.
+
+Nephrologist
+This doctor specializes in kidney care. Over time, high blood sugar and high blood pressure from diabetes can damage your kidneys. Your PCP should check your kidneys regularly. If your kidneys don't work as well as they should, your PCP or endocrinologist may send you to a nephrologist.
+
+Mental health professional
+Psychiatrists, psychologists, social workers, and counselors can all provide mental health care. They can help you manage the demands of day-to-day diabetes care, as well as mental health issues. If you're concerned about your mental health, ask your doctor to refer you to a mental health professional for help.
+
+Exercise specialist
+This person is trained in the best and safest ways to get physical activity. An exercise specialist can be a physical therapist, occupational therapist, or personal trainer. They can help you with structured physical activity, like an exercise session. They can also help you with unstructured activity, like taking a walk.
+
+May 14, 2024

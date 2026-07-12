@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Cà chua bi", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cà chua bi
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: yaourt Hy Lạp, bữa phụ, ít calo, GI thấp
+
+Mô tả: Cà chua bi bữa phụ lành mạnh (biến thể 64) là món chiên không dầu kết hợp cải xanh và cải xanh, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 129 kcal
+Chất đạm (protein): 9.4 g
+Chất béo tổng: 5.0 g (bão hòa: 1.7 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 11.9 g (chất xơ: 2.4 g, đường: 3.8 g, đường bổ sung: 0.0 g)
+Cholesterol: 35 mg | Natri: 344 mg
+Kali: 555 mg | Phốt pho: 100 mg | Magie: 73 mg
+Canxi: 123 mg | Sắt: 2.8 mg | Vitamin D: 0.0 mcg | Omega-3: 1.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Bữa phụ/Snack; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+1 phần yaourt Hy Lạp (~80-100g)
+
+--- Cách chế biến ---
+1. Chuẩn bị yaourt Hy Lạp theo khẩu phần khuyến nghị
+2. Dùng làm bữa phụ giữa các bữa chính
+3. Không thêm đường hoặc muối

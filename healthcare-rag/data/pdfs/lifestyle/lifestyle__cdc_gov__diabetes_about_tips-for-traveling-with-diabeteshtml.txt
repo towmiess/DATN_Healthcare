@@ -1,0 +1,75 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/about/tips-for-traveling-with-diabetes.html",
+  "title": "Tips for Traveling With Diabetes - CDC",
+  "category": "lifestyle",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:09:55.259546",
+  "source_name": "cdc.gov",
+  "document_title": "Tips for Traveling With Diabetes - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 646,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Tips for Traveling With Diabetes - CDC
+
+May 15, 2024
+
+Español
+
+Tips for Traveling With Diabetes
+
+Key points
+
+Traveling gets you out of your normal diabetes routine.
+
+Delayed meals, unfamiliar foods, different time zones, and changes to activity can all impact your blood sugar.
+
+But diabetes management doesn't have to go on vacation just because you do.
+
+Before you go
+Stay up to date on regular doctor's visits to be sure you're fit to travel. Find out how to adjust your medicines for different time zones and eating schedules, or how to get refills if needed.
+While packing , put your diabetes supplies (medicine, blood sugar monitor, etc.) and healthy snacks where you can get to them easily, like in your carry-on bag if you are flying. Pack twice as much medicine as you think you'll need.
+If you're going through security at the airport there's good news: people with diabetes can bring over 3.4 ounces of liquids through security in their carry-ons. This allows them to travel with liquid medicines, fast-acting sugar sources like juice, or gel packs to keep insulin cool. Finally, be aware that insulin pumps or continuous glucose monitors (CGMs) could be damaged by X-ray machines. Instead of disconnecting your devices, you can ask for a hand inspection.
+
+While you're traveling
+Bring healthy foods
+Consider available food options while you travel by car, airplane, or train. If you're driving, bring a cooler with healthy foods and plenty of water. If you're flying, bring options like fruit or nuts so you don't have to resort to unhealthy convenience foods.
+Find healthy options
+Some ideas at airports or roadside restaurants include:
+
+Fresh fruit with nuts.
+
+Sandwiches on whole wheat bread with grilled chicken or fish.
+
+Salad with grilled chicken or fish- limit higher fat toppings such as cheese or creamy dressings.
+
+Scrambled or hard boiled eggs.
+
+Burgers with a lettuce wrap instead of a bun.
+
+Fajitas without tortillas and rice.
+
+Keep Reading:
+Eating out Plan medicine and supply storage
+Don't let your medicine and supplies get too hot or too cold. Avoid storing your insulin or other medicines in a hot car, in direct sunlight, or directly on ice. Heat can also damage your blood sugar monitor, insulin pump, and testing strips. Keep your medicines and testing supplies in a cooler with a gel pack. If you're flying, don't keep insulin in a checked bag—it could also get too cold there.
+Move around when you can
+Take breaks from road trips to stretch your legs and walk around. If you're flying or traveling by train, walk up and down the aisles every hour or two to prevent blood clots.
+Stay on schedule with medicines
+Many people lose track of time or forget their medicines when they're out of their daily routine. Try setting an alarm on your phone to keep you on track.
+
+When you get there
+Check your blood sugar often
+Check regularly to spot any highs or lows from travel. The sooner you discover them, the better you can adjust to get your blood sugar back in your target range. If you're more active or eating less or more than usual, adjust your insulin as instructed by your doctor.
+Enjoy new foods in moderation
+Food can be a big highlight when traveling. You can still enjoy local cuisine but enjoy in moderation. Buffets on cruises can make it easy to eat even when you're not hungry anymore. Moderate your food choices and portion sizes so you don't eat more than you need.
+Watch the heat
+Keep an eye on the temperature if you're traveling somewhere warm. High temperatures, dehydration, and even sunburns can impact your blood sugar.
+Don't forget your feet
+Exploring a new place could mean blisters or cuts on your feet. Be sure to check your feet every day, so you can take care of any problems. Avoid walking barefoot, even on the beach.
+
+May 14, 2024

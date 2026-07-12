@@ -1,0 +1,81 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/health-equity/improving-access-type-2-diabetes-prevention-program.html",
+  "title": "Improving Access to Diabetes Prevention - CDC",
+  "category": "lifestyle",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:10:11.903304",
+  "source_name": "cdc.gov",
+  "document_title": "Improving Access to Diabetes Prevention - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 362,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Improving Access to Diabetes Prevention - CDC
+
+May 15, 2024
+
+Improving Access to Diabetes Prevention
+
+Key points
+
+The National Diabetes Prevention Program (National DPP) delivers an affordable, evidence-based lifestyle change program.
+
+The National DPP helps people with prediabetes prevent or delay type 2 diabetes.
+
+CDC is working to enroll people from groups with higher rates of type 2 diabetes.
+
+About the National Diabetes Prevention Program
+In the CDC-led National Diabetes Prevention Program (National DPP) lifestyle change program, trained Lifestyle Coaches teach skills to:
+
+Make better food choices.
+
+Be more physically active.
+
+Find ways to cope with problems and stress.
+
+Although the lifestyle change program is available nationwide, enrollment is low among some groups at higher risk of type 2 diabetes. To increase enrollment, CDC helps national organizations start and sustain programs in areas that have fewer resources to address health disparities.
+
+Reaching people with fewer resources
+CDC's Division of Diabetes Translation funds 77 organizations to identify and address barriers to accessing diabetes prevention and management programs and services. These organizations work at regional, state, and local levels to increase access to diabetes prevention for people who may face obstacles to care based on their:
+
+Racial or ethnic group.
+
+Religion.
+
+Age.
+
+Socioeconomic status.
+
+Mental or physical health or ability.
+
+Geographic location.
+
+These efforts help people with prediabetes with limited access to care complete the program and significantly reduce their risk of type 2 diabetes.
+
+Improving access to care
+Telehealth
+Telehealth holds promise for increasing access to the National DPP lifestyle change program. Telehealth can be used to deliver the program in areas with limited access. This technology is an effective way to address barriers that prevent some people from enrolling in the program.
+Advantages of telehealth include the following:
+
+Reach more participants than traditional in-person programs.
+
+Reduce distance and time barriers
+
+Increase access for people in rural areas or areas with limited resources.
+
+CDC created a Guide for Using Telehealth Technologies for organizations that want to offer the lifestyle change program through telehealth.
+Lessons learned
+CDC evaluated how current organizations are using telehealth to deliver the lifestyle change program. The following case studies describe program structure, technologies used, implementation steps, and lessons learned:
+
+HabitNu
+
+Inova
+
+Inspera Health
+
+May 15, 2024

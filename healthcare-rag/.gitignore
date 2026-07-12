@@ -4,11 +4,9 @@ __pycache__/
 *.pyo
 .pytest_cache/
 .ingest_state.json
+.crawler_state.json
 data/raw/
-# KHÔNG ignore data/pdfs/ — cần giữ PDF
-# KHÔNG ignore data/ hoàn toàn
+logs/
 venv/
 .venv/
 *.egg-info/
-dist/
-build/

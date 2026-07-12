@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Chuối xanh hấp (chuối chát)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Chuối xanh hấp (chuối chát)
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: chuối xanh, resistant starch, tinh bột kháng, GI thấp
+
+Mô tả: Chuối xanh chứa tinh bột kháng (resistant starch) GI thấp hơn nhiều so với chuối chín.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 4.5
+Calo: 95 kcal
+Chất đạm (protein): 1.2 g
+Chất béo tổng: 0.3 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 24.5 g (chất xơ: 3.0 g, đường: 2.5 g, đường bổ sung: 0.4 g)
+Cholesterol: 0 mg | Natri: 5 mg
+Kali: 385 mg | Phốt pho: 28 mg | Magie: 32 mg
+Canxi: 8 mg | Sắt: 0.3 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Tinh bột kháng GI thấp hơn chuối chín nhiều - phù hợp TĐ
+Khẩu phần khuyến nghị: 1 quả nhỏ/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+1 quả chuối xanh nhỏ
+
+--- Cách chế biến ---
+1. Gọt vỏ chuối xanh
+2. Hấp 15 phút
+3. Ăn khi còn ấm
