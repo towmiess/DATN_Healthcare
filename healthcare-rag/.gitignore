@@ -7,6 +7,10 @@ __pycache__/
 .crawler_state.json
 data/raw/
 logs/
+backups/
+backups-target-before-restore/
+*.tar.gz
+*.tgz
 venv/
 .venv/
 *.egg-info/
