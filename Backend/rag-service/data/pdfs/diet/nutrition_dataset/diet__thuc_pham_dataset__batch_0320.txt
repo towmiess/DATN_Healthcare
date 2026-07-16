@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 320-340)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Thịt bò, bắp, sống: 122 kcal/100g | đạm 21.7g | béo 3.8g | carb 0g
+- Thịt bồ câu, cả con non (ra ràng), tươi: 340 kcal/100g | đạm 17.5g | béo 30g | carb 0g
+- Thịt bò, gân, kho/om: 175 kcal/100g | đạm 21.0g | béo 7.0g | carb 7.0g
+- Thịt bò khô: 239 kcal/100g | đạm 51g | béo 1.6g | carb 5.2g
+- Thịt bò, loại I, tươi: 118 kcal/100g | đạm 21g | béo 3.8g | carb 0g
+- Thịt bò, lưng, nạc, chần: 157 kcal/100g | đạm 34.4g | béo 0g | carb 4.8g
+- Thịt bò, lưng, nạc, tươi: 121 kcal/100g | đạm 23.0g | béo 3.1g | carb 0.1g
+- Thịt bò, lưng, nạc và mỡ, chần: 189 kcal/100g | đạm 32.1g | béo 0g | carb 15.2g
+- Thịt bò, vai, hấp: 191 kcal/100g | đạm 32.4g | béo 6.6g | carb 0.2g
+- Thịt chân giò lợn, luộc: 230 kcal/100g | đạm 15.7g | béo 18.6g | carb 0g
+- Thịt chó, sấn, tươi: 338 kcal/100g | đạm 16g | béo 30.4g | carb 0g
+- Thịt chó, vai, tươi: 230 kcal/100g | đạm 18g | béo 17.6g | carb 0g
+- Thịt cua: 103 kcal/100g | đạm 17.5g | béo 0.6g | carb 7g
+- Thịt cừu, nạc, tươi: 219 kcal/100g | đạm 16.4g | béo 17g | carb 0g
+- Thịt dê, nạc, hấp: 213 kcal/100g | đạm 36.3g | béo 7.5g | carb 0g
+- Thịt dê, nạc, tươi: 122 kcal/100g | đạm 20.7g | béo 4.3g | carb 0g
+- Thịt gà công nghiệp, cánh, luộc: 261 kcal/100g | đạm 26.5g | béo 17.2g | carb 0g
+- Thịt gà công nghiệp, cánh, tươi: 188 kcal/100g | đạm 19.0g | béo 12.4g | carb 0g
+- Thịt gà, công nghiệp, cổ, luộc: 188 kcal/100g | đạm 19.0g | béo 12.4g | carb 0g
+- Thịt gà công nghiệp, đùi, luộc: 190 kcal/100g | đạm 25g | béo 9.4g | carb 1.2g

@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Gà ta xào với khổ qua", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Gà ta xào với khổ qua
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: gà ta, khổ qua, protein, xào
+
+Mô tả: Gà ta xào với khổ qua là món xào kết hợp gà ta và khổ qua, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 159 kcal
+Chất đạm (protein): 26.0 g
+Chất béo tổng: 7.0 g (bão hòa: 2.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.0 g (chất xơ: 2.8 g, đường: 3.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 533 mg
+Kali: 494 mg | Phốt pho: 191 mg | Magie: 32 mg
+Canxi: 34 mg | Sắt: 2.7 mg | Vitamin D: 0.0 mcg | Omega-3: 1.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Thịt nạc; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g gà ta
+200g khổ qua
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế gà ta và khổ qua
+2. Xào theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

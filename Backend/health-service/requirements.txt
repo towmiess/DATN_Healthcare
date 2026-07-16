@@ -1,0 +1,14 @@
+Django==5.1.4
+djangorestframework==3.15.2
+django-cors-headers==4.6.0
+psycopg[binary]>=3.2.3
+PyJWT==2.10.1
+requests==2.32.3
+gunicorn==23.0.0
+google-auth==2.35.0
+reportlab==4.2.5
+chardet==5.2.0
+fastapi==0.136.1
+uvicorn==0.47.0
+pillow==12.2.0
+numpy==2.4.4

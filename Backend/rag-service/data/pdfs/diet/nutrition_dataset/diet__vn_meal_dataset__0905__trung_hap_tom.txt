@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Trứng hấp tôm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trứng hấp tôm
+Loại món: Món trứng | Ẩm thực: Vietnamese
+Từ khóa: trứng hấp, tôm, protein cao
+
+Mô tả: Trứng hấp với tôm tạo món ăn protein cao, mềm dễ tiêu hóa.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.0
+Calo: 138 kcal
+Chất đạm (protein): 14.5 g
+Chất béo tổng: 8.0 g (bão hòa: 2.2 g, chuyển hóa: 0.2 g)
+Carbohydrate tổng: 1.5 g (chất xơ: 0.0 g, đường: 0.5 g, đường bổ sung: 0.1 g)
+Cholesterol: 225 mg | Natri: 285 mg
+Kali: 225 mg | Phốt pho: 165 mg | Magie: 20 mg
+Canxi: 52 mg | Sắt: 1.2 mg | Vitamin D: 0.8 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Cholesterol cao từ trứng và tôm; tim mạch đột quỵ hạn chế
+Khẩu phần khuyến nghị: 1 phần/bữa
+Chống chỉ định / thận trọng: Tim mạch và đột quỵ hạn chế
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+2 trứng
+50g tôm băm
+Hành lá
+
+--- Cách chế biến ---
+1. Đánh trứng với tôm băm
+2. Hấp cách thủy 15 phút lửa nhỏ

@@ -1,0 +1,32 @@
+===METADATA===
+{"title": "Hạt bí rang", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Hạt bí rang
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: hạt bí, pumpkin seed, kẽm, magie
+
+Mô tả: Hạt bí giàu kẽm nhất trong các loại hạt, hỗ trợ nhạy cảm insulin mạnh.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.0
+Calo: 165 kcal
+Chất đạm (protein): 8.5 g
+Chất béo tổng: 14.5 g (bão hòa: 2.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 4.5 g (chất xơ: 1.5 g, đường: 0.5 g, đường bổ sung: 0.1 g)
+Cholesterol: 0 mg | Natri: 5 mg
+Kali: 225 mg | Phốt pho: 395 mg | Magie: 150 mg
+Canxi: 18 mg | Sắt: 2.5 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Kẽm cao nhất trong các loại hạt - cải thiện nhạy cảm insulin mạnh
+Khẩu phần khuyến nghị: 28g/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+28g hạt bí
+
+--- Cách chế biến ---
+1. Dùng trực tiếp hoặc rang nhẹ không dầu

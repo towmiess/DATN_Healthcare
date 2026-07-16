@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Gỏi xoài xanh tôm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Gỏi xoài xanh tôm
+Loại món: Gỏi/Salad | Ẩm thực: Vietnamese
+Từ khóa: xoài xanh, tôm, vitamin C, chua tự nhiên
+
+Mô tả: Xoài xanh chứa vitamin C và acid hữu cơ giảm GI bữa ăn, tôm đạm cao.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.5
+Calo: 132 kcal
+Chất đạm (protein): 14.5 g
+Chất béo tổng: 3.5 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 14.5 g (chất xơ: 2.8 g, đường: 8.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 85 mg | Natri: 285 mg
+Kali: 312 mg | Phốt pho: 178 mg | Magie: 28 mg
+Canxi: 22 mg | Sắt: 1.5 mg | Vitamin D: 0.5 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Acid hữu cơ xoài xanh làm chậm hấp thu glucose
+Khẩu phần khuyến nghị: 1 đĩa/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g xoài xanh
+150g tôm luộc
+Rau húng
+Đậu phộng rang ít
+
+--- Cách chế biến ---
+1. Xoài xanh bào sợi
+2. Tôm luộc bóc vỏ
+3. Trộn với rau và ít mắm chua ngọt nhẹ

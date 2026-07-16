@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Chay đậu que xào", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Chay đậu que xào
+Loại món: Chay/Đậu hũ | Ẩm thực: Vietnamese
+Từ khóa: đậu hũ, đậu que, chay, isoflavone
+
+Mô tả: Chay đậu que xào là món xào kết hợp ngao và đậu que, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 146 kcal
+Chất đạm (protein): 13.5 g
+Chất béo tổng: 7.9 g (bão hòa: 2.4 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 9.5 g (chất xơ: 2.2 g, đường: 3.3 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 411 mg
+Kali: 388 mg | Phốt pho: 135 mg | Magie: 23 mg
+Canxi: 90 mg | Sắt: 1.3 mg | Vitamin D: 1.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Chay/Đậu hũ; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g đậu hũ
+200g đậu que
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Đậu hũ cắt miếng
+2. Sơ chế đậu que
+3. Xào kết hợp 2 nguyên liệu
+4. Nêm gia vị nhạt

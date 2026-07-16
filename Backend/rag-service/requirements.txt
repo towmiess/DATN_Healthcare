@@ -1,0 +1,50 @@
+# ================================================================
+# ================================================================
+
+# ── PDF Processing ─────────────────────────────────────────────
+PyMuPDF==1.24.1
+pdf2image==1.17.0
+pytesseract==0.3.13
+Pillow==10.4.0
+
+# ── Text Chunking ──────────────────────────────────────────────
+langchain-text-splitters==0.2.2
+
+# ── Embeddings: cài torch CPU trước để tránh kéo CUDA ─────────
+# Dùng lệnh riêng trong Dockerfile:
+#   RUN pip install torch==2.1.2+cpu --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers==3.0.1
+
+# ── Vector DB ──────────────────────────────────────────────────
+qdrant-client==1.9.1
+
+# ── Session Store ──────────────────────────────────────────────
+redis==5.0.4
+
+# ── HTTP / LLM ─────────────────────────────────────────────────
+requests==2.31.0
+
+# ── API Server ─────────────────────────────────────────────────
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+python-multipart==0.0.9
+
+
+# ── Config / Utilities ─────────────────────────────────────────
+python-dotenv==1.0.1
+pyyaml==6.0.1
+tqdm==4.66.4
+numpy==1.26.4
+loguru==0.7.2
+pydantic==2.7.1
+reportlab==4.2.2
+
+# ── Testing ───────────────────────────────────────────────────
+pytest==8.2.2
+pytest-asyncio==0.23.7
+httpx==0.27.0
+
+# ...
+trafilatura>=1.8.0
+httpx>=0.27.0
+playwright

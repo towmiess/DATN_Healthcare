@@ -1,0 +1,60 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/diabetes-complications/recovering-from-a-diabetes-related-amputation.html",
+  "title": "Recovering From a Diabetes-Related Amputation",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:13:35.094891",
+  "source_name": "cdc.gov",
+  "document_title": "Recovering From a Diabetes-Related Amputation",
+  "extraction_method": "<main>",
+  "word_count": 695,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Recovering From a Diabetes-Related Amputation
+
+May 15, 2024
+
+Español
+
+Recovering From a Diabetes-Related Amputation
+
+Key points
+
+Lower-limb amputation (LLA) can sometimes be prevented through blood sugar management and foot care.
+
+For some people with diabetes, an LLA may be the only safe treatment for a severe infection.
+
+With time and practice, you can live a healthy lifestyle after an LLA.
+
+What to expect after an LLA
+It's normal to have some pain after an LLA, but most people feel better within a week. Your doctor will provide detailed instructions about how to care for your wound to keep it clean and reduce swelling. Once the wound has healed, your doctor may recommend therapy to help you continue to recover.
+Physical therapy helps you regain strength, balance, and range of motion. Occupational therapy helps you adjust so you can perform important daily activities. These therapies are often covered fully or partially by Medicare, Medicaid, and private health insurance plans. For details, reach out to your health insurance provider.
+Some people may experience phantom pain, which is pain in a body part that's not there anymore. There are several proven options to help treat this pain, so be sure to let your doctor know.
+
+Toe and partial foot amputations
+You may not realize how important toes are for balance and stability when walking. Be sure to follow your doctor's instructions about how and when to start putting weight on your foot. Don't forget to take it slow as you relearn how to balance to prevent any falls or injury.
+There are resources available to help you adjust to the loss of a toe or part of a foot. Your doctor or physical therapist may recommend a shoe insert or custom shoes. This can help to improve your balance and comfort to give you the best quality of life.
+
+Foot and leg amputations
+A foot or leg amputation is a major life change. You'll need some time to recover, both physically and mentally. Every amputation is different, but many people can use a prosthesis, which is an artificial limb. A prosthesis can help with mobility and quality of life after an LLA.
+Most people start out in physical or occupational therapy with a temporary prosthesis. It takes time to get fitted for a permanent prosthesis once the affected limb has completely healed. Prosthetic limbs range in cost depending on your type of amputation and health care coverage. Many insurance plans cover a portion of the cost of a prosthesis. A prosthetic limb will need to be replaced every few years.
+People who don't use a prosthesis will likely use a wheelchair, and may need support learning how to navigate. A person using a wheelchair will need to make up for the loss of physical activity to avoid further diabetes complications.
+
+Getting active
+It might be hard to imagine being physically active after an amputation, but it's an important way to manage your diabetes moving forward. People who have had a diabetes-related LLA are at higher risk for a second one. Being active helps to manage blood sugar and increase blood flow, which will keep your remaining limbs as healthy as possible. If you have reduced mobility, try arm exercises, chair exercises, or stretching to get moving. If you're looking for ideas, find workout videos online to suit your needs and coach you through it.
+
+Keep Reading:
+Diabetes-Related Amputations and Mental Health
+
+LLA and health inequities
+People from certain racial or ethnic groups tend to have reduced access to health care. Lower income levels and living in rural areas present additional barriers. This can lead to fewer procedures to avoid LLAs, and higher rates of diabetes-related amputations.
+When not all people have access to recovery care, it can impact health outcome and quality of life. Recovery care includes access to prosthetic limbs, physical or occupational therapy, and mental health support.
+Diabetes self-management education and support (DSMES) is available to help with some of the problems related to LLAs. DSMES helps people experiencing new health complications or unique life changes that could make it harder to manage diabetes. Talk to your doctor to learn more and get a referral for DSMES.
+
+May 15, 2024
+
+Syndicate

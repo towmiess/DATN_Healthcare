@@ -1,0 +1,65 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/gestational-diabetes/symptoms",
+  "title": "Gestational diabetes symptoms",
+  "category": "complication/pregnancy",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:17:45.560102",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Gestational diabetes symptoms",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 592,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Gestational diabetes symptoms
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Gestational diabetes symptoms
+
+What’s on this page?
+
+What are gestational diabetes symptoms?
+
+How do I know if I have gestational diabetes?
+
+What causes gestational diabetes?
+
+What happens to the baby if you have gestational diabetes?
+
+At what week does gestational diabetes develop?
+
+Gestational diabetes is a type of diabetes that develops during pregnancy. It affects women who haven't already got a diagnosis of another type of diabetes. It usually goes away again after giving birth.
+
+What are gestational diabetes symptoms? Signs and symptoms associated with gestational diabetes include:  Going for a wee a lot, especially at night Being really thirsty Feeling more tired than usual Genital itching or thrush Blurred eyesight.  You may have been shocked to find out that you have gestational diabetes — many women have no noticeable symptoms. As some gestational diabetes symptoms are like symptoms experienced in pregnancy anyway — like feeling more tired or going to the toilet more — most cases are diagnosed during screening for gestational diabetes. This is called an Oral Glucose Tolerance Test, also known as an OGTT.  The OGTT is usually done when you’re between 24-28 weeks pregnant. If you’ve had gestational diabetes before, you’ll be offered the OGTT or self-monitoring of your blood sugar levels at home early in your pregnancy. You’ll be shown how to do this and given a blood monitoring kit.  Find out more about gestational diabetes tests .
+
+How do I know if I have gestational diabetes?  If you develop any of the symptoms listed above, they could be a sign that you have gestational diabetes. You should talk to your midwife or GP about this as it’s important that gestational diabetes is picked up as early as possible.
+
+What causes gestational diabetes?  Lots of changes happen to your body during pregnancy.  Along with the physical signs, the hormones you produce can make it hard for your body to use insulin properly. This puts you at an increased risk of insulin resistance , and some women's bodies can’t produce enough insulin to overcome it.  This makes it difficult to use glucose (sugar) properly for energy, so it stays in your blood and the sugar levels rise. This then leads to gestational diabetes.  Find out more about causes of gestational diabetes.
+
+What happens to the baby if you have gestational diabetes?  If you have gestational diabetes, most babies will still be born healthy, but it can lead to problems such as a large birth weight (which makes delivery more difficult and can mean you need induced labour or a caesarean section).   Your baby could also develop low blood sugar or have yellowing skin or eyes (jaundice) after they are born, which may require treatment.   Find out more about possible complications of gestational diabetes .
+
+At what week does gestational diabetes develop?  Gestational diabetes can develop at any stage of pregnancy, but is more common in the second or third trimester. It is usually diagnosed from a blood test 24 to 28 weeks into pregnancy.   After you give birth, you have an increased risk of type 2 diabetes, so should be offered a blood test 6-13 weeks after birth and then once a year. Find out more about preventing type 2 after gestational diabetes .
+
+What is gestational diabetes?
+
+Find out more
+
+Show more
+
+How is gestational diabetes tested?
+
+Find out more
+
+How do you reduce your risk of gestational diabetes?
+
+Find out more
+
+How does gestational diabetes affect the baby?
+
+Find out more

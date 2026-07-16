@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Khoai lang hấp ăn nguyên vỏ", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Khoai lang hấp ăn nguyên vỏ
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: khoai lang, hấp, beta-carotene, GI trung bình
+
+Mô tả: Khoai lang hấp nguyên vỏ giảm GI nhiều hơn so với gọt vỏ, beta-carotene cao.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 8.5
+Calo: 105 kcal
+Chất đạm (protein): 1.5 g
+Chất béo tổng: 0.2 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 24.5 g (chất xơ: 3.5 g, đường: 5.5 g, đường bổ sung: 0.8 g)
+Cholesterol: 0 mg | Natri: 8 mg
+Kali: 448 mg | Phốt pho: 55 mg | Magie: 28 mg
+Canxi: 38 mg | Sắt: 0.6 mg | Vitamin D: 0.1 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Hấp nguyên vỏ GI thấp hơn nướng; TĐ thai kỳ hạn chế
+Khẩu phần khuyến nghị: 1 củ nhỏ (100-120g)/bữa phụ
+Chống chỉ định / thận trọng: TĐ thai kỳ hạn chế lượng
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+1 củ khoai lang nhỏ (~120g)
+
+--- Cách chế biến ---
+1. Rửa sạch khoai để nguyên vỏ
+2. Hấp 20 phút đến mềm
+3. Ăn nguyên vỏ để giữ chất xơ tối đa

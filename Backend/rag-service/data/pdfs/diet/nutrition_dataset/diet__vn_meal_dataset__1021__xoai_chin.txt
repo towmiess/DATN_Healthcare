@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Xoài chín", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Xoài chín
+Loại món: Trái cây | Ẩm thực: Vietnamese
+Từ khóa: GI cao, vitamin A cao, kiểm soát lượng
+
+Mô tả: Xoài chín rất ngọt, GI cao, vitamin A cao nhưng cần kiểm soát lượng nghiêm ngặt.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 100g (phần ăn được)) ---
+Chỉ số đường huyết (GI): cao | Tải lượng đường huyết (GL): 13.0
+Calo: 60 kcal
+Chất đạm (protein): 0.8 g
+Chất béo tổng: 0.4 g (bão hòa: 0.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 15.0 g (chất xơ: 1.6 g, đường: 13.7 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 1 mg
+Kali: 168 mg | Phốt pho: 14 mg | Magie: 10 mg
+Canxi: 11 mg | Sắt: 0.2 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI và GL cao - chỉ dùng 80-100g, ưu tiên ăn cùng protein/chất xơ để giảm tác động
+Khẩu phần khuyến nghị: 80-100g, không quá 2-3 lần/tuần
+Chống chỉ định / thận trọng: Hạn chế dùng thường xuyên
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g xoài chín (phần ăn được)
+
+--- Cách chế biến ---
+1. Rửa sạch xoài chín
+2. Gọt vỏ/bỏ hạt nếu cần
+3. Ăn trực tiếp, không thêm đường

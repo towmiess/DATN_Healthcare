@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Canh su hào thịt gà", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh su hào thịt gà
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: su hào, thịt gà, vitamin C, ít béo
+
+Mô tả: Canh su hào thanh mát, thịt gà ít béo, ít calo, phù hợp bữa tối nhẹ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.8
+Calo: 135 kcal
+Chất đạm (protein): 19.5 g
+Chất béo tổng: 3.5 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.2 g (chất xơ: 3.2 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 55 mg | Natri: 360 mg
+Kali: 420 mg | Phốt pho: 175 mg | Magie: 32 mg
+Canxi: 48 mg | Sắt: 1.2 mg | Vitamin D: 0.3 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít calo phù hợp kiểm soát cân nặng trong TĐ
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+150g ức gà
+200g su hào
+2 tép tỏi
+Hành lá
+
+--- Cách chế biến ---
+1. Luộc gà lấy nước dùng
+2. Thái gà sợi
+3. Cho su hào vào nước dùng nấu 10 phút
+4. Cho gà vào nêm gia vị

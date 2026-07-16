@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Gỏi atiso tôm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Gỏi atiso tôm
+Loại món: Gỏi/Salad | Ẩm thực: Vietnamese
+Từ khóa: atiso, tôm, cynarin, đặc biệt
+
+Mô tả: Cynarin atiso hỗ trợ gan thận, kết hợp tôm tạo gỏi độc đáo ít phổ biến.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 128 kcal
+Chất đạm (protein): 15.5 g
+Chất béo tổng: 3.5 g (bão hòa: 0.8 g, chuyển hóa: 0.1 g)
+Carbohydrate tổng: 9.5 g (chất xơ: 4.0 g, đường: 2.0 g, đường bổ sung: 0.3 g)
+Cholesterol: 75 mg | Natri: 285 mg
+Kali: 425 mg | Phốt pho: 165 mg | Magie: 38 mg
+Canxi: 52 mg | Sắt: 1.5 mg | Vitamin D: 0.3 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Cynarin hỗ trợ gan thận - quan trọng cho biến chứng TĐ
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Dị ứng họ cúc thận trọng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: khó | Chi phí: cao
+
+--- Nguyên liệu ---
+1 bông atiso
+100g tôm
+Rau thơm
+
+--- Cách chế biến ---
+1. Luộc atiso lấy phần tâm
+2. Luộc tôm
+3. Trộn với rau thơm mắm chanh

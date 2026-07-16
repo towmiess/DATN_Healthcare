@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Su su xào trứng", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Su su xào trứng
+Loại món: Rau củ | Ẩm thực: Vietnamese
+Từ khóa: su su, trứng, folate, protein
+
+Mô tả: Su su giàu folate kết hợp protein từ trứng, món ăn nhanh đơn giản.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.8
+Calo: 108 kcal
+Chất đạm (protein): 7.5 g
+Chất béo tổng: 6.5 g (bão hòa: 1.8 g, chuyển hóa: 0.2 g)
+Carbohydrate tổng: 6.5 g (chất xơ: 2.0 g, đường: 3.0 g, đường bổ sung: 0.4 g)
+Cholesterol: 165 mg | Natri: 225 mg
+Kali: 265 mg | Phốt pho: 108 mg | Magie: 22 mg
+Canxi: 32 mg | Sắt: 0.8 mg | Vitamin D: 0.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Folate tốt TĐ thai kỳ; cholesterol trứng cần kiểm soát tim mạch
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Tim mạch và đột quỵ hạn chế lòng đỏ
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+250g su su
+1 trứng
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Su su gọt vỏ thái sợi
+2. Phi tỏi xào su su 5 phút
+3. Đập trứng vào đảo đều

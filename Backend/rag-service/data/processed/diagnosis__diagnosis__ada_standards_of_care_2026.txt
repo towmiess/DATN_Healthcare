@@ -1,0 +1,164 @@
+===METADATA===
+
+
+ "source_name": "ada_standards_of_care_2026",
+
+ "document_title": "ADA Standards of Care in Diabetes 2026",
+
+ "url": "https://professional.diabetes.org/standards-of-care",
+
+ "category": "diagnosis",
+
+ "language": "en",
+
+ "source_type": "official_guideline",
+
+ "source_priority": 1,
+
+ "verified_by_doctor": true,
+
+ "published_date": "2025-12-08",
+
+ "condition_tags": [
+
+ "diabetes",
+
+ "guideline"
+
+
+ "crawled_at": "2026-06-05T14:25:18.975730",
+
+ "char_count": 3293
+
+
+===CONTENT===
+
+Standards of Care
+
+Standards of Care in Diabetes
+
+The
+
+Standards of Care in Diabetes
+
+
+Standards of Care
+
+) includes all current clinical practice recommendations of the American Diabetes Association (ADA) and is intended to provide clinicians, researchers, policy makers, and other individuals with the components of diabetes care, general treatment goals, and tools to evaluate the quality of care.
+
+View the 2026 Standards of Care
+
+The recommendations included in the Standards of Care are based on an extensive review of the clinical diabetes literature, supplemented with input from ADA staff and the medical community at large. The Standards of Care in Diabetes is updated annually, or more frequently online if new evidence or regulatory changes merit immediate incorporation, and is published in
+
+Diabetes Care
+
+
+Get the Standards of Care App in the
+
+App Store for iOS
+
+
+Google Play for Android
+
+for up-to-date recommendations and interactive tables and algorithms.
+
+Standards of Care in Diabetes
+
+Introduction and Methodology
+
+Summary of Revisions
+
+Disclosures
+
+Index
+
+Sections
+
+Improving Care and Promoting Health in Populations
+
+Diagnosis and Classification of Diabetes
+
+Prevention or Delay of Diabetes and Associated Comorbidities
+
+Comprehensive Medical Evaluation and Assessment of Comorbidities
+
+Facilitating Positive Health Behaviors and Well-being to Improve Health Outcomes
+
+Glycemic Goals and Hypoglycemia
+
+Diabetes Technology
+
+Obesity and Weight Management for the Prevention and Treatment of Type 2 Diabetes
+
+Pharmacologic Approaches to Glycemic Treatment
+
+Cardiovascular Disease and Risk Management
+
+Chronic Kidney Disease and Risk Management
+
+Retinopathy, Neuropathy, and Foot Care
+
+Older Adults
+
+Children and Adolescents
+
+Management of Diabetes in Pregnancy
+
+Diabetes Care in the Hospital
+
+Diabetes Advocacy
+
+Standards of Care App
+
+Get the Standards of Care App in the App Store for iOS or Google Play for Android for up-to-date recommendations and interactive tables and algorithms.
+
+App Store for iOS
+
+Google Play for Android
+
+Image
+
+Standards of Care: Slide Deck
+
+This comprehensive
+
+slide deck of ADA's 2026 Standards of Care
+
+(.PPTX) contains content created, reviewed, and approved by the ADA. You are free to use the slides in presentations without further permission as long as the slide content is not altered in any way and appropriate attribution is made to the American Diabetes Association (the ADA name and logo on the slides constitutes appropriate attribution).
+
+Permission is required from the Association for any commercial use or for reproduction in any print materials
+
+[email protected]
+
+
+Get the Slide Deck
+
+Image
+
+2026 Abridged Standards of Care
+
+The ADA’s Primary Care Advisory Group (PCAG) has worked diligently to summarize and condense the 2026
+
+Standards of Care
+
+recently published as a supplement to
+
+Diabetes Care
+
+into a more manageable abridged version that highlights the aspects of this important document that are particularly applicable to primary care practice
+
+View Abridged Standards of Care
+
+Image
+
+Submit a Comment
+
+The American Diabetes Association truly welcomes your comments and suggestions regarding the Standards of Care in Diabetes.
+
+Submit Form
+
+Submit a Proposal
+
+Download and complete this form to submit a proposal for an ADA Publication or Conference.
+
+Download Form (.PDF)

@@ -1,0 +1,13 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 420-428)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Tủy xương lợn, tươi: 749 kcal/100g | đạm 2.3g | béo 82.2g | carb 0g
+- Vải, khô: 264 kcal/100g | đạm 3g | béo 1.9g | carb 58.6g
+- Vải, tươi: 49 kcal/100g | đạm 0.7g | béo 0.3g | carb 10.7g
+- Vú sữa, tươi: 51 kcal/100g | đạm 1g | béo 0g | carb 11.7g
+- Xoài chín, tươi: 69 kcal/100g | đạm 0.6g | béo 0.3g | carb 15.9g
+- Xúc xích: 535 kcal/100g | đạm 27.2g | béo 47.4g | carb 0g
+- Xúc xích bò: 178 kcal/100g | đạm 10.2g | béo 8.8g | carb 13.5g
+- Xương cục: 1 kcal/100g | đạm 0g | béo 0g | carb 0g

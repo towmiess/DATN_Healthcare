@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Quả sung", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Quả sung
+Loại món: Trái cây | Ẩm thực: Vietnamese
+Từ khóa: GI thấp, chất xơ cao, prebiotic
+
+Mô tả: Sung tươi GI thấp, chất xơ cao hỗ trợ hệ vi sinh đường ruột.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 100g (phần ăn được)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 4.5
+Calo: 74 kcal
+Chất đạm (protein): 0.8 g
+Chất béo tổng: 0.3 g (bão hòa: 0.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 19.2 g (chất xơ: 2.9 g, đường: 16.3 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 1 mg
+Kali: 232 mg | Phốt pho: 14 mg | Magie: 17 mg
+Canxi: 35 mg | Sắt: 0.4 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Chất xơ cao hỗ trợ vi sinh đường ruột tốt cho TĐ
+Khẩu phần khuyến nghị: 100g (2-3 quả)/lần
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g quả sung (phần ăn được)
+
+--- Cách chế biến ---
+1. Rửa sạch quả sung
+2. Gọt vỏ/bỏ hạt nếu cần
+3. Ăn trực tiếp, không thêm đường

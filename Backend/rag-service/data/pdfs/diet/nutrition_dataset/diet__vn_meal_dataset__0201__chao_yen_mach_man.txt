@@ -1,0 +1,39 @@
+===METADATA===
+{"title": "Cháo yến mạch mặn", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cháo yến mạch mặn
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: yến mạch, oatmeal, beta-glucan, GI thấp
+
+Mô tả: Yến mạch beta-glucan cao nhất trong ngũ cốc, làm chậm hấp thu glucose mạnh mẽ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.8
+Calo: 195 kcal
+Chất đạm (protein): 8.5 g
+Chất béo tổng: 5.5 g (bão hòa: 1.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 28.5 g (chất xơ: 5.5 g, đường: 1.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 185 mg
+Kali: 285 mg | Phốt pho: 185 mg | Magie: 42 mg
+Canxi: 22 mg | Sắt: 2.5 mg | Vitamin D: 0.8 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Beta-glucan yến mạch giảm GI và cholesterol hiệu quả nhất
+Khẩu phần khuyến nghị: 1 tô/bữa sáng
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+80g yến mạch thô
+500ml nước
+Hành lá
+Gừng
+1/2 muỡng muối
+
+--- Cách chế biến ---
+1. Đun sôi nước
+2. Cho yến mạch vào nấu 10 phút
+3. Thêm gừng hành
+4. Nêm ít muối

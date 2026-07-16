@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Sinh tố xoài chín ít", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Sinh tố xoài chín ít
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: xoài chín, vitamin A, kiểm soát lượng
+
+Mô tả: Xoài chín GI khá cao nên chỉ dùng lượng rất ít, vitamin A cao.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 6.5
+Calo: 68 kcal
+Chất đạm (protein): 0.8 g
+Chất béo tổng: 0.3 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 16.5 g (chất xơ: 1.5 g, đường: 13.5 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 2 mg
+Kali: 150 mg | Phốt pho: 12 mg | Magie: 9 mg
+Canxi: 10 mg | Sắt: 0.2 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI cao - chỉ dùng 80g, không thường xuyên
+Khẩu phần khuyến nghị: 80ml, hạn chế 1-2 lần/tuần
+Chống chỉ định / thận trọng: Hạn chế dùng thường xuyên
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+80g xoài chín
+50ml nước
+
+--- Cách chế biến ---
+1. Xay xoài với nước
+2. Uống lượng ít, không thêm đường

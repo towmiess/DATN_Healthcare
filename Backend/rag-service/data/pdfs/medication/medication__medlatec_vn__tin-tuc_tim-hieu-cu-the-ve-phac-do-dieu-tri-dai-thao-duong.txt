@@ -1,0 +1,331 @@
+===METADATA===
+{
+  "url": "https://medlatec.vn/tin-tuc/tim-hieu-cu-the-ve-phac-do-dieu-tri-dai-thao-duong",
+  "title": "Phác đồ điều trị ĐTĐ - Medlatec",
+  "category": "medication",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:15:22.325240",
+  "source_name": "medlatec.vn",
+  "document_title": "Phác đồ điều trị ĐTĐ - Medlatec",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 2059,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Phác đồ điều trị ĐTĐ - Medlatec
+
+Tin tức
+
+Tin tức y khoa
+Tìm hiểu cụ thể về phác đồ điều trị đái tháo đường
+
+Tìm hiểu cụ thể về phác đồ điều trị đái tháo đường
+
+Ngày 01/08/2023
+
+Lương Thanh Thủy
+
+Đái tháo đường là bệnh lý mạn tính cần được điều trị kiểm soát tốt để tránh những biến chứng nguy hiểm ở nhiều hệ cơ quan như: mạch máu, thận, mắt, tim,... gia tăng tỷ lệ tàn tật, tăng chi phí điều trị gây ra áp lực kinh tế cho người bệnh,... Vậy phác đồ điều trị đái tháo đường như thế nào, bài viết dưới đây MEDLATEC sẽ cùng bạn tìm hiểu cụ thể hơn về vấn đề này.
+
+01/02/2024 | Xét nghiệm HbA1c và ý nghĩa trong chẩn đoán bệnh đái tháo đường
+01/12/2023 | Xét nghiệm đái tháo đường và những điều cần lưu ý
+10/09/2024 | Ba mẹ có biết: Nguyên nhân trẻ bị đái tháo đường là do đâu?
+17/10/2024 | Nhận biết tiền đái tháo đường qua những biểu hiện nghi ngờ
+16/12/2024 | Metformin: Tất cả những điều bạn cần biết về thuốc điều trị đái tháo đường
+
+1.
+Một số vấn đề cơ bản về đái tháo đường
+
+Đái
+tháo đường là tình trạng tăng đường huyết mạn tính gây nên bởi rối loạn chuyển
+hóa lipid, carbohydrate và protein có căn nguyên từ giảm tương đối hoặc tuyệt
+đối tác dụng của insulin.
+
+Một
+số triệu chứng hay gặp ở bệnh nhân đái tháo đường
+
+Đái
+tháo đường gồm 2 dạng chính:
+
+-
+Đái tháo đường type 1
+
+Đây
+là bệnh đái tháo đường lệ thuộc insulin - rối loạn chuyển hoá có căn nguyên
+chính là tế bào beta tuyến tụy không thể tổng hợp và tiết đủ insulin khiến cho
+insulin lưu hành trong máu ít và lượng đường trong máu không thể điều hoà được.
+Bệnh lý này thường xuất hiện đột ngột, xảy ra sau nhiễm độc hoặc nhiễm khuẩn,
+là tình trạng cấp tính có thể gây hôn mê.
+
+Người
+bị tiểu đường type 1 thường có triệu chứng điển hình là: ăn nhiều, uống nhiều,
+tiểu nhiều, sụt cân nhanh. Nếu bệnh bị biến chứng cấp tính người bệnh thường có
+triệu chứng hôn mê nhiễm toan ceton như: hạ huyết áp, mạch nhanh, chuột rút,
+buồn nôn, thở nhanh, hơi thở có mùi thối, rối loạn ý thức,... Người bệnh cần
+được điều trị cấp cứu ngay để không nguy hiểm đến tính mạng.
+
+-
+Đái tháo đường type 2
+
+Đối
+với bệnh đái tháo đường type 2, nguyên nhân gây bệnh có thể do tuyến tụy bị
+giảm tiết insulin do một số bệnh lý như viêm tụy cấp, mạn tính,... hoặc do tình
+trạng cơ thể sản sinh ra kháng thể kháng insulin khiến thiếu hụt lượng insulin
+cần thiết để điều hòa đường máu.
+
+Triệu
+chứng của bệnh đái tháo đường type 2 thường gặp gồm: tiểu nhiều, thường xuyên
+cảm thấy khát nước, cáu kỉnh, nhìn mờ, bàn chân hoặc bàn tay hay bị tê ngứa,
+mệt mỏi, lâu lành vết thương, thường xuyên tái phát nhiễm trùng nấm men, dễ có
+cảm giác đói, giảm cân nhanh,...
+
+2.
+Phác đồ điều trị đái tháo đường như thế nào?
+
+Bệnh
+đái tháo đường cần được điều trị để ngăn ngừa biến chứng nguy hiểm ở các cơ
+quan ngũ tạng. Phác đồ điều trị đái tháo đường luôn cần kết hợp giữa điều trị y
+tế với việc thay đổi và duy trì chế độ ăn uống, luyện tập khoa học:
+
+2.1. Chế độ ăn và luyện tập
+cho người bệnh đái tháo đường
+
+-
+Chế độ ăn
+
+Đây
+là vấn đề rất quan trọng đối với hiệu quả kiểm soát chỉ số đường huyết ở bệnh
+nhân đái tháo đường. Vì thế, song song với việc thực hiện điều trị theo phác đồ
+từ bác sĩ, người bệnh cần:
+
++
+Có chế độ ăn cân bằng: 50 - 60% glucid, 15 - 20% protid, 20 - 30% lipid đồng
+thời ưu tiên sử dụng thực phẩm có chỉ số tăng đường huyết thấp, giàu chất xơ,
+giảm thiểu tối đa đồ ngọt.
+
++
+Người bị đái tháo đường type 2 chỉ nên ăn 3 bữa chính/ngày.
+
++
+Người đang điều trị tiêm insulin có thể ăn mỗi ngày 4 - 5 bữa nhỏ.
+
+Chế
+độ ăn lành mạnh là một phần không thể thiếu trong phác đồ điều trị đái tháo
+đường
+
+-
+Tập luyện
+
++
+Duy trì chế độ luyện tập đều đặn, tối thiểu mỗi tuần 5 ngày, mỗi ngày 30 phút.
+
++
+Kiểm tra đường huyết, tim mạch và huyết áp trước mỗi buổi tập.
+
++
+Lựa chọn hình thức tập luyện phù hợp với thể trạng: leo cầu thang, bơi lội, đi
+bộ,...
+
+2.2. Phác đồ điều trị bằng
+insulin
+
+Phác
+đồ điều trị đái tháo đường bằng insulin được chỉ định cho các trường hợp:
+
+-
+Đái tháo đường thai kỳ và đái tháo đường type 1.
+
+-
+Chỉ áp dụng cho đái tháo đường type 2 nếu người bệnh trong tình trạng:
+
++
+Mất bù xuất phát từ các nguyên nhân: tăng đường huyết và ceton máu cấp nghiêm
+trọng, nhiễm trùng, stress, vết thương cấp.
+
++
+Cân nặng giảm không thể kiểm soát.
+
++
+Mang thai.
+
++
+Can thiệp ngoại khoa.
+
++
+Bị suy thận, suy gan.
+
++
+Có phản ứng dị ứng khi dùng thuốc hạ đường huyết .
+
++
+Đã điều trị bằng thuốc hạ đường huyết nhưng bị giảm tác dụng hoặc đường huyết
+rối loạn mất kiểm soát.
+
++
+Chỉ định tạm thời khi kết quả HbA1c > 11% và đường huyết > 250 - 300
+mg/dl (14 - 16.5 mmol/l).
+
++
+Tăng áp lực thẩm thấu.
+
++
+Hôn mê toan ceton.
+
++
+Đái tháo đường xuất phát từ căn nguyên bệnh lý tuyến tụy.
+
+Có
+nhiều phác đồ điều trị đái tháo đường bằng insulin. Tùy thuộc vào tình trạng
+của bệnh nhân và loại insulin mà bác sĩ có thể lựa chọn:
+
+-
+Đái tháo đường type 1: phác đồ 2  - 4 mũi/ngày.
+
+-
+Đái tháo đường type 2: có thể áp dụng phác đồ của đái tháo đường type 1 kết hợp
+phác đồ 1 mũi insulin và thuốc viên.
+
+-
+Đái tháo đường thai kỳ: 1 - 4 mũi/ngày tùy thuộc vào chỉ số đường huyết của
+từng bệnh nhân và chỉ dùng insulin sinh tổng hợp.
+
+Có
+nhiều phác đồ điều trị đái tháo đường, tùy từng trường hợp bệnh mà bác sĩ cân
+nhắc để đưa ra phác đồ phù hợp
+
+2.3. Phác đồ điều trị bằng
+thuốc
+
+Đối
+với phác đồ điều trị đái tháo đường bằng thuốc uống, chủ yếu sử dụng các nhóm:
+
+-
+Thuốc kích thích bài tiết insulin
+
++
+Chỉ định: đái tháo đường typ 2 có thể trạng gầy hoặc trung bình.
+
++
+Chống chỉ định: suy thận, đái tháo đường type 1, đái tháo đường toan ceton, suy
+gan, dị ứng với sulfonylurea, mang thai.
+
++
+Các loại thuốc thường dùng: gliclazid, glimepirid, glibenclamid, glyburide,
+glipizid,...
+
++
+Phối hợp với: insulin, acarbose, thiazolidinedione, metformin,...
+
++
+Tác dụng phụ có thể gặp phải: tăng cân, dị ứng, hạ đường huyết,...
+
+-
+Thuốc làm tăng nhạy cảm insulin ngoại vi và giảm đề kháng insulin
+
++
+Chỉ định: bệnh nhân bị đái tháo đường type 2.
+
++
+Chống chỉ định: đái tháo đường type 1, thiếu oxy tổ chức ngoại biên, toan
+ceton, suy thận, mang thai, rối loạn chức năng gan, chế độ ăn ít calo, trước và
+sau phẫu thuật, bệnh nhân đái tháo đường > 70 tuổi.
+
++
+Thuốc thường dùng: thiazolidinedione, metformin.
+
++
+Tác dụng phụ có thể gặp phải: tiêu chảy, buồn nôn , đầy bụng, chán ăn, nôn,...
+
+-
+Thuốc ức chế enzyme alpha glucosidase gây giảm hấp thu glucose
+
++
+Chỉ định: bị tăng nhẹ chỉ số đường huyết sau ăn, đái tháo đường type 2.
+
++
+Thuốc thường dùng: acarbose, voglibose, miglitol,...
+
++
+Tác dụng phụ có thể gặp phải: chướng bụng, buồn nôn, tiêu chảy , buồn đi ngoài.
+
+-
+Thuốc Glinide
+
++
+Chỉ định: bị tăng đường huyết sau bữa ăn.
+
++
+Thuốc thường dùng: repaglinide, meglitinide.
+
++
+Tác dụng phụ có thể gặp phải: hạ đường huyết .
+
+-
+Thuốc tác dụng lên hệ incretin
+
++
+Chỉ định: bị tăng đường huyết sau bữa ăn, đái tháo đường type 2.
+
++
+Các thuốc thường dùng: thuốc đồng phân GLP1, thuốc ức chế DPP IV, thuốc đồng
+phân amylin,...
+
++
+Tác dụng phụ có thể gặp phải: buồn nôn, hạ đường huyết, đau đầu , chán ăn ,...
+
+Đối
+với bệnh nhân đái tháo đường, tuân thủ phác đồ điều trị của bác sĩ là giải pháp
+duy nhất để sống chung hòa bình với bệnh lý này. Hiệu quả điều trị đạt được phụ
+thuộc rất nhiều vào ý thức hợp tác thực hiện chỉ định từ bác sĩ của chính người
+bệnh. Mặt khác, người bị đái tháo đường cũng cần theo dõi, kiểm tra sức khỏe
+định kỳ để bác sĩ đánh giá được hiệu quả điều trị bệnh từ đó có phác đồ điều
+trị phù hợp cho từng giai đoạn.
+
+Những
+chia sẻ về phác đồ điều trị đái tháo đường trên đây chỉ có tính chất tham khảo.
+Để được chẩn đoán và hướng dẫn điều trị cụ thể với trường hợp của mình, quý
+khách hàng có thể đặt lịch khám cùng bác sĩ chuyên khoa của Bệnh viện Đa khoa
+MEDLATEC qua hotline 1900 56 56 56.
+
+Từ khoá:
+phác đồ điều trị đái tháo đường
+
+Bình luận ( )
+
+Tin cùng chuyên mục
+
+Thứ Sáu, 22 tháng 5, 2026
+
+Thai phụ chóng mặt, mệt mỏi nhiều tưởng ốm nghén, đi khám...
+
+Thấy chóng mặt, mệt mỏi nhiều, thai phụ đi khám được chẩn đoán mắc cường giáp do thai kỳ - một chứng rối loạn chức năng tuyến giáp. Tuy nhiên, tình trạng này rất dễ nhầm lẫn với Basedow - một bệnh lý tuyến giáp có thể gây sảy thai, sinh non, tăng nguy cơ tiền sản giật…&#xD;&#xA;
+
+Thứ Hai, 18 tháng 5, 2026
+
+Cổ bị thâm đen là bệnh gì? Phương pháp chẩn đoán
+
+Tình trạng cổ bị thâm đen không chỉ gây mất thẩm mỹ mà còn có thể là dấu hiệu cảnh báo một số vấn đề sức khỏe tiềm ẩn. Vậy nguyên nhân khiến cổ bị thâm đen là bệnh gì, làm cách nào để xác định chính xác? Bài viết dưới đây sẽ cùng bạn tìm hiểu thông tin liên quan và giải đáp những băn khoăn này.&#xD;&#xA;
+
+Thứ Năm, 2 tháng 4, 2026
+
+Cảnh giác mắc ung thư tuyến giáp thể nhú ngay khi khỏe mạ...
+
+Không có bất kỳ dấu hiệu bất thường nào tại vùng cổ, nhưng nam thanh niên đi khám lại phát hiện mắc ung thư tuyến giáp thể nhú. Từ đó cảnh báo người dân nên đi kiểm tra sức khỏe định kỳ hàng năm để phát hiện bất thường sớm về sức khỏe khi chưa có biểu hiện bên ngoài.
+
+Thứ Hai, 23 tháng 2, 2026
+
+3 bệnh lý chuyển hóa thường gặp sau Tết: Chuyên gia cảnh...
+
+Sau kỳ nghỉ Tết, nhiều người đối mặt với tình trạng tăng cân, mệt mỏi, rối loạn sức khỏe do chế độ ăn uống dư thừa năng lượng và sinh hoạt thiếu điều độ. Các chuyên gia cảnh báo, đây cũng là thời điểm 3 bệnh lý chuyển hóa thường gặp có xu hướng gia tăng nhanh chóng, diễn tiến âm thầm nhưng tiềm ẩn nhiều biến chứng nguy hiểm nếu không được phát hiện và điều trị sớm.
+
+Thứ Năm, 5 tháng 2, 2026
+
+Đường huyết tăng cao sau Tết: Nguyên nhân và cách xử trí...
+
+Sau kỳ nghỉ Tết, không ít người bất ngờ khi kiểm tra sức khỏe và phát hiện chỉ số đường huyết tăng cao so với bình thường. Vậy tại sao đường huyết tăng cao sau Tết? Cần xử trí như thế nào để tránh biến chứng lâu dài? Bài viết sau sẽ giúp bạn hiểu rõ và chủ động thực hiện tốt các biện pháp phòng ngừa để duy trì kiểm soát đường huyết ổn định trong và sau Tết.&#xD;&#xA;
+
+Hotline
+1900565656

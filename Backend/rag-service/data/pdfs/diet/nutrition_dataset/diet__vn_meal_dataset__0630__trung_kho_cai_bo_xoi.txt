@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Trứng kho cải bó xôi", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trứng kho cải bó xôi
+Loại món: Món trứng | Ẩm thực: Vietnamese
+Từ khóa: trứng, cải bó xôi, protein, choline
+
+Mô tả: Trứng kho cải bó xôi là món kho kết hợp ức gà và cải bó xôi, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 172 kcal
+Chất đạm (protein): 10.6 g
+Chất béo tổng: 9.2 g (bão hòa: 2.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.9 g (chất xơ: 2.0 g, đường: 2.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 85 mg | Natri: 401 mg
+Kali: 329 mg | Phốt pho: 245 mg | Magie: 23 mg
+Canxi: 170 mg | Sắt: 1.6 mg | Vitamin D: 0.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Món trứng; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+2 quả trứng
+100g cải bó xôi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Đánh trứng hoặc để nguyên theo món
+2. Sơ chế cải bó xôi
+3. Kho kết hợp
+4. Nêm gia vị nhạt

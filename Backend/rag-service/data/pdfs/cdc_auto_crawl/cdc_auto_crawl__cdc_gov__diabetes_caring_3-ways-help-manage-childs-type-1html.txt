@@ -1,0 +1,65 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/caring/3-ways-help-manage-childs-type-1.html",
+  "title": "3 Ways to Help Manage Your Child's Type 1 Diabetes",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:41.028763",
+  "source_name": "cdc.gov",
+  "document_title": "3 Ways to Help Manage Your Child's Type 1 Diabetes",
+  "extraction_method": "<main>",
+  "word_count": 759,
+  "verified_by_doctor": false
+}
+===CONTENT===
+3 Ways to Help Manage Your Child's Type 1 Diabetes
+
+May 15, 2024
+
+3 Ways to Help Manage Your Child's Type 1 Diabetes
+
+What to know
+
+Life changes in many ways when your child is diagnosed with type 1 diabetes. It can all seem overwhelming at first, but it will get easier with time and knowledge. Try these approaches to help make daily diabetes care more manageable from day 1.
+
+1. Learn everything you can
+Treatment options, blood sugar highs and lows, carb counting , ketones, dealing with sick days , managing diabetes at school . Read books, join support groups and online forums, talk to your child's health care team and other parents.
+Important things to know will include these items:
+
+When your child needs to take insulin and what types of insulin .
+
+What device they'll use to take insulin and how to use it.
+
+How and when to check for high and low blood sugar and ketones.
+
+What items to have on hand, such as glucagon, gels, and drinks for low blood sugar.
+
+Signs of low blood sugar (they're different for every child).
+
+How to make a diabetes management plan for school .
+
+When to contact your health care team and where to go for help and support.
+
+Ask your child's doctor to refer you to diabetes self-management education and support services when your child is first diagnosed. You'll meet with a diabetes education and care specialist to learn how to use knowledge, skills, and tools to manage diabetes. They'll help your child to learn too—one example is having them practice using a needle with a stuffed animal.
+Your diabetes education and care specialist can be your biggest ally. They're aware of the latest developments and breakthroughs that can help make managing diabetes simpler and safer. They'll work with you to fit diabetes care into all parts of life. And you'll learn ways to get support from your family, friends, community, and health care team.
+Keep Reading:
+About Diabetes Self-Management Education and Support
+
+2. Expect change
+Just when you've got day-to-day diabetes management figured out, along comes a new school year or new activities.
+As your child grows, they will probably want to manage more of their own diabetes care. That can be a relief but can also come with its own worries. What if they don't eat properly or take insulin as needed? Will they notice the signs of hypoglycemia if they happen?
+It's not just their attitude that changes. Blood sugar is harder to manage during puberty because your teen's body is changing, which can increase their need for insulin. Your teen may feel different from their friends and want a more carefree lifestyle than their diabetes allows. Even when they follow their treatment plan, they might feel frustrated if natural body changes make their diabetes harder to handle. But managing diabetes effectively during the teen years is crucial to ensuring healthy growth into adulthood and reducing long-term health problems.
+Taking insulin is a necessary part of treating type 1 diabetes. It can be delivered in different ways—by syringe, insulin pen, or insulin pump. A diabetes education and care specialist can help you understand the pros and cons of different devices. They can guide you on which options may make the most sense for your child.
+
+3. Stay connected
+Keep the lines of conversation open. Let your child know that you understand diabetes is a lot to handle. Remind them that small choices now can lead to better results later. You're there to help them make those choices and build healthy habits as they grow.
+Call on your health care team for help with medical issues. But also ask them to connect you to other resources like support groups, summer camps, and community forums . Support for living with diabetes is so important for the whole family .
+People of any age with diabetes are more likely to have mental health issues, such as depression and anxiety. And sometimes the demands of managing a long-term condition like diabetes can seem like too much. This state is known as diabetes distress or burnout.
+Keep an eye out for any changes in your child's behavior or trouble sticking to their treatment plan. Those can signal distress or another emotional problem. Get in touch with your child's health care team, who can connect you with a mental health counselor if needed.
+Having a child with diabetes may seem overwhelming at times, but you're not alone. If you have questions or concerns, reach out to your child's health care team. They're there to help!
+
+May 15, 2024
+
+Syndicate

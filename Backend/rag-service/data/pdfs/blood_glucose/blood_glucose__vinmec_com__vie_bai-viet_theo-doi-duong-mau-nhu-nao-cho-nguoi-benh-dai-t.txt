@@ -1,0 +1,55 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/theo-doi-duong-mau-nhu-nao-cho-nguoi-benh-dai-thao-duong-vi",
+  "title": "Theo dõi đường máu",
+  "category": "blood_glucose",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:05:42.269192",
+  "source_name": "vinmec.com",
+  "document_title": "Theo dõi đường máu",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1350,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Theo dõi đường máu
+
+-->
+
+Chuyên trang sức khoẻ
+Sức khoẻ tổng quát
+
+Theo dõi đường máu như thế nào cho người bệnh đái tháo đường
+
+Cố vấn chuyên môn
+
+Bác sĩ nội trú,
+
+Trịnh Ngọc Anh
+
+☰
+Mục lục
+
+Bài viết được viết bởi ThS.BS Trịnh Ngọc Anh - Bác sĩ chuyên khoa Nội tiết - Khoa Nội tổng hợp - Bệnh viện Đa khoa Quốc tế Vinmec Times City.
+
+Đái tháo đường hay còn gọi là tiểu đường là bệnh rối loạn chuyển hoá không đồng nhất, có đặc điểm tăng glucose huyết do khiếm khuyết về tiết insulin, tác động của insulin hoặc cả hai. Việc tăng glucose mạn tính trong thời gian dài gây nên những rối loạn chuyển hóa carbohydrate, protide, lipide, đồng thời gây tổn thương ở nhiều cơ quan khác nhau, đặc biệt ở tim và mạch máu, thận, mắt, thần kinh.
+1. Mục đích của việc theo dõi đường máu cho người bệnh đái tháo đường
+Đo đường máu mao mạch thường xuyên 1 trong những yếu tố quyết định điều trị thành công bệnh đái tháo đường. Các biểu hiện lâm sàng của tăng đường máu thường ít hoặc mơ hồ, nhất là ở người bệnh đái tháo đường type 2 , do đó việc theo dõi glucose mao mạch thường xuyên là biện pháp duy nhất để phát hiện các thời điểm tăng đường máu. Hạ đường máu cũng tương tự, ở những người bệnh đái tháo đường lâu năm, các dấu hiệu báo động cũng mờ nhạt, chỉ theo dõi đường mao mạch thường xuyên mới giúp phát hiện sớm các cơn hạ đường máu. Mặt khác, bệnh nhân đái tháo đường cần cố gắng duy trì đường máu ở mức càng gần bình thường càng tốt và nếu không đo đường máu thì không thể đạt được mục đích này. Kiểm tra đường máu thường xuyên, hàng ngày và điều chỉnh ngay chế độ ăn uống, thuốc men nếu kết quả đường máu là bất thường, trước khi bệnh nhân có các biểu hiện lâm sàng là biện pháp tối ưu nhất để đi đến thành công.
+
+2. Cách thức theo dõi đường mao mạch bằng máy đo cá nhân
+Cho tới nay, đo đường máu bằng máy đo cá nhân tại nhà được Tổ Chức Y Tế Thế Giới khuyến cáo là phương pháp tin cậy và phù hợp cho mọi bệnh nhân đái tháo đường. Việc sử dụng máy đo cá nhân giúp người bệnh tiết kiệm thời gian, mất lượng máu rất ít, chủ động hơn trong điều trị và điều chỉnh lối sống. Hầu hết các máy đo đều có cách sử dụng rất đơn giản, gồm 3 thao tác chính là gắn que thử vào máy, thấm máu vào que, và đợi máy báo kết quả trong vòng dưới 30 giây. Các thời điểm người bệnh cần lưu ý theo dõi đường máu thường xuyên: Các bệnh nhân mới được chẩn đoán hoặc khi thay đổi chế độ điều trị thì bệnh nhân nên thử 2-4 lần mỗi ngày vào trước các bữa ăn chính và trước khi đi ngủ. Bệnh nhân chỉ uống thuốc viên có thể theo dõi 1-2 lần/ngày, nếu đường máu ổn định thì có thể giảm tần suất thử 1-2 lần/tuần Bệnh nhân tiêm insulin nhiều mũi hoặc đang có bệnh lý cấp tính sẽ cần được theo dõi với tần suất 4-6 lần/ngày để tránh các biến chứng nguy hiểm và điều chỉnh chế độ điều trị cho hợp lý Phụ nữ có thai bị đái tháo đường thai kỳ nên được theo dõi 4-7 lần/ngày tùy theo bệnh cảnh do tính chất phức tạp và hậu quả lên thai nhi khá nặng nề khi đường máu cao.
+
+3. Theo dõi đường máu và thái độ xử trí
+Kết quả theo dõi đường máu rất quan trọng để có thái độ xử trí thích hợp. Tất cả các bệnh nhân phải được hướng dẫn cách điều chỉnh ban đầu chế độ ăn, chế độ luyện tập và thuốc khi đường máu của họ vượt khỏi vùng an toàn. Mục tiêu đường máu của người bệnh đái tháo đường, trước bữa ăn là từ 4.4 – 7.8 mmol/l và sau ăn bất kỳ thời điểm nào là < 10 mmol/l. Người bệnh cần lưu ý là khi các kết quả bất thường này xuất hiện nhiều lần hoặc vẫn tồn tại sau khi đã điều chỉnh chế độ ăn, tập luyện và dùng thuốc thì bệnh nhân phải đi khám hoặc xin ý kiến của thầy thuốc chuyên khoa sớm. Tất nhiên các mức đường máu mục tiêu sẽ thay đổi ở các đối tượng khác nhau. Ví dụ đường máu có thể được phép cao hơn ở người già, người đã có suy thận nhưng cũng có thể phải thấp hơn ở những bệnh nhân đái tháo đường trẻ tuổi hoặc bệnh nhân đái tháo đường thai kỳ. Bạn nên hỏi bác sĩ để biết mức đường máu cho phép của mình. Người bệnh cũng cần lưu ý các nguyên nhân có thể làm đường máu dao động (tăng hoặc giảm) bao gồm: Chế độ ăn: Thay đổi giờ ăn, loại thức ăn, số lượng thức ăn... Tập thể dục hoặc lao động gắng sức Thay đổi loại, liều lượng thuốc đái tháo đường Các stress về tâm lý, tình cảm, rối loạn giấc ngủ Có bệnh lý cấp: Cảm cúm , đau dạ dày, ỉa chảy... Lạm dụng rượu bia. Dùng thêm các thuốc khác: Thuốc Corticoid, thuốc giảm đau khớp không rõ nguồn gốc...
+
+4. Các lưu ý khi theo dõi đường máu bằng máy đo cá nhân
+Để đảm bảo các kết quả đo được là tin cậy người bệnh phải có được 1 chiếc máy đo đường máu cá nhân tốt, đáp ứng các tiêu chí như: Thao tác đơn giản, cho kết quả nhanh và chính xác, không tốn máu, có bộ ghi nhớ kết quả đi kèm ngày giờ đo, máy nhỏ gọn có thể mang theo dễ dàng. Cần lưu ý là chỉ khi mua hàng chính hãng và có phiếu bảo hành thì người sử dụng mới được hưởng các dịch vụ ưu đãi như được cung cấp bộ tài liệu và băng hình hướng dẫn sử dụng bằng tiếng Việt, được hướng dẫn sử dụng máy và giải đáp thắc mắc trực tiếp, được cung cấp ổn định que thử đảm bảo chất lượng. Đặc biệt nhà sản xuất chịu trách nhiệm hoàn toàn về chất lượng máy và bảo hành miễn phí trọn đời. Việc theo dõi đường máu mao mạch bằng máy đo cá nhân là một bước tiến rất quan trọng trong điều trị đái tháo đường cần được khuyến cáo ở mọi bệnh nhân và sử dụng trong các tình huống cần thiết nhằm ngăn ngừa biến chứng và nâng cao chất lượng cuộc sống cho người bệnh.
+
+Để phòng và phát hiện sớm bệnh đái tháo đường, hiện nay, Bệnh viện Đa khoa Quốc tế Vinmec cung cấp gói Sàng lọc đái tháo đường - rối loạn mỡ máu dành cho khách hàng có dấu hiệu của bệnh tiểu đường, đái tháo đường type 2 nhằm mục đích chẩn đoán, sàng lọc bệnh lý dựa trên các xét nghiệm định lượng trong máu, áp dụng nghiệm pháp dung đường uống (đối với khách hàng có kết quả đường máu lúc đói nghi ngờ)... Từ đó bác sĩ sẽ có kết luận và đưa ra lời khuyên phòng tránh bệnh cũng như liệu pháp điều trị thích hợp, khoa học đối với bệnh nhân. Mọi thông tin chi tiết Khách hàng vui lòng liên hệ đến các bệnh viện, phòng khám thuộc hệ thống y tế Vinmec trên toàn quốc.
+
+XEM THÊM Tiêu chuẩn chẩn đoán đái tháo đường và tiền đái tháo đường Mục đích của điều trị đái tháo đường tuýp 2 Khi nào nên xét nghiệm tiền đái tháo đường?
+
+[Vinmec Central Park] Hội thảo: Phát hiện sớm và phòng ngừa bệnh đái tháo đường

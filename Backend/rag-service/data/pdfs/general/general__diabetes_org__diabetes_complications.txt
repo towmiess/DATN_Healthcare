@@ -1,0 +1,55 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org/diabetes/complications",
+  "title": "Diabetes Complications - ADA",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:11:55.912214",
+  "source_name": "diabetes.org",
+  "document_title": "Diabetes Complications - ADA",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 662,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes Complications - ADA
+
+About Diabetes
+
+Diabetes Complications
+
+What you need to know about diabetes complications.
+
+Image
+
+Let’s Get Serious About Diabetes Diabetes can lead to severe, and in some cases, life-threatening complications. But you can lower your risk of diabetes-related complications like heart, kidney, and eye disease, as well as nerve damage by making healthy lifestyle changes, knowing the warning signs, and attending regular visits with your health care provider. Expand each of the complications below to learn more about them.
+
+Diabetes Complications Explained
+
+Diabetes increases your risk for many serious health problems. The good news? With the correct treatment and recommended lifestyle changes, many people with diabetes are able to prevent or delay the onset of complications.
+
+Cardiovascular disease (CVD) is the leading cause of death in people living with diabetes. But, with a healthy lifestyle that includes exercise and an eating plan, you can reduce your CVD risk and other complications. Learn more about CVD
+
+Diabetes is the leading cause of chronic kidney disease (CKD). Factors including, genetics, blood glucose (blood sugar) management, and blood pressure affect your risk of developing CKD. Explore ways to prevent the onset of CKD or slow its progression. Learn more about CKD
+
+Diabetes is the leading cause of new cases of blindness in working age adults. Learn how routine comprehensive eye exams can provide early detection and prevent or delay vision loss and other valuable information to help avoid diabetes-related eye disease. Learn more about eye disease
+
+Neuropathy (or nerve damage) affects about half of all people with diabetes. But keeping your blood glucose (blood sugar) levels on target is your best line of defense to keep it at bay. Learn about the different neuropathy types so you’ll know what symptoms to look for and what to discuss with your health care provider to prevent, delay, or manage this condition. Learn more about neuropathy
+
+Diabetes can lead to nerve damage, reduced circulation, and even limb loss. You can lower your risk for serious foot complications by taking care of your feet, managing your diabetes, and talking to your doctor if you notice problems with your feet. Learn more about foot complications
+
+Diabetes can impact the body’s largest organ—your skin. But if caught early, most skin conditions can be prevented or easily treated. Learn ways to take care of your skin and about the different types of diabetes-related skin conditions so you know what to discuss with your health care team. Learn more about skin complications
+
+If you have diabetes, you’re at higher risk for both gingivitis (early-stage gum disease) and periodontitis (advanced gum disease). You can prevent or reduce your risk for gum disease and other oral complications by taking care of your oral health at home and by getting routine checkups with a dentist or periodontist. Learn more about oral complications
+
+Hearing loss is twice as common in people with diabetes as it is in those who don't have diabetes. For people with prediabetes, the rate of hearing loss is 30 percent higher than in those with normal blood glucose (blood sugar). Learn the signs and what action you should take if you suspect hearing loss. Learn more about hearing loss.
+
+Diabetic ketoacidosis (DKA) is a life-threatening condition caused by an overload of ketones—a chemical that develops when your body breaks down fat to use for energy. Learn how you can prevent DKA by knowing the warning signs. Learn more about DKA.
+
+If you have diabetes, your chances of having a stroke are twice as high than in people without diabetes. But you can lower your risk of having a stroke with healthy lifestyle changes and by managing your blood pressure, blood glucose (blood sugar), and cholesterol. Learn more about stroke risk and prevention, including warning signs and treatments. Learn more about stroke.
+
+Give Today and Change lives!
+With your support, the American Diabetes Association® can continue our lifesaving work to make breakthroughs in research and provide people with the resources they need to fight diabetes.

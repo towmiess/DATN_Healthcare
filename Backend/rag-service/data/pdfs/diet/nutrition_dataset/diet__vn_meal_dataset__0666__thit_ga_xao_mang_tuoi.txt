@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Thịt gà xào măng tươi", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thịt gà xào măng tươi
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: gà xào, măng tươi, chất xơ, kali
+
+Mô tả: Măng tươi giàu chất xơ không hòa tan và kali, kết hợp protein từ gà ít béo.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.8
+Calo: 158 kcal
+Chất đạm (protein): 21.5 g
+Chất béo tổng: 6.0 g (bão hòa: 1.5 g, chuyển hóa: 0.1 g)
+Carbohydrate tổng: 7.5 g (chất xơ: 3.8 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 68 mg | Natri: 328 mg
+Kali: 445 mg | Phốt pho: 195 mg | Magie: 32 mg
+Canxi: 22 mg | Sắt: 1.5 mg | Vitamin D: 0.3 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Chất xơ măng hỗ trợ tiêu hóa và kiểm soát đường huyết
+Khẩu phần khuyến nghị: 1 phần/bữa
+Chống chỉ định / thận trọng: Không dùng măng đóng hộp
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g ức gà
+200g măng tươi
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Luộc măng trước 10 phút bỏ nước
+2. Phi tỏi xào gà chín
+3. Cho măng vào xào 5 phút

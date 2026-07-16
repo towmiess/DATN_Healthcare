@@ -1,0 +1,42 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/remission",
+  "title": "Type 2 remission",
+  "category": "lifestyle",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:13:26.538743",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Type 2 remission",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 250,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Type 2 remission
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Type 2 diabetes remission
+Type 2 diabetes remission is when your blood sugar levels return to a safe, non-diabetes level long-term, without the need for glucose-lowering medication. It stops diabetes in its tracks and boosts your chances of a healthy future. When you are in remission, you reduce the risk of diabetes causing damage to you. People in remission say it's life changing, however we know that remission may not be possible for everyone. The information below can help anyone live well with diabetes, even if remission may not be possible for you.
+
+Our video above — What is type 2 diabetes remission? — is also available in Arabic, Gujarati, Punjabi, Sylheti or Urdu. Go to our YouTube playlist .
+
+What is type 2 diabetes remission? Can you reverse type 2 diabetes and how does remission work?
+
+How to go into type 2 remission Explore the different ways you can try going into remission safely.
+
+Support for type 2 remission Find out what remission support is available from us and the NHS.
+
+Remission and mental health Looking after your mind, as well as your body, when you're trying for remission, or in it.
+
+Reversing other types of diabetes Can you reverse type 1 diabetes, gestational diabetes or prediabetes?
+
+Find out more about type 2 diabetes Everything you need to know about type 2, from what causes it, to treatments and medicines.
+
+Off
+
+Next Review Date

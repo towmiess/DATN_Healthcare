@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Súp gà nấm kim châm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Súp gà nấm kim châm
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: gà, nấm kim châm, protein, GI thấp
+
+Mô tả: Súp gà nấm kim châm nhẹ nhàng, protein cao, hỗ trợ hồi phục sức khỏe.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.5
+Calo: 155 kcal
+Chất đạm (protein): 22.5 g
+Chất béo tổng: 4.2 g (bão hòa: 1.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.5 g (chất xơ: 3.0 g, đường: 1.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 65 mg | Natri: 365 mg
+Kali: 485 mg | Phốt pho: 195 mg | Magie: 38 mg
+Canxi: 38 mg | Sắt: 1.2 mg | Vitamin D: 0.5 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Protein cao tốt cho tái tạo tế bào thần kinh
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+150g ức gà
+100g nấm kim châm
+1/2 hành tây
+Gừng
+
+--- Cách chế biến ---
+1. Nấu gà lấy nước dùng
+2. Thái gà sợi
+3. Cho nấm kim châm vào nước dùng sôi
+4. Thêm gà vào nêm gia vị

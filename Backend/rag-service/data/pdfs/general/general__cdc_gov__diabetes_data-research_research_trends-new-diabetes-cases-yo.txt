@@ -1,0 +1,53 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/data-research/research/trends-new-diabetes-cases-young-people.html",
+  "title": "Trends in Diabetes Among Young People - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:54.096232",
+  "source_name": "cdc.gov",
+  "document_title": "Trends in Diabetes Among Young People - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 402,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Trends in Diabetes Among Young People - CDC
+
+May 15, 2024
+
+Trends in Diabetes Among Young People
+
+Key points
+
+New cases of diabetes in young people are increasing in the United States.
+
+While many studies report on new cases of type 1 diabetes in young people, few report on new cases of type 2 diabetes for this age group.
+
+What did this study examine?
+The study examined trends in new diabetes cases (type 1 and type 2) among people younger than 20 from 2002 to 2018. Characteristics reported were age, sex, race and ethnicity, and month of diabetes diagnosis. Before this study, time-of-year data for young people diagnosed with type 2 diabetes had never been reported.
+
+Study results
+From 2002 to 2018, new cases of diabetes in young people (for both type 1 and type 2) increased in the United States. Below are the results:
+More than 18,000 young people have type 1 diabetes, and more than 5,000 have type 2 diabetes.
+In 2002, the number of young people newly diagnosed with type 1 diabetes per year was 20 per 100,000. By 2018, that number increased to 22 new cases per 100,000 per year. That's about a 2% increase per year in new cases of type 1 diabetes.
+In 2002, the number of young people newly diagnosed with type 2 diabetes per year was 9 per 100,000. By 2018, that number doubled to 18 per 100,000 per year. That's about a 5% increase per year in new cases of type 2 diabetes.
+A diagnosis of type 1 diabetes usually happened around age 10 for females and age 12 for males. A diagnosis of type 2 diabetes usually happened around age 16 for both males and females.
+The annual increase in new cases of type 1 and type 2 diabetes was highest among young people who were:
+
+Asian/Pacific Islander
+
+Hispanic
+
+Non-Hispanic Black
+
+January was the peak month of diagnosis for young people diagnosed with type 1. August was the peak month of diagnosis for young people diagnosed with type 2.
+
+What's important about this study?
+Increases in new cases of diabetes in young people means more people will live with the condition longer. This can put young people at higher risk of developing diabetes-related complications by early adulthood.
+Asian/Pacific Islander, Hispanic, and Black young people also have a higher risk. These findings highlight the importance of focused diabetes prevention and management efforts for young people at increased risk.
+
+May 15, 2024

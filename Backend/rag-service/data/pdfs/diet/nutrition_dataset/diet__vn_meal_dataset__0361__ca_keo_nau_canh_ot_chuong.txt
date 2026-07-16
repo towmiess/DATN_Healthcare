@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá kèo nấu canh ớt chuông", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá kèo nấu canh ớt chuông
+Loại món: Cá/Hải sản | Ẩm thực: Vietnamese
+Từ khóa: cá kèo, ớt chuông, protein, nấu canh
+
+Mô tả: Cá kèo nấu canh ớt chuông là món nấu canh kết hợp cá kèo và ớt chuông, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 160 kcal
+Chất đạm (protein): 16.6 g
+Chất béo tổng: 10.8 g (bão hòa: 2.3 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.0 g (chất xơ: 4.5 g, đường: 1.9 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 429 mg
+Kali: 411 mg | Phốt pho: 150 mg | Magie: 28 mg
+Canxi: 162 mg | Sắt: 3.0 mg | Vitamin D: 0.0 mcg | Omega-3: 2.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Cá/Hải sản; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g cá kèo
+200g ớt chuông
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cá kèo và ớt chuông
+2. Nấu canh theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

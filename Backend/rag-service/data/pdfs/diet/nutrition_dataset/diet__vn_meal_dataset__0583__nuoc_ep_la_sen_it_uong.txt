@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Nước ép lá sen ít đường", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Nước ép lá sen ít đường
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: quế, đồ uống, không đường, ít calo
+
+Mô tả: Nước ép lá sen ít đường (biến thể 40) là món kho kết hợp đậu que và đậu que, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 56 kcal
+Chất đạm (protein): 0.9 g
+Chất béo tổng: 1.9 g (bão hòa: 0.7 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.9 g (chất xơ: 3.1 g, đường: 2.6 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 482 mg
+Kali: 294 mg | Phốt pho: 136 mg | Magie: 71 mg
+Canxi: 133 mg | Sắt: 3.5 mg | Vitamin D: 0.2 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Đồ uống; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200ml nước quế
+Không đường hoặc đường ăn kiêng
+Đá (tùy chọn)
+
+--- Cách chế biến ---
+1. Rửa sạch quế
+2. Xay hoặc hãm với nước
+3. Lọc lấy nước, không thêm đường
+4. Dùng lạnh hoặc ấm

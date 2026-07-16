@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Chay cà chua kho", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Chay cà chua kho
+Loại món: Chay/Đậu hũ | Ẩm thực: Vietnamese
+Từ khóa: đậu hũ, cà chua, chay, isoflavone
+
+Mô tả: Chay cà chua kho là món kho kết hợp ngao và cà chua, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 163 kcal
+Chất đạm (protein): 14.3 g
+Chất béo tổng: 7.8 g (bão hòa: 2.4 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 11.7 g (chất xơ: 4.8 g, đường: 1.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 233 mg
+Kali: 428 mg | Phốt pho: 211 mg | Magie: 22 mg
+Canxi: 75 mg | Sắt: 2.9 mg | Vitamin D: 0.0 mcg | Omega-3: 0.8 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Chay/Đậu hũ; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g đậu hũ
+200g cà chua
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Đậu hũ cắt miếng
+2. Sơ chế cà chua
+3. Kho kết hợp 2 nguyên liệu
+4. Nêm gia vị nhạt

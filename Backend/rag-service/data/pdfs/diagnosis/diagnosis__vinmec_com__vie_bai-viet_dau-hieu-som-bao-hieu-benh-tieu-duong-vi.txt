@@ -1,0 +1,49 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/dau-hieu-som-bao-hieu-benh-tieu-duong-vi",
+  "title": "Dấu hiệu sớm bệnh tiểu đường",
+  "category": "diagnosis",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:08:05.772280",
+  "source_name": "vinmec.com",
+  "document_title": "Dấu hiệu sớm bệnh tiểu đường",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1728,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Dấu hiệu sớm bệnh tiểu đường
+
+-->
+
+Sức khoẻ tổng hợp
+
+Dấu hiệu sớm báo hiệu bệnh tiểu đường
+
+Cố vấn chuyên môn
+
+Thạc sĩ,
+
+Vũ Thị Duyên
+
+☰
+Mục lục
+
+Bài viết được tư vấn chuyên môn bởi ThS.BS Vũ Thị Duyên - Bác sĩ Thận - Nội tiết - Khoa Khám bệnh & Nội khoa - Bệnh viện Đa khoa Quốc tế Vinmec Hải Phòng .
+
+Bệnh tiểu đường (hay còn gọi là đái tháo đường) đang có xu hướng trẻ hóa và có những diễn biến khó lường. Khi cảm thấy buồn nôn, khát nước, chân tay tê bì, vết thương lâu lành,... người trẻ cần chủ động đến ngay cơ sở ý tế để kiểm tra, vì đó có thể là những dấu hiệu của bệnh tiểu đường.
+1. Bệnh tiểu đường là gì?
+Bệnh đái tháo đường (hay còn gọi là bệnh tiểu đường ) là một tình trạng bệnh lý rối loạn chuyển hóa không đồng nhất, có đặc điểm tăng lượng đường huyết trong cơ thể. Nguyên nhân thường là do nồng độ insulin trong cơ thể không ổn định ( có thể thiếu thậm chí thừa). Nếu bị đái tháo đường mà bạn kiểm soát được lượng đường trong máu và thường xuyên theo dõi tốt thì chắc chắn lượng đường nằm trong mức an toàn gần như người bình thường. Dựa vào đặc điểm và diễn biến của bệnh chia ra có các loại đái tháo đường: Đái tháo đường typ1, đái tháo đường typ2, đái tháo đường thứ phát và đái tháo đường thai kỳ.
+2. Dấu hiệu cảnh báo bệnh tiểu đường
+Hầu hết các triệu chứng ban đầu của bệnh đái tháo đường là mức glucose trong máu cao hơn bình thường. Các dấu hiệu cảnh báo bệnh tiểu đường có thể từ rất nhẹ thậm chí không có triệu chứng gì. Một số người không phát hiện ra họ bị bệnh nặng hoặc có nhiều biến chứng thì mới phát hiện ra. 2.1. Triệu chứng của đái tháo đường typ1 Bệnh diễn biến rất nhanh các triệu chứng thường xảy ra nhanh chóng trong vài ngày hoặc vài tuần. Thường hay có hội chứng 4 nhiều điển hình. Đói và mệt: Cơ thể bạn chuyển đổi thức ăn bạn ăn thành glucose mà tế bào của bạn sử dụng để lấy năng lượng. Nhưng các tế bào của bạn cần insulin để hấp thụ glucose. Nếu cơ thể bạn không tạo ra đủ hoặc bất kỳ loại insulin nào, hoặc nếu các tế bào của bạn kháng lại insulin mà cơ thể bạn tạo ra, glucose không thể xâm nhập vào chúng và bạn không có năng lượng. Điều này có thể khiến bạn đói và mệt mỏi hơn bình thường. Đi tiểu thường xuyên hơn và khát hơn: Một người bình thường thường phải đi tiểu từ bốn đến bảy lần trong 24 giờ, nhưng những người mắc bệnh đái tháo đường do đường máu cao có thể đi nhiều hơn bình thường rất nhiều lần. Tại sao lại nhưu vậy ? Bình thường cơ thể bạn tái hấp thu glucose khi nó đi qua thận của bạn. Nhưng khi bệnh tiểu đường đẩy lượng đường trong máu của bạn lên cao, thận của bạn có thể không thể đưa tất cả trở lại. Điều này khiến cơ thể tạo ra nhiều nước tiểu và phải mất nước. Kết quả: Bạn sẽ phải đi thường xuyên hơn. Bạn cũng có thể đi ra ngoài nhiều hơn. Bởi vì bạn đi tiểu rất nhiều, bạn có thể rất khát. Khi bạn uống nhiều hơn, bạn cũng sẽ đi tiểu nhiều hơn. Khô miệng, khát nước nhiều và ngứa da: Bởi vì cơ thể bạn đang sử dụng chất lỏng để đi tiểu, nên độ ẩm cho những thứ khác sẽ ít hơn. Bạn có thể bị mất nước, và miệng của bạn có thể cảm thấy khô. Da khô có thể làm bạn ngứa. Sút cân nhiều: Mặc dù bệnh nhân ăn nhiều nhưng sút cân rất nhiều.
+
+Thị lực giảm: Thay đổi mức chất lỏng trong cơ thể bạn có thể làm cho tròng kính trong mắt bạn sưng lên khiến mắt mờ và thị lực giảm. 2.1 Triệu chứng của bệnh đái tháo đường typ2 Ở tiểu đường loại 2 bệnh nhân diễn biến rất âm thầm thậm chí không có triệu chứng gì, không có các triệu chứng rầm rộ như đái tháo đường typ1 . Bạn có thể được chẩn đoán mắc bệnh tiểu đường vì bạn đi khám bác sĩ vì bệnh khác vô tình xét nghiệm glucose máu hoặc phát hiện bệnh vì có các biến chứng khác như vết thương nhiễm trùng khó liền. Nhìn chung người bệnh có thể không bao giờ cảm nhận được các dấu hiệu cảnh báo rõ ràng. Bệnh đái tháo đường có thể phát triển trong nhiều năm và các dấu hiệu cảnh báo có thể rất khó chẩn đoán. Một số dấu hiệu như: Nhiễm trùng nấm men: Cả đàn ông và phụ nữ mắc bệnh tiểu đường đều có thể mắc phải những thứ này. Nấm men ăn glucose, vì vậy có nhiều xung quanh làm cho nó phát triển mạnh. Nhiễm trùng có thể phát triển ở bất kỳ nếp gấp ấm và ẩm của da, bao gồm: giữa ngón tay và ngón chân, dưới ngực, trong hoặc xung quanh cơ quan sinh dục Vết loét hoặc vết cắt chậm lành: Theo thời gian, lượng đường trong máu cao có thể ảnh hưởng đến lưu lượng máu của bạn và gây tổn thương thần kinh khiến cơ thể bạn khó chữa lành vết thương.Đau hoặc tê ở chân hoặc chân của bạn. Đây là một kết quả khác của tổn thương thần kinh. 2.3. Triệu chứng của bệnh tiểu đường thai kỳ Lượng đường trong máu cao khi mang thai thường không có triệu chứng. Bạn có thể cảm thấy hơi khát hơn bình thường hoặc phải đi tiểu thường xuyên hơn. Thường phát hiện chủ yếu khi làm nghiệm pháp 3 mẫu glucose lúc thai 28 tuần.
+
+3. Đối tượng có nguy cơ mắc bệnh tiểu đường? Cách điều trị
+Bệnh đái tháo đường có thể xảy ra bất cứ ở đối tượng nào và đối với cả bệnh tiểu đường typ1 và typ2. Bạn có thể gặp một hoặc nhiều dấu hiệu báo hiệu liên quan đến bệnh tiểu đường. Nếu bạn nghi ngờ, hãy đến các cơ sở y tế, bệnh viện để được bác sĩ chẩn đoán và điều trị. Nếu bạn nghi ngờ mình có thể bị bệnh đái tháo đường cần phải đi khám ngay. Trong quá trình thăm khám, bác sĩ sẽ yêu cầu bạn nói về các triệu chứng bạn gặp phải, gia đình bạn đã có ai mắc bệnh tiểu đường, các loại thuốc đã uống và các dị ứng bạn gặp phải. Dựa trên những thông tin bạn cung cấp, bác sĩ sẽ quyết định làm cho bạn một số xét nghiệm. Có một số xét nghiệm để chẩn đoán bệnh tiểu đường: HbA1C : Xét nghiệm này cho thấy mức đường huyết liên tục của bạn trung bình trong 2 hoặc 3 tháng qua. Xét nghiệm này không yêu cầu bạn phải nhịn ăn hay uống bất cứ thứ gì. Đường huyết lúc đói (FPG): Bạn sẽ cần nhịn ăn ít nhất 8 giờ trước khi thử nghiệm này. Dung nạp glucose đường uống (OGTT): Thử nghiệm này mất từ ​​2 đến 3 giờ. Mức đường huyết của bạn được kiểm tra ban đầu và sau đó lặp đi lặp lại trong khoảng thời gian 2 giờ sau khi uống một loại đồ uống ngọt cụ thể. Xét nghiệm glucose huyết tương ngẫu nhiên: Bạn có thể làm xét nghiệm này bất cứ lúc nào và không cần phải nhịn ăn. Để hiểu rõ hơn về tình trạng cũng như cách chữa trị bệnh, bạn cũng nên đặt những câu hỏi để hỏi bác sĩ về các dấu hiệu cảnh báo của bạn hoặc tình trạng của chính nó. 3.1 Điều trị bệnh đái tháo đường Bệnh đái tháo đường có thể được điều trị bằng nhiều phương pháp. Điều chỉnh chế độ ăn uống, hoạt động thể chất và theo dõi tình trạng bệnh thường xuyên là rất quan trọng nếu bạn bị tiểu đường, bất kể bạn mắc bệnh tiểu đường loại nào. Nếu bạn bị đái tháo đường typ1 bạn sẽ điều trị bắt buộc dùng insulin trong suốt quãng đời còn lại, vì do cơ thể của bạn không tự sản xuất insulin.Nếu bạn bị đái tháo đường typ2, nếu có thể kiểm soát tình trạng của bạn bằng thay đổi lối sống, chẳng hạn như chế độ ăn uống và tập thể dục. Bạn cũng có thể cần dùng thuốc uống hoặc thuốc tiêm, bao gồm insulin hoặc metformin, để kiểm soát lượng đường trong máu. Khi bạn bị đái tháo đường bạn sẽ cần theo dõi nghiêm túc chế độ ăn uống của mình để ngăn chặn lượng đường trong máu tăng quá cao. Điều này thường có nghĩa là theo dõi lượng carbohydrate cũng như hạn chế thực phẩm chế biến sẵn, ít chất xơ. Bác sĩ sẽ đưa cho bạn một phác đồ điều trị để giúp bạn kiểm soát lượng đường trong máu. Có một lời khuyên vô cùng quan trọng rằng nếu bạn nghi ngờ bạn có những triệu chứng của bệnh tiểu đường thì đừng ngần ngại hãy đến gặp bác sĩ. Khi bệnh được điều trị sớm thì việc kiểm soát bệnh sẽ hiệu quả hơn, đây cũng là chìa khóa để kiểm soát các triệu chứng và ngăn ngừa các vấn đề sức khỏe nghiêm trọng hơn.
+
+Nếu bạn bị đái tháo đường typ1 bạn sẽ cần phải kiểm soát lượng glucose bằng cách kết hợp insulin với chế độ ăn uống và hoạt động. Nếu bạn bị đái tháo đường typ2, bạn có thể kiểm soát lượng đường trong máu bằng chế độ ăn uống và hoạt động một mình, hoặc thêm thuốc khi cần thiết. Bệnh đái tháo đường là một bệnh tiến triển có thể cần đánh giá lại và thay đổi kế hoạch điều trị theo thời gian.
+3.2 Các cách phòng ngừa bệnh đái tháo đường

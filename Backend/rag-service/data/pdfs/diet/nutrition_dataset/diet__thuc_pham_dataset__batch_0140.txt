@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 140-160)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Lá xương sông, tươi: 28 kcal/100g | đạm 2.2g | béo 0g | carb 4.7g
+- Lạp xường, lạp sườn: 585 kcal/100g | đạm 20.8g | béo 55g | carb 1.7g
+- Lê, tươi: 48 kcal/100g | đạm 0.7g | béo 0.2g | carb 10.8g
+- Lòng đỏ trứng gà: 327 kcal/100g | đạm 13.6g | béo 29.8g | carb 1g
+- Lòng đỏ trứng vịt: 364 kcal/100g | đạm 13.6g | béo 32.3g | carb 4.8g
+- Lòng gà (cả bộ), tươi: 119 kcal/100g | đạm 17.8g | béo 4.4g | carb 1.7g
+- Lòng lợn (ruột già), tươi: 167 kcal/100g | đạm 6.9g | béo 15.1g | carb 0.8g
+- Lòng lợn (ruột non), luộc: 55 kcal/100g | đạm 9g | béo 1.6g | carb 1g
+- Lòng lợn (ruột non), tươi: 44 kcal/100g | đạm 7.2g | béo 1.3g | carb 0.8g
+- Lòng trắng trứng gà: 46 kcal/100g | đạm 10.3g | béo 0.1g | carb 1g
+- Lòng trắng trứng vịt: 47 kcal/100g | đạm 10.7g | béo 0.1g | carb 0.8g
+- Lưỡi bò, luộc: 234 kcal/100g | đạm 19.4g | béo 17.2g | carb 0.2g
+- Lưỡi bò, tươi: 164 kcal/100g | đạm 13.6g | béo 12.1g | carb 0.2g
+- Lưỡi lợn, luộc: 254 kcal/100g | đạm 20.2g | béo 18.2g | carb 2g
+- Lưỡi lợn, tươi: 178 kcal/100g | đạm 14.2g | béo 12.8g | carb 1.4g
+- Lươn, tươi: 130 kcal/100g | đạm 18.4g | béo 1.5g | carb 10.7g
+- Lựu, tươi: 79 kcal/100g | đạm 0.6g | béo 0.1g | carb 18.8g
+- Mắc coọc, tươi: 24 kcal/100g | đạm 0.2g | béo 0g | carb 5.7g
+- Mận tím, tươi: 23 kcal/100g | đạm 0.6g | béo 0.2g | carb 4.6g
+- Mãng cầu xiêm, tươi: 58 kcal/100g | đạm 1.8g | béo 0g | carb 12.6g

@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá rô hấp", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá rô hấp
+Loại món: Hấp/Luộc, Cá | Ẩm thực: Vietnamese
+Từ khóa: cá rô, protein, omega-3, canxi
+
+Mô tả: Cá rô đồng giàu protein và canxi, hấp giữ omega-3 nguyên vẹn.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.2
+Calo: 158 kcal
+Chất đạm (protein): 22.5 g
+Chất béo tổng: 6.5 g (bão hòa: 1.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 0.5 g (chất xơ: 0.0 g, đường: 0.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 68 mg | Natri: 268 mg
+Kali: 478 mg | Phốt pho: 208 mg | Magie: 38 mg
+Canxi: 88 mg | Sắt: 1.8 mg | Vitamin D: 2.2 mcg | Omega-3: 0.8 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Canxi cao từ cá rô tốt xương bệnh nhân TĐ lâu năm
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+400g cá rô
+30g gừng
+Hành lá
+
+--- Cách chế biến ---
+1. Cá làm sạch
+2. Nhồi gừng hành
+3. Hấp 20 phút
+4. Chấm mắm gừng

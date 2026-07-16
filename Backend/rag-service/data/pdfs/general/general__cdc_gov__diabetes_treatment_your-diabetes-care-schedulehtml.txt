@@ -1,0 +1,80 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/treatment/your-diabetes-care-schedule.html",
+  "title": "Your Diabetes Care Schedule - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:27.601696",
+  "source_name": "cdc.gov",
+  "document_title": "Your Diabetes Care Schedule - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 480,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Your Diabetes Care Schedule - CDC
+
+May 15, 2024
+
+Español
+
+Your Diabetes Care Schedule
+
+Key points
+
+Use this list to stay on schedule with self-checks, exams, and appointments throughout the year.
+
+Got questions? Ask your doctor about a referral for diabetes self-management education and support (DSMES) services.
+
+Every day
+Blood sugar checks. Check up to several times a day as directed by your doctor. Keep a record of your numbers and share with your health care team during your next visit.
+Foot check . Use a mirror if you can't see the bottom of your feet or ask a family member for help. Let your doctor know immediately if you have any:
+
+Cuts, sores, or blisters
+
+Redness or swelling
+
+Corns or calluses
+
+Other change to the skin or nails
+
+Diabetes medicines. Take the amount prescribed by your doctor, even when you feel good.
+Physical activity . On most days, get 30 minutes of moderate activity, such as brisk walking or riding a bike. Aim for at least 150 minutes a week.
+Healthy eating . Eat healthy foods that give you the nutrition you need and help your blood sugar stay in your target range.
+
+Every 3 months
+A1C test . If your treatment has changed or you're having trouble meeting your blood sugar goals, have this test every 3 months.
+Doctor visit. If you're having trouble meeting your treatment goals, visit your doctor every 3 months. Your blood pressure and weight will be checked, and your self-care plan and medicines will be reviewed. Ask your doctor to check your feet if you've ever had diabetes-related foot problems.
+
+Every 6 months
+A1C test . If you're meeting your treatment and blood sugar goals, have this test every 6 months.
+Doctor visit. If you're meeting your treatment goals, visit your doctor every 6 months. Your blood pressure and weight will be checked, and your self-care plan and medicines will be reviewed. Ask your doctor to check your feet if you've ever had diabetes-related foot problems.
+
+Every year
+
+Flu shot
+
+Kidney tests
+
+Cholesterol test
+
+Dilated eye exam (more often if you have diabetes-related eye problems)
+
+Hearing check
+
+Complete foot check (more often if you have ever had diabetes-related foot problems)
+
+Dental exam (more often if your doctor recommends; let your dentist know you have diabetes)
+
+Just once
+Pneumonia shot. Get a pneumonia shot as an adult before you're 65. You'll need two more doses when you're 65 or older.
+Hepatitis B shot. Get a hepatitis B shot if you're 60 or younger and haven't had the shot before. Talk to your doctor about getting the shot if you're over 60.
+
+As needed
+Mental health check . Let your doctor know right away if you're feeling sad or hopeless so you can get help.
+New symptoms or health problems. If health problems are getting worse or if you notice new ones, call your doctor for an evaluation.
+
+May 14, 2024

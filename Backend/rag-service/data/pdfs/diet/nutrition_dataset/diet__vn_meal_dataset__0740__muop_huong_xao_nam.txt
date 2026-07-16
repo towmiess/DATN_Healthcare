@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Mướp hương xào nấm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Mướp hương xào nấm
+Loại món: Rau củ | Ẩm thực: Vietnamese
+Từ khóa: mướp hương, nấm, beta-glucan, ít calo
+
+Mô tả: Mướp hương kết hợp nấm tạo combo chất xơ và beta-glucan ổn định đường huyết.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.8
+Calo: 68 kcal
+Chất đạm (protein): 3.5 g
+Chất béo tổng: 2.5 g (bão hòa: 0.4 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.5 g (chất xơ: 3.5 g, đường: 3.0 g, đường bổ sung: 0.4 g)
+Cholesterol: 0 mg | Natri: 165 mg
+Kali: 345 mg | Phốt pho: 58 mg | Magie: 22 mg
+Canxi: 28 mg | Sắt: 0.8 mg | Vitamin D: 0.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Beta-glucan nấm + chất xơ mướp ổn định đường huyết
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g mướp hương
+100g nấm rơm
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Mướp cắt khúc, nấm rửa sạch
+2. Phi tỏi xào nấm 3 phút
+3. Thêm mướp xào 5 phút

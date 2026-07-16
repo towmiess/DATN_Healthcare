@@ -1,0 +1,97 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/hcp/clinical-guidance/promote-medication-management.html",
+  "title": "Promoting Medication Management",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:32.608733",
+  "source_name": "cdc.gov",
+  "document_title": "Promoting Medication Management",
+  "extraction_method": "<main>",
+  "word_count": 840,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Promoting Medication Management
+
+May 15, 2024
+
+Promoting Medication Management
+
+Key points
+
+Diabetes patients can be at high risk for medication-related problems.
+Pharmacists can help patients manage their medications.
+Collaboration between physicians and pharmacists on medication management can improve diabetes outcomes.
+
+Pharmacists in diabetes care
+Pharmacists work directly with physicians to identify, prevent, and resolve medication-related problems. This partnership is called collaborative drug therapy management (CDTM).
+Pharmacists can advise patients about diabetes self-management, help them take their medicines as prescribed, and provide recommended vaccines. They can play a key role in referring patients to DSMES services too. Pharmacists also offer resources to help patients get medicines and medical supplies safely and affordably.
+
+Key messages to share with your patients
+Encourage patients to ask their pharmacist about ways to keep track of their medicines.
+Let patients know:
+
+Pharmacists have information on lower-cost options for medicines and medical supplies.
+Pharmacists work with health care teams to adjust medicines and improve drug treatment plans.
+
+Take these 5 actions to help your patients
+1. Know the risks of medication problems for diabetes patients.
+People with diabetes can be at high risk for medication-related problems due to their complex treatment plans. Diabetes patients often have multiple medical conditions, health care providers, and medicines from different sources. Improper dosing or medication use can cause serious illness, long-term disability, or even death.
+When patients don’t take their medicines as prescribed—or when their medicines no longer meet their needs—they may struggle to meet their health goals. Only 18% of people with diabetes reach recommended blood sugar, blood pressure, and cholesterol goals. 1
+Statistics
+
+Studies show that 20% to 30% of all medication prescriptions are never filled. 2
+About 50% of chronic disease medications are not taken as prescribed (at the correct time or dose relative to eating). 2
+Only about 50% of people with diabetes reach their blood glucose goals as measured by hemoglobin A1C testing. 1
+Among people with diabetes, only 51% with high blood pressure and 56% with high cholesterol meet their target goals. 1
+
+2. Use CDTM in treatment plans for diabetes patients.
+CDTM is associated with improved blood sugar control in people with diabetes. 3
+Pharmacists can help lead CDTM by:
+
+Conducting comprehensive reviews of medicines and medical records.
+Educating patients on how to safely use their medicines and blood glucose meter.
+Assessing patients' responses to therapy to ensure timely interventions.
+Coordinating with the patient's diabetes care team to promote continuity of care.
+Asking patients about their use of nonprescription medicines; vitamin, herbal, or nutritional supplements; and topical or skin care products.
+Encouraging patients to keep a list of medicines they are currently using.
+
+3. Ask your patients about their medications at each visit.
+For example:
+
+Did you bring a list of all your medicines and their exact doses, including over-the-counter medicines, vitamins, and supplements?
+Do you update and review your list of medicines with your pharmacist when there is a change?
+Do you know why you take each medicine?
+Do you know how your medicines affect your diabetes?
+Have you reported any side effects from your medications to your pharmacist?
+Do you let your pharmacist know if you have a problem with missing doses of your medications?
+
+4. Help your patients see the connection between diabetes management and medication management.
+Use the following pointers to support healthy diabetes management for your patients:
+
+Promote the ABCs of diabetes (A1C, blood pressure, cholesterol, and smoking cessation) and a healthy lifestyle.
+Connect patients to health coaches, patient navigators, nutritionists, community health workers, and local community resources, when possible.
+Encourage patients to ask their pharmacist about ways to manage their medications.
+Follow up with patients regularly to track how well they are managing their diabetes and connecting with their health care team.
+Consider socioeconomic factors (food and housing security, social support) that may affect patients' diabetes management.
+
+5. Refer your patients to diabetes self-management education and support (DSMES) services.
+DSMES services help people live well with diabetes at any stage of their journey. Participants work with diabetes care and education specialists to learn practical skills in diabetes self-care. Skills include improving their blood sugar, eating well, being active, and solving problems to manage their diabetes.
+
+DSMES services
+Learn more about DSMES and encourage your patients to find a DSMES program that is recognized by the American Diabetes Association or accredited by the Association of Diabetes Care & Education Specialists.
+
+Resources
+
+Insulin, Medicines, & Other Diabetes Treatments
+
+May 14, 2024
+
+Syndicate
+
+References Stark Casagrande S, Fradkin JE, Saydah SH, Rust KF, Cowie CC. The prevalence of meeting A1C, blood pressure, and LDL goals among people with diabetes, 1988–2010. Diabetes Care . 2013;36(8):2271–2279. doi:10.2337/dc12-2258
+Viswanathan M, Golin CE, Jones CD, et al. Interventions to improve adherence to self-administered medications for chronic diseases in the United States: a systematic review. Ann Intern Med . 2012;157(11):785–795. doi:10.7326/0003-4819-157-11-201212040-00538
+McAdam-Marx C, Dahal A, Jennings B, Singhal M, Gunning K. The effect of a diabetes collaborative care management program on clinical and economic outcomes in patients with type 2 diabetes. J Manag Care Spec Pharm . 2015;21(6):452–468. doi:10.18553/jmcp.2015.21.6.452

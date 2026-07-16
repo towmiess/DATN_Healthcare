@@ -1,0 +1,48 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/articles/managing-insulin-in-emergency.html",
+  "title": "Managing Insulin in an Emergency - CDC",
+  "category": "emergency",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:05:20.072770",
+  "source_name": "cdc.gov",
+  "document_title": "Managing Insulin in an Emergency - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 371,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Managing Insulin in an Emergency - CDC
+
+May 15, 2024
+
+Español
+
+Managing Insulin in an Emergency
+
+Key points
+
+It's important for all people to be prepared for natural disasters and other emergencies. This is especially true for people with diabetes.
+
+Find out how to store and use insulin in an emergency.
+
+Using insulin
+In a power outage when refrigerated insulin isn't available:
+Try to keep your insulin cool, but make sure not to freeze it. Insulin that has been frozen can break down and will be less effective.
+Keep your insulin away from direct heat and out of direct sunlight. Heat and sunlight will also make it less effective.
+Realistically, you may have to use insulin that's been stored above 86&deg;F. If so, monitor your blood sugar regularly. If you're staying in an emergency shelter, let someone in charge know if your blood sugar is too high or low. Contact your doctor as soon as the emergency is over.
+
+Emergency diabetes assistance
+Health care providers who need diabetes supplies : Call 1-314-INSULIN (314-467-8546) Mon-Fri, 9:00 am to 6:00 pm ET. People in areas affected by storms : Call 1-800-DIABETES (800-342-2382) Mon-Fri, 9:00 am to 7:00 pm ET.
+
+Switching insulin
+In an emergency, your usual insulin may not be available and you may need to use a different insulin brand or type. You should work with your doctor if you need to switch insulin brands or types. If that's not possible during an emergency, follow this emergency guidance from the US Food & Drug Administration (FDA). Be sure to monitor your blood sugar closely and get medical attention as soon as possible.
+If you use an insulin pump, you may be able to substitute another insulin for your usual insulin. See FDA's emergency guidance . Check the instructions for your pump to see which insulin types will work. The guidance explains which insulin you can use if you need to switch to injectable insulin instead of your pump's usual insulin.
+
+Getting back to normal
+When you get back to your routine, throw away insulin that was stored at room temperature, very high, or low temperatures. Plan to visit your doctor if you have questions about managing your diabetes going forward or have any other health concerns.
+
+May 15, 2024

@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Cải bó xôi luộc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cải bó xôi luộc
+Loại món: Hấp/Luộc, Rau | Ẩm thực: Vietnamese
+Từ khóa: cải bó xôi, spinach, magie, sắt, folate
+
+Mô tả: Cải bó xôi luộc nhẹ giữ magie và sắt, giảm oxalate hơn ăn sống.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.5
+Calo: 28 kcal
+Chất đạm (protein): 3.5 g
+Chất béo tổng: 0.5 g (bão hòa: 0.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 2.5 g (chất xơ: 2.5 g, đường: 0.3 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 52 mg
+Kali: 468 mg | Phốt pho: 52 mg | Magie: 58 mg
+Canxi: 122 mg | Sắt: 2.5 mg | Vitamin D: 0.2 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Luộc qua giảm oxalate - tốt hơn ăn sống cho sỏi thận
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Sỏi thận oxalat thận trọng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+300g cải bó xôi
+2 tép tỏi phi
+
+--- Cách chế biến ---
+1. Luộc cải bó xôi 1 phút
+2. Vớt ra ngay
+3. Rưới tỏi phi nhẹ

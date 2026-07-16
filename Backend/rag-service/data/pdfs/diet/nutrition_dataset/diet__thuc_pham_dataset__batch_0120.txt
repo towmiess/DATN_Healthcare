@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 120-140)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Gân chân bò, tươi: 124 kcal/100g | đạm 30.2g | béo 0.3g | carb 0g
+- Gan gà, luộc: 155 kcal/100g | đạm 25.2g | béo 4.7g | carb 2.7g
+- Gan gà, tươi: 111 kcal/100g | đạm 18.2g | béo 3.4g | carb 2g
+- Gan lợn, luộc: 150 kcal/100g | đạm 24.4g | béo 4.6g | carb 2.6g
+- Gan lợn, tươi: 116 kcal/100g | đạm 18.8g | béo 3.6g | carb 2g
+- Gan vịt, luộc: 156 kcal/100g | đạm 21.9g | béo 6.0g | carb 3.5g
+- Gan vịt, tươi: 122 kcal/100g | đạm 17.1g | béo 4.7g | carb 2.8g
+- Giò bò, chín: 335 kcal/100g | đạm 18.2g | béo 29g | carb 0g
+- Giò lụa, chín: 205 kcal/100g | đạm 16.9g | béo 15g | carb 1.8g
+- Giò thủ lợn, chín: 553 kcal/100g | đạm 16g | béo 54.3g | carb 0g
+- Gioi, tươi: 27 kcal/100g | đạm 0.4g | béo 0g | carb 6.4g
+- Hải sâm, tươi: 90 kcal/100g | đạm 21.5g | béo 0.3g | carb 0.2g
+- Hành củ, muối: 24 kcal/100g | đạm 1.4g | béo 0g | carb 4.7g
+- Hành khô: 326 kcal/100g | đạm 15.6g | béo 0g | carb 66g
+- Hến, tươi: 45 kcal/100g | đạm 4.5g | béo 0.7g | carb 5.1g
+- Hồng bì, tươi: 44 kcal/100g | đạm 1.4g | béo 0g | carb 9.6g
+- Hồng đỏ, tươi: 38 kcal/100g | đạm 0.7g | béo 0.1g | carb 8.6g
+- Hồng ngâm, tươi: 48 kcal/100g | đạm 0.9g | béo 0g | carb 11.1g
+- Hồng xiêm, tươi: 58 kcal/100g | đạm 0.5g | béo 0.7g | carb 12.5g
+- Kiệu, muối: 29 kcal/100g | đạm 1.3g | béo 0g | carb 5.9g

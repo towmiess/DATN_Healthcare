@@ -1,0 +1,143 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org/healthy-living/mental-health",
+  "title": "Mental Health - ADA",
+  "category": "lifestyle",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:13:19.119302",
+  "source_name": "diabetes.org",
+  "document_title": "Mental Health - ADA",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 1024,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Mental Health - ADA
+
+Health & Wellness
+
+Mental Health
+
+Understanding diabetes and mental health.
+
+Diabetes takes a toll on more than your body. It’s normal to feel emotional strain—and it’s important to ask for help.
+
+Image
+
+With diabetes, you have a lot on your mind. Tracking your blood glucose (blood sugar) levels, dosing insulin, planning your meals, staying active—it’s a lot to think about. It can leave you feeling run down, emotionally drained and completely overwhelmed. It’s called diabetes burnout. And that's why it’s important to stay in touch with your emotions as you manage your diabetes. What are you feeling? Stressed out? Angry? Sad? Scared? Take time to take inventory of your emotions and reach out to those around you to talk honestly and openly about how you feel. Better yet, find a mental health care provider to guide you through the emotional terrain around your disease and discover ways to lighten your mental load . With diabetes, feeling physically good is half the battle. Feeling mentally good is the other half.
+
+Find a behavioral health provider.
+
+Behavioral health care is an integral part of diabetes management, and the American Diabetes Association offers support and tools to help you tackle the day-to-day challenges. The ADA Behavioral Health Provider Referral Directory can help you locate behavioral health professionals in your area that have expertise in diabetes care.
+
+Find a Provider
+
+It’s natural to feel angry It can start with your diagnosis. It can go from “why me?” to pure rage at your disease. Anger is an important part of your journey toward accepting your life with diabetes. And while it can feel good and empowering, out-of-control anger can be harmful to you and those around you—and it can lead to depression and stress. The key to dealing with your anger starts with being able to identify what’s making you angry. Is it fear? Is it loss of control? Is it anger at yourself? As you find yourself getting angry, try to identify its root cause—and then work to transcend it. When you feel anger, there are a number of things you can do to short circuit it: Take a breath Take an even deeper breath Get a drink of water Sit down Lean back Shake your arms loose Work to silence yourself Take a walk
+
+Are you a behavioral health professional?
+
+Almost half of people living with diabetes in the United States experience behavioral health challenges. You can make a difference. Utilize our free resources and learn more about our educational programs on our professional page.
+
+Learn More
+
+Beware of denial As with pretty much every emotion you feel when you’re diagnosed with diabetes, denial is natural. Everyone feels that sense of, “not me,” or “I don’t believe it,” or "there must be some mistake.” But at some point, you have to accept your diagnosis and take action. By continuing to deny it, you run the risk of not taking action to fight the disease and keep yourself healthy. An important part of steering out of denial is recognizing how it sounds in your head—and how it makes you avoid critical care. If you catch yourself saying or thinking any of the following phrases, you may be in denial: “One bite won’t hurt.” “This sore will heal itself.” “I’ll go to the doctor later.” “I don’t have time to do it.” “My diabetes isn’t serious.” Everyone goes into denial from time to time—but there are things you can do to make sure you don’t stay there. Work with your diabetes care team to make a plan and set your goals. Ask your diabetes educator for help and be accountable to them. And tell your family and friends how they can help you stick to your treatment plan.
+
+Image
+
+Depression can sneak up on anybody Sometimes, there’s a sadness or an emotional flatness that just won’t go away. Sometimes, you just feel hopeless—and have no idea what comes next. However it shows up, depression can be hard to detect and can wreak havoc with your self care. Spotting depression is important—and it’s important to check for these symptoms: Loss of interest or pleasure Change in sleep patterns Waking up earlier than normal Change in appetite Trouble concentrating Loss of energy Nervousness Guilt Morning sadness Suicidal thought Withdrawal from friends and activities Declining school and work performance If you feel like you might be depressed, talk with your doctor. See if it makes sense to talk to a psychotherapist or counselor and then work to overcome it. It takes time for depression to lift, but once you have the proper emotional tools in place, you can learn to recognize the symptoms and act fast. More on depression
+
+We’re here to help.
+
+Image
+
+Community
+
+Discover the power of diabetes support.
+
+Image
+
+Fitness
+
+It’s a great time to get moving.
+
+Image
+
+Type 1 Diabetes Self-Care Manual
+
+If you have type 1 diabetes or you care for a loved one or friend who does, you face a lifetime of ever-changing challenges.
+
+Sign up today
+
+Image
+
+Get the Latest Resources for Healthy Living
+
+Stay connected and live a healthy life with diabetes.
+
+Sign up today
+
+Image
+
+For Caregivers
+
+Managing diabetes is an uphill climb.
+
+Image
+
+Community
+
+Discover the power of diabetes support.
+
+Image
+
+Fitness
+
+It’s a great time to get moving.
+
+Image
+
+Type 1 Diabetes Self-Care Manual
+
+If you have type 1 diabetes or you care for a loved one or friend who does, you face a lifetime of ever-changing challenges.
+
+Sign up today
+
+Image
+
+Get the Latest Resources for Healthy Living
+
+Stay connected and live a healthy life with diabetes.
+
+Sign up today
+
+Image
+
+For Caregivers
+
+Managing diabetes is an uphill climb.
+
+Image
+
+Community
+
+Discover the power of diabetes support.
+
+Image
+
+Fitness
+
+It’s a great time to get moving.
+
+Image
+
+Type 1 Diabetes Self-Care Manual
+
+If you have type 1 diabetes or you care for a loved one or friend who does, you face a lifetime of ever-changing challenges.
+
+Give Today and Change lives!
+With your support, the American Diabetes Association® can continue our lifesaving work to make breakthroughs in research and provide people with the resources they need to fight diabetes.
+
+x

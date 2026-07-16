@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá rô phi kho đậu que", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá rô phi kho đậu que
+Loại món: Cá/Hải sản | Ẩm thực: Vietnamese
+Từ khóa: cá rô phi, đậu que, protein, kho
+
+Mô tả: Cá rô phi kho đậu que là món kho kết hợp cá rô phi và đậu que, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 171 kcal
+Chất đạm (protein): 16.1 g
+Chất béo tổng: 3.6 g (bão hòa: 0.9 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 10.6 g (chất xơ: 2.5 g, đường: 2.7 g, đường bổ sung: 0.0 g)
+Cholesterol: 45 mg | Natri: 576 mg
+Kali: 282 mg | Phốt pho: 154 mg | Magie: 51 mg
+Canxi: 174 mg | Sắt: 1.3 mg | Vitamin D: 0.5 mcg | Omega-3: 0.8 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Cá/Hải sản; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g cá rô phi
+200g đậu que
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cá rô phi và đậu que
+2. Kho theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

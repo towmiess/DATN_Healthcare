@@ -1,0 +1,54 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/articles/healthy-family-kids.html",
+  "title": "Healthy on the Inside - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:07:21.840078",
+  "source_name": "cdc.gov",
+  "document_title": "Healthy on the Inside - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 685,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Healthy on the Inside - CDC
+
+May 15, 2024
+
+Healthy on the Inside
+
+Key points
+
+Type 2 diabetes is a growing problem for kids, teens, and young adults.
+
+Type 2 diabetes has a big impact on physical and mental health.
+
+Learn how to help your family prevent, delay, or manage type 2 diabetes, inside and out.
+
+A growing problem
+Type 2 diabetes in kids and teens is a serious and growing problem in the United States. Recent studies predict that rates of type 2 diabetes in kids and teens will increase over the next 40 years. Many people know that the risk of type 2 diabetes increases with older age. But not many know it can develop at any age. Childhood overweight and obesity are also on the rise, which increases the risk of type 2 diabetes.
+
+Type 2 diabetes, mental health, and stigma
+Beyond physical health problems, diabetes is also associated with depression , stress and anxiety, and stigma. Diabetes stigma is defined as having negative attitudes or judgments toward someone living with diabetes.
+Many people wrongly assume that when someone has type 2 diabetes, it's their fault. This stigma often leads people with diabetes to have low self-esteem, poorer mental health, and less motivation to live a healthy lifestyle. This can be extremely harmful, especially to young people, who are still developing and figuring out who they are.
+
+Help kids prevent or manage type 2 diabetes
+Being "healthy on the inside" is about being mentally healthy, so you and your family can achieve your physical health goals. It also means that being healthy isn't about how your body looks on the outside; it's about how it feels.
+As a parent, you can foster health on the inside. Help your family build positive attitudes about wellness and lifestyle changes to prevent or manage type 2 diabetes. There are creative steps you can take to set your family up for success. You can start by modeling healthy attitudes and behaviors so your kids can see how it's done.
+Create a healthy relationship with food.
+It's common to think about foods as "good" or "bad." This can make people feel guilt and worry over which foods they choose. Try focusing your family on food frequency instead. You can promote fruits and vegetables, lean proteins, and whole grains as "everyday" foods. Salty snacks, sweet treats, and fried foods are "once-in-a-while" foods.
+Food is neither a punishment nor a reward. It's OK to enjoy "once-in-a-while" treats without guilt.
+Make physical activity fun.
+If you think of physical activity as a chore, your family may observe you and start feeling the same way. Instead, find ways to make movement fun for your kids through quality family time and play. Being active, like playing games and sports, walking, or swimming, is a skill. Start early with your kids, so they get lots of practice and form positive memories of being active. This practice can help them build a lifetime habit that supports good health and helps prevent type 2 diabetes.
+Bridge the gap between mental and physical health.
+Self-esteem and a healthy attitude support healthy behaviors. How you talk about health and body weight to and around your kids matters, even if you think they're not listening. Teach your kids positive self-talk (speaking kindly to and about yourself). This can help set them up to prevent or manage life's challenges, like type 2 diabetes.
+
+For additional support
+Do you have prediabetes or diabetes? Get support that can also help you improve your family's health. The CDC-led National Diabetes Prevention Program's lifestyle change program teaches people with prediabetes how to make lasting healthy changes. This can help you prevent or delay type 2 diabetes. Although this program is designed for adults, the skills you learn can help both you and your kids.
+If you or your child is living with diabetes, ask your doctor for a referral to diabetes self-management education and support (DSMES) services . You or your child will get personalized support from a diabetes care and education specialist. You can bring home what you learn to enhance your family's health, too.
+
+May 14, 2024

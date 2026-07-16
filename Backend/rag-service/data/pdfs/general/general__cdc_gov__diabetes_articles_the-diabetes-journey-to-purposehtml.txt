@@ -1,0 +1,71 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/articles/the-diabetes-journey-to-purpose.html",
+  "title": "The Diabetes Journey to Purpose - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:07:19.471009",
+  "source_name": "cdc.gov",
+  "document_title": "The Diabetes Journey to Purpose - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 984,
+  "verified_by_doctor": false
+}
+===CONTENT===
+The Diabetes Journey to Purpose - CDC
+
+The Diabetes Journey to Purpose
+
+May 15, 2024
+
+Español
+
+Key points
+
+More than 40 million Americans are living with diabetes. Each person has their own unique journey and experience managing it. For some, diabetes even helped them find purpose in life supporting and helping others. Read the personal stories of real people living with diabetes.
+
+Ashley's story
+Diabetes denial
+
+Ashley James has been living with type 2 diabetes for 12 years. Although she's successfully managing her diabetes now, she admits that wasn't always the case.
+When Ashley was diagnosed, she was 31 years old and was in complete denial. "I just didn't want to accept it. My doctor would go over my treatment plan and I'd fill my prescriptions. But I refused to take my medicine."
+One day Ashley talked with a nephrologist (kidney doctor) colleague who gave her a wake-up call. He explained that unmanaged diabetes could result in serious complications like vision loss, heart disease, kidney disease, and more.
+"That was the turning point for me," Ashley says. She knew she had to make a change. She says it wasn't easy at first, but after making small changes, it got easier. She started eating better , being physically active , and taking her medicines as her doctor prescribed.
+Diabetes education
+"I'd heard about diabetes self-management education and support (DSMES) , but it wasn't offered in my area," she says. "Since this was before the days of telehealth, I'd have to drive an hour away just to get DSMES."
+Ashley realized if distance was a barrier for her, many others in her community could also be missing out. This inspired Ashley to become a diabetes care and education specialist to help people in her community.
+Ashley took her personal diabetes experience and knowledge as a diabetes care and education specialist to local churches. "Pastors are trusted people in our community. I wanted them to help clear up the stigma and misconceptions surrounding diabetes," she says.
+Now, she helps others learn from her story. Managing diabetes can come with challenges, but acceptance was her biggest challenge. "The sooner you accept your diagnosis, the sooner you can do something about it."
+
+Tiffany's story
+Early diagnosis
+
+Tiffany Witschen was 11 years old when she was diagnosed with type 1 diabetes . Tiffany's older brother had been diagnosed with type 1 diabetes a few years before. Tiffany's mom knew what type 1 diabetes symptoms looked like.
+Tiffany remembers going to the doctor and learning that her blood sugar levels were dangerously high. She immediately went to the local children's hospital, where she spent 4 days getting her blood sugar levels stabilized. During this time, Tiffany remembers watching videos on diabetes and the nurses using oranges to teach her how to inject insulin .
+Back at home, Tiffany learned the realities of being a kid with diabetes. Her days were filled with checking her blood sugar, counting carbs, taking insulin, and learning about healthy food choices. "I was also the only kid with diabetes at school," she says. "I felt different from the other kids."
+Summer camp and a purpose
+Tiffany's mom found a summer camp for kids with diabetes. This experience would shape Tiffany's future. "I remember going there and feeling like I wasn't the odd person out," she says. "Talking to other kids who have the same thing going on made diabetes tolerable for me."
+Tiffany returned to camp every summer and made lifelong friends. When she turned 18, she became a camp counselor and helped other kids learning to live with diabetes.
+Being a diabetes care and education specialist
+In college, Tiffany studied nursing and specialized in pediatric endocrinology (treating hormone problems like diabetes). Today, Tiffany is a diabetes care and education specialist and teaches people with diabetes skills to manage their condition.
+Tiffany knows all too well the physical and emotional challenges of living with diabetes. She feels that her own diabetes experiences help her patients relate to her. She's living through it right along with them.
+
+Barbara's story
+Delayed diagnosis
+
+Barbara Bachar's diabetes story began 32 years ago. She was working for a company that offered health screenings. Barbara's results showed that her blood sugar was in the diabetes range.
+She was advised to see a doctor. But she convinced herself that her results were due to her being a busy mom and neglecting herself. She didn't feel sick or have any symptoms, so she didn't worry about it.
+A few years passed before Barbara made that appointment. When her doctor told her she had type 2 diabetes, she wasn't completely surprised. Barbara didn't know much about diabetes then, or anyone who was living with it. At the time in the early 1990s, diabetes education programs weren't as widely available as they are today.
+DSMES
+With patience and trial and error, Barbara kept her A1C at the target her doctor set for her. Having a daily routine helped her plan and stay on track, but this changed when she retired. A friend recommended that she get a referral from her doctor for DSMES services.
+Barbara says the skills she learned with DSMES have been valuable. Her favorite part has been trying new foods. She now cooks vegetarian meals for her granddaughter, and appreciates how DSMES taught her how to eat healthy on a budget.
+Today, Barbara is a diabetes education volunteer at the same clinic where she received DSMES.
+Lessons learned
+One lesson Barbara learned along the way is to start out slowly. "Don't think you're going to change everything all at once," she says. "Make small changes in small increments."
+She also learned to allow herself to not be perfect. She says she doesn't judge her diabetes management as successes or failures, but rather as just results.
+Finally, she's learned that support is critical. Barbara's children are her support system, and her grandchildren are her purpose for staying healthy.
+
+May 15, 2024

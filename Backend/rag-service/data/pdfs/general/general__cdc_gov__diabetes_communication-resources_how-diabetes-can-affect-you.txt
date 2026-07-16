@@ -1,0 +1,76 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/communication-resources/how-diabetes-can-affect-your-body.html",
+  "title": "How Diabetes Can Affect Your Body - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:07:00.446473",
+  "source_name": "cdc.gov",
+  "document_title": "How Diabetes Can Affect Your Body - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 319,
+  "verified_by_doctor": false
+}
+===CONTENT===
+How Diabetes Can Affect Your Body - CDC
+
+May 15, 2024
+
+How Diabetes Can Affect Your Body Infographic
+
+At a glance
+
+Having high blood sugar from diabetes over time can cause serious health complications across different parts of your body. Keeping your blood sugar levels in your target range can help prevent or delay the conditions discussed below.
+
+Format: PDF Language: English (US) Size: 1 MB Length:
+
+View
+
+Download
+View Larger
+
+View larger
+
+How Diabetes Can Affect Your Body—Larger Version
+Infographic on how diabetes can affect different parts of the body
+Sept. 10, 2024
+Download
+Download
+
+Graphic text
+How diabetes can affect your body
+Having high blood sugar from diabetes over time can cause serious health complications.
+
+Heart — Damaging blood vessels and causing high blood pressure, a heart attack, or heart failure.
+
+Eyes — Damaging the small blood vessels at the back of the eyes, leading to vision loss.
+
+Feet — Reducing blood flow and damaging nerves, making a wound more likely to get infected and harder to heal, and increasing the risk of amputation.
+
+Ears — Affecting how nerve signals travel from the inner ear to the brain, causing hearing loss.
+
+Nerves — Causing numbness or pain that makes it hard to do daily activities.
+
+Mouth — Increasing harmful bacteria and causing cavities and gum disease.
+
+Blood Vessels — Damaging blood vessel walls and decreasing blood flow.
+
+Stomach — Damaging the nerves in the stomach and slowing or stopping digestion.
+
+Brain — Damaging blood vessels in the brain and causing a stroke or memory loss.
+
+Sexual Health — Damaging nerves and reducing blood supply, causing erectile dysfunction and vaginal dryness.
+
+Skin — Causing skin infections or changes such as dark patches on the skin.
+
+Kidneys — Reducing how well kidneys filter waste, leading to chronic kidney disease.
+
+The good news?
+Keeping your blood sugar levels in your target range can help prevent or delay all these conditions .
+Keep Reading:
+Diabetes Complications
+
+May 15, 2024

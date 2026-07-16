@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 280-300)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Rau sà lách, tươi: 18 kcal/100g | đạm 1.5g | béo 0.2g | carb 2.4g
+- Rau sam, tươi: 20 kcal/100g | đạm 1.4g | béo 0g | carb 3.7g
+- Rau sắng chùa hương, tươi: 62 kcal/100g | đạm 6.5g | béo 0g | carb 8.9g
+- Rau tàu bay, tươi: 24 kcal/100g | đạm 2.5g | béo 0g | carb 3.5g
+- Rau thơm, tươi: 30 kcal/100g | đạm 2g | béo 0g | carb 5.4g
+- Rong biển: 700 kcal/100g | đạm 20g | béo 60g | carb 20g
+- Ruốc cá quả: 312 kcal/100g | đạm 65.7g | béo 4.1g | carb 3g
+- Ruốc thịt lợn: 369 kcal/100g | đạm 46.6g | béo 20.3g | carb 0g
+- Ruốc tôm: 305 kcal/100g | đạm 65.5g | béo 3.1g | carb 3.7g
+- Rươi, tươi: 89 kcal/100g | đạm 12.4g | béo 4.4g | carb 0g
+- Sấu chín, tươi: 49 kcal/100g | đạm 1.3g | béo 0g | carb 10.9g
+- Sầu riêng, tươi: 138 kcal/100g | đạm 2.5g | béo 1.6g | carb 28.3g
+- Sò điệp, hấp: 69 kcal/100g | đạm 12.1g | béo 0.4g | carb 3.1g
+- Sò điệp, luộc: 69 kcal/100g | đạm 12.1g | béo 0.4g | carb 3.1g
+- Sò điệp, nướng: 69 kcal/100g | đạm 12.1g | béo 0.4g | carb 3.1g
+- Sò dương, hấp: 261 kcal/100g | đạm 48.2g | béo 1.9g | carb 12.7g
+- Sò dương, luộc: 261 kcal/100g | đạm 48.2g | béo 1.9g | carb 12.7g
+- Sò dương, nướng: 261 kcal/100g | đạm 48.2g | béo 1.9g | carb 12.7g
+- Sò huyết, luộc: 316 kcal/100g | đạm 54g | béo 2.8g | carb 18.8g
+- Sò lông, hấp: 316 kcal/100g | đạm 54g | béo 2.8g | carb 18.8g

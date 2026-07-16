@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Nghêu hấp lá chanh", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Nghêu hấp lá chanh
+Loại món: Cá/Hải sản | Ẩm thực: Vietnamese
+Từ khóa: nghêu, lá chanh, sắt, kẽm
+
+Mô tả: Nghêu giàu sắt và kẽm, hấp với lá chanh tạo hương thơm tự nhiên không cần nhiều gia vị.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.8
+Calo: 95 kcal
+Chất đạm (protein): 15.5 g
+Chất béo tổng: 1.8 g (bão hòa: 0.3 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 3.5 g (chất xơ: 0.0 g, đường: 0.5 g, đường bổ sung: 0.1 g)
+Cholesterol: 75 mg | Natri: 285 mg
+Kali: 365 mg | Phốt pho: 215 mg | Magie: 35 mg
+Canxi: 82 mg | Sắt: 6.5 mg | Vitamin D: 0.5 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Sắt và kẽm cao - tốt biến chứng thần kinh và nhạy cảm insulin
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Gút thận trọng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+300g nghêu
+Lá chanh
+Sả
+
+--- Cách chế biến ---
+1. Ngâm nghêu cho ra cát
+2. Xếp lá chanh sả
+3. Hấp 8 phút đến mở vỏ

@@ -1,0 +1,14 @@
+package com.javaweb.users_service.dto.request;
+
+import jakarta.validation.constraints.NotBlank;
+import lombok.Builder;
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+@Builder
+public class LogoutRequest {
+    @NotBlank(message = "Refresh token is required!")
+    private String refreshToken;
+}

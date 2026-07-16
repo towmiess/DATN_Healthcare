@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Nước ép gừng ít đường", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Nước ép gừng ít đường
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: cà rốt, đồ uống, không đường, ít calo
+
+Mô tả: Nước ép gừng ít đường (biến thể 43) là món nấu canh kết hợp nấm rơm và nấm rơm, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.4
+Calo: 62 kcal
+Chất đạm (protein): 2.0 g
+Chất béo tổng: 0.8 g (bão hòa: 0.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 15.4 g (chất xơ: 0.5 g, đường: 5.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 222 mg
+Kali: 227 mg | Phốt pho: 258 mg | Magie: 56 mg
+Canxi: 28 mg | Sắt: 0.5 mg | Vitamin D: 0.0 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Đồ uống; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200ml nước cà rốt
+Không đường hoặc đường ăn kiêng
+Đá (tùy chọn)
+
+--- Cách chế biến ---
+1. Rửa sạch cà rốt
+2. Xay hoặc hãm với nước
+3. Lọc lấy nước, không thêm đường
+4. Dùng lạnh hoặc ấm

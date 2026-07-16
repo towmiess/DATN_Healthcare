@@ -1,0 +1,75 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/about/insulin-resistance-type-2-diabetes.html",
+  "title": "About Insulin Resistance and Type 2 Diabetes",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:46.364510",
+  "source_name": "cdc.gov",
+  "document_title": "About Insulin Resistance and Type 2 Diabetes",
+  "extraction_method": "<main>",
+  "word_count": 615,
+  "verified_by_doctor": false
+}
+===CONTENT===
+About Insulin Resistance and Type 2 Diabetes
+
+May 15, 2024
+
+Español
+
+About Insulin Resistance and Type 2 Diabetes
+
+Key points
+
+Insulin resistance leads to prediabetes and type 2 diabetes.
+Find out more about what it is, what causes it, and how you can reverse it.
+
+What is insulin?
+Insulin is a key hormone that regulates your blood sugar levels. It's so important that you can't live without it. Here's how insulin works when everything is working properly:
+
+When you eat, food is broken down into sugars that circulate in your blood.
+This increase in blood sugar causes an internal organ called the pancreas to release insulin.
+Insulin acts like a key to let blood sugar into your body cells, which use the sugar as energy.
+After this happens, your blood sugar returns to a normal level.
+
+Insulin also signals your liver to store extra blood sugar as energy for later. If you haven't eaten recently, your liver releases stored blood sugar so energy is always available.
+
+What is insulin resistance?
+Sometimes this finely tuned system can get out of balance. When your body is exposed to too much blood sugar over an extended period of time, you can develop insulin resistance. Here's what that means:
+
+A l ot of blood sugar enters your bloodstream.
+Your pancreas pumps out high levels of insulin to get more blood sugar into your cells.
+Over time, your cells stop responding well to insulin, which is known as resistance.
+Your blood sugar remains high, which causes your pancreas to keep releasing more insulin to make your cells respond.
+Eventually, your pancreas can't keep up and your blood sugar keeps increasing.
+
+High blood sugar is damaging to the body, so your body keeps trying to remove excess blood sugars. It stores extra sugar in your liver and muscles. When they're full, the liver sends the remaining sugar to be stored as body fat, causing weight gain. Insulin resistance sets the stage for prediabetes and type 2 diabetes.
+
+What about type 1 diabetes?
+Type 1 diabetes is different from insulin resistance. Type 1 diabetes is thought to be caused by an autoimmune reaction (the body attacks itself by mistake). While people with insulin resistance don't respond well to insulin, people with type 1 diabetes don't make any or enough insulin to survive.
+
+Do you have insulin resistance?
+You can't tell if someone has insulin resistance by looking at them. Although overweight and obesity are risk factors, you do not have to have them to have insulin resistance. Other risk factors for insulin resistance include:
+
+High blood sugar levels.
+High triglycerides (a kind of fat found in the blood).
+High LDL (bad) cholesterol.
+Low HDL (good) cholesterol.
+Family history of type 2 diabetes.
+Physical inactivity.
+
+Talk to your doctor if you think you might have insulin resistance, or want to find out more.
+
+Reverse insulin resistance
+If you have insulin resistance, there's good news. You can reverse it by making your cells more sensitive to insulin.
+Physical activity makes you more sensitive to insulin, one reason it's important for diabetes management (and good health in general!). Don't wait until you're diagnosed with prediabetes or type 2 diabetes to start moving more. The earlier you take action, the better off you'll be.
+Weight loss if you have overweight or obesity is another great way to relieve strain on your body and increase your insulin sensitivity.
+Eating a balanced diet with non-starchy vegetables, fruits, whole grains and lean proteins helps to reduce your blood sugar. This will decrease the amount of insulin your pancreas releases to help reverse insulin resistance.
+Other lifestyle changes like managing stress, and getting enough sleep will also help you reach your health goals.
+
+May 14, 2024
+
+Syndicate

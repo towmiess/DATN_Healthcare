@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Kiwi xanh", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Kiwi xanh
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: kiwi, vitamin C, chất xơ, GI thấp
+
+Mô tả: Kiwi GI thấp, vitamin C cao gấp đôi cam, chất xơ hỗ trợ tiêu hóa.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.5
+Calo: 61 kcal
+Chất đạm (protein): 1.2 g
+Chất béo tổng: 0.5 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 14.5 g (chất xơ: 3.0 g, đường: 9.0 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 3 mg
+Kali: 312 mg | Phốt pho: 40 mg | Magie: 17 mg
+Canxi: 34 mg | Sắt: 0.3 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Vitamin C cao gấp đôi cam - tốt miễn dịch bệnh nhân TĐ
+Khẩu phần khuyến nghị: 1 quả/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+1 quả kiwi
+
+--- Cách chế biến ---
+1. Gọt vỏ hoặc ăn nguyên vỏ rửa sạch
+2. Cắt miếng ăn trực tiếp

@@ -1,0 +1,72 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/about/gestational-diabetes-postpartum-depression.html",
+  "title": "Gestational Diabetes and Postpartum Depression - CDC",
+  "category": "complication/pregnancy",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:13:35.004794",
+  "source_name": "cdc.gov",
+  "document_title": "Gestational Diabetes and Postpartum Depression - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 751,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Gestational Diabetes and Postpartum Depression - CDC
+
+May 15, 2024
+
+Gestational Diabetes and Postpartum Depression
+
+Key Points
+
+Gestational diabetes can affect you even after your baby is born.
+It increases your risk for type 2 diabetes.
+Gestational diabetes may also increase your risk for postpartum depression.
+
+What causes gestational diabetes?
+Pregnancy and insulin resistance
+During pregnancy your body makes several hormones to keep your baby healthy and growing. These hormones can cause your body's cells to use insulin less effectively, a condition called insulin resistance .
+During late pregnancy, insulin resistance increases even more. This can cause some women to develop gestational diabetes.
+Gestational diabetes
+Gestational diabetes is a type of diabetes that can develop during pregnancy in women who don't already have diabetes. It affects about 5% to 9% of pregnancies in the United States every year.
+You're at higher risk of developing gestational diabetes if you:
+
+Had it during a previous pregnancy
+Have a family history of type 2 diabetes
+Have prediabetes before pregnancy
+
+You're also at higher risk if your race or ethnic origin is:
+
+Asian
+African American
+Hispanic or Latino
+American Indian or Alaska Native
+Native Hawaiian or Pacific Islander
+
+Having gestational diabetes increases your baby's risk of being very large (9 pounds or more). It also raises your risk of having a cesarean delivery (C-section) and developing type 2 diabetes in the future. Some research has found that having gestational diabetes can also increase your risk of postpartum depression.
+
+What is postpartum depression?
+Postpartum depression is more than having the "baby blues"—feelings of worry, sadness, and tiredness after having a baby. With postpartum depression, you can feel very sad, anxious, and hopeless for up to a year after birth. It could affect your ability to care for your baby and handle daily activities.
+Around 1 in 8 women have symptoms of depression after giving birth. Depression can also occur before and during pregnancy. Yet less than half of pregnant women with depression receive the treatment they need. Research shows that 30% of women are not asked about symptoms of depression during a prenatal or postpartum checkup.
+If you have depression before, during, or after pregnancy, talk to your doctor about your symptoms. Even if they don't ask or you think your symptoms aren't serious, talk to your doctor anyway. They can monitor your symptoms and help you manage them so they don't get worse.
+Having postpartum depression doesn't mean you're doing something wrong. It's a complication of giving birth and needs to be treated like any other medical complication. There are treatments and resources available to help you manage your symptoms. Getting the right treatment will help you take care of yourself and your baby.
+
+Need support now?
+If you or someone you know is struggling or in crisis, help is available. Call 1-833-TLC-MAMA (1-833-852-6262).
+
+What's the connection?
+It's not clearly understood why people with diabetes, including gestational diabetes, are at higher risk of depression. Research has found that it could be mental, physical, or a combination of factors. Here's what we know:
+Managing gestational diabetes can be a major source of stress for some pregnant women. Stress itself could be a risk factor for postpartum depression. The daily challenges of managing diabetes can bring on symptoms of depression and anxiety too. In fact, people with diabetes are 2 to 3 times more likely to have depression than people without diabetes. And they're also 20% more likely than people without diabetes to have anxiety.
+Diabetes also directly affects the brain . Insulin resistance in the brain affects your body's stress response system. Your system releases hormones into the blood to help protect you from stress. If your system isn't working well, your body can't respond properly to stress. This can lead to symptoms of depression.
+
+What you can do
+Gestational diabetes can’t always be prevented. But with healthy lifestyle habits, you can lower your risk or manage it if you’ve already been diagnosed.
+Keep Reading:
+About Gestational Diabetes Once you've given birth, it's important to see your doctor for routine postpartum checkups. Women who had gestational diabetes are more likely to develop type 2 diabetes after giving birth. It's important to get tested for diabetes 6 to 12 weeks after your baby is born.
+If you don't have diabetes at that time, continue to get tested every 1 to 3 years. It's also important for you to get screened for postpartum depression at each of your postpartum checkups. If you think you have depression, seek treatment as soon as possible.
+
+May 14, 2024

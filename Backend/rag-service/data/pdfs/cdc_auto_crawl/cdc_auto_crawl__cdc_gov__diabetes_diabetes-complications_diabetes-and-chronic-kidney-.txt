@@ -1,0 +1,59 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-chronic-kidney-disease.html",
+  "title": "Chronic Kidney Disease",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:51.411668",
+  "source_name": "cdc.gov",
+  "document_title": "Chronic Kidney Disease",
+  "extraction_method": "<main>",
+  "word_count": 406,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Chronic Kidney Disease
+
+May 15, 2024
+
+Español
+
+Chronic Kidney Disease
+
+What to know
+
+Chronic kidney disease (CKD) is common in people with diabetes.
+CKD often develops slowly and with few symptoms.
+If you have diabetes, get your kidneys checked regularly to treat CKD early.
+
+How CKD develops
+Chronic kidney disease often develops slowly and with few symptoms. Many people don't realize they have CKD until it's advanced. At that point, they need dialysis (a treatment that filters the blood) or a kidney transplant to survive.
+If you have diabetes, get your kidneys checked regularly . This is done by your doctor with simple blood and urine tests. Regular testing is your best chance for identifying CKD early if you do develop it. Early treatment is most effective and can help prevent additional health problems.
+
+CKD is common in people with diabetes. Approximately 1 in 3 adults with diabetes has CKD. Both type 1 and type 2 diabetes can cause kidney disease.
+
+How diabetes causes CKD
+Each kidney is made up of millions of tiny filters called nephrons. Over time, high blood sugar from diabetes can damage blood vessels in the kidneys and nephrons. Many people with diabetes also develop high blood pressure, which can damage kidneys too.
+
+CKD takes a long time to develop and usually doesn't have any signs or symptoms in the early stages. You won't know you have CKD unless your doctor checks you for it.
+
+Tips for healthy kidneys
+You can help keep your kidneys healthy by managing your blood sugar, blood pressure, and cholesterol levels. This is also very important for your heart and blood vessels. High blood sugar, blood pressure, and cholesterol levels are all risk factors for heart disease and stroke.
+
+Keep your blood sugar levels in your target range as much as possible.
+Get an A1C test at least twice a year. Ask your doctor how often is right for you.
+Keep your blood pressure below 140/90 mm Hg (or the target your doctor sets).
+Stay in your target cholesterol range.
+Eat foods lower in sodium.
+Eat more fruits and vegetables.
+Be physically active.
+Take your medicines as directed.
+
+Prediabetes and CKD
+If you have prediabetes, taking action to prevent type 2 diabetes is an important step in preventing CKD. CDC's National Diabetes Prevention Program can help you create the healthy lifestyle habits needed to prevent type 2 diabetes. Find a program in your community or online.
+
+May 14, 2024
+
+Syndicate

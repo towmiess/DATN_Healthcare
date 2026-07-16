@@ -1,0 +1,57 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/healthy-eating/choosing-healthy-carbs.html",
+  "title": "Choosing Healthy Carbs",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:14:07.942488",
+  "source_name": "cdc.gov",
+  "document_title": "Choosing Healthy Carbs",
+  "extraction_method": "<main>",
+  "word_count": 617,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Choosing Healthy Carbs
+
+Choosing Healthy Carbs
+
+May 15, 2024
+
+Español
+
+What to know
+
+In recent years, carbohydrates (carbs) have gotten a bad reputation. But carbs can be part of a healthy diet for people with diabetes. The key is to know how to portion and choose carbs so you get the most nutrition from your food with the least impact on your blood sugar.
+
+Types of carbs
+Simple carbs
+These increase your blood sugar quickly and can make it harder to manage your diabetes. Common sources of simple carbs include table sugar, honey, fruit juice, and syrup. These are often major ingredients of highly processed and packaged foods like soda, cookies, cakes, candies, and other foods with added sugars.
+Some types of simple carbs are found in healthy foods like whole fruit and dairy foods. These foods have beneficial vitamins and minerals, which are key to a balanced diet.
+Refined grains
+Refined grains are simple carbs that have been processed to remove the fiber. This often removes key nutrients as well, some of which are added back in by the manufacturer. Examples include foods like white bread, white rice, white pasta, cereals, pastries, and other desserts. Refined grains are processed to increase shelf life, which can also make them more affordable.
+Complex carbs
+These increase your blood sugar more slowly because they contain fiber and other complex starches that take longer for your body to digest. Examples of complex carbs include starchy vegetables (white and sweet potatoes, peas, corn), legumes (beans, lentils), and whole grains. Choose these carbs to get the most nutrition with the least impact on blood sugar.
+
+All in moderation
+Carbs are an important part of a healthy diet. In fact, your body and brain need carbs to function properly. The key is to choose carbs with fiber and nutrients and to portion your serving sizes. One serving of carbs (15 grams) is smaller than you might think—it's about &frac14; cup of granola or 6 saltines! Carb counting can help make managing blood sugar easier and ensure you're eating a healthy balance of carbs, protein, and vegetables.
+When you eat a meal or snack with carbs, add a protein source like meat, a small handful of nuts, or low-fat dairy. This will help you stay fuller for longer and avoid blood sugar spikes.
+
+Healthy swaps
+Eat whole fruits instead of drinking juice
+Ever made orange juice at home? It takes about 3 oranges to get just 1 cup of juice. It’s easy to get too much sugar at once from juice, even when it’s 100% fruit juice. And you’ll miss the fiber.
+Rethink your drink
+Sugar-sweetened beverages like soda, sweetened coffee, and sweetened tea can add a lot of simple carbs to your diet. To reduce added sugars, try mixing half unsweetened tea with half sweet tea, drinking sparkling water with a splash of juice, or ordering coffee with less sweetener. When in doubt, don’t forget to hydrate with water.
+Switch to whole wheat pasta, tortillas, and bread
+Check the ingredient list. Choose items with whole wheat flour listed as the first ingredient on the packaging—not enriched, unbleached, or multigrain flour. Some breads have seeds and oats on the outside of the loaf or use caramel coloring to make them look like whole wheat.
+
+Try oats instead of sugary cereals
+Old-fashioned or steel-cut oats are a great whole grain option instead of sugary cereals. Get creative with overnight oats or baked oat bars to get your day started.
+Try different grains
+Explore grains from around the world, like quinoa, farro, bulgur wheat, barley, and millet. They cook much in the same way as rice and pack a nutritious punch along with extra flavor.
+
+May 15, 2024
+
+Syndicate

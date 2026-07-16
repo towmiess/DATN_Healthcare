@@ -1,0 +1,67 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/prevention-type-2/truth-about-prediabetes.html",
+  "title": "The Surprising Truth About Prediabetes",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:24.526226",
+  "source_name": "cdc.gov",
+  "document_title": "The Surprising Truth About Prediabetes",
+  "extraction_method": "<main>",
+  "word_count": 486,
+  "verified_by_doctor": false
+}
+===CONTENT===
+The Surprising Truth About Prediabetes
+
+The Surprising Truth About Prediabetes
+
+May 15, 2024
+
+Español
+
+Key points
+
+More than 2 in 5 U.S. adults have prediabetes.
+Prediabetes is a major risk factor for type 2 diabetes.
+Lifestyle changes can stop or slow the development of type 2 diabetes.
+
+Prediabetes is a big deal
+Don’t let the “pre” fool you. Prediabetes is a serious health condition. People with prediabetes have higher blood sugar than normal, but not high enough yet for a diabetes diagnosis. Prediabetes puts you at increased risk of developing type 2 diabetes, heart disease, and stroke.
+
+Prediabetes often goes unnoticed
+You can have prediabetes for years without symptoms. This means you likely won't know you have prediabetes until serious health problems show up. Talk to your doctor about getting your blood sugar tested if you have any risk factors, including:
+
+Having overweight.
+Being 45 years or older.
+Having a parent, brother, or sister with type 2 diabetes.
+Being physically active less than 3 times a week.
+Ever having gestational diabetes (diabetes during pregnancy).
+Giving birth to a baby who weighed more than 9 pounds.
+
+Race and ethnicity are also factors. African American, Hispanic/Latino, American Indian, Alaska Native, Pacific Islander, and some Asian American people are at higher risk.
+Keep Reading
+Testing for Diabetes
+
+Diabetes is harder to live with than prediabetes
+People with prediabetes have a higher risk of heart disease and stroke. The risk of serious health problems increases even more for people with diabetes.
+Diabetes affects every major organ in the body. People with diabetes often develop major complications , including kidney failure, blindness, and nerve damage. Nerve damage can lead to amputation (removal by surgery) of a toe, foot, or leg.
+Having diabetes can also double the risk of depression. That risk increases as more diabetes-related health problems develop. All can sharply reduce quality of life.
+
+Prediabetes = prevent diabetes
+Think of prediabetes as a fork in the road. If you ignore it, your risk for type 2 diabetes goes up. Lose a modest amount of weight and get regular physical activity , and your risk goes down.
+Modest weight loss means 5% to 7% of body weight, just 10 to 14 pounds for a 200-pound person. Regular physical activity means getting at least 150 minutes a week of brisk walking or similar activity. That's just 30 minutes a day, five days a week.
+The CDC-led National Diabetes Prevention Program (National DPP) can help people prevent or delay type 2 diabetes. Through the program, participants:
+
+Work with a trained coach to make lasting lifestyle changes.
+Discover how to eat healthy and add more physical activity into their day.
+Find out how to manage stress and stay motivated.
+Learn how to solve problems that can slow progress.
+
+If you have prediabetes, ask your health care provider about the National DPP lifestyle change program. The best time to prevent type 2 diabetes is now .
+
+May 15, 2024
+
+Syndicate

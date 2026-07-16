@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Canh sò huyết bầu", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh sò huyết bầu
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: sò huyết, bầu, sắt, B12
+
+Mô tả: Sắt và B12 cao từ sò huyết, bầu lợi tiểu ít calo tạo canh cân bằng.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.8
+Calo: 115 kcal
+Chất đạm (protein): 15.5 g
+Chất béo tổng: 3.0 g (bão hòa: 0.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.5 g (chất xơ: 2.0 g, đường: 2.5 g, đường bổ sung: 0.4 g)
+Cholesterol: 85 mg | Natri: 348 mg
+Kali: 385 mg | Phốt pho: 225 mg | Magie: 38 mg
+Canxi: 68 mg | Sắt: 8.5 mg | Vitamin D: 0.5 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Sắt và B12 cao nhất - tốt biến chứng thần kinh
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Cholesterol cao và gút thận trọng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g sò huyết
+200g bầu
+Gừng
+
+--- Cách chế biến ---
+1. Sò huyết rửa sạch
+2. Nấu nước sôi cho bầu vào 8 phút
+3. Thêm sò huyết nấu 5 phút đến mở vỏ

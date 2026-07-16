@@ -1,0 +1,91 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/prevention/healthy-eating-tips-to-lower-type-2-risk",
+  "title": "Healthy eating tips type 2",
+  "category": "diet",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:09:14.798933",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Healthy eating tips type 2",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 1775,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Healthy eating tips type 2
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Healthy eating tips for prediabetes and lowering type 2 risk
+
+What’s on this page?
+
+How to use our guide
+
+Choose drinks without added sugar
+
+Choose higher fibre carbs
+
+Cut down on red and processed meat
+
+Eat plenty of fruit and veg
+
+Choose unsweetened yoghurt, and cheese
+
+Choose healthier snacks
+
+Pick healthier oils or fats
+
+Cut down on salt
+
+Get your vitamins and minerals from food instead of tablets
+
+Be sensible with alcohol
+
+How to use our guide There is no food you can’t eat if you want to prevent type 2 diabetes or help you manage prediabetes. It is a question of choosing healthier foods more often. On this page, we'll share which foods and drinks can help lower your risk of type 2 diabetes, and which foods or drinks to limit that can increase your risk of type 2 diabetes. Pick one or two tips to focus on to help you start making long-term changes and if needed, help manage your weight. A healthy diet is only part of the story. Your portion sizes are important too. If you want a copy of this information to print off or share with family or friends, download this healthy eating guide as a two-page PDF (655KB). These are our top 10 healthy eating tips for prediabetes and lowering your risk of type 2 diabetes.
+
+1. Choose drinks without added sugar Swap sugary drinks such as cola or lemonade for diet or no added sugar versions. Check the can or bottle’s nutrition label for added sugar . Even better, drink water - plain still or carbonated. Try tea or coffee without sugar, or try it with a low or no-calorie sweetener. If you have milk, choose semi-skimmed or skimmed which have the same vitamins, minerals, calcium and protein as full fat. If you prefer dairy-free alternatives like plant-based milks, such as oat or almond, check they are unsweetened.  Try to avoid or limit fruit juices or smoothies to one small glass (150ml) a day as they contain the type of sugar we need to cut down on. Eat natural vegetables or fruit instead to get your 5-a-day. If Matcha, frappe or a bubble tea is your go-to takeaway drink, be aware these have lots of added sugar. Ordinary tea and Americano are healthier alternatives.
+
+2. Choose higher fibre carbs    As a general guide, go for ‘brown’ rather than ‘white’ carbs.   Brown rice, and wholemeal pasta, wholemeal bread and chapatis are healthier options than refined carbs – which are things like white bread white rice, white pasta and chapatis made with white flour which are best limited or avoided. We know refined carbs increase blood sugar levels more quickly compared to wholegrain carbs. To find out more, see our page on the glycaemic index .
+
+3. Cut down on red and processed meat    Limit or avoid red and processed meats like bacon, ham, salami, pepperoni, canned meat such as corned beef, as well as sausages, pork, beef and lamb. Find out more about the link between red and processed meats and risk of type 2 diabetes.  Instead, get your protein from:  Pulses such as kidney beans, chickpeas and lentils canned in water or dried and cooked from scratch. If you want to eat baked beans, choose the reduced sugar and salt option.    Eggs are a source of essential nutrients such as B12 and although some people may have concerns about incorporating eggs into their diet, research shows that the cholesterol in eggs does not significantly affect the level of cholesterol in your blood.   Fish which can include fresh, frozen or tinned fish (not in brine) such as sardines in tomato sauce and tuna in spring water. Try and have at least one portion of white fish a week such as pollock, cod and haddock. And at least two portions of oily fish each week, such as tinned or vacuum-packed mackerel, or salmon.  Lean white meats such as chicken and turkey. This can include a portion from shop bought ready cooked chicken or turkey, and slices, but check the food label and avoid processed chicken or turkey which will have added ingredients such as salt, phosphates, preservatives and sugar.   Unsalted nuts , either as an ingredient, a healthy snack or topping on your favourite breakfast cereal.   Tofu and tempeh , which are plant-based protein rich foods. Always check the label when eating meat substitutes because some can have added sugar, saturated fat and salt.
+
+4. Eat plenty of fruit and veg     Eating more fruit and veg has been shown to help reduce your risk of type 2 diabetes, and they’re full of nutrients. Aim for at least 5-a-day (for example, three portions of veg and two portions of fruit).  Frozen, tinned and dried fruit and veg all count. Look for tinned fruit in juice rather than syrup, or tinned veg in water, with no added salt or sugar.  It’s a myth that you can’t eat grapes, bananas or mango. You can eat any fruit – as this is the type of sugar you don’t need to cut out. As fruit contains carbs, you just need to check your portion sizes , so no more than a handful of grapes, for example, or a heaped tablespoon of raisins. It depends what else you're eating of course, but certain types of fruit and veg have been linked with a reduced risk of type 2 diabetes, so could be good ones to try. These are: apples grapes  berries green leafy veg such as spinach, kale, watercress, rocket and kale.     If you want to reduce carbs If you want to follow a low-carb diet to help lower your risk of type 2 diabetes, instead of cutting back on fruit, reduce your intake of carbs by cutting back on French fries, cakes, chocolates, biscuits and sugary drinks.
+
+5. Choose unsweetened yoghurt, and cheese Yoghurt and cheese, which are fermented dairy products, have been linked with a reduced risk of type 2 diabetes. Aim for three portions of dairy each day which also helps you to get the calcium your body needs. Choose unsweetened yoghurt, such as plain natural or Greek yoghurt, which you could top with chopped fruit, seeds or nuts. When choosing cheese, half fat and light versions of your favourite is an option if you want to save calories. Cheese doesn’t increase cardiovascular disease risk, but as it’s often high in salt, keep to the recommended portion size: size of a matchbox (30g/1oz) If you’re lactose intolerant or don’t eat dairy, choose lactose-free yoghurt and cheese, which will contain calcium. See our tips on dairy for more information.
+
+6. Choose healthier snacks  Choose healthier snacks such as fruit, unsalted nuts and seeds and yoghurt instead of crisps, chips, biscuits, cake, sweets, chocolates, pies, pastries and cake. These are refined carbs which can increase your risk of type 2 diabetes. For inspiration on what to eat instead, see our our healthy snacks page. It also has information on portion sizes and tips on how to avoid snacking when you’re not hungry or at night.
+
+7. Pick healthier oils or fats It’s important to have some healthy fat in our diets because it gives us energy. Cook (or bake) with small amounts of healthier fats such as olive oil, sunflower oil, rapeseed oil (which can be labelled vegetable oil), rather than coconut and palm oil. Spray oils can be low in calories and can help control how much oil you use. Instead of using butter pick a spread made of the healthier fats mentioned. Check the food labels to see which butter product contains which oils. Healthier fats are also found in unsalted nuts, seeds, avocado and oily fish. And choose healthier cooking methods, such as grilling, poaching and steaming or stir-fry with a small amount of oil. Air fryers give you the crunch of fried food without having to use much oil. They can be used for lots of other things too from baking to grilling so there’s lots of ways to cook healthier versions of your favourites.
+
+8. Cut down on salt  Don't add any salt to your food. Instead of salt on the table, for extra flavour experiment with herbs and spices. If you cook from scratch - which is often a healthier option - don't add salt even if the recipe asks for it. Here at Diabetes UK, our recipes meet healthy eating guidelines. Too much salt can cause high blood pressure which increases your risk of type 2 diabetes. The recommended amount is 6g (one teaspoon) a day from any foods that you eat. Most salt we get is ‘hidden’ in foods such as ready meals and takeaways such as salty meats, and some sauces. Look for the ‘front of pack’ label. Choose foods where labelling is green or amber for salt, rather than red.
+
+9. Get your vitamins and minerals from food instead of tablets Taking vitamin and mineral supplements do not reduce your risk of type 2 diabetes and most people should get all the nutrients they need from a varied and balanced diet. An exception is taking Vitamin D in the autumn and winter, as the government advises, either if you’re prescribed vitamins by a healthcare professional for a nutrition deficiency, or you’re planning a pregnancy and prescribed folic acid .
+
+10. Be sensible with alcohol Drinking too much alcohol increases your risk of type 2 diabetes. One reason is that it contains lots of calories which can lead to weight gain, one of the risk factors for type 2 diabetes. So, if you drink, stay within government guidelines on alcohol – no more than 14 units a week for men and women spread evenly over 3-4 days. Check units in a drink with the unit calculator on Alcohol Change UK's website. Try to have a few days per week without any alcohol at all. To cut down on alcohol and calories, see our tips on choosing drinks.
+
+Know your type 2 diabetes risk
+Our handy leaflet will help you find out your risk of type 2 diabetes and give you practical advice and tips on what to do next.
+
+Download now
+
+Show more
+
+Foods that raise your blood sugar levels more slowly
+See our tips and information about the glyacemic index.
+
+Find out more
+
+Weight loss for prediabetes and lowering type 2 risk
+See our tips and browse our meal plans.
+
+Find out more
+
+Best exercise for prediabetes and lowering type 2 risk
+See our tips for being more physically active at home or when you're out.
+
+Find out more

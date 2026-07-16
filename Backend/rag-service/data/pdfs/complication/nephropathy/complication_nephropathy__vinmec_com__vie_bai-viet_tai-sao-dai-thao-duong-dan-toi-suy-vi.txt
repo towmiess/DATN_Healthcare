@@ -1,0 +1,44 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/tai-sao-dai-thao-duong-dan-toi-suy-vi",
+  "title": "Tại sao ĐTĐ dẫn tới suy thận",
+  "category": "complication/nephropathy",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:16:37.715389",
+  "source_name": "vinmec.com",
+  "document_title": "Tại sao ĐTĐ dẫn tới suy thận",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 820,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Tại sao ĐTĐ dẫn tới suy thận
+
+-->
+
+Sức khoẻ tổng hợp
+
+Tại sao đái tháo đường dẫn tới suy thận?
+
+☰
+Mục lục
+
+Bài viết được tư vấn chuyên môn bởi Bác sĩ Ngoại tiết niệu - Khoa Ngoại Tổng hợp & Gây mê - Bệnh viện đa khoa Quốc tế Vinmec Hải Phòng .
+Bệnh đái tháo đường gây ra nhiều biến chứng nguy hiểm, trong đó có khoảng 20- 40% bệnh nhân đái tháo đường dẫn tới suy thận. Vậy tại sao đái tháo đường lại dẫn tới suy thận, biểu hiện, cách điều trị và phòng ngừa như thế nào?
+1. Nguyên nhân đái tháo đường dẫn tới suy thận
+Theo phân loại của Hội đái tháo đường Hoa Kỳ (ADA) năm 2004 bệnh đái tháo đường (Tiểu đường) gồm 2 loại chính là đái tháo đường type 1 và đái tháo đường type 2 . Đái tháo đường nếu không được kiểm soát sẽ gây ra các biến chứng cấp và mạn đến các cơ quan như da, bàn chân, tim... trong đó có biến chứng vi mạch thận hay còn gọi là bệnh thận đái tháo đường là nguyên nhân hàng đầu dẫn tới suy thận mạn tiến triển.
+1.1. Do tổn thương động mạch thận
+Đái tháo đường lâu ngày gây xơ vữa các mạch máu lớn, trong đó có động mạch thận, làm hẹp tắc mạch máu, hậu quả là gây tăng huyết áp và suy thận.
+1.2 Do tổn thương các mạch máu nhỏ trong thận
+Người bệnh đái tháo đường , huyết áp cao kéo dài tạo ra các chất oxy hóa, lâu ngày làm tổn thương các mạch máu nhỏ ở thận. Đồng thời lượng đường trong máu cao, thận phải làm việc quá tải, nhiều ngày các lỗ lọc to ra gây rò rỉ albumin vi niệu ra ngoài nước tiểu, sau thời gian dài albumin niệu nhiều hơn và xuất hiện cả protein niệu.
+1.3 Do tổn thương hệ thần kinh
+
+Với người bệnh đái tháo đường việc truyền tín hiệu thần kinh từ não đến các cơ quan có trục trặc, bàng quang bị giảm kích thích, không có cảm giác khi bàng quang đầy nước tiểu, ứ đọng lâu ngày gây nhiễm trùng đường tiết niệu, vi khuẩn đi ngược lên thận làm tổn thương thận và dẫn tới suy thận .
+2. Triệu chứng nhận biết bệnh suy thận do đái tháo đường
+Ở giai đoạn đầu, khi các tế bào thận lành còn có thể làm việc để bù trừ cho các tế bào thận hư, các dấu hiệu suy thận do đái tháo đường không rõ ràng như: phù nhẹ bàn chân, đau đầu, chán ăn, mệt mỏi, giảm trí nhớ và tăng huyết áp. Bệnh nhân phát hiện thường do tình cờ qua xét nghiệm albumin có trong nước tiểu hoặc siêu âm ổ bụng thận to. Ở giai đoạn sau, các dấu hiệu trở nên nặng hơn: phù to toàn thân, cổ trướng, tràn dịch màng phổi, tràn dịch màng tim, nước tiểu sủi nhiều bọt... Các triệu chứng của bệnh thận đái tháo đường ở giai đoạn sớm thường không đặc hiệu, bệnh nhân tiểu đường nên đến các cơ sở y tế kiểm tra thường xuyên theo định kỳ phát hiện các biến chứng sớm để có thể điều trị biến chứng của tiểu đường kịp thời.
+3. Cách phòng ngừa đái tháo đường dẫn đến suy thận
+
+Bệnh nhân tiểu đường ngoài kiểm soát đường huyết và huyết áp nghiêm ngặt và sớm theo chỉ định của bác sĩ thì chế độ ăn và một lối sống lành mạnh sẽ giúp phòng chống đái tháo đường dẫn tới suy thận . Chế độ dinh dưỡng cho người tiểu đường : Hạn chế tinh bột như cơm, miến, khoai tây, khoai nướng... Tránh ăn đồ ngọt như bánh, kẹo... Ăn nhiều rau xanh và hoa quả ít đường Ăn giảm muối, không nên ăn các thực phẩm chế biến sẵn nhiều muối như mì tôm, thịt muối, xúc xích, lạp xưởng Hạn chế chất đạm theo chỉ định của bác sĩ như trứng, nội tạng động vật... Hạn chế mỡ động vật, bơ động vật Ăn thành nhiều bữa nhỏ trong ngày, không nên ăn quá no nhưng vẫn đảm bảo đủ năng lượng. Duy trì lối sống lành mạnh: Hạn chế các chất kích thích như rượu, bia, cà phê, thuốc lá... Tập thể dục đều đặn, vừa sức. Giữ cân nặng phù hợp, giảm cân nếu béo phì. Đái tháo đường dẫn đến suy thận là một biến chứng nguy hiểm, nhưng chúng ta hoàn toàn có thể kiểm soát và ngăn ngừa nó trở nên nặng hơn bằng cách phát hiện sớm và kiểm soát đường huyết của bạn trong phạm vi cho phép, kết hợp với một chế độ sinh hoạt lành mạnh để bảo vệ chức năng thận khỏe mạnh.

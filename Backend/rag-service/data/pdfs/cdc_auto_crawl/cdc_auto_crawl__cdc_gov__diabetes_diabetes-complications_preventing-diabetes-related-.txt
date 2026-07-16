@@ -1,0 +1,112 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/diabetes-complications/preventing-diabetes-related-amputations.html",
+  "title": "Preventing Diabetes-Related Amputations",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:13:27.251774",
+  "source_name": "cdc.gov",
+  "document_title": "Preventing Diabetes-Related Amputations",
+  "extraction_method": "<main>",
+  "word_count": 865,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Preventing Diabetes-Related Amputations
+
+May 15, 2024
+
+Español
+
+Preventing Diabetes-Related Amputations
+
+What to know
+
+Lower-limb amputations (LLA), which is surgery to remove a toe, foot, or leg, are increasing in the United States.
+
+80% of LLAs are a result of complications from diabetes.
+
+Find out signs, symptoms, and steps to prevent diabetes-related amputations.
+
+How diabetes can lead to an LLA
+High blood sugar over time can cause diabetes complications that raise the chance of an LLA:
+Peripheral arterial disease can narrow the blood vessels that carry blood to your legs and feet. Poor blood supply can make even a tiny cut heal slowly or not at all.
+Peripheral nerve damage can cause loss of sensation so you may not notice cuts, sores, or ulcers on your feet.
+With these complications, even a small cut can become a serious infection. Depending on the condition, a doctor may recommend one or more of these treatments:
+
+Procedure to clean the wound and remove dead tissue.
+
+Surgery to restore blood flow to your leg or foot (called revascularization).
+
+Antibiotics to treat certain infections.
+
+Amputation to remove the affected area.
+
+How to prevent an LLA
+You can reduce your risk for an LLA by managing your blood sugar through healthy eating and being physically active. You can prevent or delay foot problems through:
+
+Foot checks at home.
+
+Foot screenings at doctor visits.
+
+Wound care.
+
+Diabetes self-management education and support (DSMES) is available if you need it. There you'll learn how to manage your blood sugar, cope with challenges, and prevent diabetes complications like LLAs.
+
+When to see a doctor
+Check your feet every day, so you can recognize any foot problems before you're at risk of an LLA. If you have any of the following symptoms, don't wait until it becomes a serious infection. See your primary doctor or foot doctor right away if:
+
+You have pain or numbness in your limb.
+
+You have a fungal infection such as athlete's foot between your toes.
+
+You notice a change in the color of your feet or swelling in your feet.
+
+The corner or side of your toenail grows into the soft flesh.
+
+A wound, sore, blister, or ulcer doesn't seem to be healing.
+
+You have an ulcer bigger than 3/4 inch deep and you can see the bone underneath.
+
+What to do when you get a cut on your foot
+Follow these steps to clean the wound:
+
+Wash your hands thoroughly with soap and clean water.
+
+Apply direct pressure to the wound with a clean bandage or cloth to control bleeding.
+
+Rinse the wound with bottled or clean running water. Wash around the wound with soap and clean water but don't get soap in the wound.
+
+Pat it dry with a clean towel. You may also want to apply an antibiotic ointment.
+
+Cover the cleaned wound with a new bandage and check it every 24 hours.
+
+Seek medical attention if:
+
+The wound came from an animal bite or a puncture by a dirty object.
+
+There's dirt, glass, metal, or any other material in the wound that you can't remove on your own.
+
+Bleeding doesn't stop after applying pressure for 20 to 30 minutes.
+
+There are signs of infection like pain, redness, swelling, or fever.
+
+What if you don't have a doctor?
+There are free or low-cost options for preventing LLAs:
+Medicare covers a foot exam once a year and some treatments for foot injuries or diseases.
+Medicaid covers foot care in some states. Check with your state Medicaid agency to find out what foot care services are covered in your plan.
+Federally qualified community health centers provide low-cost primary care services in both urban and rural areas.
+
+How LLA rates vary by community
+Some people with diabetes have a higher risk of LLA due to unequal opportunities to live a healthy lifestyle. This is known as a health inequity. Some people experience several health inequities, which can overlap.
+
+Region: People with diabetes living in the Southern United States have the highest rate of LLAs. This may be because many people in rural areas in Southern states have limited access to health care and healthy foods. People who live in neighborhoods without safe spaces for physical activity may also have a higher risk of LLA.
+Race and ethnicity: Among all racial and ethnic groups, Black adults with diabetes had the highest rate of LLAs in 2019. Black adults are 30% more likely to have an LLA compared with White adults with diabetes. They're 65% more likely than Hispanic or Latino adults with diabetes. Barriers to quality care and potential biases in the medical system may contribute to these higher rates.
+Health literacy is the degree to which people can find, understand, and use information to inform health-related decisions. When health information is filled with unfamiliar terms, it creates barriers for people with limited health literacy. People with lower health literacy have higher rates of LLAs.
+Social determinants of health (SDOH) also impact health outcomes and the risk of LLAs. SDOH are the conditions in which people are born, grow, work, live, and age. Low income, unstable work environments, and unreliable transportation can create barriers in accessing quality health care and preventing LLAs.
+
+May 15, 2024
+
+Syndicate

@@ -1,0 +1,63 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/communication-resources/diabetes-heart-disease-chronic-kidney.html",
+  "title": "The Diabetes, Heart Disease, and CKD Triangle - CDC",
+  "category": "complication/cardiovascular",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:12:45.214144",
+  "source_name": "cdc.gov",
+  "document_title": "The Diabetes, Heart Disease, and CKD Triangle - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 179,
+  "verified_by_doctor": false
+}
+===CONTENT===
+The Diabetes, Heart Disease, and CKD Triangle - CDC
+
+May 15, 2024
+
+The Diabetes, Heart Disease, and CKD Triangle
+
+What to know
+
+Diabetes, heart disease, and chronic kidney disease (CKD) are all connected. When you prevent or manage one condition, you can help prevent or manage all three.
+
+Format: JPG Dimensions: 1920 x 1080 pixels Language: English (US) Size: 684 KB Length:
+
+View
+
+Download
+View Larger
+
+Additional formats
+Diabetes, Heart Disease, and CKD Triangle (animated)
+Infographic that shows how Chronic Kidney Disease, Diabetes, and Heart Disease are connected.
+Jan. 24, 2024
+Download
+Download
+Diabetes, Heart Disease, and CKD Triangle - Spanish
+Spanish translation of Diabetes, Heart Disease, and CKD Triangle Graphic
+May 12, 2024
+Download
+Download Diabetes, Heart Disease, and CKD Triangle (animated) - Spanish
+Diabetes, Heart Disease, and CKD Triangle (animated)_1200x675_Spanish
+May 12, 2024
+Download
+Download
+
+Graphic text
+Diabetes, Heart Disease, Chronic Kidney Disease
+Did you know that these conditions are connected?
+When you prevent or manage one condition, you can help prevent or manage all three .
+Find out more:
+
+Chronic Kidney Disease, Diabetes, and Heart Disease
+
+Living with Diabetes
+
+Prevent Diabetes Complications
+
+May 15, 2024

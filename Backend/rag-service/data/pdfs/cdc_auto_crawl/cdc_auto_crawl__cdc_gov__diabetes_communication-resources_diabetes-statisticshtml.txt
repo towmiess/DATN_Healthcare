@@ -1,0 +1,102 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/communication-resources/diabetes-statistics.html",
+  "title": "A U.S. Report Card",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:02.648995",
+  "source_name": "cdc.gov",
+  "document_title": "A U.S. Report Card",
+  "extraction_method": "<main>",
+  "word_count": 382,
+  "verified_by_doctor": false
+}
+===CONTENT===
+A U.S. Report Card
+
+A U.S. Report Card
+
+Mar. 16, 2026
+
+At a glance
+
+40.1 million people have diabetes, and 1 in 4 don't know they have it. People who have diabetes are at higher risk of serious health complications discussed below; however, type 2 diabetes can be prevented and diabetes can be managed.
+
+Format: PDF Page count: 1 Language: English (US) Size: 1 MB Length: Last updated: February 11, 2026
+
+View
+
+Download
+View Larger
+
+Additional formats
+
+A Report Card: Diabetes In The United States
+Diabetes - a U.S. report card - an infographic on diabetes statistics.
+Download
+Download
+
+Graphic text
+Diabetes
+A US Report Card
+Diabetes
+40.1 million people have diabetes . That's about 1 in every 8 people. More than 1 in 4 adults with diabetes don't know they have it .
+Prediabetes
+115.2 million American adults— more than 2 in 5 —have prediabetes. 8 in 10 adults with prediabetes don't know they have it.
+Cost
+$640 Billion
+Diabetes accounted for 25% of all health care spending in 2021.
+Medical costs for people with diabetes are more than twice as high as for people without diabetes.
+Risks
+People who have diabetes are at higher risk of serious health complications :
+
+Blindness
+Kidney failure
+Heart disease
+Stroke
+Loss of toes, feet, or legs
+
+Common Types of Diabetes
+Type 1
+Body doesn't make enough insulin
+
+Can develop at any age
+No known way to prevent it
+
+In adults, type 1 diabetes accounts for approximately 5-10% of all diagnosed cases of diabetes. Just over 21,700 youth diagnosed in 2022
+Type 2
+Body can't use insulin properly
+
+Can develop at any age
+Most cases can be prevented
+
+In adults, type 2 diabetes accounts for approximately 90-95% of all diagnosed cases of diabetes. Nearly 14,500 youth diagnosed in 2022
+Risk factors for type 2 diabetes:
+
+Being overweight
+Having a family history
+Being physically inactive
+Being 45 or older
+
+1.5 million people 18 years or older diagnosed with diabetes in 2023
+What can you do?
+You can prevent or delay type 2 diabetes
+
+Eat healthy
+Be more active
+Lose weight
+
+Learn more about preventing type 2 diabetes or speak to your doctor.
+You can manage diabetes
+
+Work with a health professional
+Eat healthy
+Stay active
+
+Learn more about living with diabetes or speak to your doctor.
+
+Mar. 16, 2026
+
+Syndicate

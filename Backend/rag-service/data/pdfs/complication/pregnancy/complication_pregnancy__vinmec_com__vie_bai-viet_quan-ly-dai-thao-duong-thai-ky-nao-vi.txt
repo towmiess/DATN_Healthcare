@@ -1,0 +1,51 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/quan-ly-dai-thao-duong-thai-ky-nao-vi",
+  "title": "Quản lý ĐTĐ thai kỳ",
+  "category": "complication/pregnancy",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:17:54.958336",
+  "source_name": "vinmec.com",
+  "document_title": "Quản lý ĐTĐ thai kỳ",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1506,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Quản lý ĐTĐ thai kỳ
+
+-->
+
+Chuyên trang sức khoẻ
+Trung tâm sức khoẻ phụ nữ
+
+Quản lý đái tháo đường thai kỳ thế nào?
+
+Cố vấn chuyên môn
+
+Bác sĩ chuyên khoa I,
+
+Nguyễn Thị Mận
+
+☰
+Mục lục
+
+Bài viết được tư vấn chuyên môn bởi Bác sĩ chuyên khoa I Nguyễn Thị Mận - Khoa Sản Phụ Khoa - Bệnh viện Đa khoa Quốc tế Vinmec Đà Nẵng . Bác sĩ đã có trên 10 năm kinh nghiệm trong việc chẩn đoán, tư vấn và điều trị trong lĩnh vực Sản Phụ khoa.
+
+Đái tháo đường thai kỳ rối loạn chuyển hóa lượng đường trong máu, gây tăng đường máu, có thể dẫn đến nhiều biến chứng ảnh hưởng tới sức khỏe của mẹ và bé. Việc phát hiện và quản lý đái tháo đường thai kỳ tốt có vai trò rất quan trọng trong việc giảm nguy cơ biến chứng xảy ra.
+1. Đái tháo đường thai kỳ là gì?
+Đái tháo đường thai kỳ là tình trạng rối loạn dung nạp glucose và/hoặc tăng đường huyết được chẩn đoán lần đầu tiên trong 3 tháng giữa hoặc 3 tháng cuối của thai kỳ, mà trước đó không có bằng mắc bệnh đái tháo đường tuyp 1 hoặc tuýp 2. Khi mắc bệnh đái tháo đường thai kỳ có thể xảy ra một số tai biến nếu như không được kiểm soát tốt. Đối với trẻ: Dị tật thai nhi ; Thai to hoặc thai chậm tăng trưởng trong tử cung so với tuổi thai bình thường; Thai chết lưu ; Thai bị thiếu chất surfactant ở phế nang; Các rối loạn chuyển hóa lúc sơ sinh: Bệnh đa hồng cầu, tăng bilirubin gây vàng da.
+
+Hạ calci huyết, hạ đường huyết ở trẻ sơ sinh . Đối với sản phụ: Tăng huyết áp thai kỳ có nguy cơ bị tiền sản giật Đa ối, nguy cơ vỡ ối sớm Đái tháo đường thai kỳ có thể ảnh hưởng nghiêm trọng tới sức khỏe mẹ và bé nếu không được kiểm soát và ổn định đường huyết trong khi mang thai. Xem thêm: Đái tháo đường thai kỳ khi nào cần can thiệp bằng thuốc?
+2. Chẩn đoán đái tháo đường thai kỳ
+Thai phụ được tầm soát đái tháo đường bằng cách xét nghiệm và sử dụng các tiêu chuẩn để chẩn đoán bệnh. Hầu hết những sản phụ mang thai đều được khám và phát hiện các yếu tố nguy cơ mắc bệnh đái tháo đường, xét nghiệm đường huyết nếu bất thường thì cần làm nghiệm pháp tăng đường huyết lúc thai được từ 24-28 tuần tuổi. Những người có yếu tố nguy cơ cần tầm soát đái tháo đường thai kỳ gồm: Tuổi thai phụ cao, lớn hơn 37 tuổi Mắc bệnh thừa cân, béo phì Tiền sử gia đình cận huyết bị đái tháo đường (như cha mẹ, anh chị em ruột) Tiền sử sinh con nặng cân (cân nặng lúc sinh > 4000gam), đa ối Tiền sử thai chết lưu không có nguyên nhân Mắc hội chứng buồng trứng đa nang
+
+Các bước chẩn đoán và tầm soát đái tháo đường thai kỳ bằng một trong 2 phương pháp sau: Thời điểm thực hiện là phụ nữ có thai từ 24-26 tuần tuổi, chưa được chẩn đoán đái tháo đường trước đó. Phương pháp 1: Nghiệm pháp dung nạp glucose đường uống phải được thực hiện vào buổi sáng sau khi nhịn đói qua đêm ít nhất 8 giờ Sản phụ được dung nạp 75g glucose đường uống Xét nghiệm glucose huyết tương tại các thời điểm lúc đói, 1 giờ và 2 giờ sau khi uống glucose Đánh giá kết quả: Bệnh nhân được xác định là đái tháo đường thai kỳ khi thỏa mãn một trong các tiêu chuẩn dưới Đường huyết lúc đói ≥ 92 mg/dL (5,1 mmol/L) Đường huyết thời điểm 1 giờ ≥ 180 mg/dL (10,0 mmol/L) Đường huyết thời điểm 2 giờ ≥ 153 mg/dL (8,5 mmol/L) Phương pháp 2: Sản phụ trước thời điểm làm nghiệm pháp không cần nhịn đói Uống 50g glucose Đo glucose huyết tương thời điểm 1 giờ, nếu glucose huyết ở thời điểm 1 giờ ≥ 180mg/dL (10,0mmol/L), làm tiếp bước sau Bước sau sản phụ phải nhịn đói, làm nghiệm pháp dung nạp glucose với 100g glucose pha trong 250-300ml nước, đo glucose huyết lúc đói và tại thời điểm 1 giờ, 2 giờ, 3 giờ, sau khi uống glucose. Được chẩn đoán đái tháo đường thai kỳ khi ít nhất có 2 trong 4 giá trị mức glucose huyết sau uống 100mg lớn hơn hoặc bằng các ngưỡng sau đây: Lúc đói ≥ 95 mg/dL (5,3 mmol/L). Đường huyết thời điểm 1 giờ ≥ 180 mg/dL (10,0 mmol/L) Đường huyết thời điểm 2 giờ ≥ 155 mg/dL (8,6 mmol/L) Đường huyết thời điểm 3 giờ ≥ 140 mg/dL (7,8 mmol/L).
+3. Quản lý đái tháo đường thai kỳ thế nào?
+
+Sau khi đưa ra chẩn đoán xác định tình trạng đái tháo đường thai kỳ cần xác định được mức độ của bệnh, từ đó đưa ra phương pháp điều trị và quản lý bệnh đái tháo đường thai kỳ phù hợp với từng sản phụ. Sản phụ mắc bệnh đái tháo đường thai kỳ cần được điều trị về mức đường huyết tối ưu bằng thuốc và chế độ dinh dưỡng, tập luyện; theo dõi đường huyết thường xuyên, khi sinh và sau sinh. Các mục tiêu cần quản lý đái tháo đường thai kỳ bao gồm: Mục tiêu điều trị đái tháo đường thai kỳ: Đường huyết trước ăn nhỏ hơn hoặc bằng 95 mg/dl (5,3 mmol/L). Đường huyết sau ăn 1 giờ nhỏ hơn hoặc bằng 140 mg/dL (7,8 mmol/L). Đường huyết sau ăn 2 giờ nhỏ hơn hoặc bằng 120 mg/dL (6,7 mmol/L). Nguyên tắc điều trị đái tháo đường thai kỳ Khuyến cáo đạt được mục tiêu hoặc càng gần mục tiêu càng tốt, nhưng tránh những nguy cơ gây hạ đường huyết. Nếu mức đường huyết không cao quá thì điều trị bằng cách thay đổi chế độ ăn uống và tập luyện. Nếu vận động và thay đổi chế độ dinh dưỡng vẫn không đạt mức đường huyết mục tiêu, thì insulin được lựa chọn để kiểm soát đường huyết. Vận động, tập luyện: Tập thể dục mức độ trùng bình khoảng 30 phút mỗi ngày. Sao cho nhịp tim tăng khoảng 10-20%. Nên đi bộ nhẹ nhàng sau ăn khoảng 1 giờ từ 15-20 phút, đo đường huyết có xu hướng tăng sau ăn. Xem thêm: Lưu ý trong chế độ ăn cho người mắc đái tháo đường trong thai kỳ
+
+Chú ý: Vận động có chống chỉ định với các trường hợp dọa sinh non , vỡ ối sớm, hở eo tử cung xuất huyết âm đạo 3 tháng cuối thai kỳ, rau tiền đạo và tiền sản giật. Dinh dưỡng Chế độ dinh dưỡng rất quan trọng, có thể kiểm soát đường huyết ở hầu hết thai phụ. Kiểm soát lượng calo đưa vào cơ thể. Ưu tiên dùng các thực phẩm có lượng đường thấp, tăng cường protein và chất béo trong bữa ăn. Theo dõi bởi bác sĩ chuyên khoa nội tiết và phối hợp với bác sĩ sản để có biện pháp điều trị phù hợp nhất. Kiểm soát tốt đường huyết và theo dõi các biến chứng có thể xảy ra với sản phụ, thai nhi. Khi sản phụ chuyển dạ sinh, cần theo dõi đường huyết thường xuyên. Theo dõi các dấu hiệu bất thường khi chuyển dạ. Một số trường hợp sản phụ được chỉ định sử dụng insulin để đạt được mức đường huyết mục tiêu trước sinh thường hoặc sinh mổ . Sau khi sinh sản phụ sẽ được tầm soát bệnh đái tháo đường khoảng 6-12 tuần và tiếp tục theo dõi sau đó ít nhất 3 năm một lần để kịp phát hiện bệnh đái tháo đường hoặc tiền đái tháo đường. Quản lý đái tháo đường thai kỳ tốt làm giảm nguy cơ biến chứng cho mẹ và bé. Sản phụ không nên lơ là và bỏ qua việc theo dõi thường xuyên tình trạng của mình với bác sĩ chuyên khoa để có sức khỏe tốt khi sinh cho bản thân và trẻ sơ sinh. Tại Bệnh viện Đa khoa Quốc tế Vinmec hiện có dịch vụ thai sản trọn gói như một giải pháp giúp mẹ bầu an tâm vì đã có sự đồng hành của đội ngũ y bác sĩ trong suốt thai kỳ. Khi lựa chọn Thai sản trọn gói, thai phụ được: Quá trình mang thai được theo dõi bởi đội ngũ bác sĩ giàu chuyên môn Thăm khám đều đặn, phát hiện sớm các vấn đề bất thường Thai sản trọn gói giúp thuận tiện cho quá trình sinh đẻ Trẻ sơ sinh được chăm sóc toàn diện. Xem thêm : Hướng dẫn chẩn đoán đái tháo đường thai kỳ

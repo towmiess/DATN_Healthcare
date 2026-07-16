@@ -1,0 +1,78 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/risk-factors/diabetes-and-women-1.html",
+  "title": "Diabetes and Women - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:16.015468",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes and Women - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 646,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes and Women - CDC
+
+May 15, 2024
+
+Español
+
+Diabetes and Women
+
+Key points
+
+Diabetes can impact sexual and reproductive health for women.
+
+Women with diabetes have a higher risk of complications like heart disease, vision loss, kidney disease and depression.
+
+African American, Hispanic/Latina, American Indian/Alaska Native, and Asian/Pacific Islander women are more likely to have diabetes than White women.
+
+Diabetes and sexual health
+Infections
+Many women will get a vaginal yeast infection at some point, but women with diabetes have a higher risk, especially if their blood sugar levels are high. Women with diabetes also have a higher risk of urinary tract infections (UTIs). When your blood sugar is high, you may release excess sugar in your urine, which encourages yeast and bacteria to grow.
+What you can do
+To prevent yeast infections and UTIs, keep your blood sugar levels as close to your target range as possible. Drink lots of water, wear cotton underwear, and urinate often instead of waiting until your bladder is full.
+Sex
+Diabetes can lower your interest in sex and your ability to enjoy it. For some women, vaginal dryness can make intercourse uncomfortable or even painful. Diabetes can cause nerve damage, reduced blood flow, and hormonal changes.
+What you can do
+Be sure to talk to your doctor if you're having any sexual issues to find out your options. Your doctor may suggest using vaginal lubricants or exercises that can increase sexual response.
+
+Reproductive health
+Birth control
+Many women choose to use birth control to prevent pregnancy or for other health reasons. There are many types of birth control methods, including intrauterine devices (IUDs), implants, injections, pills, patches, vaginal rings, and barrier methods like condoms and diaphragms.
+What you can do
+If you have diabetes, it's important to consider this and talk to your doctor as you choose the right birth control method for you. Be sure to monitor your blood sugar to see how a new medication or birth control method impacts you.
+Pregnancy
+
+If you want to have a baby, planning ahead is really important. High blood sugar can cause problems during pregnancy for you and the baby. For this reason, it is safest to make sure your blood sugar levels are in your target range before becoming pregnant. Diabetes can make it harder to get pregnant, and high blood sugar can increase your risk for:
+
+Preeclampsia (high blood pressure)
+
+Delivery by cesarean section (C-section)
+
+Miscarriage or stillbirth
+
+High blood sugar during pregnancy can cause birth defects as the baby's organs are forming. Other risks to the baby include:
+
+Being born too early
+
+Breathing problems or low blood sugar right after birth
+
+What you can do
+Work with your health care team to get your blood sugar levels in your target range. Healthy eating and being active can help you manage your blood sugar levels. Monitor often as your blood sugar can quickly change.
+Keep Reading:
+Type 1 Diabetes and Pregnancy
+
+Diabetes and menopause
+After menopause, your body makes less estrogen, which can cause unpredictable ups and downs in blood sugar. You may gain weight, which increases your need for insulin or other diabetes medicines. Hot flashes and night sweats may disrupt your sleep, making managing blood sugar harder. This is also a time when sexual problems can occur, such as vaginal dryness or nerve damage.
+What you can do
+Ask your doctor about ways you can manage menopause symptoms. If your blood sugar levels have changed, your doctor may need to adjust your diabetes medicines. Heart disease risk goes up after menopause, so make healthy lifestyle choices. These behavior changes like healthy eating and being active help to manage both diabetes and heart disease risks.
+
+Diabetes is common in older women
+Based on 2022 estimates from the National Health Interview Survey, approximately 19% of women 65 or older have been diagnosed with diabetes. That's over 5.8 million women.
+
+May 15, 2024

@@ -1,0 +1,39 @@
+===METADATA===
+{"title": "Canh atiso tim gà", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh atiso tim gà
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: atiso, tim gà, cynarin, mật mã
+
+Mô tả: Atiso chứa cynarin giảm cholesterol và hỗ trợ chức năng gan thận cho bệnh nhân TĐ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.0
+Calo: 155 kcal
+Chất đạm (protein): 18.5 g
+Chất béo tổng: 6.5 g (bão hòa: 1.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.5 g (chất xơ: 4.2 g, đường: 1.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 165 mg | Natri: 375 mg
+Kali: 488 mg | Phốt pho: 195 mg | Magie: 42 mg
+Canxi: 48 mg | Sắt: 2.5 mg | Vitamin D: 0.5 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Cynarin từ atiso hỗ trợ gan thận - quan trọng cho biến chứng TĐ
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Dị ứng họ cúc thận trọng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: cao
+
+--- Nguyên liệu ---
+1 bông atiso
+100g tim gà
+2 tép tỏi
+Gừng
+
+--- Cách chế biến ---
+1. Atiso bỏ lá ngoài lấy tâm
+2. Đun sôi nước với atiso 20 phút
+3. Xào tim gà gừng tỏi
+4. Cho tim gà vào nước atiso
+5. Nấu thêm 10 phút nêm gia vị

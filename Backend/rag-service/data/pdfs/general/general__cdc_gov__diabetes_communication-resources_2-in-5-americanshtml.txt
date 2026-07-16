@@ -1,0 +1,79 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/communication-resources/2-in-5-americans.html",
+  "title": "2 in 5 Americans - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:07:12.307973",
+  "source_name": "cdc.gov",
+  "document_title": "2 in 5 Americans - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 268,
+  "verified_by_doctor": false
+}
+===CONTENT===
+2 in 5 Americans - CDC
+
+2 in 5 Americans Expected to Develop Diabetes Social Media Graphic
+
+May 15, 2024
+
+Key points
+
+Graphic text: 2 in 5 Americans are expected to develop type 2 diabetes in their lifetime.
+Social media graphic available in blue and white backgrounds for X (formerly Twitter), Facebook, Pinterest, and LinkedIn.
+
+Format: JPG Dimensions: 600 x 600 pixels Language: English (US) Size: 80 KB Length:
+
+View
+
+Download
+View Larger
+
+Additional formats (blue and white backgrounds)
+
+2in5_blue - X
+Graphic text: 2 in 5 Americans are expected to develop type 2 diabetes in their lifetime.
+Aug. 8, 2022
+Download
+Download
+2in5_blue - Facebook
+Graphic text: 2 in 5 Americans are expected to develop type 2 diabetes in their lifetime.
+Aug. 8, 2022
+Download
+Download
+2in5_blue - Pinterest
+Graphic text: 2 in 5 Americans are expected to develop type 2 diabetes in their lifetime.
+Aug. 8, 2022
+Download
+Download
+2in5_blue - LinkedIn
+Graphic text: 2 in 5 Americans are expected to develop type 2 diabetes in their lifetime.
+Aug. 7, 2022
+Download
+Download
+2in5_white - X
+Graphic text: 2 in 5 Americans are expected to develop type 2 diabetes in their lifetime.
+Aug. 8, 2022
+Download
+Download
+2in5_white - Facebook
+Graphic text: 2 in 5 Americans are expected to develop type 2 diabetes in their lifetime.
+Aug. 8, 2022
+Download
+Download
+2in5_white - Pinterest
+Graphic text: 2 in 5 Americans are expected to develop type 2 diabetes in their lifetime.
+Aug. 8, 2022
+Download
+Download
+2in5_white - LinkedIn
+Graphic text: 2 in 5 Americans are expected to develop type 2 diabetes in their lifetime.
+Aug. 7, 2022
+Download
+Download
+
+May 15, 2024

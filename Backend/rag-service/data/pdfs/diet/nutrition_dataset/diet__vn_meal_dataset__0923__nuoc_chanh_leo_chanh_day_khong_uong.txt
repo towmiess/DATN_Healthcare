@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Nước chanh leo (chanh dây) không đường", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Nước chanh leo (chanh dây) không đường
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: chanh leo, chanh dây, vitamin C, ít đường
+
+Mô tả: Chanh dây nguyên chất không thêm đường, vitamin C và chất xơ pectin cao.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.0
+Calo: 48 kcal
+Chất đạm (protein): 1.0 g
+Chất béo tổng: 0.4 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 11.5 g (chất xơ: 3.5 g, đường: 7.5 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 5 mg
+Kali: 225 mg | Phốt pho: 28 mg | Magie: 18 mg
+Canxi: 8 mg | Sắt: 0.3 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Pectin chanh dây hỗ trợ làm chậm hấp thu glucose
+Khẩu phần khuyến nghị: 1 quả/200ml nước
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+1 quả chanh dây
+200ml nước
+
+--- Cách chế biến ---
+1. Lấy ruột chanh dây
+2. Pha với nước
+3. Lọc hạt nếu muốn, không thêm đường

@@ -1,0 +1,30 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/causes",
+  "title": "Type 2 causes",
+  "category": "diagnosis",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:07:26.379360",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Type 2 causes",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 891,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Type 2 causes
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+What causes type 2 diabetes?
+
+Type 2 diabetes causes Type 2 diabetes is high blood sugar levels caused by a lack of a hormone called insulin. Either your body isn’t making enough or the insulin it makes doesn’t work properly. This is sometimes called insulin resistance . Lack of insulin causes glucose from what you eat or drink to build up in your blood. So you may get symptoms of type 2 diabetes . If you have enough insulin or it is working properly, the glucose in your blood should be released into your cells to give you energy. If you do not have enough insulin - or the insulin your body produces is not working properly — the glucose in your blood cannot enter your cells and give you energy. And your blood sugar levels keep rising. We understand that being diagnosed with type 2 diabetes can be shocking and overwhelming, and we're here for you. We can offer you all the information, practical tips and guidance you need in bite sized blocks through our email support journey. There are a variety of factors which can increase your risk of developing type 2 diabetes. We call them the risk factors of type 2 diabetes. Some of these risk factors are: Living with obesity or overweight. Your waist measurement is unhealthy for your gender or ethnicity. Too much fat stored in or around your liver and pancreas – which can affect people of a healthy weight as well as people living with obesity or overweight. high blood pressure age ethnicity. family history. Some of these are things you can’t change, like your age (your risk goes up as you get older), your ethnicity (people from African Caribbean, Black African or South Asian backgrounds are at higher risk – and from a younger age), and if family members have type 2 diabetes. But there are some risk factors that you may be able to change, like your weight or waist size . If you live with obesity or overweight, it’s harder for your body to manage the levels of sugar in your blood, and having a high waist measurement means you’re more at risk of insulin resistance. Our research has linked type 2 diabetes with fat surrounding the liver and pancreas . Not being active for most of the day is also a risk factor. We know that moving more will help reduce your risk of developing type 2 diabetes. What causes type 2 diabetes in children and young people Type 2 diabetes in children is less common than it is in adults but the causes are the same. Living with obesity or overweight is the main factor along with ethnicity and family history. There are now more young people (under 18) being diagnosed with type 2 diabetes. Read our information on children and type 2 diabetes Can food causes type 2 diabetes? Eating certain food can’t cause type 2 diabetes. But there are some foods that increase your risk of developing type 2 diabetes including: Sugary drinks Refined carbs like white bread, white rice and sugary breakfast cereal Red and processed meats like ham and sausages Salt, particularly in processed food, (increases blood pressure which increase risk of type 2 diabetes) And some types of food can actually help reduce your risk of type 2 diabetes. This includes some types of fruit and veg, unsweetened yoghurt, milk, cheese and oily fish. Find out more in our 10 tips for healthy eating if you are at risk of type 2 diabetes . You can also reduce your risk of type 2 diabetes by including more fruit, veg and yoghurt (unsweetened) and cheese into your diet. Is type 2 diabetes caused by diet? We know there is a link between having certain foods and drinks, and an increased risk of type 2 diabetes. These include full sugar fizzy and energy drinks, refined carbs such as white bread, white rice and sugary breakfast cereals and red and processed meats like bacon, ham, sausages, pork, beef and lamb are linked with an increased risk of type 2 diabetes. Is type 2 diabetes caused by living with obesity and overweight? Having obesity is the biggest risk factor for developing type 2 diabetes as this can cause insulin resistance. But not everyone who is living with obesity or overweight develops type 2 diabetes as it is also linked to family history (genetics). Around 10% of people with type 2 diabetes have a healthy BMI. If you're living with obesity or overweight, find out how genes protect or increase your risk of type 2 diabetes . Is type 2 diabetes genetic? (passed down through the family) If your family has a history of diabetes, it increases your risk of type 2 diabetes. If you have a close blood relative with diabetes, you’re two to six times more likely to develop type 2 diabetes. So that could be a parent, brother, sister or a child. There’s no one single gene linked to type 2 diabetes. It has been linked to hundreds of genes and increases all the time. Find out more about genes and diabetes .
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Share this Page

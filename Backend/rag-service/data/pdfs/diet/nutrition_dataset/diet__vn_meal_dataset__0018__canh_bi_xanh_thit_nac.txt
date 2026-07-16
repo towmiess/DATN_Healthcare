@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Canh bí xanh thịt nạc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh bí xanh thịt nạc
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: bí xanh, thịt nạc, ít calo, mát
+
+Mô tả: Bí xanh ít calo, nhiều nước, giúp kiểm soát cân nặng và đường huyết.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.8
+Calo: 115 kcal
+Chất đạm (protein): 15.5 g
+Chất béo tổng: 4.2 g (bão hòa: 1.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.5 g (chất xơ: 2.5 g, đường: 2.8 g, đường bổ sung: 0.0 g)
+Cholesterol: 40 mg | Natri: 340 mg
+Kali: 385 mg | Phốt pho: 148 mg | Magie: 28 mg
+Canxi: 28 mg | Sắt: 0.8 mg | Vitamin D: 0.2 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít calo phù hợp kiểm soát cân nặng
+Khẩu phần khuyến nghị: 1 tô lớn/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g bí xanh
+60g thịt nạc heo
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Phi tỏi
+2. Xào thịt sơ
+3. Đổ nước sôi
+4. Cho bí xanh vào nấu 8 phút
+5. Nêm gia vị

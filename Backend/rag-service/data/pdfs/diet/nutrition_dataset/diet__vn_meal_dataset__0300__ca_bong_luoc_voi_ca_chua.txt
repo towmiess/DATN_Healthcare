@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá bống luộc với cà chua", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá bống luộc với cà chua
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: cá bống, cà chua, protein, luộc
+
+Mô tả: Cá bống luộc với cà chua là món luộc kết hợp cá bống và cà chua, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 154 kcal
+Chất đạm (protein): 23.5 g
+Chất béo tổng: 10.2 g (bão hòa: 2.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.1 g (chất xơ: 4.5 g, đường: 1.7 g, đường bổ sung: 0.0 g)
+Cholesterol: 65 mg | Natri: 415 mg
+Kali: 221 mg | Phốt pho: 247 mg | Magie: 69 mg
+Canxi: 38 mg | Sắt: 1.8 mg | Vitamin D: 0.0 mcg | Omega-3: 1.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Thịt nạc; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g cá bống
+200g cà chua
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cá bống và cà chua
+2. Luộc theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

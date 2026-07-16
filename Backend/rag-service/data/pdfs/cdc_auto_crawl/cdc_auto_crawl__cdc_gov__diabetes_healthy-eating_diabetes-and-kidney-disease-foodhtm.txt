@@ -1,0 +1,74 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/healthy-eating/diabetes-and-kidney-disease-food.html",
+  "title": "Diabetes and Kidney Disease: What to Eat?",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:13:59.157206",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes and Kidney Disease: What to Eat?",
+  "extraction_method": "<main>",
+  "word_count": 910,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes and Kidney Disease: What to Eat?
+
+May 15, 2024
+
+Español
+
+Diabetes and Kidney Disease: What to Eat?
+
+What to know
+
+About 1 in 3 American adults with diabetes also has chronic kidney disease (CKD). Figuring out what to eat can be a major challenge. Diabetes and CKD diets share many of the same foods, but there are some important differences. Read on for the basics.
+
+Diabetes diet
+A healthy diabetes diet looks pretty much like a healthy diet for anyone. Eat lots of fruits, veggies, healthy fats, and lean protein. Eat less salt, sugar, and foods high in refined carbs (cookies, crackers, and soda, just to name a few).
+Your individual carb goal is based on your age, activity level, any medicines you take, and other factors. Following your meal plan will help keep blood sugar levels in your target range. This will also prevent more damage to your kidneys.
+
+Kidney diet
+With a CKD diet, you'll avoid or limit certain foods to protect your kidneys. You'll include other foods to give you energy and keep you nourished. Your specific diet will depend on whether you're in early-stage or late-stage CKD or if you're on dialysis.
+Foods to limit
+Eat less salt/sodium. Over time, your kidneys lose the ability to control your sodium-water balance. Less sodium in your diet will help lower blood pressure. It will also decrease fluid buildup in your body, which is common in kidney disease.
+Focus on fresh, homemade food to better control the amount of sodium in your food. Eat only small amounts of restaurant food and packaged food, which usually have lots of sodium. Look for low sodium (5% or less) on food labels.
+In a week or two, you'll get used to less salt in your food. Add flavor with herbs, spices, mustard, and flavored vinegars. But don't use salt substitutes unless your doctor or dietitian says you can. Many are very high in potassium, which you may need to limit.
+Depending on your kidney disease stage, you may also need to reduce the potassium, phosphorus , and protein in your diet. Many foods that are part of a typical healthy diet may not be right for a CKD diet.
+Phosphorus is a mineral that keeps your bones strong and other parts of your body healthy. Your kidneys can't remove extra phosphorus from your blood very well. Too much weakens bones and can damage your blood vessels, eyes, and heart. Meat, dairy, beans, nuts, whole-grain bread, and dark-colored sodas are high in phosphorus. Phosphorus is also added to lots of packaged foods.
+The right level of potassium keeps your nerves and muscles working well. With CKD, too much potassium can build up in your blood and cause serious heart problems. Oranges, potatoes, tomatoes, whole-grain bread, and many other foods are high in potassium. Apples, carrots, and white bread are lower in potassium. Your doctor may prescribe a potassium binder, a medicine that helps your body get rid of extra potassium.
+Eat the right amount of protein . More protein than you need makes your kidneys work harder and may make CKD worse. But too little isn't healthy either. Both animal and plant foods have protein. Your dietitian can help you figure out the right combination and amount of protein to eat.
+
+Say no to herbal supplements
+Herbal supplements aren't safe if you have kidney disease. Some can hurt your kidneys and even make kidney disease worse. Some vitamins can cause kidney problems too and should also be avoided. Always talk to your doctor before taking any supplements or vitamins.
+
+Diabetes and CKD foods
+Below are just a few examples of foods a person with both diabetes and CKD can eat. Your dietitian can give you more suggestions and help you find recipes for tasty meals:
+
+Fruits : berries, grapes, cherries, apples, plums
+
+Veggies : cauliflower, onions, eggplant, turnips
+
+Proteins : lean meats (poultry, fish), eggs, unsalted seafood
+
+Carbs : white bread, bagels, sandwich buns, unsalted crackers, pasta
+
+Drinks : water, clear diet sodas, unsweetened tea
+
+Here's one way your CKD diet and diabetes diet can work together. If you drink orange juice to treat low blood sugar, switch to kidney-friendly apple or grape juice. You'll get the same blood-sugar boost with a lot less potassium.
+
+Late-stage CKD
+Your nutrition needs will change with late-stage CKD. If you're on dialysis, you may need to eat more, especially more protein. Your appetite can change because food tastes different.
+Dialysis filters your blood like kidneys do, but it doesn't work as well as healthy kidneys. Fluid can build up in your body between treatments. You may need to limit how much fluid you drink. You'll need to watch for swelling around your eyes or in your legs, arms, or belly.
+Your blood sugar levels can actually get better with late-stage CKD. This may happen because of changes in how your body uses insulin. But when you're on dialysis, your blood sugar can increase. This is because the fluid used to filter your blood is high in glucose (sugar). Your need for insulin and other diabetes medicines will be hard to predict, so your doctor will monitor you closely.
+Keep Reading:
+Chronic Kidney Disease Basics
+
+See your dietitian
+CKD and diabetes both change over time, and so will your diet. Be sure to check in with your dietitian as recommended. You'll get the support and confidence you need to manage your meals, solve any problems, and be your healthiest.
+
+May 14, 2024
+
+Syndicate

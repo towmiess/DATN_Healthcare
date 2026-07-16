@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Cháo nấm hương đậu phộng", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cháo nấm hương đậu phộng
+Loại món: Cơm/Bún/Phở, Chay | Ẩm thực: Vietnamese
+Từ khóa: cháo, nấm, đậu phộng, beta-glucan
+
+Mô tả: Cháo nấm hương chay, beta-glucan nấm và protein đậu phộng ít đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 4.2
+Calo: 218 kcal
+Chất đạm (protein): 9.5 g
+Chất béo tổng: 9.5 g (bão hòa: 1.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 25.5 g (chất xơ: 4.5 g, đường: 1.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 185 mg
+Kali: 365 mg | Phốt pho: 165 mg | Magie: 52 mg
+Canxi: 28 mg | Sắt: 2.2 mg | Vitamin D: 0.8 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Beta-glucan nấm hỗ trợ ổn định đường huyết hiệu quả
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Dị ứng đậu phộng thận trọng
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+80g gạo lứt
+100g nấm hương
+20g đậu phộng
+Gừng
+
+--- Cách chế biến ---
+1. Nấu cháo gạo lứt đặc
+2. Xào nấm hương
+3. Cho vào cháo
+4. Rắc đậu phộng rang

@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 80-100)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Cua đồng, tươi: 87 kcal/100g | đạm 12.3g | béo 3.3g | carb 2g
+- Cua ghẹ, tươi: 54 kcal/100g | đạm 11.9g | béo 0.7g | carb 0g
+- Dạ dày bò, tươi: 97 kcal/100g | đạm 14.8g | béo 4.2g | carb 0g
+- Dạ dày lợn, luộc: 106 kcal/100g | đạm 18.2g | béo 3.6g | carb 0g
+- Dạ dày lợn, tươi: 85 kcal/100g | đạm 14.6g | béo 2.9g | carb 0g
+- Dăm bông lợn: 318 kcal/100g | đạm 23g | béo 25g | carb 0.3g
+- Đào, tươi: 37 kcal/100g | đạm 0.9g | béo 0.2g | carb 7.8g
+- Đầu bò, tươi: 185 kcal/100g | đạm 18.1g | béo 12.5g | carb 0g
+- Dầu bông: 900 kcal/100g | đạm 0g | béo 100g | carb 0g
+- Dầu cám gạo: 900 kcal/100g | đạm 0g | béo 100g | carb 0g
+- Dầu cọ: 900 kcal/100g | đạm 0g | béo 100g | carb 0g
+- Dầu đậu tương: 900 kcal/100g | đạm 0g | béo 100g | carb 0g
+- Dầu dừa: 900 kcal/100g | đạm 0g | béo 100g | carb 0g
+- Dâu gia, tươi: 27 kcal/100g | đạm 0.6g | béo 0g | carb 6.2g
+- Dầu hỗn hợp: 897 kcal/100g | đạm 0g | béo 99.7g | carb 0g
+- Dầu lạc: 900 kcal/100g | đạm 0g | béo 100g | carb 0g
+- Đầu lợn, tươi: 335 kcal/100g | đạm 13.4g | béo 31.3g | carb 0g
+- Dầu mè: 900 kcal/100g | đạm 0g | béo 100g | carb 0g
+- Dầu ngô: 900 kcal/100g | đạm 0g | béo 100g | carb 0g
+- Dầu oliu: 900 kcal/100g | đạm 0g | béo 100g | carb 0g

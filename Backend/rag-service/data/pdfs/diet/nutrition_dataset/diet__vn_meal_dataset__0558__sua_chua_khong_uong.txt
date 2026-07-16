@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Sữa chua không đường", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Sữa chua không đường
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: khoai lang hấp, bữa phụ, ít calo, GI thấp
+
+Mô tả: Sữa chua không đường bữa phụ lành mạnh (biến thể 82) là món nấu canh kết hợp nấm rơm và nấm rơm, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 70 kcal
+Chất đạm (protein): 6.7 g
+Chất béo tổng: 1.8 g (bão hòa: 0.4 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.7 g (chất xơ: 1.4 g, đường: 4.1 g, đường bổ sung: 0.0 g)
+Cholesterol: 75 mg | Natri: 483 mg
+Kali: 550 mg | Phốt pho: 225 mg | Magie: 63 mg
+Canxi: 30 mg | Sắt: 3.0 mg | Vitamin D: 0.2 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Bữa phụ/Snack; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+1 phần khoai lang hấp (~80-100g)
+
+--- Cách chế biến ---
+1. Chuẩn bị khoai lang hấp theo khẩu phần khuyến nghị
+2. Dùng làm bữa phụ giữa các bữa chính
+3. Không thêm đường hoặc muối

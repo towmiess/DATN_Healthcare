@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá lóc luộc kiểu Việt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá lóc luộc kiểu Việt
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: cá lóc, ớt chuông, protein, luộc
+
+Mô tả: Cá lóc luộc kiểu Việt là món luộc kết hợp cá lóc và ớt chuông, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.1
+Calo: 148 kcal
+Chất đạm (protein): 27.0 g
+Chất béo tổng: 11.5 g (bão hòa: 2.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.7 g (chất xơ: 3.4 g, đường: 1.1 g, đường bổ sung: 0.0 g)
+Cholesterol: 165 mg | Natri: 446 mg
+Kali: 385 mg | Phốt pho: 189 mg | Magie: 58 mg
+Canxi: 140 mg | Sắt: 2.9 mg | Vitamin D: 0.0 mcg | Omega-3: 2.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Thịt nạc; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g cá lóc
+200g ớt chuông
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cá lóc và ớt chuông
+2. Luộc theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

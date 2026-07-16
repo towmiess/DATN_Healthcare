@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Gỏi cải cúc rau thơm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Gỏi cải cúc rau thơm
+Loại món: Gỏi/Salad, Rau | Ẩm thực: Vietnamese
+Từ khóa: cải cúc, rau thơm, flavonoid, chất xơ
+
+Mô tả: Cải cúc và rau thơm hỗn hợp cung cấp đa dạng flavonoid và chất xơ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.8
+Calo: 38 kcal
+Chất đạm (protein): 3.5 g
+Chất béo tổng: 0.5 g (bão hòa: 0.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 4.5 g (chất xơ: 3.5 g, đường: 0.8 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 58 mg
+Kali: 298 mg | Phốt pho: 55 mg | Magie: 28 mg
+Canxi: 75 mg | Sắt: 2.2 mg | Vitamin D: 0.3 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Đa dạng flavonoid rau thơm tốt toàn diện cho TĐ
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g cải cúc
+100g rau thơm tổng hợp
+1 muỡng dầu oliu
+Chanh
+
+--- Cách chế biến ---
+1. Rửa rau sạch
+2. Trộn với dầu oliu chanh
+3. Nêm ít muối

@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Rau ngót luộc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Rau ngót luộc
+Loại món: Hấp/Luộc, Rau | Ẩm thực: Vietnamese
+Từ khóa: rau ngót, folate, sắt, vitamin C
+
+Mô tả: Rau ngót luộc đơn giản, giàu folate và sắt, tốt nhất cho phụ nữ mang thai TĐ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 38 kcal
+Chất đạm (protein): 4.5 g
+Chất béo tổng: 0.5 g (bão hòa: 0.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 4.2 g (chất xơ: 3.5 g, đường: 0.8 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 52 mg
+Kali: 468 mg | Phốt pho: 82 mg | Magie: 32 mg
+Canxi: 82 mg | Sắt: 3.5 mg | Vitamin D: 0.1 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Folate cao đặc biệt tốt TĐ thai kỳ
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+250g rau ngót
+Tỏi phi ít dầu
+
+--- Cách chế biến ---
+1. Nhặt lá rau ngót
+2. Luộc 2 phút
+3. Vớt ra ngay
+4. Rưới tỏi phi nhẹ

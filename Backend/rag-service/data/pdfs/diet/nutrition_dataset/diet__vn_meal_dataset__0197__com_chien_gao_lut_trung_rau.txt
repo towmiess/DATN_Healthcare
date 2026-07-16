@@ -1,0 +1,40 @@
+===METADATA===
+{"title": "Cơm chiên gạo lứt trứng rau", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cơm chiên gạo lứt trứng rau
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: cơm chiên, gạo lứt, trứng, rau
+
+Mô tả: Cơm chiên gạo lứt ít dầu hơn cơm chiên thường, thêm nhiều rau xanh.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 9.2
+Calo: 298 kcal
+Chất đạm (protein): 15.5 g
+Chất béo tổng: 9.5 g (bão hòa: 2.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 35.5 g (chất xơ: 4.5 g, đường: 1.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 185 mg | Natri: 358 mg
+Kali: 385 mg | Phốt pho: 185 mg | Magie: 52 mg
+Canxi: 42 mg | Sắt: 2.5 mg | Vitamin D: 0.8 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Nguy cơ đột quỵ
+Ghi chú phù hợp: Gạo lứt + nhiều rau giảm GI; tim mạch hạn chế dầu
+Khẩu phần khuyến nghị: 1 đĩa vừa/bữa
+Chống chỉ định / thận trọng: Tim mạch hạn chế dầu
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+150g cơm gạo lứt nguội
+2 trứng
+200g rau hỗn hợp
+1 tép tỏi
+1 muỡng dầu
+
+--- Cách chế biến ---
+1. Phi tỏi
+2. Xào trứng
+3. Cho cơm vào đảo đều
+4. Thêm rau xào thêm 2 phút
+5. Nêm ít muối

@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Ngao hấp kiểu miền Trung", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Ngao hấp kiểu miền Trung
+Loại món: Cá/Hải sản | Ẩm thực: Vietnamese
+Từ khóa: ngao, cà chua, protein, hấp
+
+Mô tả: Ngao hấp kiểu miền Trung là món hấp kết hợp ngao và cà chua, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 128 kcal
+Chất đạm (protein): 25.5 g
+Chất béo tổng: 5.4 g (bão hòa: 1.9 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.5 g (chất xơ: 3.0 g, đường: 1.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 165 mg | Natri: 219 mg
+Kali: 265 mg | Phốt pho: 174 mg | Magie: 25 mg
+Canxi: 41 mg | Sắt: 3.5 mg | Vitamin D: 0.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Cá/Hải sản; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g ngao
+200g cà chua
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế ngao và cà chua
+2. Hấp theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

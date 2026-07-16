@@ -1,0 +1,32 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb;MODE=PostgreSQL;DB_CLOSE_DELAY=-1
+    username: sa
+    password:
+    driver-class-name: org.h2.Driver
+  jpa:
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.H2Dialect
+  data:
+    redis:
+      host: localhost
+      port: 6379
+
+eureka:
+  client:
+    enabled: false
+
+app:
+  gateway:
+    internal-secret: test-internal-secret
+
+jwt:
+  access:
+    expiration: 1800000
+    secret: Y2hhbmdlLW1lLWFjY2Vzcy1zZWNyZXQtMzItYnl0ZXMhIQ==
+  refresh:
+    expiration: 1209600000
+    secret: Y2hhbmdlLW1lLXJlZnJlc2gtc2VjcmV0LTMyYnl0ZXMh

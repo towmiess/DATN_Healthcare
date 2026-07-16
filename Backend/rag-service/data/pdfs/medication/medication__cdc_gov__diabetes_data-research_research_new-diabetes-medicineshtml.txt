@@ -1,0 +1,67 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/data-research/research/new-diabetes-medicines.html",
+  "title": "Use of New Diabetes Medicines - CDC",
+  "category": "medication",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:11:39.438698",
+  "source_name": "cdc.gov",
+  "document_title": "Use of New Diabetes Medicines - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 448,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Use of New Diabetes Medicines - CDC
+
+May 15, 2024
+
+Use of New Diabetes Medicines
+
+Key points
+
+Recent guidelines from the American Diabetes Association (ADA) and European Association for the Study of Diabetes (EASD) recommend newer types of diabetes medications.
+
+CDC researchers found that most Americans living with type 2 diabetes are eligible under these new guidelines.
+
+What did this study examine?
+In 2022, the ADA and EASD jointly released new medication recommendations for adults with type 2 diabetes. They recommended newer types of diabetes medications as first-line (first recommended) treatment for adults with type 2 diabetes who also have:
+
+A heart disease called atherosclerotic cardiovascular disease (ASCVD).
+
+Heart failure.
+
+Kidney disease.
+
+High risk for ASCVD.
+
+This study examined how many US adults with type 2 diabetes would meet the recommended criteria to use these medications.
+Terms to know
+Glucagon-like peptide-1 receptor agonists, or GLP-1s, are a type of medicine for people with diabetes. They lower blood sugar levels, can help with weight loss, and protect the heart and kidneys.
+Sodium-glucose cotransporter-2 inhibitors, or SGLT-2s are a type of medicine for people with diabetes. Similar to GLP-1s, they lower blood sugar levels, can help with weight loss, and protect the heart and kidneys. Because GLP-1s and SGLT-2s work in different ways, they can be taken together.
+Atherosclerotic cardiovascular disease, also known as ASCVD, is a type of heart disease where blood vessels are narrowed or damaged. People at high risk of ASCVD were defined as being over age 55 and having 2 or more risk factors:
+
+Obesity
+
+Hypertension
+
+High cholesterol
+
+Kidney disease
+
+Current smoking
+
+Study results
+CDC researchers studied 1,330 nonpregnant adults with type 2 diabetes between 2017 and 2020.
+Researchers estimate that with new ADA and EASD guidelines, 82% of US adults with type 2 diabetes may be eligible to take a GLP-1, or SGLT-2, or both. They also estimate that almost all Medicare beneficiaries with type 2 diabetes may be eligible to take these medicines.
+Very few US adults were taking GLP-1s or SGLT-2s during the study timeframe (2017-2020). This is because they were not yet approved for first-line treatment. Only 9% were already taking either a GLP-1 or an SGLT-2 medication.
+
+What's important about this study?
+This study showed that over 8 in 10 US adults with type 2 diabetes are eligible for new, effective diabetes medicines.
+These medicines are not just beneficial for blood sugar management. They also help reduce risk for diabetes complications by protecting the heart and kidneys, and help people lose weight if needed.
+Currently, these medicines are expensive, and cost may be a barrier for many people with type 2 diabetes. More research on cost-effectiveness can help guide diabetes interventions at a sustainable cost.
+
+May 15, 2024

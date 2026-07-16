@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Chuối xanh (chưa chín)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Chuối xanh (chưa chín)
+Loại món: Trái cây | Ẩm thực: Vietnamese
+Từ khóa: resistant starch, GI thấp hơn nhiều, tinh bột kháng
+
+Mô tả: Chuối xanh chứa tinh bột kháng (resistant starch) GI thấp hơn nhiều so với chuối chín.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 100g (phần ăn được)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 4.5
+Calo: 89 kcal
+Chất đạm (protein): 1.1 g
+Chất béo tổng: 0.3 g (bão hòa: 0.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 22.8 g (chất xơ: 2.6 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 1 mg
+Kali: 358 mg | Phốt pho: 22 mg | Magie: 27 mg
+Canxi: 5 mg | Sắt: 0.3 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Tinh bột kháng GI thấp hơn chuối chín - lựa chọn tốt hơn cho TĐ
+Khẩu phần khuyến nghị: 1 quả nhỏ/lần (hấp hoặc luộc)
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g chuối xanh (chưa chín) (phần ăn được)
+
+--- Cách chế biến ---
+1. Rửa sạch chuối xanh (chưa chín)
+2. Gọt vỏ/bỏ hạt nếu cần
+3. Ăn trực tiếp, không thêm đường

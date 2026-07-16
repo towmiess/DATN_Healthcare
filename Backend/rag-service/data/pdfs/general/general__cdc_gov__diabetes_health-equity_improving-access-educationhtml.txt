@@ -1,0 +1,72 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/health-equity/improving-access-education.html",
+  "title": "Improving Access to Diabetes Education - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:33.040153",
+  "source_name": "cdc.gov",
+  "document_title": "Improving Access to Diabetes Education - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 489,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Improving Access to Diabetes Education - CDC
+
+May 15, 2024
+
+Improving Access to Diabetes Education
+
+Key points
+
+Diabetes self-management education and support (DSMES) offers personalized services to help people with diabetes reach their goals for living well with diabetes.
+
+CDC is working to identify and remove barriers to increase participation in DSMES.
+
+DSMES and health equity
+DSMES provides personalized services to help people with diabetes improve their health outcomes. DSMES can also help lower health care costs by reducing hospitalizations, hospital re-admissions, and emergency room visits.
+DSMES services are especially critical for communities with limited resources and populations that have higher rates of diabetes and higher risk of complications.
+Although DSMES is proven to help people with diabetes, less than 7% of people with Medicare or private insurance participate in their first year of type 2 diabetes diagnosis.
+
+Reaching people with limited access
+DSMES best practices
+CDC developed a practice-based guide (see Resources below) to share lessons learned from DSMES programs that have reached priority populations such as:
+
+Racial and ethnic minority groups.
+
+People with lower incomes.
+
+People living in rural areas.
+
+Pharmacy-based DSMES
+In many communities, pharmacists are among the most accessible health care professionals. People with diabetes see a pharmacist 7 times more often than they see a doctor.
+Pharmacists are an important part of the health care team. They can provide DSMES directly in a pharmacy, clinic, hospital, or long-term care facility. CDC supports and promotes pharmacy-based DSMES as a proven way to expand access to reach populations with health care barriers.
+Community health workers
+A community health worker (CHW) is a frontline public health worker who is a trusted member of the community. Because CHWs understand the cultures in their communities, they can help people access DSMES. CHWs can provide outreach, education, informal counseling, social support, and advocacy.
+CDC supports and provides technical assistance to help CHWs deliver DSMES services in priority communities.
+Telehealth
+Technology and innovative funding have made telehealth an effective way to address some barriers to DSMES services. Telehealth is promising because:
+
+It can reach more participants than traditional in-person programs.
+
+It is more accessible for rural populations and people who are underserved by DSMES services.
+
+Many participants have access to the Internet or telehealth devices.
+
+CDC created a Guide for Using Telehealth Technologies for organizations that want to offer DSMES services through telehealth.
+
+Resources
+Practice-based guide for rapid evaluation
+Implementing and Evaluating DSMES Programs for Underserved Populations/Communities: A Practice-Based Guide . This guide (also available in Spanish ) shares evaluation lessons learned and expert insights into DSMES programs working to reach underserved populations and communities. It complements the DSMES Toolkit, which gives general resources and tools for developing, promoting, implementing, and sustaining DSMES services.
+Rapid evaluation: lessons learned
+Rapid evaluations of DSMES services were conducted to understand implementation processes that may help other programs for people who are underserved by DSMES. Below are lessons learned from selected programs.
+
+Bronxcare Diabetes Center of Excellence
+
+Prisma Health
+
+May 15, 2024

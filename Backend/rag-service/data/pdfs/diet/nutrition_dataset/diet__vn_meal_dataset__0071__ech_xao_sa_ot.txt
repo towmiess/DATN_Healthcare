@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Ếch xào sả ớt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Ếch xào sả ớt
+Loại món: Món xào | Ẩm thực: Vietnamese
+Từ khóa: ếch, sả, protein cao, ít béo
+
+Mô tả: Thịt ếch rất ít béo và giàu protein tương đương gà, tốt cho bệnh nhân TĐ cần kiểm soát cân nặng.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.2
+Calo: 155 kcal
+Chất đạm (protein): 26.5 g
+Chất béo tổng: 3.8 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 3.5 g (chất xơ: 1.5 g, đường: 1.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 75 mg | Natri: 358 mg
+Kali: 488 mg | Phốt pho: 228 mg | Magie: 38 mg
+Canxi: 28 mg | Sắt: 1.5 mg | Vitamin D: 0.5 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Protein cao ít béo nhất trong các loại thịt
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: trung bình
+
+--- Nguyên liệu ---
+300g đùi ếch
+3 cây sả
+2 tép tỏi
+Ớt
+
+--- Cách chế biến ---
+1. Ếch chặt miếng ướp gia vị sả ớt
+2. Phi sả tỏi ớt thơm
+3. Cho ếch vào xào vàng đều
+4. Nêm gia vị

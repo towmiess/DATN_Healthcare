@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Đậu que luộc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Đậu que luộc
+Loại món: Hấp/Luộc, Rau | Ẩm thực: Vietnamese
+Từ khóa: đậu que, chất xơ, vitamin K, GI thấp
+
+Mô tả: Đậu que luộc GI cực thấp, giàu vitamin K và chất xơ không hòa tan.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.5
+Calo: 38 kcal
+Chất đạm (protein): 2.5 g
+Chất béo tổng: 0.2 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.5 g (chất xơ: 4.0 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 28 mg
+Kali: 248 mg | Phốt pho: 55 mg | Magie: 22 mg
+Canxi: 42 mg | Sắt: 1.2 mg | Vitamin D: 0.2 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI cực thấp phù hợp mọi bệnh nhân TĐ
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+300g đậu que
+
+--- Cách chế biến ---
+1. Cắt đầu đuôi đậu que
+2. Luộc 8 phút
+3. Vớt ra ngâm nước lạnh
+4. Rưới dầu oliu ít và muối hạt

@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Cơm gạo lứt thịt kho", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cơm gạo lứt thịt kho
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: cơm gạo lứt, thịt kho, GI thấp, chất xơ
+
+Mô tả: Gạo lứt GI thấp hơn gạo trắng, giàu magie và chất xơ, tốt hơn gạo trắng cho TĐ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 9.5
+Calo: 345 kcal
+Chất đạm (protein): 22.5 g
+Chất béo tổng: 8.5 g (bão hòa: 2.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 42.5 g (chất xơ: 4.2 g, đường: 1.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 52 mg | Natri: 395 mg
+Kali: 428 mg | Phốt pho: 215 mg | Magie: 68 mg
+Canxi: 28 mg | Sắt: 2.8 mg | Vitamin D: 0.3 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Gạo lứt GI thấp hơn 23 điểm so với gạo trắng
+Khẩu phần khuyến nghị: 1 chén nhỏ 150g/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g gạo lứt
+150g thịt heo nạc kho nhạt
+Rau xanh
+
+--- Cách chế biến ---
+1. Nấu cơm gạo lứt
+2. Kho thịt nhạt ít nước mắm
+3. Ăn kèm rau xanh

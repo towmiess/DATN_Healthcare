@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Mận tươi", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Mận tươi
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: mận, vitamin C, GI thấp, chất xơ
+
+Mô tả: Mận chua ngọt tự nhiên, GI thấp, vitamin C cao, ăn vặt theo mùa.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.5
+Calo: 46 kcal
+Chất đạm (protein): 0.7 g
+Chất béo tổng: 0.3 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 11.4 g (chất xơ: 1.4 g, đường: 9.9 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 0 mg
+Kali: 157 mg | Phốt pho: 16 mg | Magie: 7 mg
+Canxi: 6 mg | Sắt: 0.2 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI thấp - bữa phụ trái cây an toàn cho TĐ
+Khẩu phần khuyến nghị: 100g (3-4 quả)/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g mận tươi
+
+--- Cách chế biến ---
+1. Rửa sạch
+2. Ăn trực tiếp

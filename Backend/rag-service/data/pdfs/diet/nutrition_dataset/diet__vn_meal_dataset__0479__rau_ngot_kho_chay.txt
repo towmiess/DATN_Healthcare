@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "rau ngót kho chay", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: rau ngót kho chay
+Loại món: Rau củ | Ẩm thực: Vietnamese
+Từ khóa: rau ngót, rau củ, ít calo, chất xơ
+
+Mô tả: rau ngót kho chay là món kho kết hợp rau ngót và rau ngót, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 37 kcal
+Chất đạm (protein): 4.3 g
+Chất béo tổng: 1.2 g (bão hòa: 0.4 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 12.8 g (chất xơ: 2.5 g, đường: 2.3 g, đường bổ sung: 0.0 g)
+Cholesterol: 75 mg | Natri: 558 mg
+Kali: 200 mg | Phốt pho: 213 mg | Magie: 65 mg
+Canxi: 180 mg | Sắt: 3.2 mg | Vitamin D: 2.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Rau củ; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+300g rau ngót
+Tỏi hoặc gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế rau ngót sạch
+2. Kho đến chín vừa
+3. Nêm ít gia vị, tránh dùng nhiều dầu mỡ

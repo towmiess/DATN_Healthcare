@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Canh nấm rơm thịt gà", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh nấm rơm thịt gà
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: nấm rơm, thịt gà, beta-glucan, ít béo
+
+Mô tả: Beta-glucan nấm rơm kết hợp protein gà ít béo, canh nhẹ nhàng.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 118 kcal
+Chất đạm (protein): 15.5 g
+Chất béo tổng: 3.5 g (bão hòa: 0.8 g, chuyển hóa: 0.1 g)
+Carbohydrate tổng: 5.5 g (chất xơ: 3.0 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 55 mg | Natri: 338 mg
+Kali: 385 mg | Phốt pho: 165 mg | Magie: 35 mg
+Canxi: 28 mg | Sắt: 1.2 mg | Vitamin D: 0.3 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Beta-glucan ổn định đường huyết hiệu quả
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g ức gà
+150g nấm rơm
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Phi tỏi xào gà
+2. Đổ nước sôi
+3. Cho nấm rơm vào nấu 8 phút

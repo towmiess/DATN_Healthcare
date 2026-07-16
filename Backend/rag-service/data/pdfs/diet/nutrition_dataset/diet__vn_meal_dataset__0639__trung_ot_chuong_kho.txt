@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Trứng ớt chuông kho", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trứng ớt chuông kho
+Loại món: Món trứng | Ẩm thực: Vietnamese
+Từ khóa: trứng, ớt chuông, protein, choline
+
+Mô tả: Trứng ớt chuông kho là món kho kết hợp cá basa và ớt chuông, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 122 kcal
+Chất đạm (protein): 13.5 g
+Chất béo tổng: 6.2 g (bão hòa: 1.9 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.9 g (chất xơ: 2.9 g, đường: 2.9 g, đường bổ sung: 0.0 g)
+Cholesterol: 35 mg | Natri: 469 mg
+Kali: 346 mg | Phốt pho: 126 mg | Magie: 26 mg
+Canxi: 162 mg | Sắt: 3.7 mg | Vitamin D: 0.0 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Món trứng; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+2 quả trứng
+100g ớt chuông
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Đánh trứng hoặc để nguyên theo món
+2. Sơ chế ớt chuông
+3. Kho kết hợp
+4. Nêm gia vị nhạt

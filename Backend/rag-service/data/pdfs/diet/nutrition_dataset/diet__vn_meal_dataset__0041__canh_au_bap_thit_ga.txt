@@ -1,0 +1,39 @@
+===METADATA===
+{"title": "Canh đậu bắp thịt gà", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh đậu bắp thịt gà
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: đậu bắp, thịt gà, pectin, viscous fiber
+
+Mô tả: Đậu bắp giàu pectin (chất xơ hòa tan nhớt) làm chậm hấp thu glucose đặc biệt hiệu quả.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.5
+Calo: 128 kcal
+Chất đạm (protein): 16.5 g
+Chất béo tổng: 3.8 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.5 g (chất xơ: 4.5 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 52 mg | Natri: 348 mg
+Kali: 415 mg | Phốt pho: 162 mg | Magie: 38 mg
+Canxi: 82 mg | Sắt: 1.2 mg | Vitamin D: 0.3 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Pectin trong đậu bắp cực kỳ hiệu quả giảm GI bữa ăn
+Khẩu phần khuyến nghị: 1 tô/bữa hoặc ăn đậu bắp trước bữa chính 10 phút
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+150g ức gà
+200g đậu bắp
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Đậu bắp cắt khúc
+2. Gà thái miếng
+3. Phi tỏi xào gà
+4. Đổ nước sôi
+5. Cho đậu bắp vào nấu 10 phút
+6. Nêm gia vị

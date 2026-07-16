@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Củ đậu (sắn nước) ăn vặt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Củ đậu (sắn nước) ăn vặt
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: củ đậu, sắn nước, ít calo, nước
+
+Mô tả: Củ đậu nhiều nước, ít calo, vị ngọt nhẹ tự nhiên, giải khát tốt.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 38 kcal
+Chất đạm (protein): 0.7 g
+Chất béo tổng: 0.1 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 9.0 g (chất xơ: 4.5 g, đường: 1.8 g, đường bổ sung: 0.3 g)
+Cholesterol: 0 mg | Natri: 4 mg
+Kali: 150 mg | Phốt pho: 18 mg | Magie: 12 mg
+Canxi: 12 mg | Sắt: 0.6 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít calo nhiều chất xơ - bữa phụ giải khát lành mạnh
+Khẩu phần khuyến nghị: 100g/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g củ đậu
+
+--- Cách chế biến ---
+1. Gọt vỏ rửa sạch
+2. Cắt miếng ăn trực tiếp

@@ -1,0 +1,51 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/data-research/research/eye-complications.html",
+  "title": "Treatments for Diabetes Eye Complications - CDC",
+  "category": "complication/retinopathy",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:13:47.429106",
+  "source_name": "cdc.gov",
+  "document_title": "Treatments for Diabetes Eye Complications - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 449,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Treatments for Diabetes Eye Complications - CDC
+
+May 15, 2024
+
+Treatments for Diabetes Eye Complications
+
+Key points
+
+Diabetes can cause eye complications.
+The longer someone has diabetes, the more likely they are to develop complications.
+Prevention and treatment options can help avoid vision loss.
+CDC researchers studied trends in eye-related diabetes complications and treatments given.
+
+What did this study examine?
+This study measured eye-related diabetes complications, from 2009-2018, in Medicare patients ages 65 and older. Researchers examined how treatments for eye-related diabetes complications have changed over this time, and how they differed by race.
+Terms to know
+Diabetic retinopathy (DR) is a common complication of diabetes that damages blood vessels in the eyes. DR can be mild to moderate, or it can be more severe, known as vision-threatening diabetic retinopathy (VTDR) .
+Diabetic macular edema (DME) happens in about half of people with any type of DR. With DME, blood vessels in the eyes leak and start to swell, which can cause vision loss or blindness.
+Anti-vascular endothelial growth factor injections, or anti-VEGF injections , are the first-line (most recommended) treatment for DME. This is because of their effectiveness and ease of application.
+Laser photocoagulation is a procedure used to treat diabetes-related eye complications.
+
+Study results
+Roughly 1 in 4 Medicare patients had diabetes. Researchers found that the rate of eye complications for those with diabetes increased by 54% from 2009-2018.
+For people with DME, anti-VEGF injections increased from 16% to 35%. For people with VTDR and DME, anti-VEGF injections increased from 20% to 48%.
+Use of laser photocoagulation decreased from 46% to 13% for people with DME. Laser photocoagulation also decreased from 54% to 20% for people who had VTDR and DME.
+Researchers saw racial differences in vision complications from diabetes that did not match treatment trends. People from racial and ethnic minority groups had higher rates of DME or VTDR, but lower rates of anti-VEGF injections. In contrast, White people had the lowest rates of DME or VTDR, but the highest rates of anti-VEGF injections. These findings reflect a health disparity, which is a difference in health based on social or economic status, location, or environment.
+
+What's important about this study?
+This study highlights how trends in treatments for diabetes eye complications have changed, especially how anti-VEGF injections have grown in popularity. This information is key for clinicians to ensure the latest standard of care. It's also helpful for people with diabetes to understand the treatment options.
+CDC continues to promote diabetes prevention and management. DR is the leading cause of blindness in US adults ages 20-74. People with diabetes are urged to receive annual dilated eye exams for early detection and timely treatment.
+See Also:
+Access the full research article
+
+May 14, 2024

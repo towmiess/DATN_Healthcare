@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Thịt heo xào dưa chuột", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thịt heo xào dưa chuột
+Loại món: Món xào | Ẩm thực: Vietnamese
+Từ khóa: dưa chuột, thịt heo, ít calo, kali
+
+Mô tả: Dưa chuột 95% nước, cực ít calo và cung cấp kali, phù hợp bệnh nhân TĐ nóng gan.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.2
+Calo: 118 kcal
+Chất đạm (protein): 14.5 g
+Chất béo tổng: 6.2 g (bão hòa: 1.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 4.5 g (chất xơ: 1.5 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 45 mg | Natri: 328 mg
+Kali: 335 mg | Phốt pho: 148 mg | Magie: 22 mg
+Canxi: 22 mg | Sắt: 0.8 mg | Vitamin D: 0.2 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Kali cao tốt huyết áp
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+150g thịt nạc
+200g dưa chuột
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Dưa chuột cắt lát chéo
+2. Phi tỏi xào thịt
+3. Cho dưa chuột vào xào nhanh 1 phút
+4. Nêm gia vị

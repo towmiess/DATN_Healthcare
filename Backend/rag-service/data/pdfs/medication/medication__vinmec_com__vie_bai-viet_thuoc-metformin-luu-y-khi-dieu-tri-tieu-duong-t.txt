@@ -1,0 +1,42 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/thuoc-metformin-luu-y-khi-dieu-tri-tieu-duong-type-2-vi",
+  "title": "Thuốc metformin lưu ý điều trị",
+  "category": "medication",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:15:14.458507",
+  "source_name": "vinmec.com",
+  "document_title": "Thuốc metformin lưu ý điều trị",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1182,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Thuốc metformin lưu ý điều trị
+
+-->
+
+Chuyên trang sức khoẻ
+Sức khoẻ tổng quát
+
+Thuốc metformin: Lưu ý khi điều trị tiểu đường type 2
+
+☰
+Mục lục
+
+Bài viết được tư vấn chuyên môn bởi Dược sĩ Huỳnh Xuân Lộc - Khoa Dược - Bệnh viện Đa khoa Quốc tế Vinmec Central Park
+Metformin là thuốc điều trị đái tháo đường type 2, một bệnh lý trong đó cơ thể giảm sản sinh insulin hoặc đáp ứng không đầy đủ với hormone này gây ra tình trạng tích tụ và gia tăng nồng độ đường (glucose) trong máu, còn gọi là tăng đường huyết. Metformin kiểm soát đường huyết bằng cách giúp cơ thể giảm hấp thu đường từ thức ăn cũng như ngăn việc tạo ra thêm glucose tại gan. Metformin còn tăng đáp ứng của các mô với insulin, một hormone chính của cơ thể trong việc điều hòa đường huyết.
+1. Metformin mang lại lợi ích gì cho người bệnh?
+Người bệnh đái tháo đường type 2 nhưng không kiểm soát được đường huyết về lâu dài có thể mắc các biến chứng nghiêm trọng hoặc thậm chí nguy hiểm đến tính mạng. Do vậy, việc duy trì một lối sống cân bằng, lành mạnh và dùng thuốc điều trị phù hợp sẽ giúp cải thiện sức khỏe, kiểm soát được bệnh và tránh những tác hại về sau. Metformin cũng như các thuốc điều trị đái tháo đường khác đều nhằm mục tiêu này. Sử dụng một cách hợp lý, có theo dõi và thăm khám định kỳ với bác sĩ điều trị, metformin sẽ giúp người bệnh ổn định đường huyết , giảm nguy cơ gặp phải nhồi máu cơ tim , đột quỵ, hoặc tránh được các biến chứng nguy hiểm như suy thận, tổn thương dây thần kinh ngoại biên, thậm chí là mù lòa, hoại tử tay chân. Một lợi ích nữa của metformin là thuốc không gây hạ đường huyết và có thể giúp giảm cân nặng ở những người bệnh thừa cân, béo phì khi được kết hợp với một chế độ tập luyện phù hợp.
+
+2. Những lưu ý quan trọng khi sử dụng metformin?
+Dù mang lại nhiều ích lợi cho người bệnh và là thuốc được dùng nhiều nhất trong điều trị đái tháo đường type 2 nhưng không phải ai cũng có thể sử dụng metformin. Việc dùng thuốc phải do bác sĩ cân nhắc và quyết định dựa trên tình trạng sức khỏe của cá nhân mỗi người bệnh. Metformin được dùng bằng đường uống; thuốc có thể ở dạng viên một thành phần như trong các thuốc tên Glucophage, Fortamet, Riomet... hoặc cũng có thể là viên phối hợp metformin với các thuốc khác như trong các viên Janumet, Komboglyze, Xigduo ... Người bệnh cần biết rõ và báo cho bác sĩ các thuốc mình đang dùng để đảm bảo lựa chọn hợp lý thuốc điều trị, tránh các trường hợp dùng quá liều hoặc tương tác thuốc không đáng có. Người bệnh cũng cần thông báo cho bác sĩ biết các bệnh lý mình đang có, đặc biệt là bệnh thận hoặc tổn thương gan ( tăng men gan ...) do bác sĩ có thể cần phải giảm liều metformin hoặc đổi sang dùng thuốc khác. Ngoài ra, nếu người bệnh từng bị nhồi máu cơ tim, đột quỵ, nhiễm toan ceton do đường huyết tăng quá cao, hôn mê hoặc bệnh tim mạch khác, bác sĩ điều trị cũng cần phải biết rõ để có hướng điều trị thích hợp.
+
+Khi cần phải tiến hành phẫu thuật kể cả các thủ thuật về răng miệng hoặc thủ thuật lớn, phức tạp khác, người bệnh cũng nên thông báo cho bác sĩ việc mình đang dùng metformin. Ngoài ra khi phải thực hiện các phép chụp, chiếu, chẩn đoán hình ảnh có dùng thuốc cản quang cũng cần phải thông báo bác sĩ để tránh phản ứng có hại. Cần phải ngừng sử dụng metformin và báo ngay cho bác sĩ điều trị nếu gặp phải các triệu chứng như yếu mệt quá mức, khó chịu cơ thể, buồn nôn, nôn mửa, đau bụng, thở nhanh và mệt, chóng mặt, choáng váng, tim đập chậm, đỏ bừng, đau nhức cơ bắp hoặc cảm thấy lạnh tay chân. Đó có thể là các dấu hiệu của nhiễm toan lactic, một phản ứng có hại nghiêm trọng do metformin gây ra. Tần suất người bệnh gặp phải nhiễm toan lactic do metformin tuy rất thấp nhưng lại là một biến chứng nguy hiểm cần đặc biệt lưu ý. Nguy cơ nhiễm toan lactic còn tăng lên với người mắc các bệnh như suy thận , suy tim , suy gan , người dùng nhiều thức uống có cồn trong thời gian điều trị hoặc chỉ đơn giản là bị mất nước. Do vậy người bệnh cũng được khuyến cáo uống đầy đủ nước và không lạm dụng bia rượu để tránh các phản ứng có hại khi dùng metformin. Điểm cuối cùng cần nhớ khi dùng metformin hay bất kỳ một loại thuốc điều trị đái tháo đường nào khác đó là phải định kỳ khám và đánh giá tình trạng sức khỏe với bác sĩ điều trị. Trong những lần khám bệnh, bác sĩ có thể sẽ cho người bệnh thực hiện một số xét nghiệm để đánh giá chức năng cơ thể và đáp ứng của người bệnh với thuốc điều trị; cần giữ lại các kết quả xét nghiệm này cho những lần khám sau.
+3. Tác dụng có hại có thể gặp phải khi dùng metformin?
+Tác dụng bất lợi thường gặp nhất đối với metformin là rối loạn tiêu hóa với các biểu hiện như tiêu chảy, đầy hơi, đau bụng, khó tiêu, miệng có vị kim loại hoặc ợ nóng. Các triệu chứng này thường nhẹ, thoáng qua và có thể mất đi sau vài ngày hoặc khi giảm liều hoặc ngưng dùng thuốc. Để tăng khả năng thích ứng của cơ thể với metformin, bác sĩ có thể cho dùng thuốc với liều thấp sau đó tăng dần cho đến khi đạt hiệu quả điều trị tối ưu mà không gây ra bất kỳ sự khó chịu nào cho người bệnh. Tuy nhiên, nếu các triệu chứng vẫn còn dai dẳng hoặc tăng nặng hơn, người bệnh cần ngưng thuốc và liên hệ bác sĩ ngay để có hướng xử lý phù hợp.
+
+Một lưu ý khác khi dùng metformin lâu dài là nguy cơ thiếu vitamin B12 do metformin làm giảm hấp thu vitamin B12 từ ruột. Thiếu hụt này có thể dẫn đến triệu chứng đau thần kinh ngoại biên hoặc hiếm khi gây ra thiếu máu hồng cầu to. Bác sĩ có thể cho người bệnh dùng thêm các thuốc bổ sung vitamin để dự phòng tác dụng ngoại ý này. Nếu nhận thấy các vấn đề bất thường về sức khỏe bạn nên thăm khám và tư vấn với các bác sĩ chuyên khoa. Bài viết tham khảo nguồn: medlineplus.gov

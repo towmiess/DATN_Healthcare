@@ -1,0 +1,74 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/treatment/type-1-diabetes-early-treatment.html",
+  "title": "Early Treatment for Type 1 Diabetes - CDC",
+  "category": "medication",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:11:36.626787",
+  "source_name": "cdc.gov",
+  "document_title": "Early Treatment for Type 1 Diabetes - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 295,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Early Treatment for Type 1 Diabetes - CDC
+
+Early Treatment for Type 1 Diabetes
+
+Apr. 17, 2026
+
+Key points
+
+Recent advances have made it possible to diagnose type 1 diabetes before symptoms appear.
+A treatment option is available to delay progression of type 1 diabetes in people at an early stage.
+
+Screening
+Type 1 diabetes develops gradually in stages. People at   high risk for type 1 diabetes   who don't have symptoms can now get screened to see if they are in the early stages of the condition.
+Screening for type 1 diabetes identifies if someone has certain  autoantibodies , a signal that the immune system is mistakenly attacking the body's insulin-making cells. Blood sugar levels are also checked.
+
+Stages of Type 1 Diabetes
+
+Stage
+
+Autoantibodies
+
+Blood sugar
+
+1
+
+2 or more
+
+Normal
+
+No symptoms
+
+2
+
+2 or more
+
+Abnormal
+
+No symptoms
+
+3
+
+2 or more
+
+High
+
+Symptoms are present
+
+Medicine to delay type 1 diabetes
+Teplizumab is an FDA-approved medicine that can delay the progression of type 1 diabetes by slowing down the immune response that damages insulin-making cells.
+This can delay type 1 diabetes symptoms, as well as the need for insulin injections. Teplizumab is given as a daily intravenous (IV) infusion for 14 days.
+Teplizumab is for people with stage 2 type 1 diabetes to delay progression to stage 3, which is when symptoms appear. This medicine is approved for use in patients aged 1 year and older.
+Teplizumab can be very expensive without health insurance coverage. However, patients may be eligible for a copay assistance program called Compass.
+
+Medical advances
+Teplizumab is the first major treatment option for people with type 1 diabetes since insulin therapy was developed over 100 years ago. Medical research is underway to discover new medicines and technologies to manage type 1 diabetes.
+
+Apr. 17, 2026

@@ -1,0 +1,93 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/complications/index.html",
+  "title": "Diabetes Complications",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:36.476802",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes Complications",
+  "extraction_method": "<main>",
+  "word_count": 361,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes Complications
+
+May 15, 2024
+
+Español
+
+Diabetes Complications
+
+At a glance
+
+Diabetes can cause other health problems, but you can take steps to lower your risk for diabetes complications and improve your overall health.
+
+Articles
+
+Your Heart and Diabetes
+Find out how to protect your heart with lifestyle changes that can also help you manage diabetes.
+May 14, 2024
+
+Chronic Kidney Disease
+Regular testing is your best chance for finding CKD early when treatment is most effective.
+May 14, 2024
+
+Nerve Damage
+Diabetes increases your risk of nerve damage. Learn about the signs and symptoms.
+May 14, 2024
+
+Your Feet and Diabetes
+Learn how to keep your feet healthy when you have diabetes.
+May 14, 2024
+
+Preventing Diabetes-Related Amputations
+People with diabetes have a higher risk of amputations. Learn how to reduce your risk.
+May 14, 2024
+
+Recovering From a Diabetes-Related Amputation
+You can live a healthy lifestyle after an amputation. Find out more.
+May 14, 2024
+
+Diabetes-Related Amputations and Mental Health
+Don’t forget to take care of your mental health after an amputation.
+May 14, 2024
+
+Oral Health and Diabetes
+Taking good care of your teeth and gums is even more important if you have diabetes.
+May 14, 2024
+
+Hearing Loss
+Protect your hearing by keeping your blood sugar levels close to your targets and getting yearly hea...
+May 14, 2024
+
+Vision Loss and Diabetes
+Find out how diabetes can impact your eyes, and how to protect your vision.
+May 14, 2024
+
+Digestion and Diabetes
+Diabetes can lead to digestive problems like gastroparesis. Find out why, and how to treat it.
+May 14, 2024
+
+Type 2 Diabetes and Your Liver
+Learn about the connection between type 2 diabetes and liver disease.
+May 14, 2024
+
+Your Brain and Diabetes
+Learn about the connection between diabetes and the brain and how to keep your brain healthy.
+May 14, 2024
+
+Statins and Diabetes: What You Should Know
+Taking a statin to lower your cholesterol levels can be key to preventing heart disease and stroke.
+May 14, 2024
+
+Your Immune System and Diabetes
+Diabetes increases your risk of getting sick. Find out how you can support your immune system.
+May 15, 2024
+
+May 14, 2024
+
+Syndicate

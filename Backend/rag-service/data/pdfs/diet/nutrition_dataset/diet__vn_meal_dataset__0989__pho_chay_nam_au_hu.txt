@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Phở chay nấm đậu hũ", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Phở chay nấm đậu hũ
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: phở chay, nấm, đậu hũ, GI trung bình
+
+Mô tả: Phở chay nước dùng từ nấm và rau củ, đậu hũ thay thịt, hoàn toàn thực vật.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 8.0
+Calo: 245 kcal
+Chất đạm (protein): 11.5 g
+Chất béo tổng: 5.5 g (bão hòa: 0.6 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 36.5 g (chất xơ: 4.0 g, đường: 2.5 g, đường bổ sung: 0.4 g)
+Cholesterol: 0 mg | Natri: 358 mg
+Kali: 425 mg | Phốt pho: 178 mg | Magie: 42 mg
+Canxi: 98 mg | Sắt: 1.8 mg | Vitamin D: 0.3 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Hoàn toàn chay phù hợp TĐ ăn chay
+Khẩu phần khuyến nghị: 1 tô nhỏ/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: thấp
+
+--- Nguyên liệu ---
+80g bánh phở
+100g đậu hũ
+Nấm hỗn hợp
+Rau thơm
+
+--- Cách chế biến ---
+1. Nấu nước dùng từ nấm và rau củ 25 phút
+2. Thêm đậu hũ chiên
+3. Chan vào bánh phở

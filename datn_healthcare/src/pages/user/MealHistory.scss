@@ -1,0 +1,734 @@
+.meal-history {
+  display: grid;
+  gap: 24px;
+  color: #0f172a;
+}
+
+.meal-history__hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(280px, 1fr);
+  gap: 14px;
+  align-items: stretch;
+}
+
+.meal-history__copy,
+.meal-history__panel,
+.meal-history__modal-content {
+  border-radius: 18px;
+  border: 1px solid #e7ecf4;
+  background: #ffffff;
+  box-shadow:
+    0 1px 2px rgba(20, 27, 46, 0.04),
+    0 8px 20px -12px rgba(20, 27, 46, 0.1);
+}
+
+.meal-history__copy {
+  padding: 16px 18px;
+}
+
+.meal-history__eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 10px;
+  color: #0f766e;
+  font-size: 0.74rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.meal-history__title {
+  margin: 0;
+  max-width: 520px;
+  font-size: 24px;
+  line-height: 1.04;
+  letter-spacing: normal;
+}
+
+.meal-history__description {
+  margin: 8px 0 0;
+  max-width: 520px;
+  color: #52607a;
+  line-height: 1.5;
+  font-size: 0.84rem;
+}
+
+.meal-history__actions {
+  margin-top: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
+
+.meal-history__upload {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 34px;
+  padding: 0 12px;
+  border: none;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #f97316, #fb923c);
+  color: #fff;
+  text-decoration: none;
+  font-weight: 800;
+  font-size: 0.75rem;
+  box-shadow: 0 6px 12px rgba(249, 115, 22, 0.14);
+  cursor: pointer;
+}
+
+.meal-history__upload:hover,
+.meal-history__upload:focus-visible {
+  outline: none;
+  transform: translateY(-1px);
+}
+
+.meal-history__input {
+  display: none;
+}
+
+.meal-history__panel {
+  padding: 10px;
+  display: grid;
+  gap: 8px;
+  align-content: start;
+  grid-template-rows: repeat(2, minmax(0, 1fr));
+}
+
+.meal-history__history {
+  display: grid;
+  gap: 14px;
+}
+
+.meal-history__history-groups {
+  display: grid;
+  gap: 14px;
+}
+
+.meal-history__history-group {
+  display: grid;
+  gap: 14px;
+  padding: 20px 24px 22px;
+  border-radius: 18px;
+  border: 1px solid #e7ecf4;
+  background: #ffffff;
+  box-shadow:
+    0 1px 2px rgba(20, 27, 46, 0.04),
+    0 8px 20px -12px rgba(20, 27, 46, 0.1);
+}
+
+.meal-history__history-group-head {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.meal-history__history-group-head h3 {
+  margin: 0;
+  color: #111827;
+  font-size: 0.98rem;
+  font-weight: 700;
+}
+
+.meal-history__history-group-head span {
+  color: #9aa4b8;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+.meal-history__history-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.meal-history__history-item {
+  display: flex;
+  gap: 12px;
+  padding: 12px;
+  border-radius: 14px;
+  border: 1px solid #e7ecf4;
+  background: #fbfcfe;
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.meal-history__history-item:hover {
+  transform: translateY(-2px);
+  box-shadow:
+    0 2px 4px rgba(20, 27, 46, 0.04),
+    0 16px 32px -16px rgba(20, 27, 46, 0.16);
+  border-color: #d8e2f5;
+  background: #fff;
+}
+
+.meal-history__history-thumb {
+  width: 64px;
+  height: 64px;
+  border-radius: 12px;
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+  background: #f8fafc;
+  color: #94a3b8;
+  border: 1px solid #e7ecf4;
+  flex-shrink: 0;
+  box-shadow: 0 2px 6px rgba(20, 27, 46, 0.08);
+}
+
+.meal-history__history-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.meal-history__history-info {
+  min-width: 0;
+  display: grid;
+  gap: 8px;
+  align-content: start;
+  flex: 1;
+}
+
+.meal-history__history-title-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.meal-history__history-title-row h4 {
+  margin: 0;
+  color: #111827;
+  font-size: 0.88rem;
+  line-height: 1.3;
+  text-transform: capitalize;
+}
+
+.meal-history__history-title-row span {
+  flex: 0 0 auto;
+  color: #94a3b8;
+  font-size: 0.72rem;
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+.meal-history__history-metrics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.meal-history__history-metrics span {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 24px;
+  padding: 3.5px 8px;
+  border-radius: 999px;
+  background: #eff6ff;
+  color: #1d4ed8;
+  font-size: 0.68rem;
+  font-weight: 700;
+}
+
+.meal-history__history-metrics .pill.kcal {
+  background: #fef0df;
+  color: #b85d14;
+}
+
+.meal-history__history-metrics .pill.protein {
+  background: #e9effe;
+  color: #1e46c4;
+}
+
+.meal-history__history-metrics .pill.fat {
+  background: #f6e9fa;
+  color: #8b2fa0;
+}
+
+.meal-history__history-metrics .pill.carbs {
+  background: #e4f6ec;
+  color: #1e8a57;
+}
+
+.meal-history__history-metrics .pill i {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: currentColor;
+  display: inline-block;
+}
+
+.meal-history__history-empty {
+  padding: 18px;
+  border-radius: 20px;
+  border: 1px dashed #e7ecf4;
+  background: rgba(255, 255, 255, 0.96);
+  color: #68738c;
+  font-size: 0.9rem;
+}
+
+.meal-history__history-empty--error {
+  color: #b91c1c;
+}
+
+.meal-history-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  border-radius: 16px;
+  background: linear-gradient(180deg, rgba(254, 241, 225, 0.94), rgba(255, 255, 255, 0.96));
+  border: 1px solid rgba(245, 221, 187, 1);
+  font-weight: 700;
+  color: #111827;
+  min-height: 0;
+  height: 100%;
+}
+
+.meal-history-card--accent {
+  background: linear-gradient(180deg, rgba(233, 239, 254, 0.96), rgba(255, 255, 255, 0.96));
+  border-color: #d4e0fb;
+}
+
+.meal-history-card__icon {
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+}
+
+.meal-history-card__icon--amber {
+  background: #fbddaf;
+  color: #f97316;
+}
+
+.meal-history-card__icon--blue {
+  background: #d4e0fb;
+  color: #1d4ed8;
+}
+
+.meal-history-card div {
+  display: grid;
+}
+
+.meal-history-card strong {
+  margin: 0 0 2px;
+  font-size: 0.82rem;
+}
+
+.meal-history-card span {
+  color: #68738c;
+  font-size: 0.68rem;
+  font-weight: 500;
+  line-height: 1.38;
+}
+
+.meal-history-card__value {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 4px;
+}
+
+.meal-history-card .meal-history-card__value-number--kcal {
+  color: #b85d14;
+  font-weight: 800;
+}
+
+.meal-history__process {
+  display: block;
+  line-height: 1.55;
+}
+
+.meal-history__modal {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+  background: rgba(15, 23, 42, 0.82);
+  animation: meal-history-overlay-fade 0.22s ease-out;
+  overscroll-behavior: contain;
+}
+
+.meal-history__modal-content {
+  width: min(900px, 100%);
+  max-height: min(86vh, calc(100vh - 48px));
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 18px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.99), rgba(248, 250, 252, 0.98));
+  border: 1px solid rgba(226, 232, 240, 0.88);
+  box-shadow:
+    0 28px 70px rgba(15, 23, 42, 0.34),
+    0 6px 18px rgba(15, 23, 42, 0.18);
+  animation: meal-history-modal-rise 0.34s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes meal-history-overlay-fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes meal-history-modal-rise {
+  from {
+    opacity: 0;
+    transform: translateY(22px) scale(0.965);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.meal-history__modal-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 16px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid rgba(226, 232, 240, 0.9);
+}
+
+.meal-history__modal-header h2 {
+  margin: 12px 0 8px;
+  color: #111827;
+  font-size: clamp(1.15rem, 1.6vw, 1.6rem);
+}
+
+.meal-history__modal-header p {
+  margin: 0;
+  color: #4b5563;
+  line-height: 1.55;
+  font-size: 0.86rem;
+}
+
+.meal-history__modal-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(255, 237, 213, 0.92);
+  color: #c2410c;
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.meal-history__modal-close {
+  border: none;
+  background: rgba(255, 255, 255, 0.95);
+  color: #334155;
+  width: 38px;
+  height: 38px;
+  border-radius: 12px;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  flex: 0 0 auto;
+}
+
+.meal-history__modal-close:hover,
+.meal-history__modal-close:focus-visible {
+  outline: none;
+  background: #fff7ed;
+  color: #111827;
+}
+
+.meal-history__modal-body {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.9fr);
+  gap: 16px;
+  flex: 1;
+  overflow: hidden;
+  min-height: 0;
+  align-items: stretch;
+}
+
+.meal-history__upload-zone {
+  position: relative;
+  display: grid;
+  place-items: center;
+  gap: 10px;
+  height: 100%;
+  min-height: 0;
+  align-self: stretch;
+  padding: 24px;
+  border-radius: 24px;
+  border: 1.5px dashed rgba(249, 115, 22, 0.24);
+  background:
+    linear-gradient(180deg, rgba(255, 247, 237, 0.88), rgba(255, 255, 255, 0.98));
+  text-align: center;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.meal-history__upload-zone:hover {
+  border-color: rgba(249, 115, 22, 0.34);
+}
+
+.meal-history__upload-zone:focus-visible {
+  outline: 2px solid rgba(249, 115, 22, 0.35);
+  outline-offset: 3px;
+}
+
+.meal-history__upload-zone-icon {
+  width: 66px;
+  height: 66px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  color: #ea580c;
+  background: rgba(255, 255, 255, 0.96);
+  border: 1px solid rgba(251, 146, 60, 0.16);
+  box-shadow: 0 10px 24px rgba(249, 115, 22, 0.12);
+}
+
+.meal-history__upload-zone h3 {
+  margin: 0;
+  color: #111827;
+  font-size: 1rem;
+}
+
+.meal-history__upload-zone p {
+  margin: 0;
+  max-width: 42ch;
+  color: #475569;
+  line-height: 1.55;
+  font-size: 0.9rem;
+}
+
+.meal-history__upload-preview {
+  position: absolute;
+  inset: 24px;
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto;
+  gap: 10px;
+  align-self: stretch;
+  justify-self: stretch;
+  min-height: 0;
+  align-items: stretch;
+}
+
+.meal-history__upload-preview-media {
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid rgba(226, 232, 240, 0.9);
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.12);
+}
+
+.meal-history__upload-preview-media img {
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  object-fit: contain;
+  display: block;
+}
+
+.meal-history__upload-preview-info {
+  display: grid;
+  gap: 4px;
+  text-align: left;
+  justify-self: stretch;
+}
+
+.meal-history__upload-preview-info strong {
+  color: #111827;
+  font-size: 0.92rem;
+}
+
+.meal-history__upload-preview-info span {
+  color: #64748b;
+  font-size: 0.8rem;
+}
+
+.meal-history__preview a {
+  color: #2563eb;
+  word-break: break-all;
+  text-decoration: none;
+  line-height: 1.5;
+  font-size: 0.86rem;
+}
+
+.meal-history__preview a:hover {
+  text-decoration: underline;
+}
+
+.meal-history__browse {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 0 16px;
+  border: 1px solid rgba(249, 115, 22, 0.18);
+  border-radius: 999px;
+  background: #fff;
+  color: #c2410c;
+  font: inherit;
+  font-size: 0.84rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.meal-history__modal-side {
+  display: grid;
+  gap: 12px;
+  align-content: stretch;
+  grid-template-rows: repeat(3, minmax(0, 1fr));
+  height: 100%;
+  overflow: auto;
+  padding-right: 6px;
+  scrollbar-gutter: stable;
+}
+
+.meal-history__preview {
+  display: grid;
+  gap: 10px;
+  padding: 14px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid rgba(226, 232, 240, 0.9);
+  min-height: 0;
+  height: 100%;
+}
+
+.meal-history__preview-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #6b7280;
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.meal-history__preview img {
+  display: block;
+  width: 100%;
+  max-height: 220px;
+  object-fit: cover;
+  border-radius: 16px;
+}
+
+.meal-history__preview--empty {
+  place-items: start;
+}
+
+.meal-history__preview--empty p {
+  margin: 0;
+  color: #475569;
+  line-height: 1.55;
+  font-size: 0.88rem;
+}
+
+.meal-history__error {
+  margin: 14px 0 0;
+  color: #b91c1c;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.meal-history__modal-footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(226, 232, 240, 0.9);
+}
+
+.meal-history__secondary,
+.meal-history__primary {
+  min-height: 44px;
+  padding: 0 18px;
+  border-radius: 999px;
+  border: none;
+  font: inherit;
+  font-weight: 800;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.meal-history__secondary {
+  background: rgba(255, 255, 255, 0.96);
+  color: #334155;
+  border: 1px solid rgba(226, 232, 240, 0.95);
+}
+
+.meal-history__primary {
+  background: linear-gradient(135deg, #f97316, #fb923c);
+  color: white;
+  box-shadow: 0 16px 28px rgba(249, 115, 22, 0.22);
+}
+
+.meal-history__primary:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+@media (max-width: 960px) {
+  .meal-history__hero {
+    grid-template-columns: 1fr;
+  }
+
+  .meal-history__history-list {
+    grid-template-columns: 1fr;
+  }
+
+  .meal-history__modal-body {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 640px) {
+  .meal-history__modal {
+    padding: 12px;
+  }
+
+  .meal-history__modal-content {
+    max-height: calc(100vh - 24px);
+    padding: 16px;
+  }
+
+  .meal-history__upload-zone {
+    min-height: 320px;
+    height: auto;
+  }
+
+  .meal-history__modal-footer {
+    flex-direction: column;
+  }
+
+  .meal-history__secondary,
+  .meal-history__primary {
+    width: 100%;
+    justify-content: center;
+  }
+}

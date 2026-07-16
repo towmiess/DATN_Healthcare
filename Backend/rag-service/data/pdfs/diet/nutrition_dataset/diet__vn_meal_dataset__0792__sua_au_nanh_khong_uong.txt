@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Sữa đậu nành không đường", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Sữa đậu nành không đường
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: sữa đậu nành, isoflavone, protein thực vật, không đường
+
+Mô tả: Sữa đậu nành tự làm không đường, isoflavone hỗ trợ nhạy cảm insulin.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.5
+Calo: 80 kcal
+Chất đạm (protein): 7.0 g
+Chất béo tổng: 3.5 g (bão hòa: 0.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 4.5 g (chất xơ: 1.5 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 0 mg | Natri: 5 mg
+Kali: 285 mg | Phốt pho: 98 mg | Magie: 38 mg
+Canxi: 18 mg | Sắt: 1.2 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Isoflavone + protein thực vật hoàn chỉnh - không đường an toàn cho TĐ
+Khẩu phần khuyến nghị: 200ml/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+30g đậu nành khô
+300ml nước
+
+--- Cách chế biến ---
+1. Ngâm đậu nành 8 giờ
+2. Xay với nước
+3. Lọc và nấu sôi 15 phút, không thêm đường

@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Mì căn xào sả ớt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Mì căn xào sả ớt
+Loại món: Chay/Đậu hũ | Ẩm thực: Vietnamese
+Từ khóa: mì căn, sả ớt, protein thực vật, gluten
+
+Mô tả: Mì căn (seitan) giàu protein thực vật, xào sả ớt tạo vị đậm đà kiểu thịt giả.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 158 kcal
+Chất đạm (protein): 18.5 g
+Chất béo tổng: 5.5 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 9.5 g (chất xơ: 1.5 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 0 mg | Natri: 385 mg
+Kali: 285 mg | Phốt pho: 165 mg | Magie: 35 mg
+Canxi: 28 mg | Sắt: 2.5 mg | Vitamin D: 0.3 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Protein cao nhất trong các loại đạm thực vật
+Khẩu phần khuyến nghị: 1 phần/bữa
+Chống chỉ định / thận trọng: Người không dung nạp gluten tránh dùng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g mì căn
+2 cây sả
+2 quả ớt
+
+--- Cách chế biến ---
+1. Mì căn cắt miếng
+2. Phi sả ớt thơm
+3. Xào mì căn 10 phút

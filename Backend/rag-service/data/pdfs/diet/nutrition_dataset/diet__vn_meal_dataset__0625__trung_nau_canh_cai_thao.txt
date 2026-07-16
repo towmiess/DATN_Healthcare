@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Trứng nấu canh cải thảo", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trứng nấu canh cải thảo
+Loại món: Món trứng | Ẩm thực: Vietnamese
+Từ khóa: trứng, cải thảo, protein, choline
+
+Mô tả: Trứng nấu canh cải thảo là món nấu canh kết hợp tôm đồng và cải thảo, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 154 kcal
+Chất đạm (protein): 11.5 g
+Chất béo tổng: 9.4 g (bão hòa: 2.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.5 g (chất xơ: 0.7 g, đường: 2.6 g, đường bổ sung: 0.0 g)
+Cholesterol: 85 mg | Natri: 267 mg
+Kali: 431 mg | Phốt pho: 230 mg | Magie: 49 mg
+Canxi: 41 mg | Sắt: 2.6 mg | Vitamin D: 0.0 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Món trứng; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+2 quả trứng
+100g cải thảo
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Đánh trứng hoặc để nguyên theo món
+2. Sơ chế cải thảo
+3. Nấu canh kết hợp
+4. Nêm gia vị nhạt

@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Đậu rồng xào trứng", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Đậu rồng xào trứng
+Loại món: Rau củ | Ẩm thực: Vietnamese
+Từ khóa: đậu rồng, winged bean, trứng, protein
+
+Mô tả: Đậu rồng giàu protein thực vật và vitamin A, kết hợp trứng tạo bữa ăn đầy đủ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 118 kcal
+Chất đạm (protein): 8.5 g
+Chất béo tổng: 7.5 g (bão hòa: 2.0 g, chuyển hóa: 0.2 g)
+Carbohydrate tổng: 7.5 g (chất xơ: 3.0 g, đường: 2.0 g, đường bổ sung: 0.3 g)
+Cholesterol: 165 mg | Natri: 265 mg
+Kali: 345 mg | Phốt pho: 128 mg | Magie: 32 mg
+Canxi: 42 mg | Sắt: 1.2 mg | Vitamin D: 0.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Protein thực vật cao; cholesterol trứng cần kiểm soát tim mạch
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Tim mạch và đột quỵ hạn chế lòng đỏ
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g đậu rồng
+1 trứng
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Đậu rồng thái lát
+2. Phi tỏi xào đậu rồng 5 phút
+3. Đập trứng vào đảo đều

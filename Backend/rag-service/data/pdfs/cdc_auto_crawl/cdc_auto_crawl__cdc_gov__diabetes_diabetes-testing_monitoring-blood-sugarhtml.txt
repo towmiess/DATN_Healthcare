@@ -1,0 +1,73 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/diabetes-testing/monitoring-blood-sugar.html",
+  "title": "Monitoring Your Blood Sugar",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:28.524786",
+  "source_name": "cdc.gov",
+  "document_title": "Monitoring Your Blood Sugar",
+  "extraction_method": "<main>",
+  "word_count": 628,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Monitoring Your Blood Sugar
+
+May 15, 2024
+
+Español
+
+Monitoring Your Blood Sugar
+
+Key points
+
+Monitoring your blood sugar is the most important thing you can do to manage diabetes.
+Find out why, how to monitor, and recommended targets for your blood sugar levels.
+
+Importance of monitoring
+Many factors like food choices, medicines, and physical activity cause your blood sugar to change throughout the day. Some change is normal, but when your blood sugar is too high or too low, this can cause problems.
+Monitoring will help you figure out what affects your numbers, find patterns, and adjust as you go. By checking regularly you'll be more likely to achieve your blood sugar target ranges. Monitoring also helps your health care team make decisions about your diabetes care plan. Your doctor will tell you when and how often to check your blood sugar levels.
+Most blood sugar meters (also known as glucometers) save your results for you and your health care team to review. Some meters may use an app on your phone to track your levels. If you prefer not to use a phone or don't have one, you can keep a written record.
+
+How to monitor
+There are different kinds of meters, but most of them work the same way. Ask your health care team to show you how they work. Have someone else also learn how to use your meter in case you're sick and can't check your blood sugar yourself.
+Below are steps to test your blood sugar:
+
+Make sure the meter is charged and ready to use.
+Wash your hands with soap and warm water, and dry well before each test.
+Massage or shake out your hand to get blood into your finger.
+Use a lance to prick your finger. Squeezing from the base of the finger, gently place a small amount of blood onto the test strip.
+Place the strip in the meter. After a few seconds, the blood sugar reading will appear.
+Track and record your results. You may want to keep notes about anything that might have affected your reading.
+Dispose of the lancet and strip in a trash container.
+Do not share blood sugar monitoring equipment, especially lancets, with anyone, even other family members.
+
+More tips to keep in mind
+When your hands are cold, this could restrict the blood flow to your fingertips. If you have trouble getting enough blood on the test strip, try warming up your hands before you wash them.
+Test strips can be damaged if exposed to moisture, humidity, or extreme temperatures. Keep the container closed tightly when you're not using your test strips, and be mindful where you store them.
+Additional help
+If you're newly diagnosed with diabetes, it may be overwhelming to learn how to check your blood sugar, and what the numbers mean. Diabetes self-management education and support is available to help you learn and overcome challenges. Ask your doctor for a referral.
+
+Blood sugar target ranges
+The following recommended ranges are for most people with diabetes who aren't pregnant. Your target range may be different based on your age, health status and diabetes management plan. Always follow your doctor's recommendations specified for you.
+
+Before meals: 80 to 130 mg/dL
+After meals (1-2 hours later): Below 180 mg/dL
+
+A1C testing
+In addition to regular blood sugar monitoring at home, you should also test your A1C at least twice a year if you have diabetes. Find out more about A1C goals and the importance of checking it .
+
+Talk to your doctor
+Keep these questions in mind when visiting your doctor:
+
+What is my target blood sugar range?
+How often should I check my blood sugar?
+What do these blood sugar numbers mean?
+How can I improve or maintain my blood sugar levels?
+
+May 14, 2024
+
+Syndicate

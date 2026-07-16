@@ -1,0 +1,79 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/data-research/research/diabetes-education.html",
+  "title": "Diabetes Education Linked to Better Care - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:43.456617",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes Education Linked to Better Care - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 337,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes Education Linked to Better Care - CDC
+
+May 15, 2024
+
+Diabetes Education Linked to Better Care
+
+Key points
+
+Diabetes self-management education and support (DSMES) helps people with diabetes gain knowledge, skills, and personalized support for diabetes self-care.
+
+Adults who receive DSMES, also known as diabetes education, follow more recommended preventive care practices.
+
+What did this study examine?
+This study examined three things:
+
+The percentage of US adults 18 and older with diabetes who reported receiving diabetes education.
+
+Whether people who received diabetes education—compared to people who did not—were more likely to follow 10 recommended self-care and clinical care practices.
+
+Whether any social, economic, or race/ethnicity differences were found between people who received diabetes education and people who did not.
+
+Study results
+Of adults with diabetes, only half (52%) reported receiving DSMES or other types of diabetes education.
+People who received diabetes education were more likely to follow self-care practices including:
+
+Not smoking.
+
+Checking blood sugar daily.
+
+Checking for foot sores daily.
+
+Getting regular physical activity.
+
+They were also more likely to get clinical care, including:
+
+A pneumonia shot.
+
+An A1C test twice a year.
+
+An annual eye exam.
+
+An annual flu shot.
+
+Regular health care visits.
+
+An annual foot exam by a medical professional.
+
+Among people who received diabetes education, nearly 25% followed at least 9 of the 10 self-care and clinical care practices, compared to 10% among people who never received diabetes education.
+Participation in diabetes education was lowest among the following groups:
+
+Hispanic or Latino people.
+
+People who were uninsured.
+
+People living in a rural county.
+
+People with less than a high school education.
+
+What's important about this study?
+This study shows that receiving diabetes education is an important part of diabetes care. It discusses the importance of raising awareness about the benefits of diabetes education and increasing participation. It further shows the need for diabetes education materials at the appropriate reading level with customization for individual cultures and languages. Finally, researchers consider the application of technology and telemedicine to help deliver care at a distance for rural communities.
+
+May 15, 2024

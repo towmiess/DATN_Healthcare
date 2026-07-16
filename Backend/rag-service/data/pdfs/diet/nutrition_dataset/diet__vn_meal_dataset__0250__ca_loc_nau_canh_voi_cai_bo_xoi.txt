@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá lóc nấu canh với cải bó xôi", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá lóc nấu canh với cải bó xôi
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: cá lóc, cải bó xôi, protein, nấu canh
+
+Mô tả: Cá lóc nấu canh với cải bó xôi là món nấu canh kết hợp cá lóc và cải bó xôi, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.4
+Calo: 160 kcal
+Chất đạm (protein): 17.0 g
+Chất béo tổng: 9.0 g (bão hòa: 2.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 11.3 g (chất xơ: 1.7 g, đường: 3.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 531 mg
+Kali: 229 mg | Phốt pho: 175 mg | Magie: 66 mg
+Canxi: 157 mg | Sắt: 0.7 mg | Vitamin D: 0.0 mcg | Omega-3: 0.8 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Thịt nạc; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g cá lóc
+200g cải bó xôi
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cá lóc và cải bó xôi
+2. Nấu canh theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

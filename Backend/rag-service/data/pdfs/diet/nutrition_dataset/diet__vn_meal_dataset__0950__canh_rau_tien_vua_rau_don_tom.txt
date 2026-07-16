@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Canh rau tiến vua (rau dớn) tôm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh rau tiến vua (rau dớn) tôm
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: rau tiến vua, rau dớn, tôm, đặc sản
+
+Mô tả: Rau tiến vua giàu chất xơ và khoáng chất, đặc sản miền núi phía Bắc.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 115 kcal
+Chất đạm (protein): 14.5 g
+Chất béo tổng: 3.2 g (bão hòa: 0.6 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.0 g (chất xơ: 3.2 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 75 mg | Natri: 348 mg
+Kali: 378 mg | Phốt pho: 162 mg | Magie: 38 mg
+Canxi: 62 mg | Sắt: 2.2 mg | Vitamin D: 0.3 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Chất xơ và khoáng chất cao - đặc sản bổ dưỡng cho TĐ
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Dị ứng tôm thận trọng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: trung bình
+
+--- Nguyên liệu ---
+100g tôm
+200g rau tiến vua
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Phi tỏi xào tôm
+2. Đổ nước sôi
+3. Cho rau vào nấu 3 phút

@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Đậu phộng luộc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Đậu phộng luộc
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: đậu phộng luộc, protein, resveratrol
+
+Mô tả: Đậu phộng luộc giữ nguyên dưỡng chất, ít chất béo hơn rang vì không có dầu thêm.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 145 kcal
+Chất đạm (protein): 7.0 g
+Chất béo tổng: 11.0 g (bão hòa: 1.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.5 g (chất xơ: 3.0 g, đường: 1.2 g, đường bổ sung: 0.2 g)
+Cholesterol: 0 mg | Natri: 45 mg
+Kali: 225 mg | Phốt pho: 118 mg | Magie: 52 mg
+Canxi: 28 mg | Sắt: 0.7 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Luộc giữ resveratrol tốt hơn rang
+Khẩu phần khuyến nghị: 30g (cả vỏ)/bữa phụ
+Chống chỉ định / thận trọng: Dị ứng đậu phộng thận trọng
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+50g đậu phộng còn vỏ
+
+--- Cách chế biến ---
+1. Rửa sạch đậu phộng
+2. Luộc với ít muối 20 phút
+3. Ăn khi còn ấm

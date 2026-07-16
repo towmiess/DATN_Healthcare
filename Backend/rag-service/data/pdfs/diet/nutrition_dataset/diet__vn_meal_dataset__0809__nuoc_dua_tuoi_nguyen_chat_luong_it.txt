@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Nước dừa tươi nguyên chất (lượng ít)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Nước dừa tươi nguyên chất (lượng ít)
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: nước dừa, kali, điện giải, tự nhiên
+
+Mô tả: Nước dừa tươi giàu kali tự nhiên, dùng lượng ít để kiểm soát đường tự nhiên trong dừa.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 5.5
+Calo: 46 kcal
+Chất đạm (protein): 0.7 g
+Chất béo tổng: 0.5 g (bão hòa: 0.4 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 9.0 g (chất xơ: 0.0 g, đường: 8.0 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 105 mg
+Kali: 250 mg | Phốt pho: 20 mg | Magie: 15 mg
+Canxi: 12 mg | Sắt: 0.3 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Kali cao tốt điện giải nhưng có đường tự nhiên - dùng lượng ít 1 lần/tuần
+Khẩu phần khuyến nghị: 150ml, không quá 2-3 lần/tuần
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+150ml nước dừa tươi
+
+--- Cách chế biến ---
+1. Lấy nước dừa tươi từ quả dừa
+2. Uống trực tiếp không thêm đường

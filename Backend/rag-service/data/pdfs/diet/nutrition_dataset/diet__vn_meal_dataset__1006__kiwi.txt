@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Kiwi", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Kiwi
+Loại món: Trái cây | Ẩm thực: Vietnamese
+Từ khóa: GI thấp, vitamin C gấp đôi cam, chất xơ
+
+Mô tả: Kiwi vitamin C cao gấp đôi cam, GI thấp, chất xơ hỗ trợ tiêu hóa.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 100g (phần ăn được)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 5.0
+Calo: 61 kcal
+Chất đạm (protein): 1.1 g
+Chất béo tổng: 0.5 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 14.7 g (chất xơ: 3.0 g, đường: 9.0 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 3 mg
+Kali: 312 mg | Phốt pho: 40 mg | Magie: 17 mg
+Canxi: 34 mg | Sắt: 0.3 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Vitamin C cao nhất - tốt miễn dịch bệnh nhân TĐ
+Khẩu phần khuyến nghị: 1-2 quả (~150g)/lần
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g kiwi (phần ăn được)
+
+--- Cách chế biến ---
+1. Rửa sạch kiwi
+2. Gọt vỏ/bỏ hạt nếu cần
+3. Ăn trực tiếp, không thêm đường

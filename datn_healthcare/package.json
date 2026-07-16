@@ -1,0 +1,41 @@
+{
+  "name": "healtcare",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^5.2.2",
+    "axios": "^1.13.6",
+    "lucide-react": "^0.577.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.71.2",
+    "react-icons": "^5.6.0",
+    "react-router-dom": "^7.13.1",
+    "sass": "^1.98.0",
+    "sonner": "^2.0.7",
+    "sweetalert2": "^11.26.25",
+    "tesseract.js": "^7.0.0",
+    "zod": "^4.3.6",
+    "zustand": "^5.0.12"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.56.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.0",
+    "vite-tsconfig-paths": "^6.1.1"
+  }
+}

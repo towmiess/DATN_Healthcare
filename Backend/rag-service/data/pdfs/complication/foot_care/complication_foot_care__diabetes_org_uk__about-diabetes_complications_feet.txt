@@ -1,0 +1,120 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/complications/feet",
+  "title": "Diabetic feet - Diabetes UK",
+  "category": "complication/foot_care",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:18:57.810396",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Diabetic feet - Diabetes UK",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 972,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetic feet - Diabetes UK
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Diabetes and foot problems
+
+Having diabetes means you’re at much greater risk of developing foot problems. But taking care of your feet can help you avoid these complications.
+
+On this page we cover:
+
+What causes foot problems in diabetes?
+Symptoms of a diabetes-related foot problem
+Problems with your toes
+Diabetes-related foot pain
+Diabetic blisters
+What is the screening process for diabetes-related foot problems?
+How can I reduce my risk of diabetes-related foot problems?
+
+What causes foot problems in diabetes?
+
+Over time raised blood sugar levels, also known as blood glucose levels , can damage the small blood vessels that supply the nerves in your feet.
+
+This stops essential nutrients reaching the nerves. If the nerves in your feet are damaged, you can lose the feeling in your feet, known as peripheral neuropathy (nerve damage). This means you may not feel things properly and can damage your feet without noticing.
+
+Damaged blood vessels also reduce the blood supply to your feet, meaning you may then have problems with cuts and sores healing. You may also get cramps and pain in your legs or feet.
+
+If left untreated, these foot problems can lead to foot ulcers, infections and, at worst, amputations. Most foot problems can be prevented by taking care of your feet and having your feet checked as part of your annual review .
+
+What are the symptoms of diabetes-related foot problems?
+
+If you spot any of these changes, see your GP or your local foot protection team:
+
+tingling sensation or pins and needles like numbness
+burning pain
+a dull ache
+loss of feeling in your feet or legs
+swollen feet - you might notice that putting your shoes on or walking has become more difficult
+your feet don't sweat
+cuts, wounds or sores that don’t heal
+cramp in your calves when resting or walking
+shiny, smooth skin on your feet
+hair loss on your legs and feet.
+
+Problems with your toes
+
+Some people with diabetes can have problems with their toes. This may be because of changes to the feeling in your toes, caused by nerve damage, also known as neuropathy.
+
+These problems include:
+
+toes that are bent into a claw shape, known as claw toe
+the joint on your toe pointing up instead of lying flat, known as hammer toe
+build-up of thick layers of skin on the top or sides of your toes, known as corns
+a hard lump at the bottom of the big toe on the side which causes the big toe to point at an angle, known as a bunion.
+
+There are different treatments available and your GP or foot protection team can help.
+
+Diabetes-related foot pain
+
+Damage to your nerves can cause pain in your feet. Read more about diabetic neuropathy and what can help.
+
+Diabetic blisters
+
+If you have diabetes, you are more likely to get certain skin problems, including blisters. Diabetic blisters are rare. They can show up on your feet and legs, as well as your hands and arms, but this is less common. Unlike blisters that develop after a burn, diabetic blisters are not usually painful.
+
+Causes of diabetic blisters
+
+You’re more likely to develop these blisters if you have high blood sugar levels or neuropathy.
+
+Treatment for diabetic blisters
+
+Diabetic blisters usually heal on their own, which can take up to five weeks. When they heal, they usually won’t leave scars. Avoid bursting the blisters yourself. If a blister is big enough that it needs to be drained, speak to your GP.
+
+Make sure you contact your doctor if you spot any red skin around your blisters. Whilst the blisters do clear up by themselves, your GP can help you avoid the risk of an infection.
+
+What is the screening process for diabetes-related foot problems?
+
+Everyone with diabetes should have an annual foot check .
+
+Your foot check, also called a foot screening, is part of your annual review, which means you should have it as part of your diabetes care and it's free on the NHS. This is because you’re more likely to have serious foot problems and these can lead to amputations.
+
+The foot check will involve a health professional looking at your feet, asking you questions about any changes and checking the blood supply. They may refer you to a foot specialist, called a podiatrist, or a local foot protection team. Find out more about what to expect at your annual foot check.
+
+If you see a podiatrist. They’ll let you know your level of risk . You’ll agree a personalised care plan. This may involve treatment, advice about how to look after your feet and the best footwear for you.
+
+You’ll see them regularly and this will be arranged through your local footcare service or GP.
+
+If you are offered this appointment alongside your annual diabetes foot check, it is best to go to both. That way, you’ll get the right type of professional foot care to treat any problems you have and help keep your feet healthy.
+
+How can I reduce my risk of diabetes-related foot problems?
+
+Alongside going to your annual foot check, you can prevent foot problems by:
+
+Checking your feet daily .
+Following a healthy diet and keeping active.
+Getting help to give up smoking.
+Keeping your blood sugars as close to target as possible.
+Managing blood fat levels and blood pressure to help protect the blood vessels and nerves.
+Speak to your healthcare team to check if you need to do anything else to help you manage your diabetes.
+
+If you notice something new that you're worried about, like a cut or blister on your foot, call your GP or foot protection team straight away. If you can't get through, call 111 for advice.
+
+Next Review Date

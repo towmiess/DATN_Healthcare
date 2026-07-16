@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá bống luộc sốt nhạt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá bống luộc sốt nhạt
+Loại món: Cá/Hải sản | Ẩm thực: Vietnamese
+Từ khóa: cá bống, cải bó xôi, protein, luộc
+
+Mô tả: Cá bống luộc sốt nhạt là món luộc kết hợp cá bống và cải bó xôi, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 154 kcal
+Chất đạm (protein): 26.9 g
+Chất béo tổng: 4.6 g (bão hòa: 1.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 11.1 g (chất xơ: 3.8 g, đường: 1.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 35 mg | Natri: 195 mg
+Kali: 451 mg | Phốt pho: 171 mg | Magie: 64 mg
+Canxi: 55 mg | Sắt: 0.8 mg | Vitamin D: 0.2 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Cá/Hải sản; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g cá bống
+200g cải bó xôi
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cá bống và cải bó xôi
+2. Luộc theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

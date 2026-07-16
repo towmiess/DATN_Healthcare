@@ -1,0 +1,18 @@
+spring:
+  data:
+    redis:
+      host: localhost
+      port: 6379
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          secret-key: Y2hhbmdlLW1lLWFjY2Vzcy1zZWNyZXQtMzItYnl0ZXMhIQ==
+
+eureka:
+  client:
+    enabled: false
+
+app:
+  gateway:
+    internal-secret: test-internal-secret

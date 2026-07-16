@@ -1,0 +1,62 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/healthy-eating/fiber-helps-diabetes.html",
+  "title": "Fiber: The Carb That Helps You Manage Diabetes",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:14:00.622278",
+  "source_name": "cdc.gov",
+  "document_title": "Fiber: The Carb That Helps You Manage Diabetes",
+  "extraction_method": "<main>",
+  "word_count": 609,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Fiber: The Carb That Helps You Manage Diabetes
+
+May 15, 2024
+
+Fiber: The Carb That Helps You Manage Diabetes
+
+Key points
+
+Fiber is part of a healthy diet and can provide a range of health benefits, including preventing or managing diabetes.
+
+Learn more about the surprising role of fiber.
+
+Health benefits of fiber
+We all need fiber to keep our internal plumbing humming like a fine-tuned engine. But most US adults only get about half the fiber they need each day. Fiber is a type of carbohydrate found mainly in fruits, vegetables, whole grains, and legumes. It helps you avoid constipation, but it offers many other health benefits, especially for people with diabetes or prediabetes.
+If you have diabetes or prediabetes, fiber is your friend. It helps with blood sugar control and weight management. It can also lower your risk of heart disease , a common diabetes complication, and some cancers. Fiber can help:
+Control your blood sugar. Your body doesn't absorb and break down fiber. This means fiber doesn't cause a spike in blood sugar the way other carbohydrates can.
+Protect your heart. Fiber prevents your body from absorbing some fat and cholesterol. This lowers your triglyceride and cholesterol levels, and may reduce your risk of heart disease.
+Maintain your digestive health. Fiber acts like a scrub brush, cleaning your digestive tract. It helps clean out unwanted buildup to improve gut health, and reduces your risk of colon cancer.
+Keep you feeling full. Since fiber isn't digested, it moves slowly through the stomach, making you feel fuller for longer. This can help you lose or maintain your weight.
+
+Types of fiber
+There are two types of fiber, soluble and insoluble. Each has important health benefits and plays a different role in the body.
+Soluble fiber
+Soluble fiber dissolves in water and forms a gel-like substance in your stomach, slowing down digestion. This helps control your blood sugar and cholesterol. Soluble fiber is found in apples, bananas, oats, peas, black beans, lima beans, Brussels sprouts, and avocados.
+Insoluble fiber
+Insoluble fiber doesn't dissolve in water and typically remains whole as it passes through your stomach. It helps increase insulin sensitivity, and keeps your bowels healthy to keep you regular. Insoluble fiber is found in whole wheat flour, bran, nuts, seeds, and the skins of many fruits and vegetables.
+
+How to add more fiber to your diet
+The Dietary Guidelines for Americans, 2020–2025 recommends that adults eat 22 to 34 grams of fiber each day (depending on your age and sex). Try these tips to spread your fiber intake throughout your meals:
+
+Have a fiber-friendly breakfast. Try avocado toast topped with chickpeas, or oatmeal with nuts and berries.
+
+Choose whole grains. Try options like brown rice, quinoa, or whole wheat pasta. Look for bread that lists whole grain flour as the first ingredient.
+
+Focus on non-starchy vegetables. Start dinners with a salad. Or, add spinach, broccoli, or frozen vegetables to your meals for a fiber boost.
+
+Add beans or other legumes. Try adding legumes such as lentils and peas or different kinds of beans (pinto, kidney, lima, navy, garbanzo) to salads, soups, stews, or casseroles. You can also puree legumes to make dips and spreads.
+
+Eat plenty of fruits, vegetables, nuts, and seeds. Add fruits and vegetables such as apples, pears, bananas, or baby carrots to your meals and snacks. Try almonds, sunflower seeds, or pistachios for a quick fiber-friendly snack.
+
+Take it slow
+Remember to take it slow when adding more fiber to your diet. A sudden increase in fiber can lead to digestive discomfort like bloating, gas, constipation, diarrhea, or cramps. Drink plenty of water to help food move through your system.
+
+May 15, 2024
+
+Syndicate

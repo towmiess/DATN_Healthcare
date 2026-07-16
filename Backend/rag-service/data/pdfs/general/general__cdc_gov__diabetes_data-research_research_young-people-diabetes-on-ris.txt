@@ -1,0 +1,54 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/data-research/research/young-people-diabetes-on-rise.html",
+  "title": "Diabetes in Young People Is on the Rise - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:51.105187",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes in Young People Is on the Rise - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 419,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes in Young People Is on the Rise - CDC
+
+May 15, 2024
+
+Diabetes in Young People Is on the Rise
+
+Key points
+
+Both type 1 and type 2 diabetes affect kids and teens.
+
+Diabetes in young people is projected to increase.
+
+New research shows what might be coming by the year 2060.
+
+What did this study examine?
+Researchers studied data from 2002 to 2017. They examined the number of young people (under 20) with type 1 or type 2 diabetes, and how cases have increased. They used mathematical models based on these past trends to predict how diabetes cases in young people will increase by 2060.
+Terms to know
+Type 1 diabetes is when the body does not produce enough insulin, the hormone that balances blood sugar levels. There is no known way to prevent type 1 diabetes at this time.
+Type 2 diabetes is when the body loses the ability over time to use insulin. In some people, type 2 diabetes can be prevented or delayed through lifestyle changes.
+Incidence refers to the number of people diagnosed with a condition over a certain timeframe. Incidence in this study is measured in two ways:
+
+Constant incidence is when the rate of new cases stays the same.
+
+Increasing incidence is when the rate of new cases increases based on past trends.
+
+Study results
+Researchers forecasted two scenarios of how many kids and teens will be diagnosed with diabetes by 2060:
+Constant incidence: If the rate of new diagnoses stays the same, type 1 diabetes cases would remain about the same. Type 2 diabetes cases would increase about 70%.
+Increasing incidence: If the rate of new diagnoses continues to increase, type 1 diabetes cases would increase about 65%. Type 2 diabetes cases would increase about 700%.
+
+Researchers also examined data by race and ethnicity. They predicted higher diabetes increases in Black, Hispanic or Latino, Asian, Pacific Islander, and American Indian or Alaska Native young people. This finding reinforces CDC's actions to advance health equity .
+Researchers created a hypothetical model that decreased the annual incidence of type 2 diabetes by 2% through prevention efforts. This model reduced the increase of diabetes among young people with to 294,000, compared to 526,000 without prevention efforts.
+
+What's important about this study?
+In both scenarios presented in this study, researchers expect diabetes in young people to increase over the next 40 years. This study highlights the importance of type 2 diabetes prevention efforts, where possible, for kids and teens. It also shows the increasing need for diabetes management for young people.
+
+May 15, 2024

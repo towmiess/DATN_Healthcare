@@ -1,0 +1,56 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/treatments/insulin/accidental-overdose",
+  "title": "Insulin accidental overdose",
+  "category": "emergency",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:10:54.388652",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Insulin accidental overdose",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 494,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Insulin accidental overdose
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Insulin overdose (accidental)
+
+What to do if you’ve taken too much insulin
+
+Sometimes, you can accidentally take more insulin than you need, which can result in an overdose. This can be very serious, and may lead to severe hypos . The worst cases can make you feel disorientated, cause you to have seizures and could even lead to death.
+
+If you think you’ve taken too much insulin accidentally - or the wrong type of insulin - then make sure you closely monitor your blood sugar levels, as you could be at risk of hypos for several hours, depending on what type of insulin you have taken and the dose.
+
+Contact your diabetes team or if it's out of hours NHS 111 for advice as soon as possible and monitor your blood sugars closely, keep hypo treatments and longer acting starchy carbs to hand. In an emergency where you think you have taken a very large dose or are struggling to manage your blood sugars and need help very urgently go to your local A&E.
+
+What to do if you’ve taken the wrong insulin
+
+If you are using insulin pens or syringes you may accidentally inject your long acting (basal) insulin or short acting (bolus) insulin at the wrong times or get them confused.
+
+If this happens and you end up taking the wrong type of insulin, monitor your blood sugars closely and have extra carbs if you need too. This is to avoid hypos.
+
+Your risk of hypos in the next few hours will depend on what type of insulin you’ve taken and the dose. Basal insulins work more slowly so it will take longer for blood glucose levels to fall but the risk of hypos will last for longer (approx. 12-18 hours).
+
+Bolus insulin works quickly and lasts around 3-5 hours so you may have hypos quite soon after the dose or hypos that need more treatment than usual.
+
+If you’re worried about having taken the wrong insulin, do contact your healthcare team or if it's out of hours NHS 111 for advice. Or in an emergency, if you're struggling to manage your blood sugars and need help very urgently, go to your local A&E.
+
+You can also contact our helpline for more advice and support. If you can’t get hold of anyone, reach out for reassurance and help on our forum .
+
+Keeping track of taking insulin
+
+It’s easy to forget whether you’ve taken your insulin or not. Some people use a glucose diary where they can log readings as well as insulin doses.
+
+Another option is to ask your healthcare team if you can try a smart insulin pen where your dose is automatically recorded. Read more about smart pens including which ones are available on the NHS.
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Share this Page

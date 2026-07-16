@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Cháo gạo lứt cá", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cháo gạo lứt cá
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: cháo, gạo lứt, cá, GI thấp
+
+Mô tả: Cháo gạo lứt đặc hơn cháo trắng GI thấp hơn, cá cung cấp omega-3.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 5.5
+Calo: 225 kcal
+Chất đạm (protein): 16.5 g
+Chất béo tổng: 5.5 g (bão hòa: 1.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 28.5 g (chất xơ: 3.5 g, đường: 1.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 58 mg | Natri: 318 mg
+Kali: 425 mg | Phốt pho: 195 mg | Magie: 38 mg
+Canxi: 38 mg | Sắt: 1.5 mg | Vitamin D: 2.5 mcg | Omega-3: 0.8 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Cháo đặc GI thấp hơn cháo loãng; gạo lứt tốt hơn gạo trắng
+Khẩu phần khuyến nghị: 1 tô vừa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+80g gạo lứt
+200g cá basa hoặc cá lóc
+30g gừng
+Hành lá
+
+--- Cách chế biến ---
+1. Nấu cháo gạo lứt đặc
+2. Cá hấp riêng tơi
+3. Cho cá vào cháo
+4. Thêm gừng hành

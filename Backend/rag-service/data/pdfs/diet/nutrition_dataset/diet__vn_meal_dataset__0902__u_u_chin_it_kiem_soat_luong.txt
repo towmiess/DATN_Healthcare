@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Đu đủ chín ít (kiểm soát lượng)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Đu đủ chín ít (kiểm soát lượng)
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: đu đủ chín, papain, vitamin A, kiểm soát lượng
+
+Mô tả: Đu đủ chín giàu vitamin A nhưng GI khá cao, dùng lượng vừa phải.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 6.0
+Calo: 43 kcal
+Chất đạm (protein): 0.5 g
+Chất béo tổng: 0.3 g (bão hòa: 0.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 10.8 g (chất xơ: 1.7 g, đường: 7.8 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 8 mg
+Kali: 182 mg | Phốt pho: 10 mg | Magie: 10 mg
+Canxi: 20 mg | Sắt: 0.3 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Vitamin A cao nhưng cần kiểm soát lượng do GI trung bình
+Khẩu phần khuyến nghị: 100g/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g đu đủ chín
+
+--- Cách chế biến ---
+1. Bỏ vỏ và hạt
+2. Cắt miếng ăn trực tiếp

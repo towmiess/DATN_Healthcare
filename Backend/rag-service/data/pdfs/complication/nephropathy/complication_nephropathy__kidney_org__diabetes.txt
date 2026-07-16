@@ -1,0 +1,20 @@
+===METADATA===
+{
+  "url": "https://www.kidney.org/diabetes",
+  "title": "Diabetes and Kidney Disease - NKF",
+  "category": "complication/nephropathy",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:16:35.692234",
+  "source_name": "kidney.org",
+  "document_title": "Diabetes and Kidney Disease - NKF",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 467,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes and Kidney Disease - NKF
+
+Diabetes More than 34 million Americans have diabetes, the leading cause of kidney disease. Learn more about diabetes and your kidneys. What is Diabetes? Diabetes is a condition in which your body has trouble controlling the level of sugar (glucose) in your blood. Insulin is a hormone that regulates the amount of sugar in your blood. With diabetes, your body either does not make enough insulin or cannot use the insulin your body produces effectively. Risk & Diagnosis A major risk factor for kidney disease Diabetes injures small blood vessels in the body. When this happens, your kidneys cannot clean your blood properly. Get tested! The U.S. Preventive Services Task Force recommends screening for prediabetes and referring to diabetes prevention programs, in addition to screening for undiagnosed diabetes. After kidney transplant Even if you did not have diabetes before, you may develop diabetes after an organ transplant. This type of diabetes is called "new-onset diabetes" after transplant, or "NODAT" for short. Join us at a KEEP Healthy Event! Do you have questions about your kidney health? KEEP Healthy is NKF's community-based initiative to educate about the kidneys, risk factors for kidney disease, and steps to take to keep kidneys healthy and reduce risk. Find an event near you Diabetes & kidney disease What is diabetic kidney disease Diabetic kidney disease is a decrease in kidney function that occurs in some people who have diabetes. 10 tips for managing diabetes Your healthcare team will work closely with you to manage your blood sugar. But most of your day-to-day care is up to you. Here are ten important choices you can make to have a positive effect on your diabetes. Managing blood sugar for kidney health Good management of blood sugar and other self-care efforts can help slow or stop damange to your kidneys from diabetes. Diabetes and your body Over time, having high blood sugar can cause damage to your eyes, nervese, heart, blood vessels, and kidneys. Diabetes and kidney disease in African Americans African Americans are more likely to develop diabetes than non-Hispanic white adults. Diabetes and kidney diseaes in Hispanic Americans Hispanic Americans are more likely to develop diabetes, which increases the risk of developing kidney disease. Kidney disease stages 1-4 A high level of sugar in your blood can cause problems in many parts of your body. Over time, this can lead to kidney disease. Kidney disease stage 5 When kidney failure happens, you need treatment to replace the work of your failed kidneys. Quality of life Diabetes requires daily self-management. At times, this can be challenging. But the benefits are very real. Type 2 diabetes and kidney disease What you should know about the relationship between kidney disease and type 2 diabetes. Diet & Nutrition Emergency meal planning for diabetics on dialysis Carbohydrate counting

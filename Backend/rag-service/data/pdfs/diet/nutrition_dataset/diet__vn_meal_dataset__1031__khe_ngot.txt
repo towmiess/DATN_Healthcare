@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Khế ngọt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Khế ngọt
+Loại món: Trái cây | Ẩm thực: Vietnamese
+Từ khóa: GI thấp, vitamin C, ít calo
+
+Mô tả: Khế ngọt ít calo, vitamin C khá cao, GI thấp, hình dáng đặc trưng dễ nhận biết.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 100g (phần ăn được)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.5
+Calo: 31 kcal
+Chất đạm (protein): 1.0 g
+Chất béo tổng: 0.3 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.1 g (chất xơ: 2.8 g, đường: 4.0 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 3 mg
+Kali: 133 mg | Phốt pho: 10 mg | Magie: 8 mg
+Canxi: 3 mg | Sắt: 0.1 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít calo nhiều chất xơ - trái cây an toàn cho TĐ
+Khẩu phần khuyến nghị: 150g/lần
+Chống chỉ định / thận trọng: Người suy thận tránh dùng (chứa oxalate cao gây độc thần kinh nếu suy thận)
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g khế ngọt (phần ăn được)
+
+--- Cách chế biến ---
+1. Rửa sạch khế ngọt
+2. Gọt vỏ/bỏ hạt nếu cần
+3. Ăn trực tiếp, không thêm đường

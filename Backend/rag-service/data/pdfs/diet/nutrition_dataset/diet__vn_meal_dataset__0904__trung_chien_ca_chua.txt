@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Trứng chiên cà chua", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trứng chiên cà chua
+Loại món: Món trứng | Ẩm thực: Vietnamese
+Từ khóa: trứng, cà chua, lycopene, nhanh
+
+Mô tả: Trứng chiên cà chua đơn giản, lycopene cà chua kết hợp protein trứng.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 148 kcal
+Chất đạm (protein): 9.5 g
+Chất béo tổng: 9.5 g (bão hòa: 2.5 g, chuyển hóa: 0.2 g)
+Carbohydrate tổng: 5.5 g (chất xơ: 1.2 g, đường: 3.5 g, đường bổ sung: 0.5 g)
+Cholesterol: 185 mg | Natri: 265 mg
+Kali: 285 mg | Phốt pho: 128 mg | Magie: 18 mg
+Canxi: 42 mg | Sắt: 1.2 mg | Vitamin D: 0.8 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Cholesterol trứng cần kiểm soát với tim mạch và đột quỵ
+Khẩu phần khuyến nghị: 1 phần/bữa
+Chống chỉ định / thận trọng: Tim mạch và đột quỵ hạn chế
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+2 trứng
+2 cà chua
+1/2 muỗng dầu
+
+--- Cách chế biến ---
+1. Đánh trứng
+2. Xào cà chua chín
+3. Đổ trứng vào đảo đều

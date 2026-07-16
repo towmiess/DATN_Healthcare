@@ -1,0 +1,99 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/es/risk-factors/factores-de-riesgo-de-la-diabetes.html",
+  "title": "Factores de riesgo de la diabetes",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:19.418605",
+  "source_name": "cdc.gov",
+  "document_title": "Factores de riesgo de la diabetes",
+  "extraction_method": "<main>",
+  "word_count": 615,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Factores de riesgo de la diabetes
+
+el 19 abril del 2024
+
+English (US)
+
+Factores de riesgo de la diabetes
+
+Puntos clave
+
+Algunos factores de riesgo de la diabetes se pueden manejar a trav&eacute;s de cambios de comportamiento, como hacer m&aacute;s actividad f&iacute;sica.
+
+Otros factores de riesgo no se pueden cambiar, como los antecedentes familiares y la edad.
+
+Averig&uuml;e su riesgo para cada tipo de diabetes.
+
+Diabetes tipo 1
+Se cree que lo que causa la diabetes tipo 1 es una reacci&oacute;n autoinmunitaria (el cuerpo se ataca a s&iacute; mismo por error). Nadie sabe c&oacute;mo prevenir la diabetes tipo 1. Los factores de riesgo que se conocen incluyen:
+
+Antecedentes familiares: uno de los padres o uno de los hermanos o hermanas tiene diabetes tipo 1.
+
+Edad: la diabetes tipo 1 puede producirse a cualquier edad, pero generalmente ocurre en ni&ntilde;os, adolescentes o adultos j&oacute;venes.
+
+En los Estados Unidos, las personas de raza blanca tienen m&aacute;s probabilidades de presentar diabetes tipo 1 que las afroamericanas y las hispanas o latinas.
+
+La prediabetes y la diabetes tipo 2
+La prediabetes y la diabetes tipo 2 comparten casi todos los mismos factores de riesgo. Si ya tiene prediabetes, este es un factor de riesgo agregado que aumenta sus probabilidades de presentar diabetes tipo 2. Usted tiene riesgo de presentar prediabetes y diabetes tipo 2 si:
+
+Tiene sobrepeso u obesidad.
+
+Tiene 45 a&ntilde;os o m&aacute;s.
+
+Uno de sus padres o hermanos tiene diabetes tipo 2.
+
+Hace actividad f&iacute;sica menos de 3 veces a la semana.
+
+Tiene la enfermedad del h&iacute;gado graso no alcoh&oacute;lico.
+
+Ha tenido alguna vez diabetes gestacional (diabetes durante el embarazo) o ha dado a luz a un beb&eacute; que pes&oacute; m&aacute;s de 9 libras.
+
+Es una persona afroamericana, hispana o latina, ind&iacute;gena de los EE. UU. o nativa de Alaska. Algunas personas nativas de las islas del Pac&iacute;fico y algunas personas asiaticoamericanas tambi&eacute;n tienen mayor riesgo.
+
+Diabetes gestacional
+Usted est&aacute; en riesgo de presentar diabetes gestacional (diabetes durante el embarazo) si:
+
+Tuvo diabetes gestacional en un embarazo anterior.
+
+Dio a luz a un beb&eacute; que pes&oacute; m&aacute;s de 9 libras.
+
+Tiene sobrepeso u obesidad.
+
+Tiene m&aacute;s de 25 a&ntilde;os de edad.
+
+Tiene antecedentes familiares de diabetes tipo 2.
+
+Tiene un trastorno hormonal llamado s&iacute;ndrome del ovario poliqu&iacute;stico (PCOS, por sus siglas en ingl&eacute;s).
+
+Es una persona afroamericana, hispana o latina, ind&iacute;gena de los EE. UU., o nativa de Alaska, Haw&aacute;i o de otras islas del Pac&iacute;fico.
+
+La diabetes gestacional por lo general desaparece despu&eacute;s de dar a luz. Pero tener antecedentes de diabetes gestacional aumenta su riesgo de presentar diabetes tipo 2. El beb&eacute; tambi&eacute;n tiene m&aacute;s probabilidades de tener obesidad cuando sea ni&ntilde;o o adolescente, y de presentar diabetes tipo 2 m&aacute;s adelante en la vida.
+
+Reduzca su riesgo
+Algunos factores de riesgo, como la edad y los antecedentes m&eacute;dicos familiares, no se pueden evitar. Pero hay algunas cosas que puede hacer para reducir su riesgo de presentar prediabetes, diabetes tipo 2 o diabetes gestacional. Algunos cambios de comportamiento para reducir su riesgo incluyen:
+
+Aumentar la actividad f&iacute;sica.
+
+Alimentarse saludablemente.
+
+Perder peso si tiene sobrepeso u obesidad.
+
+Cambios peque&ntilde;os y graduales pueden hacer una gran diferencia para reducir su riesgo de prediabetes, diabetes tipo 2 o diabetes gestacional, y pueden mejorar su salud y bienestar general. Nunca es demasiado tarde ni temprano para empezar.
+Si tiene prediabetes y necesita apoyo adicional, hay ayuda disponible a trav&eacute;s del programa de cambio de estilo de vida del Programa Nacional de Prevenci&oacute;n de la Diabetes . Puede revertir la prediabetes para prevenir o retrasar la diabetes tipo 2.
+
+el 19 abril del 2024
+
+Fuentes
+Imprimir
+Compartir
+
+Syndicate
+
+Fuente del contenido:
+Centro Nacional para la Prevenci&oacute;n de Enfermedades Cr&oacute;nicas y Promoci&oacute;n de la Salud ; Diabetes

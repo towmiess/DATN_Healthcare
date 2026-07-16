@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "mướp xào", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: mướp xào
+Loại món: Rau củ | Ẩm thực: Vietnamese
+Từ khóa: mướp, rau củ, ít calo, chất xơ
+
+Mô tả: mướp xào là món xào kết hợp mướp và mướp, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 61 kcal
+Chất đạm (protein): 3.9 g
+Chất béo tổng: 3.2 g (bão hòa: 1.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.2 g (chất xơ: 2.7 g, đường: 1.8 g, đường bổ sung: 0.0 g)
+Cholesterol: 125 mg | Natri: 373 mg
+Kali: 187 mg | Phốt pho: 174 mg | Magie: 67 mg
+Canxi: 19 mg | Sắt: 1.5 mg | Vitamin D: 1.5 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Rau củ; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+300g mướp
+Tỏi hoặc gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế mướp sạch
+2. Xào đến chín vừa
+3. Nêm ít gia vị, tránh dùng nhiều dầu mỡ

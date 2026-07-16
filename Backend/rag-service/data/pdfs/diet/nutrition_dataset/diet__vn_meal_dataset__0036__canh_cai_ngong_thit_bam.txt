@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Canh cải ngồng thịt bằm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh cải ngồng thịt bằm
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: cải ngồng, thịt bằm, glucosinolate, ung thư
+
+Mô tả: Cải ngồng giàu glucosinolate - chất chống oxy hóa bảo vệ DNA và giảm viêm.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 118 kcal
+Chất đạm (protein): 15.5 g
+Chất béo tổng: 4.8 g (bão hòa: 1.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.5 g (chất xơ: 3.5 g, đường: 1.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 40 mg | Natri: 342 mg
+Kali: 412 mg | Phốt pho: 162 mg | Magie: 38 mg
+Canxi: 85 mg | Sắt: 2.2 mg | Vitamin D: 0.3 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Glucosinolate chống viêm tốt cho biến chứng TĐ
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Người dùng thuốc thyroid thận trọng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+60g thịt bằm
+250g cải ngồng
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Phi tỏi xào thịt
+2. Đổ 450ml nước sôi
+3. Cho cải ngồng vào nấu 5 phút
+4. Nêm gia vị

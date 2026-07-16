@@ -1,0 +1,126 @@
+===METADATA===
+{
+  "url": "https://www.niddk.nih.gov/health-information/diabetes/overview",
+  "title": "Diabetes Overview - NIDDK",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:11:41.926197",
+  "source_name": "niddk.nih.gov",
+  "document_title": "Diabetes Overview - NIDDK",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 610,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes Overview - NIDDK
+
+Health Information
+
+Diabetes
+
+Diabetes Overview
+
+English
+Español
+
+Diabetes Overview
+
+View or Print All Sections
+
+What is Diabetes?
+
+Diabetes occurs when your blood glucose, also called blood sugar, is too high. High blood glucose can cause health problems over time. The main types of diabetes are type 1, type 2, and gestational.
+
+Symptoms & Causes
+
+Increased thirst and urination, feeling tired, unexplained weight loss, and blurred vision are symptoms of diabetes. Many people have no symptoms and don’t know they have diabetes. Each type of diabetes has different causes.
+
+Risk Factors for Type 2 Diabetes
+
+You are more likely to develop type 2 diabetes if you have a family history of diabetes, are overweight or have obesity, or are 35 or older. Physical inactivity, race, ethnicity, and certain health problems also affect your chances of developing type 2 diabetes. A history of gestational diabetes is a risk factor for the parent and the child.
+
+Diabetes Risk Test
+
+Preventing Type 2 Diabetes
+
+You can prevent or delay type 2 diabetes by losing weight if you are overweight, being active for 30 minutes most days of the week, and following a reduced-calorie eating plan. Some people also take the diabetes drug metformin to help prevent type 2 diabetes.
+
+Diabetes Tests & Diagnosis
+
+Doctors use a variety of tests to diagnose diabetes and prediabetes. Your doctor may recommend different tests depending on whether you have symptoms or not, or whether you are pregnant.
+
+Managing Diabetes
+
+Managing your diabetes means managing your blood glucose, blood pressure, and cholesterol levels. Not smoking, leading a healthy lifestyle, and taking your medicines are important too. Work with your health care team to create a diabetes care plan that works for you.
+
+Insulin, Medicines, & Other Diabetes Treatments
+
+Following your diabetes treatment plan may include taking diabetes pills, insulin, or other shots, as well as medicines for related health problems. Some types of surgery—such as weight-loss surgery, also called metabolic and bariatric surgery—may be options for certain people with diabetes.
+
+Healthy Living with Diabetes
+
+Your diabetes meal plan helps you manage your blood glucose. Moderate physical activity most days of the week also helps control blood glucose. Talk with your health care team about a plan for eating and physical activity that is right for you.
+
+Preventing Diabetes Problems
+
+Diabetes can affect almost every part of your body. Managing your blood glucose can help prevent many other health problems that can occur when you have the disease.
+Common diabetes problems include
+
+Heart Disease & Stroke
+
+Nerve Damage (Diabetic Neuropathy)
+
+Foot Problems
+
+Gum Disease & Other Dental Problems
+
+Low Blood Glucose (Hypoglycemia)
+
+Kidney Disease
+
+Eye Disease
+
+Sexual & Bladder Problems
+
+Other Types of Diabetes
+
+Learn more about less-common types of diabetes.
+
+Monogenic Diabetes
+Cystic Fibrosis-related Diabetes
+
+Pregnancy & Diabetes
+
+If you have diabetes and plan to get pregnant, or develop diabetes during pregnancy, you can take steps to keep yourself and your baby healthy.
+
+Pregnancy If You Have Diabetes
+Gestational Diabetes
+
+Diabetes & Tobacco
+
+Smoking and tobacco products can make diabetes problems worse, especially heart disease and foot problems.
+If you smoke, stop. Ask for help so you don’t have to do it alone. Quitting smoking will improve your health.
+
+Clinical Trials
+
+The NIDDK and other components of the National Institutes of Health (NIH) support and conduct research into many diseases and conditions.
+Learn about clinical trials for diabetes .
+
+Related News
+
+NIH launches large study to tackle type 2 diabetes in young people
+
+Oct. 9, 2024
+
+Use of metformin in adults with diabetes linked to lower risk of long COVID
+
+Sept. 17, 2024
+
+Bariatric surgery provides long-term blood glucose control, type 2 diabetes remission
+
+Feb. 27, 2024
+
+More News

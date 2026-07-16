@@ -1,0 +1,47 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/phat-hien-ha-duong-huyet-o-nguoi-benh-dai-thao-vi",
+  "title": "Phát hiện hạ đường huyết",
+  "category": "emergency",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:10:57.704602",
+  "source_name": "vinmec.com",
+  "document_title": "Phát hiện hạ đường huyết",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1242,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Phát hiện hạ đường huyết
+
+-->
+
+Chuyên trang sức khoẻ
+Sức khoẻ tổng quát
+
+Phát hiện hạ đường huyết ở người bệnh đái tháo
+
+☰
+Mục lục
+
+Bài viết được tư vấn chuyên môn bởi Bác sĩ nội Tổng Quát - Khoa Khám bệnh & Nội khoa - Bệnh viện Đa khoa Quốc tế Vinmec Nha Trang.
+Hạ đường huyết ở người tiểu đường là biến chứng khá phổ biến trong quá trình điều trị đái tháo đường, các nguyên nhân chủ yếu là do rối loạn chuyển hóa đường hoặc tai biến của việc điều trị không được kiểm soát.
+1. Hạ đường huyết là gì?
+Lượng đường (glucose) trong máu ở người bình thường từ 70mg/dl đến 100mg/dl. Hạ đường huyết là khi lượng đường trong máu giảm xuống dưới mức 70mg/dl (3,9 mmol/L). Đây là dấu hiệu ít gặp ở những người bình thường, nhưng hạ đường huyết ở bệnh nhân tiểu đường lại rất phổ biến. Việc thiếu hụt đường huyết trầm trọng có thể dẫn đến hôn mê, tử vong nếu không được phát hiện và xử trí kịp thời.
+2. Nguyên nhân hạ đường huyết ở người tiểu đường
+Bệnh nhân tiểu đường đang được điều trị bằng insulin hoặc các thuốc uống nhằm kích thích tụy bài tiết insulin quá mức ảnh hưởng đến đường huyết tiểu đường. Sự thay đổi thói quen ở người tiểu đường như chế độ ăn uống, luyện tập hoặc đổi liều insulin tiêm đều có thể gây hạ đường huyết. Các bệnh lý đồng mắc với bệnh đái tháo đường như nhiễm trùng, rối loạn nội tiết, sử dụng thuốc, uống rượu, các khối u hoặc suy dinh dưỡng... Không ăn sau khi tiêm insulin.
+
+Tăng cường các hoạt động thể chất đều có thể gây hạ đường huyết ở bệnh nhân tiểu đường. Thay đổi vị trí tiêm insulin làm ảnh hưởng đến sự hấp thu insulin và gây hạ đường. Thay đổi các loại thuốc điều trị đái tháo đường , tăng liều hoặc kết hợp thêm thuốc mới nhưng chưa được kiểm soát chặt chẽ.
+3. Sự nguy hiểm khi hạ đường huyết ở người tiểu đường
+Dù ở thể trạng bình thường hay trên bệnh nhân đái tháo đường thì hạ đường huyết đều làm các cơ quan trong cơ thể rơi vào tình trạng thiếu hụt năng lượng và làm các hoạt động chuyển hóa bị đình trệ. Khi đường huyết ở mức thấp, cơ thể sẽ bù trừ bằng cách huy động năng lượng từ các nguồn khác như từ lipid, protid để đáp ứng một phần nhu cầu của cơ thể, tuy nhiên đây chỉ là phản ứng tạm thời và đương nhiên là không đủ cho nhu cầu của các cơ quan, trong đó đặc biệt nhất là não - cơ quan duy nhất trong cơ thể chỉ hoạt động và phụ thuộc hoàn toàn vào nguồn năng lượng từ glucose . Vì thế, hạ đường huyết ở người tiểu đường nặng hoặc kéo dài có thể gây tổn thương não nặng, gây hôn mê và thậm chí gây tử vong. Do vậy, việc phát hiện các dấu hiệu hạ đường huyết và điều trị kịp thời, nhanh chóng là yếu tố quyết định tiên lượng của bệnh nhân.
+
+4. Dấu hiệu nhận biết hạ đường huyết ở người tiểu đường
+Dấu hiệu hạ đường huyết cũng có triệu chứng tương tự như khi cơ thể bị đói nhưng ở mức độ nặng và nghiêm trọng hơn rất nhiều. Các triệu chứng này xuất hiện qua 3 giai đoạn: Giai đoạn đầu (đường huyết giảm xuống còn 3-4 mmol/l): Khi mức đường máu ở khoảng này, bệnh nhân sẽ có cảm giác đói, vã mồ hôi, run chân tay, hồi hộp đánh trống ngực và lo sợ... Đa số các trường hợp hạ đường huyết ở người tiểu đường ở giai đoạn đầu sẽ tự nhận biết và tự điều trị. Giai đoạn giữa (đường huyết giảm xuống còn 2-3 mmol/l): Khi đường huyết giảm hơn nữa, bệnh nhân sẽ có cảm giác yếu tay chân hoặc toàn thân, mệt, đau đầu, giảm thị lực, nhìn mờ và tri giác thay đổi (lơ mơ). Giai đoạn cuối: Nếu để đường huyết giảm đến mức độ nặng (khi đường huyết giảm xuống < 2 mmol/l) thì bệnh nhân có thể sẽ đi vào hôn mê, co giật và đôi khi tử vong nếu không được xử trí. Thống kê cho thấy, đa số bệnh nhân mắc bệnh tiểu đường thời gian dài và đã xuất hiện các biến chứng thần kinh, mạch máu, tim mạch hoặc tiền sử bệnh nhân đã bị hạ đường huyết nhiều lần thì các dấu hiệu, triệu chứng hạ đường huyết trên rất mờ nhạt, không rõ ràng hoặc thậm chí có thể không có bất cứ triệu chứng nào. Ngoài ra, một số bệnh nhân tiểu đường đường kèm theo các bệnh lý khác và đang điều trị kết hợp với các loại thuốc điều trị suy tim , tăng huyết áp... thì các triệu chứng hạ đường huyết cũng rất mờ nhạt. Nguyên nhân là các loại thuốc đó sẽ làm giảm đi rất nhiều hoặc làm mất hoàn toàn các triệu chứng hạ đường của cơ thể. Do đó, những đối tượng bệnh nhân này có thể đột ngột đi vào hôn mê mà không có bất cứ dấu hiệu báo trước nào. Hạ đường huyết cũng có thể xảy ra khi đang ngủ, biểu hiện : bệnh nhân mê ngủ sẽ thấy ác mộng nhiều, sáng ngủ dậy thấy người ướt đẫm mồ hôi, rất mệt, khó chịu, đau đầu... phải nghĩ đến hạ đường huyết.
+
+5. Xử trí hạ đường huyết ở người tiểu đường
+Khi có những dấu hiệu của hạ đường huyết, bệnh nhân cần uống ngay nước đường, ăn bánh, kẹo, các chế phẩm từ sữa... Những sản phẩm này chứa đường hấp thu nhanh giúp tăng nhanh đường huyết trong máu. Đối với trường hợp hạ đường huyết nặng, Người bệnh lơ mơ, hôn mê, cần tiêm hoặc truyền tĩnh mạch dung dịch glucose ưu trương 20 - 30% (40 – 60ml), có thể nhắc lại nếu bệnh nhân chưa tỉnh. Yêu cầu khi tiêm cần tiêm rất chậm, liều sử dụng không quá 60ml, sau đó thay bằng truyền nhỏ giọt dung dịch ngọt 10-15%. Tiêm glucose tĩnh mạch đồng thời cũng là test chẩn đoán có giá trị lớn, các dấu hiệu hôn mê sẽ mất ngay tức thì. Nếu được điều trị sớm, bệnh nhân có thể tự khỏi không để lại di chứng gì.
+6. Dự phòng hạ đường huyết ở bệnh nhân tiểu đường
+Bệnh nhân đái tháo đường không nên nhịn đói. Không nên bỏ bữa sáng, đặc biệt là người già, trẻ em, những người có bệnh mạn tính, cơ thể yếu. Không tự ý điều chỉnh insulin mà phải tuân thủ theo chỉ định của bác sĩ. Bệnh nhân tiểu đường cần có chế độ tập luyện thể lực điều độ, nên mang sẵn những thứ như kẹo ngọt, khi cảm thấy có dấu hiệu hạ đường huyết cần sử dụng ngay. Hạn chế uống rượu đặc biệt là uống rượu mà không ăn hoặc ăn ít. Tuy nhiên vấn đề quan trọng ở người đái tháo đường là phải luôn kiểm soát đường huyết chặt chẽ, tránh những biến chứng đáng tiếc xảy ra.

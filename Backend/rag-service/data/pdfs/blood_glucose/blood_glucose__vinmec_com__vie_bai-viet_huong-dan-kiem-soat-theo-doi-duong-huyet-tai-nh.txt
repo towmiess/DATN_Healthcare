@@ -1,0 +1,38 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/huong-dan-kiem-soat-theo-doi-duong-huyet-tai-nha-vi",
+  "title": "Hướng dẫn kiểm soát đường huyết tại nhà",
+  "category": "blood_glucose",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:05:46.685190",
+  "source_name": "vinmec.com",
+  "document_title": "Hướng dẫn kiểm soát đường huyết tại nhà",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1059,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Hướng dẫn kiểm soát đường huyết tại nhà
+
+-->
+
+Chuyên trang sức khoẻ
+Sức khoẻ tổng quát
+
+Hướng dẫn kiểm soát theo dõi đường huyết tại nhà
+
+☰
+Mục lục
+
+Dấu hiệu nhận biết chính xác nhất của bệnh đái tháo đường là sự biến đổi của mức đường huyết hay là glucose máu. Việc theo dõi và kiểm soát tốt được lượng đường huyết giúp người bệnh phòng ngừa được biến chứng bệnh tiểu đường. Bài viết sau đây sẽ hướng dẫn bạn theo dõi và kiểm soát lượng đường huyết trong máu tại nhà.
+1. Nên theo dõi đường huyết khi nào?
+Với người bệnh đái tháo đường việc kiểm soát đường huyết tại nhà là rất quan trọng. Việc theo dõi đường huyết tại nhà giúp đánh giá chế độ dinh dưỡng, tập thể dục, bệnh lý, phản ứng thuốc,... Nhờ đó người bệnh có thể kịp thời thay đổi chế độ ăn phù hợp với bản thân. Người bệnh đái tháo đường type 1 : Đối với tình trạng này, người bệnh nên theo dõi đường huyết thường xuyên, tối thiểu ba lần một ngày để kiểm soát bệnh tốt. Người bệnh đái tháo đường type 2 : Đây là đối tượng cần được hướng dẫn theo dõi đường huyết tại nhà thường xuyên nhất. Phải theo dõi đường huyết ngay khi thức dậy, trước khi ăn trưa, ăn tối. Sau khi ăn từ một đến hai giờ. Trước khi đi ngủ và khi tỉnh dậy giữa đêm đều phải kiểm tra đường huyết. Người nghi ngờ bị mắc bệnh : Đối với những người có nguy cơ mắc bệnh đái tháo đường hay có một vài biểu hiện của bệnh thì cũng cần kiểm soát đường huyết tại nhà . Khi thay đổi liều lượng, loại thuốc cũng là lúc phải kiểm tra tình trạng đường huyết ngay để xem cơ thể có thích ứng được không. Một số thời điểm cần theo dõi đường huyết khác như thay đổi chế độ ăn, trước và sau khi tập thể dục, trước khi có hoạt động cần tập trung cao, khi bị bệnh hay khi mang thai. Khi đi du lịch ở nơi xa lạ, ăn thực phẩm không mà mình chưa thử bao giờ.
+2. Hướng dẫn theo dõi kiểm soát đường máu tại nhà
+Nếu được hướng dẫn một cách cụ thể, người bệnh hoàn toàn có thể theo dõi đường huyết tại nhà mà không cần phải đến các cơ sở y tế. Việc theo dõi đường huyết ở nhà không chỉ giúp bản thân tự kiểm soát lượng đường huyết tại nhà mà còn cho ra kết quả tương đối chính xác. Bạn chỉ cần làm theo chính xác các bước sau: Rửa sạch tay bằng xà phòng và nước ấm, sau đó lau khô tay trước khi đo. Lắp kim lấy máu vào ống dẫn, điều chỉnh mức độ sâu của kim theo loại da mỗi người. Gắn que thử vào máy đo glucose máu , phải chú ý đóng lọ chứa que thử ngay tránh để que bị ẩm. Nhẹ nhàng xoa bóp các đầu ngón tay rồi thả lỏng tay theo chiều cơ thể giúp máu được lưu thông tốt. Sát trùng và chờ khô tay. Đâm mũi kim vào đầu ngón tay, đạt đồ sâu phù hợp sẽ bóp nhẹ ngón tay để máu rơi vào que thử. Dùng khăn sạch hoặc urgo dán kín vết châm, tránh nhiễm trùn. Theo dõi máy hiển thị kết quả và ghi chép lại số liệu. Vệ sinh máy và dụng cụ thử theo đúng hướng dẫn. Thông thường đường huyết an toàn sẽ trong khoảng 70mg/dl đến 150mg/dl. Người bị hạ đường huyết sẽ ở dưới ngưỡng 70mg/dl còn đường huyết tăng cao trên 180mg/dl. Xem ngay: Dùng máy đo đường huyết để theo dõi đái tháo đường thai kỳ tại nhà được không?
+
+3. Lưu ý quan trọng khi theo dõi đường huyết tại nhà
+Tuy đơn giản nhưng để theo dõi đường huyết tại nhà hiệu quả và an toàn nhất thì phải tuân thủ một số lưu ý sau đây: Làm theo hướng dẫn của y bác sĩ cho đến khi thành thạo. Luôn hỏi ý kiến của bác sĩ trước và sau khi tự theo dõi đường huyết Ghi chép chính xác, cụ thể thời gian kiểm tra, kết quả và số liệu liên quan của mỗi lần theo dõi. Qua đó bác sĩ có thể phán đoán tình trạng bệnh, đưa ra phác đồ điều trị cũng như những lời khuyên chính xác nhất. Que thử máu và máy đo phải khớp chính xác mã vạch. Trong trường hợp bộ dụng cụ không được chính xác với nhau cần phải đổi hoặc mua máy mới để sử dụng Cách kiểm soát đường huyết tại nhà tốt không phải là kiểm tra liên tục mà là giữ thói quen đo glucose định kỳ. Phải để ý kiểm tra vào từng thời điểm cụ thể trong ngày. Không được phép tái sử dụng que thử và kim lấy máu. Nếu sử dụng lại không chỉ cho ra kết quả không chính xác mà còn có nguy cơ nhiễm trùng rất cao.
+Nếu đo nhiều lần thì không đo ở một ngón duy nhất. Cần luân phiên lấy máu ở các ngón tay khác nhau. Nếu có dấu hiệu đau nhức ở ngón tay thì sẽ không tiến hành lấy máu ở ngón đó. Phải đảm bảo lượng máu trên que thử đủ để máy hoạt động. Người bệnh cần chắc chắn dụng cụ kiểm tra đảm bảo vệ sinh, được sát trùng cẩn thận. Không chỉ dụng cụ mà mỗi lần thử đều cần chắc chắn tay mình sạch và khô ráo để cho ra kết quả chính xác nhất. Việc theo dõi đường huyết tại nhà giúp người bệnh đánh giá chế độ dinh dưỡng, tập thể dục, bệnh lý, phản ứng thuốc,... Để từ đó, người bệnh có thể kịp thời thay đổi chế độ ăn phù hợp với bản thân, tránh các biến chứng bệnh tiểu đường nguy hiểm có thể xảy ra. Theo dõi website Bệnh viện Đa khoa Quốc tế Vinmec để nắm thêm nhiều thông tin sức khỏe, dinh dưỡng, làm đẹp để bảo vệ sức khỏe cho bản thân và những người thân yêu trong gia đình.

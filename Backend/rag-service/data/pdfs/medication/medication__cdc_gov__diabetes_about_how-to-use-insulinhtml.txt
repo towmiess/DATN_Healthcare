@@ -1,0 +1,103 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/about/how-to-use-insulin.html",
+  "title": "Insulin: How to Use It - CDC",
+  "category": "medication",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:11:31.088930",
+  "source_name": "cdc.gov",
+  "document_title": "Insulin: How to Use It - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 390,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Insulin: How to Use It - CDC
+
+May 15, 2024
+
+Español
+
+Types of Insulin
+
+Key points
+
+Many types of insulin are used to treat diabetes.
+Insulin is classified by how fast and how long it works in your body.
+Your doctor will prescribe the best insulin treatment for you.
+
+Terms to know
+
+Onset: How quickly insulin lowers your blood sugar.
+Peak time: When insulin is at maximum strength.
+Duration: How long insulin works to lower your blood sugar.
+
+Fast facts
+If you have type 1 diabetes, you’ll likely take a combination of insulins. Some people with type 2 diabetes will also need to take insulin.
+Your doctor will prescribe the best insulin or combination of insulins for you based on several factors:
+
+How active you are.
+The food you eat.
+How well you're able to manage your blood sugar levels.
+Your age.
+How long it takes your body to absorb insulin and how long it stays active. (This is different for different people.)
+
+Different brands of insulin vary in onset, peak time, and duration, even if they’re the same type, such as rapid acting. Be sure to check the dosing information that comes with your insulin and follow your doctor’s instructions.
+
+Insulin types
+For more information about types of insulin and when to take them, talk to your doctor or diabetes educator.
+
+Insulin Type
+Onset
+Peak Time
+Duration
+Method
+
+Rapid acting​
+15 minutes
+1 hour
+2 to 4 hours
+Usually taken right before a meal. Often used with longer-acting insulin.
+
+Rapid-acting inhaled
+10 to 15 minutes
+30 minutes
+3 hours
+Usually taken right before a meal. Often used with injectable long-acting insulin.
+
+Regular/short
+acting
+30 minutes
+2 to 3 hours
+3 to 6 hours
+Usually taken 30 to 60 minutes before a meal.
+
+Intermediate
+acting
+2 to 4 hours
+4 to 12 hours
+12 to 18 hours
+Covers insulin needs for half a day or overnight. Often used with rapid- or short-acting insulin.
+
+Long acting
+2 hours
+Does not peak
+Up to 24 hours
+Covers insulin needs for about a full day. Often used, when needed, with rapid- or short-acting insulin.
+
+Ultra-long acting
+6 hours
+Does not peak
+36 hours or longer
+Provides steady insulin for long periods.
+
+Premixed
+5 to 60 minutes
+Peaks vary
+10 to 16 hours
+Combines intermediate- and short-acting insulin. Usually taken 10 to 30 minutes before breakfast and dinner.
+
+May 14, 2024

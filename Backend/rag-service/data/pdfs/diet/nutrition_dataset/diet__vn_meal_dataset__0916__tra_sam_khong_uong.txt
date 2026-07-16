@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Trà sâm không đường", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trà sâm không đường
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: trà sâm, ginsenoside, thảo dược
+
+Mô tả: Ginsenoside từ sâm có một số nghiên cứu hỗ trợ chuyển hóa glucose.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 8 kcal
+Chất đạm (protein): 0.2 g
+Chất béo tổng: 0.0 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 2.0 g (chất xơ: 0.0 g, đường: 0.0 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 2 mg
+Kali: 15 mg | Phốt pho: 5 mg | Magie: 3 mg
+Canxi: 3 mg | Sắt: 0.1 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ginsenoside có nghiên cứu sơ bộ hỗ trợ chuyển hóa glucose
+Khẩu phần khuyến nghị: 1 ly/ngày
+Chống chỉ định / thận trọng: Huyết áp cao thận trọng
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: cao
+
+--- Nguyên liệu ---
+3g sâm khô thái lát
+300ml nước nóng
+
+--- Cách chế biến ---
+1. Hãm sâm với nước nóng 10 phút
+2. Uống ấm

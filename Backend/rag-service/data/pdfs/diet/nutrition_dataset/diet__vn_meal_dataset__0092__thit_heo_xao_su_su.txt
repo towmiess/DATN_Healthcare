@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Thịt heo xào su su", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thịt heo xào su su
+Loại món: Món xào | Ẩm thực: Vietnamese
+Từ khóa: su su, thịt heo, folate, kali
+
+Mô tả: Su su giàu folate và kali, ít carb, dễ tiêu hóa phù hợp bệnh nhân TĐ lớn tuổi.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.8
+Calo: 138 kcal
+Chất đạm (protein): 15.5 g
+Chất béo tổng: 6.2 g (bão hòa: 1.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.5 g (chất xơ: 3.0 g, đường: 2.8 g, đường bổ sung: 0.0 g)
+Cholesterol: 45 mg | Natri: 338 mg
+Kali: 365 mg | Phốt pho: 155 mg | Magie: 32 mg
+Canxi: 28 mg | Sắt: 0.8 mg | Vitamin D: 0.2 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Folate và kali su su tốt tim mạch và thần kinh
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+150g thịt nạc
+250g su su
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Su su gọt vỏ cắt miếng
+2. Phi tỏi xào thịt
+3. Cho su su vào xào 5 phút
+4. Nêm gia vị

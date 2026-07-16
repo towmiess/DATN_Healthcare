@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Hạt hạnh nhân", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Hạt hạnh nhân
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: yaourt Hy Lạp, bữa phụ, ít calo, GI thấp
+
+Mô tả: Hạt hạnh nhân bữa phụ lành mạnh (biến thể 53) là món nướng kết hợp đậu bắp và đậu bắp, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.5
+Calo: 92 kcal
+Chất đạm (protein): 3.8 g
+Chất béo tổng: 5.5 g (bão hòa: 1.6 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 13.9 g (chất xơ: 1.3 g, đường: 2.1 g, đường bổ sung: 0.0 g)
+Cholesterol: 35 mg | Natri: 219 mg
+Kali: 468 mg | Phốt pho: 106 mg | Magie: 23 mg
+Canxi: 99 mg | Sắt: 2.4 mg | Vitamin D: 2.5 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Bữa phụ/Snack; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+1 phần yaourt Hy Lạp (~80-100g)
+
+--- Cách chế biến ---
+1. Chuẩn bị yaourt Hy Lạp theo khẩu phần khuyến nghị
+2. Dùng làm bữa phụ giữa các bữa chính
+3. Không thêm đường hoặc muối

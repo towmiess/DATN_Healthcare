@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 300-320)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Sò lông, nướng: 316 kcal/100g | đạm 54g | béo 2.8g | carb 18.8g
+- Sò, tươi: 51 kcal/100g | đạm 8.8g | béo 0.4g | carb 3g
+- Su hào, luộc: 48 kcal/100g | đạm 3.1g | béo 0g | carb 8.8g
+- Su su, luộc: 24 kcal/100g | đạm 0.8g | béo 0g | carb 5.1g
+- Sườn lợn, tươi: 187 kcal/100g | đạm 17.9g | béo 12.8g | carb 0g
+- Súp lơ trắng, luộc: 29 kcal/100g | đạm 2.1g | béo 0g | carb 5.0g
+- Súp lơ trắng, tươi: 34 kcal/100g | đạm 2.5g | béo 0.1g | carb 5.6g
+- Súp lơ xanh, luộc: 34 kcal/100g | đạm 2.5g | béo 0.2g | carb 5.2g
+- Súp lơ xanh, tươi: 39 kcal/100g | đạm 2.9g | béo 0.3g | carb 6.0g
+- Tai lợn, luộc: 126 kcal/100g | đạm 21g | béo 4.1g | carb 1.3g
+- Tai lợn, tươi: 126 kcal/100g | đạm 21g | béo 4.1g | carb 1.3g
+- Táo mèo: 92 kcal/100g | đạm 1.9g | béo 0.1g | carb 20.6g
+- Táo ta, tươi: 40 kcal/100g | đạm 0.8g | béo 0g | carb 9.2g
+- Táo tây, tươi: 50 kcal/100g | đạm 0.5g | béo 0g | carb 11.7g
+- Tép gạo, tươi: 58 kcal/100g | đạm 11.7g | béo 1.2g | carb 0g
+- Tép khô, sống: 269 kcal/100g | đạm 59.8g | béo 3g | carb 0.7g
+- Thìa là, tươi: 47 kcal/100g | đạm 2.6g | béo 0.9g | carb 6.9g
+- Thịt bê, mỡ, tươi: 144 kcal/100g | đạm 19g | béo 7.5g | carb 0g
+- Thịt bê, nạc, tươi: 85 kcal/100g | đạm 20g | béo 0.5g | carb 0g
+- Thịt bò, bắp, hấp: 182 kcal/100g | đạm 32.4g | béo 5.7g | carb 0g

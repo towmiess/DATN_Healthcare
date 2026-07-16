@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Cơm cuộn rong biển chay (gimbap chay)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cơm cuộn rong biển chay (gimbap chay)
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: cơm cuộn, rong biển, chay, gạo lứt
+
+Mô tả: Phiên bản gimbap chay dùng gạo lứt, rau củ và đậu hũ, không thịt.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 8.5
+Calo: 245 kcal
+Chất đạm (protein): 9.5 g
+Chất béo tổng: 6.5 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 38.5 g (chất xơ: 4.5 g, đường: 2.5 g, đường bổ sung: 0.4 g)
+Cholesterol: 0 mg | Natri: 385 mg
+Kali: 385 mg | Phốt pho: 165 mg | Magie: 45 mg
+Canxi: 68 mg | Sắt: 1.8 mg | Vitamin D: 0.1 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Gạo lứt + rau củ đa dạng - GI thấp hơn gimbap thường
+Khẩu phần khuyến nghị: 1 cuộn/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: trung bình
+
+--- Nguyên liệu ---
+100g gạo lứt
+2 lá rong biển khô
+Cà rốt, dưa leo, đậu hũ chiên
+
+--- Cách chế biến ---
+1. Nấu cơm gạo lứt
+2. Xếp rau củ đậu hũ lên lá rong biển
+3. Cuộn chặt cắt khúc

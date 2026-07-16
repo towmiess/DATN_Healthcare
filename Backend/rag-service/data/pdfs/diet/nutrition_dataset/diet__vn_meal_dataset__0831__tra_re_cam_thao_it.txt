@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Trà rễ cam thảo ít", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trà rễ cam thảo ít
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: cam thảo, licorice, ít dùng, thận trọng
+
+Mô tả: Cam thảo có vị ngọt tự nhiên từ glycyrrhizin nhưng cần dùng lượng rất ít và không thường xuyên.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.0
+Calo: 12 kcal
+Chất đạm (protein): 0.1 g
+Chất béo tổng: 0.0 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 3.0 g (chất xơ: 0.0 g, đường: 2.0 g, đường bổ sung: 0.3 g)
+Cholesterol: 0 mg | Natri: 5 mg
+Kali: 25 mg | Phốt pho: 3 mg | Magie: 3 mg
+Canxi: 5 mg | Sắt: 0.1 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Biến chứng thần kinh
+Ghi chú phù hợp: Cam thảo có thể tăng huyết áp và giữ natri - dùng rất hạn chế
+Khẩu phần khuyến nghị: Tối đa 1 ly nhỏ/tuần
+Chống chỉ định / thận trọng: Tim mạch, đột quỵ và TĐ thai kỳ nên tránh
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+3g rễ cam thảo khô
+300ml nước nóng
+
+--- Cách chế biến ---
+1. Hãm cam thảo với nước nóng 10 phút
+2. Lọc bỏ xác
+3. Chỉ uống lượng rất ít, không thường xuyên

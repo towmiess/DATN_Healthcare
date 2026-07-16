@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Sứa trộn tôm thịt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Sứa trộn tôm thịt
+Loại món: Cá/Hải sản | Ẩm thực: Vietnamese
+Từ khóa: sứa, tôm, thịt, ít calo
+
+Mô tả: Sứa gần như zero calo, kết hợp tôm thịt tạo món gỏi protein vừa đủ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.5
+Calo: 135 kcal
+Chất đạm (protein): 16.5 g
+Chất béo tổng: 3.5 g (bão hòa: 0.8 g, chuyển hóa: 0.1 g)
+Carbohydrate tổng: 5.5 g (chất xơ: 0.5 g, đường: 2.5 g, đường bổ sung: 0.4 g)
+Cholesterol: 95 mg | Natri: 328 mg
+Kali: 325 mg | Phốt pho: 165 mg | Magie: 28 mg
+Canxi: 42 mg | Sắt: 1.5 mg | Vitamin D: 0.3 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Sứa gần zero calo phù hợp TĐ kiểm soát cân nặng
+Khẩu phần khuyến nghị: 1 đĩa/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+150g sứa
+80g tôm
+80g thịt heo
+Rau thơm
+
+--- Cách chế biến ---
+1. Sứa chần qua nước sôi
+2. Luộc tôm thịt
+3. Trộn với rau thơm mắm chanh nhạt

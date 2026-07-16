@@ -1,0 +1,73 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/type-1-diabetes/treatments",
+  "title": "Type 1 treatments",
+  "category": "medication",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:14:32.860273",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Type 1 treatments",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 642,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Type 1 treatments
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Type 1 diabetes treatments
+
+What are the treatments for type 1 diabetes?
+
+The main treatments and ways to manage type 1 diabetes are:
+
+Insulin
+
+Insulin is the main treatment for type 1 diabetes. If you have type 1 diabetes, your body doesn’t make any insulin like it normally would. And you can’t live without insulin as it helps you manage your blood sugar levels and prevent serious short or long-term health problems known as diabetes complications. So you’ll need daily insulin injections or use an insulin pump a small device that you attach to your body which releases insulin.
+
+Find out about the different types of insulin .
+
+Your body will respond better to the insulin if you’re healthy and active and it could help prevent insulin resistance which makes it harder to manage your blood sugar levels.
+
+Carb counting
+
+Learning how to carb count helps you manage your blood sugar levels. It means you can match how much insulin you need for the carbohydrate you eat and drink. The sums can be made quicker and easier if you use certain apps or an insulin pump or closed loop system as many of the calculations are done for you. Your diabetes team should be able to suggest free apps.
+
+Using a continuous glucose monitor (CGM)or flash glucose monitor
+
+If you have type 1 diabetes you need to check your blood sugar levels regularly usually with a finger prick test. Being able to monitor your sugar levels without doing so many finger prick checks is made possible by using a CGM or flash glucose monitor . It also means you can spot and treat low and high blood sugar levels (hypos and hypers) more quickly. See the latest guidelines on who should qualify for diabetes tech on the NHS.
+
+Some people with type 1 diabetes may also use a closed-loop system , also called an artificial pancreas. It’s another way to help you manage your type 1 diabetes without having to do much of the work yourself.
+
+Others ways to help you manage your type 1 diabetes and blood sugar levels include:
+
+Being as physically active as you can be
+Maintaining a healthy weight
+Going on a diabetes education course to get tips and information
+Going to your healthcare appointments and make sure you get your diabetes checks
+
+Other medication
+
+Although insulin is the main medication for type 1 diabetes, some people with type 1 diabetes may also be prescribed a tablet called Metformin . This is more commonly used by people with type 2 diabetes but is sometimes prescribed for people with type 1 diabetes who have insulin resistance .
+
+What is the best treatment for type 1 diabetes?
+
+Along with taking insulin which you can’t live without, if you have type 1 diabetes, the best treatment is eating a healthy balanced diet, well, keeping active and maintaining a healthy weight. This will help you manage your blood sugar levels and reduce the risk of developing diabetes complications .
+
+Is the treatment for type 1 diabetes different to the treatment of type 2 diabetes?
+
+The main medication used to treat type 1 diabetes is insulin. But there are different treatments for type 2 diabetes. You might not need medication and be able to manage your blood sugar levels through exercise and diet alone, or you may need to take tablets, insulin or other types of medication.
+
+Can type 1 diabetes be cured permanently?
+
+There is no cure for type 1 diabetes. But researchers are working hard to find one . Clinical trials are underway for immunotherapies a treatment to help delay or stop diabetes by reprogramming the immune system.
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Share this Page

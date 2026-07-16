@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Đậu hũ xào cải cúc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Đậu hũ xào cải cúc
+Loại món: Chay/Đậu hũ | Ẩm thực: Vietnamese
+Từ khóa: đậu hũ, cà chua, chay, isoflavone
+
+Mô tả: Đậu hũ xào cải cúc là món xào kết hợp sò huyết và cà chua, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 127 kcal
+Chất đạm (protein): 14.8 g
+Chất béo tổng: 8.4 g (bão hòa: 2.3 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 13.5 g (chất xơ: 3.5 g, đường: 2.3 g, đường bổ sung: 0.0 g)
+Cholesterol: 85 mg | Natri: 542 mg
+Kali: 579 mg | Phốt pho: 97 mg | Magie: 49 mg
+Canxi: 15 mg | Sắt: 1.8 mg | Vitamin D: 0.2 mcg | Omega-3: 2.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Chay/Đậu hũ; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g đậu hũ
+200g cà chua
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Đậu hũ cắt miếng
+2. Sơ chế cà chua
+3. Xào kết hợp 2 nguyên liệu
+4. Nêm gia vị nhạt

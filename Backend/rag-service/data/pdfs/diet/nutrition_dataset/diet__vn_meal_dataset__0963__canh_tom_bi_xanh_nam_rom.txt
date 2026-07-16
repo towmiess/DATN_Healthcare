@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Canh tôm bí xanh nấm rơm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh tôm bí xanh nấm rơm
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: tôm, bí xanh, nấm rơm, ít calo
+
+Mô tả: Kết hợp ba nguyên liệu ít calo, beta-glucan từ nấm hỗ trợ đường huyết.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 115 kcal
+Chất đạm (protein): 15.5 g
+Chất béo tổng: 3.0 g (bão hòa: 0.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.5 g (chất xơ: 2.5 g, đường: 2.5 g, đường bổ sung: 0.4 g)
+Cholesterol: 75 mg | Natri: 338 mg
+Kali: 355 mg | Phốt pho: 165 mg | Magie: 32 mg
+Canxi: 42 mg | Sắt: 1.5 mg | Vitamin D: 0.3 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít calo + beta-glucan - canh lý tưởng cho TĐ
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Dị ứng tôm thận trọng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+100g tôm
+150g bí xanh
+100g nấm rơm
+
+--- Cách chế biến ---
+1. Phi tỏi xào tôm
+2. Đổ nước sôi
+3. Cho bí xanh nấm rơm vào nấu 8 phút

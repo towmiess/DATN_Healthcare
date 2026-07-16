@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Nước chanh sả không đường", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Nước chanh sả không đường
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: chanh, sả, vitamin C, detox
+
+Mô tả: Vitamin C từ chanh kết hợp tinh dầu sả, không đường giữ GI bằng 0.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.3
+Calo: 12 kcal
+Chất đạm (protein): 0.2 g
+Chất béo tổng: 0.0 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 3.0 g (chất xơ: 0.2 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 0 mg | Natri: 2 mg
+Kali: 25 mg | Phốt pho: 3 mg | Magie: 3 mg
+Canxi: 5 mg | Sắt: 0.1 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI gần 0 - uống không giới hạn lượng trong ngày
+Khẩu phần khuyến nghị: Không giới hạn
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+1 quả chanh
+2 cây sả
+500ml nước
+
+--- Cách chế biến ---
+1. Đập dập sả đun sôi với nước 5 phút
+2. Để nguội vắt chanh vào
+3. Uống lạnh hoặc ấm

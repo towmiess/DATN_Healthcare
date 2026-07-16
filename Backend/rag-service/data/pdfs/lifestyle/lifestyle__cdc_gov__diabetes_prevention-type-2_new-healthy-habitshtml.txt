@@ -1,0 +1,50 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/prevention-type-2/new-healthy-habits.html",
+  "title": "Fitting a New Habit into Your Life - CDC",
+  "category": "lifestyle",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:10:04.372764",
+  "source_name": "cdc.gov",
+  "document_title": "Fitting a New Habit into Your Life - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 504,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Fitting a New Habit into Your Life - CDC
+
+May 15, 2024
+
+Español
+
+Fitting a New Habit Into Your Life
+
+Key points
+
+Building healthy habits can help you accomplish your health and wellness goals.
+With these tips, you can prepare for anything that comes your way.
+
+Start small
+It might be tempting to jump right into a big, new goal, like walking a 5k, but this can feel overwhelming. Build your confidence with things you know you can do, and then add new challenges. For example, a new physical activity could start with just 1 day per week, for as little as 5 to 10 minutes. As you go, you can add more minutes to your routine or challenge yourself to be active more days of the week. If you have more than one new habit in mind, start with one and add more habits after you’ve gotten a few weeks of practice.
+Keep Reading:
+3 steps to building a healthy habit
+
+Seize the day
+It’s easy to put things off until later, but there’s no time like the present. Many people like to wait until the beginning of the week, month, or year to start a new habit, but this can be a trap and give you more time to put it off. There’s never a perfect time to start a new habit, so why not get inspired and start today?
+
+Moderate yourself
+When building a lasting habit, ask yourself what you can do for the rest of your life, not what you can do for the next few weeks. For most people, big changes are hard to maintain, and they can lead to burnout. Instead, set goals that you can achieve 90% of the time. If your new habit is to walk 2 miles per day, you might allow yourself a break halfway through, or even a rest day when you need it. Nobody is perfect, especially when you’re practicing something new. Moderation can help keep you motivated in the long term.
+Keep Reading:
+Change negative thoughts to get motivated
+
+Prepare for when life gets in the way (because it will)
+Your new healthy habit won’t be the only thing happening in your life, and some days things simply don’t go as planned. Be ready for those challenges and have a backup plan. Some days work will run late, you’ll get stuck in traffic, kids will get sick, or weather will get in the way of your activity plans. Try doing a workout at home or even 10 minutes of stretching instead. Something is always better than nothing, and every little bit counts.
+
+Make it work for you
+It's OK to change your plan along the way. You are the expert on you , so if something isn't working, make a new plan. Tracking your progress will help this process along so you can look back at what you've done. There isn't just one right way to move your body or change your eating habits. Figure out what you enjoy, get creative, and make it work for you!
+
+May 14, 2024

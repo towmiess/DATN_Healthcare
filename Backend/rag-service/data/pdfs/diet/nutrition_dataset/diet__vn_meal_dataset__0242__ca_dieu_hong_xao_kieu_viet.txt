@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá diêu hồng xào kiểu Việt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá diêu hồng xào kiểu Việt
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: cá diêu hồng, cải bó xôi, protein, xào
+
+Mô tả: Cá diêu hồng xào kiểu Việt là món xào kết hợp cá diêu hồng và cải bó xôi, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 173 kcal
+Chất đạm (protein): 18.8 g
+Chất béo tổng: 4.6 g (bão hòa: 0.9 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.8 g (chất xơ: 4.2 g, đường: 3.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 85 mg | Natri: 367 mg
+Kali: 426 mg | Phốt pho: 155 mg | Magie: 62 mg
+Canxi: 44 mg | Sắt: 2.0 mg | Vitamin D: 1.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Thịt nạc; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g cá diêu hồng
+200g cải bó xôi
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cá diêu hồng và cải bó xôi
+2. Xào theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

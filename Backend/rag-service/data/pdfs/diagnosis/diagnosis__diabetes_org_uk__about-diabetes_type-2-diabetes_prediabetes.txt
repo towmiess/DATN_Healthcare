@@ -1,0 +1,50 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/prediabetes",
+  "title": "Prediabetes overview",
+  "category": "diagnosis",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:07:33.179427",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Prediabetes overview",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 316,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Prediabetes overview
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Prediabetes
+
+What is prediabetes? Prediabetes, sometimes called borderline diabetes, means your blood sugar levels are higher than they should be (42 mmol/mol to 47 mmol/mol). It is diagnosed by a blood test. If you have prediabetes, you have a high risk of type 2 diabetes — which can bring serious health problems. But by making health changes it is often possible to prevent type 2 diabetes (48 mmol/mol or above) and even reverse your prediabetes and return your blood sugar levels to a normal level (below 42 mmol/mol). To support you to make health changes , your GP should refer you to a type 2 prevention course or advice. There aren't usually any symptoms if you have prediabetes. Prediabetes is estimated to affect around one in 12 people. Prediabetes is more common in people living with overweight and obesity but can also affect people of a healthy weight.
+
+Learn more about prediabetes
+
+What causes prediabetes?
+Prediabetes is caused by a combination of factors individual to you. Weight alone does not cause it.
+
+Prediabetes symptoms
+There aren't usually any symptoms for prediabetes. So how can you find out if you're at risk?
+
+What can I do about prediabetes?
+Your questions answered on diet, weight, physical activity, medication and whether to buy a continuous glucose monitor.
+
+Healthy eating tips for prediabetes
+Simple ways to make small changes to your diet.
+
+Reversing prediabetes
+What you can do to try and return your blood sugar levels to a normal level.
+
+How to lose weight with prediabetes
+Not everyone with prediabetes needs to lose weight. But do you? And what's the best way to lose it?
+
+Getting support to make changes
+"Before I went on the type 2 prevention course, I was eating a lot, and my diet wasn’t very balanced."
+
+Read Dino's experience of prediabetes

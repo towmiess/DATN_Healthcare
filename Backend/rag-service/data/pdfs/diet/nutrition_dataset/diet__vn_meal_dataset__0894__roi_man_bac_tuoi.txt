@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Roi (mận bắc) tươi", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Roi (mận bắc) tươi
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: roi, mận bắc, nước, ít calo
+
+Mô tả: Roi nhiều nước, ít calo, giòn ngọt nhẹ, giải khát tốt mùa hè.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.5
+Calo: 25 kcal
+Chất đạm (protein): 0.6 g
+Chất béo tổng: 0.2 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.7 g (chất xơ: 0.5 g, đường: 4.5 g, đường bổ sung: 0.7 g)
+Cholesterol: 0 mg | Natri: 5 mg
+Kali: 123 mg | Phốt pho: 8 mg | Magie: 5 mg
+Canxi: 29 mg | Sắt: 0.1 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít calo nhất trong trái cây - giải khát an toàn
+Khẩu phần khuyến nghị: 150g/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+150g roi
+
+--- Cách chế biến ---
+1. Rửa sạch
+2. Ăn trực tiếp

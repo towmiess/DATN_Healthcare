@@ -1,0 +1,30 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/treatments/insulin/types",
+  "title": "Types of insulin",
+  "category": "medication",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:14:53.092347",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Types of insulin",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 886,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Types of insulin
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Types of insulin
+
+Most people with type 1 diabetes and some people with type 2 diabetes are prescribed two kinds of insulin: a fast acting one you take with meals and sometimes snacks. This is known as bolus insulin . And a slower-acting insulin you take once or twice a day that works through the day. This is known as background insulin or basal insulin. Who could be prescribed one type of insulin? Some people are prescribed just one kind of insulin – a combination of a fast acting one and a slower acted one, mentioned above. This is known as mixed insulin . Some people with type 2 or gestational diabetes may only be prescribed a slow acting (background or basal insulin) as this may be enough to help manage their blood sugars in combination with other treatments. And if you use an insulin pump rather than injecting insulin, you’ll only need to use fast acting insulin. Your pump will be set up to release small amounts of this insulin all the time and you tell the pump to give extra boluses when you need it. Cloudy insulin Most insulin is clear, but some insulins are cloudy (because of what has been added to slow down the rate it is absorbed through the body). If you have been given a cloudy insulin It should be gently rolled and inverted (turned upside down) 10 times each until the solution is thoroughly mixed and becomes milky white. You should not vigorously shake the insulin as this causes bubbles which could lead to inaccurate doses. Inversion and/or rolling should be performed a total of 20 times immediately before every injection with cloudy insulin. If you use insulin that’s usually clear and it’s cloudy, do not use it. Types of bolus insulin (meal-time) Bolus insulin gives you a quick burst of insulin to deal with the carbs from food and drink. Your dose will depend on how many carbohydrates you’re eating. There are two main types of bolus insulin. Rapid acting or fast acting insulin You take rapid acting or fast acting insulin shortly before or after meals. You may be prescribed brands such as Novorapidand Apidra or Fiasp which works even quicker. Rapid-acting, starts to work within a few minutes and lasts between three to five hours depending on the brand. Short-acting insulin Short-acting insulin is similar to rapid-acting insulin, but is slower to work. Because it’s slower, you need to take it around 25 minutes before you eat. Actrapid and Humulin S are some brands you could be prescribed. Short-acting insulin takes about 30 to 60 minutes to start working and lasts 5 to 8 hours. If you take rapid or short-acting insulin you’ll also take a background insulin that is intermediate or long-acting. Unless you use an insulin pump. Types of background (basal insulin) If you take bolus insulin with meals, you also usually take basal insulin once or twice a day. Through the day background insulin deals with sugars your body may be making or moving. There are two main types of background insulin: Intermediate-acting insulin Brands of intermediate-acting insulin you may see include Humulin I, Insulatard and Insuman Basal. You take it once or twice a day. Intermediate insulin is a cloudy type of insulin Long-acting insulin Long-acting insulin is slower than intermediate insulin, but very similar in how your body uses it. You usually take it once a day, at the same time each day. Tresiba and Lantus are some brands you may be prescribed. It’s been shown to reduce the risk of hypos compared to intermediate-acting insulin. Long-acting insulin and type 2 diabetes Intermediate or long-acting insulins are also more likely to be prescribed for people with type 2 diabetes. As these insulins are sometimes enough on their own without the need for bolus insulin. This is because people with type 2 diabetes still make some of their own insulin. What is mixed insulin If you take mixed insulin, that means you take it before meals and don’t need to take background (or basal) insulin at a different time. It can be a combination of short-acting and intermediate acting insulin, or a combination of rapid-acting and intermediate acting insulin. You may see brands such as Insuman Comb 25 or Humalog Mix25 if you take mixed insulin. If you have type 2 diabetes, you might be prescribed this type of insulin. The insulin comes premixed and is cloudy. What is insulin made of? Insulin is made in different ways. The insulin molecule is like two joined strings of beads. You and your healthcare team will discuss which insulin you can take. Human insulin – This is synthetic and made in a laboratory to be like insulin made in the body. Analogue insulin –This is also synthetic and made in the laboratory but scientists have managed to alter the position of some of the beads to create genetically engineered insulin known as analogues. Animal insulin – This isn’t used much anymore, but some people find that purified (cleaned) insulin from animals works best for them. It comes from cows or pigs.
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Share this Page

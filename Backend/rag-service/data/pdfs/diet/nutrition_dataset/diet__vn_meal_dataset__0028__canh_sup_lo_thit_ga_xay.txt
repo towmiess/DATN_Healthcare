@@ -1,0 +1,39 @@
+===METADATA===
+{"title": "Canh súp lơ thịt gà xay", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh súp lơ thịt gà xay
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: súp lơ, bông cải trắng, thịt gà, sulforaphane
+
+Mô tả: Súp lơ trắng ít carb, sulforaphane chống viêm và bảo vệ tế bào beta tụy.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.8
+Calo: 132 kcal
+Chất đạm (protein): 17.5 g
+Chất béo tổng: 4.5 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.8 g (chất xơ: 3.5 g, đường: 2.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 52 mg | Natri: 342 mg
+Kali: 432 mg | Phốt pho: 178 mg | Magie: 38 mg
+Canxi: 42 mg | Sắt: 1.2 mg | Vitamin D: 0.3 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Sulforaphane bảo vệ tế bào tụy đặc biệt TĐ loại 1 và 2
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g ức gà xay
+250g súp lơ
+1/2 hành tây
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Phi hành tỏi
+2. Xào gà xay chín
+3. Cho súp lơ vào đảo đều
+4. Đổ 500ml nước sôi
+5. Nấu 15 phút nêm gia vị

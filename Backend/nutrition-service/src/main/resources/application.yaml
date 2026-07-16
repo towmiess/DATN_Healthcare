@@ -1,0 +1,42 @@
+server:
+  port: ${SERVER_PORT:8083}
+spring:
+  application:
+    name: nutrition-service
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+  datasource:
+    url: "${SPRING_DATASOURCE_URL:jdbc:postgresql://postgres:5432/healthcare}"
+    username: "${SPRING_DATASOURCE_USERNAME:postgres}"
+    password: "${SPRING_DATASOURCE_PASSWORD:123456}"
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+
+eureka:
+  client:
+    enabled: ${EUREKA_CLIENT_ENABLED:true}
+    service-url:
+      defaultZone: "${EUREKA_CLIENT_SERVICEURL_DEFAULTZONE:http://discovery-server:8761/eureka}"
+  instance:
+    prefer-ip-address: ${EUREKA_INSTANCE_PREFER_IP_ADDRESS:true}
+
+app:
+  gateway:
+    internal-secret: "${GATEWAY_INTERNAL_SECRET:change-me-in-production}"
+  gemini:
+    api-key: "${GEMINI_API_KEY:AQ.Ab8RN6Iq61qNeYSLMMIGo34L6B1drMW5SPPKhNTpqjn-ll0pbQ}"
+    base-url: "${GEMINI_BASE_URL:https://generativelanguage.googleapis.com/v1beta}"
+    model: "${GEMINI_MODEL:gemini-2.5-flash}"
+    connect-timeout: "${GEMINI_CONNECT_TIMEOUT:10s}"
+    read-timeout: "${GEMINI_READ_TIMEOUT:60s}"

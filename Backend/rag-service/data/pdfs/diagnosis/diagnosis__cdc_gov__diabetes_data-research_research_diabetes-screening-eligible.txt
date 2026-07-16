@@ -1,0 +1,58 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/data-research/research/diabetes-screening-eligible.html",
+  "title": "12 Million More Adults Eligible for Diabetes Screening - CDC",
+  "category": "diagnosis",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:01:47.580790",
+  "source_name": "cdc.gov",
+  "document_title": "12 Million More Adults Eligible for Diabetes Screening - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 516,
+  "verified_by_doctor": false
+}
+===CONTENT===
+12 Million More Adults Eligible for Diabetes Screening - CDC
+
+Additional 12 Million U.S. Adults Eligible for Diabetes Screening
+
+May 15, 2024
+
+Key points
+
+More than 40 million Americans have diabetes, and more than 1 in 4 adults with diabetes don't know they have it.
+National diabetes experts have updated guidelines for who should get tested for prediabetes and type 2 diabetes.
+Researchers studied how many people would become eligible under these new guidelines.
+
+What did this study examine?
+Diabetes experts from the US Preventive Services Task Force (USPSTF) and the American Diabetes Association (ADA) have updated screening guidelines. They recommend testing for prediabetes and type 2 diabetes at age 35.
+This study examined how many people would become eligible for testing under the new guidelines. It also studied whether these guidelines can address barriers to diabetes screening.
+What to know about glucose testing guidelines
+Glucose testing is a blood test to measure a person's glucose (blood sugar) levels. Health care providers use the test to find out if someone has prediabetes, or type 1, type 2, or gestational diabetes.
+Previously, USPSTF recommended glucose testing for people aged 40 to 70 with overweight or obesity. In 2021, USPSTF expanded the criteria to people aged 35 to 70 with overweight or obesity.
+Previously, ADA recommended all adults 45 years or older, regardless of risk factors, be screened for prediabetes and type 2 diabetes. In 2022, ADA lowered the screening age s to 35 years. Additionally, ADA recommends that all adults with overweight or obesity and at least one risk factor be screened.
+Both guidelines consider other risk factors like family history of diabetes and physical inactivity, in addition to age.
+
+Study results
+With the new guidelines, an additional 12 to 14 million US adults are now eligible for glucose testing.
+Just over half (52%) of all US adults reported having a glucose test in the past 3 years. However, nearly 25% weren't eligible yet based on the USPSTF guidelines, and 5% weren't eligible based on new ADA guidelines.
+This study found that the following groups were less likely to receive glucose testing:
+
+Younger adults (18 to 44).
+Hispanic adults.
+People without a high school diploma.
+People living in poverty.
+People without health insurance.
+People without a usual health care provider.
+
+Why is this study important?
+More than 1 in 4 adults with diabetes don't know they have it. And 8 in 10 Americans with prediabetes are not aware of their risk for type 2 diabetes. It's important for health care providers to address these gaps in awareness. Current glucose testing practices don't align with new guidelines.
+Updated guidelines do not directly address the social determinants of health, which present testing barriers. Adults with lower income or educational levels are more likely to have diabetes but less likely to receive glucose testing. Broad system or programmatic efforts may be needed to close the testing gaps in this population.
+New USPSTF and ADA guidelines recommend some adults be screened starting at age 35, and every 3 years after. Using the same age criteria can reduce confusion for health care providers.
+See Also
+Access the full article
+
+May 15, 2024

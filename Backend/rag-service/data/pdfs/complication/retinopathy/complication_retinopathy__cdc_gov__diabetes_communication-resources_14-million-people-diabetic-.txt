@@ -1,0 +1,80 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/communication-resources/14-million-people-diabetic-retinopathy-2050.html",
+  "title": "Diabetic Retinopathy by 2050 - CDC",
+  "category": "complication/retinopathy",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:13:50.975935",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetic Retinopathy by 2050 - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 248,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetic Retinopathy by 2050 - CDC
+
+Diabetic Retinopathy by 2050 Social Media Graphic
+
+May 15, 2024
+
+Key points
+
+Graphic text: Diabetic retinopathy—which is caused by damage to small blood vessels in the back of the eye and may result in vision loss—is expected to affect 14.7 million Americans with diabetes by 2050.
+Social media graphic available in blue and white backgrounds for X (formerly Twitter), Facebook, Pinterest, and LinkedIn.
+
+Format: PNG Dimensions: 285 x 285 pixels Language: English (US) Size: 72 KB Length:
+
+View
+
+Download
+View Larger
+
+Additional formats (blue and white backgrounds)
+
+Diabetic Retinopathy by 2050 - Blue - 580px - X
+Blue info card - Diabetic retinopathy - which is caused by damage to small blood vessels in the back...
+Aug. 8, 2022
+Download
+Download
+
+Diabetic Retinopathy by 2050 - Blue - 600px - Facebook
+Aug. 8, 2022
+Download
+Download
+
+Diabetic Retinopathy by 2050 - Blue - 735px - Pinterest
+Aug. 8, 2022
+Download
+Download
+
+Diabetic Retinopathy by 2050 - Blue - 500px - Linkedin
+Aug. 7, 2022
+Download
+Download
+
+Diabetic Retinopathy by 2050 - White - 580px - X
+White info card - Diabetic retinopathy - which is caused by damage to small blood vessels in the bac...
+Aug. 8, 2022
+Download
+Download
+
+Diabetic Retinopathy by 2050 - White - 600px - Facebook
+Aug. 8, 2022
+Download
+Download
+
+Diabetic Retinopathy by 2050 - White - 735px - Pinterest
+Aug. 8, 2022
+Download
+Download
+
+Diabetic Retinopathy by 2050 - White - 500px - Linkedin
+Aug. 7, 2022
+Download
+Download
+
+May 15, 2024

@@ -1,0 +1,365 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/site.html",
+  "title": "Site Index",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:43.677596",
+  "source_name": "cdc.gov",
+  "document_title": "Site Index",
+  "extraction_method": "<main>",
+  "word_count": 867,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Site Index
+
+Diabetes
+
+Type 1 Diabetes
+
+Diabetic Ketoacidosis
+
+Low Blood Sugar (Hypoglycemia)
+
+Type 2 Diabetes
+
+Make the Leap From Type 1 Teen to Adult
+
+Type 1 Diabetes and Pregnancy
+
+Insulin
+
+4 Ways To Take Insulin
+
+Insulin Resistance and Type 2 Diabetes
+
+Gestational Diabetes
+
+Gestational Diabetes and Postpartum Depression
+
+Tips for Traveling With Diabetes
+
+Just Diagnosed With Type 1 Diabetes
+
+Coping With a Type 2 Diabetes Diagnosis
+
+Diabetes and Your Skin
+
+A1C Test for Diabetes and Prediabetes
+
+Screening for Type 1 Diabetes
+
+Monitoring Your Blood Sugar
+
+Diabetes and Polycystic Ovary Syndrome (PCOS)
+
+Diabetes and Smoking
+
+Diabetes and Men
+
+Diabetes and Women
+
+Diabetes and the LGBTQ Community
+
+Preventing
+
+Prediabetes – Your Chance to Prevent Type 2
+
+Type 2 Diabetes in Kids
+
+"On Your Way to Preventing Type 2 Diabetes"
+
+The Surprising Truth About Prediabetes
+
+3 Steps to Building a Healthy Habit
+
+Change Negative Thoughts to Reach Goals
+
+Fitting a New Habit into Your Life
+
+Put the Brakes on Diabetes Complications
+
+Low Blood Sugar (Hypoglycemia)
+
+Early Treatment for Type 1 Diabetes
+
+Continuous Glucose Monitors
+
+Your Diabetes Care Team
+
+Your Diabetes Care Schedule
+
+Providing Care
+
+3 Ways to Manage Your Child's Diabetes
+
+Managing Diabetes at School
+
+Help a Loved One With Diabetes When Far Apart
+
+5 Questions to Ask Your Health Care Team
+
+Steps to Help You Stay Healthy With Diabetes
+
+Living with Diabetes
+
+Healthy Weight
+
+10 Things That Can Spike Blood Sugar
+
+Get Active
+
+Diabetes and Mental Health
+
+Managing Sick Days
+
+Advancing Health Equity
+
+Improving Access to Diabetes Prevention
+
+Improving Access to Diabetes Education
+
+Improving Health in Appalachia
+
+Improving Health in Indian Country
+
+Research Summaries
+
+Treatments for Diabetes Eye Complications
+
+How People with Type 2 Diabetes Can Live Longer
+
+Diabetes Education Linked to Better Care
+
+Mental Health for Kids and Teens With Diabetes
+
+Cost of Diabetes Complications for Medicare Beneficiaries
+
+Diabetes in Young People Is on the Rise
+
+Additional 12 Million U.S. Adults Eligible for Diabetes Screening
+
+Trends in Diabetes Among Young People
+
+Use of New Diabetes Medicines
+
+Kidney Failure and Diabetes
+
+Web and Social Media Resources
+
+A Report Card: Diabetes In The United States Infographic
+
+Prediabetes: Could It Be You? Infographic
+
+National Diabetes Prevention Program Infographic
+
+How Diabetes Can Affect Your Body Infographic
+
+Diabetes Foot Problems: When to See Your Doctor Graphic
+
+Tips for Healthy Feet
+
+The Diabetes, Heart Disease, and CKD Triangle
+
+Social Media Graphics
+
+Diabetes Complications Social Media Graphics
+
+Diabetes-Related Amputations Social Media Graphic
+
+2 in 5 Americans Social Media Graphic
+
+3 Steps to Building Healthy Habits
+
+Diabetic Retinopathy by 2050 Social Media Graphic
+
+Diabetes Complications
+
+Diabetes and Your Heart
+
+Statins and Diabetes: What You Should Know
+
+Chronic Kidney Disease
+
+Vision Loss
+
+Nerve Damage
+
+Your Feet and Diabetes
+
+Preventing Diabetes-Related Amputations
+
+Diabetes-Related Amputations and Mental Health
+
+Recovering from a Diabetes-Related Amputation
+
+Hearing Loss
+
+Oral Health
+
+Digestion and Diabetes
+
+Type 2 Diabetes and Your Liver
+
+Your Immune System and Diabetes
+
+Your Brain and Diabetes
+
+Healthy Eating
+
+Diabetes Meal Planning
+
+Carb Counting
+
+Carbohydrate Choice Lists
+
+Eating Out
+
+Can People With Diabetes Have Dessert?
+
+5 Healthy Eating Tips for the Holidays
+
+Diabetes and Cultural Foods
+
+Healthy Eating with Diabetes and Cancer
+
+Diabetes & Kidney Disease: What to Eat?
+
+Diabetes and Fiber Intake
+
+Diabetes and Food Insecurity
+
+6 Tips for Eating Healthy on a Budget
+
+Buffet Table Tips for People With Diabetes
+
+Choosing Healthy Carbs
+
+Spotting Hidden Sugars in Everyday Foods
+
+DiabetesTV
+
+Diabetes Kickstart Video Series
+
+Diabetes Kickstart Handouts
+
+Imagine You Preventing Type 2 Videos
+
+Your Health With Joan Lunden Video Series
+
+Diabetes Self-Management Education and Support
+
+Find a DSMES Program
+
+Awareness Campaigns
+
+Do I Have Prediabetes Campaign
+
+CDC's First National Prediabetes Awareness Campaign
+
+Diabetes Articles
+
+Weight Loss: What Works for Me
+
+The Diabetes Journey to Purpose
+
+Healthy on the Inside
+
+Diabetes and Shift Work
+
+Diabetes Stigma
+
+Lost 170 Pounds and Regained His Life
+
+Managing Insulin in an Emergency
+
+Diabetes Care During Emergencies
+
+Take Charge of Your Diabetes Medicines
+
+Managing Diabetes in the Heat
+
+Managing Diabetes in Cold Weather
+
+10 Tips for Coping with Diabetes Distress
+
+Diabetes and Hormonal Birth Control
+
+Clinical Guidance
+
+Promoting Ear Health
+
+Promoting Eye Health
+
+Promoting Oral Health
+
+Promoting Medication Management
+
+Promoting Foot Health
+
+DSMES for Health Care Providers
+
+Prevent Type 2 Diabetes: Talking to Your Patients About Lifestyle Change
+
+Employers and Insurers
+
+Community-based Organizations (CBOs)
+
+Faith Leaders Toolkit – Diabetes Management and Type 2 Diabetes Prevention
+
+Toolkits for Diabetes Educators and Community Health Workers
+
+New Beginnings Toolkit: Overview
+
+New Beginnings Toolkit: Quick Tips
+
+New Beginnings Toolkit: Frequently Asked Questions
+
+New Beginnings Toolkit: Troubleshooting Group Problems
+
+New Beginnings: Modules, Mini-Lessons, and Connecting Threads
+
+New Beginnings for American Indian or Alaska Native Adults
+
+New Beginnings Mini Lesson: Emergency Preparedness
+
+New Beginnings Mini Lesson: Getting Ready for Your Health Care Visit
+
+New Beginnings Mini-Lesson: Mindfulness Strategies
+
+New Beginnings Mini Lesson: Sleep
+
+Road to Health Toolkit
+
+Step by Step – How to Prevent Type 2 Diabetes
+
+Welcome to the City of Solutions – Pop. You
+
+The Traffic Light Method to Eating – How to Prevent Type 2 Diabetes
+
+National Diabetes Statistics Report
+
+Reports and Publications
+
+Publications
+
+Data and Statistics
+
+Current Research Projects
+
+Related Topics:
+
+National Diabetes Prevention Program
+
+State, Local, and National Partner Diabetes Programs for Public Health
+
+Diabetes Self-Management Education and Support (DSMES) Toolkit
+
+About the Division of Diabetes Translation
+
+Didn't find the information you were looking for?
+
+Health Topics A-Z

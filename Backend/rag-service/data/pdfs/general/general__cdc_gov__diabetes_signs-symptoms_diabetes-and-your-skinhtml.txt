@@ -1,0 +1,94 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/signs-symptoms/diabetes-and-your-skin.html",
+  "title": "Diabetes and Your Skin - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:06.885503",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes and Your Skin - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 930,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes and Your Skin - CDC
+
+May 15, 2024
+
+Diabetes and Your Skin
+
+What to know
+
+Skin changes are one of the most common signs of diabetes.
+Diabetes can affect nerves and blood vessels, and your skin has many of both.
+When diabetes affects your skin, your blood sugar may have been too high over time.
+
+Acanthosis nigricans (AN)
+This skin condition causes dark patches of velvety skin in body creases such as your neck, armpits, or groin. Sometimes patches appear on your hands, elbows, or knees.
+
+What causes it
+AN is a sign of insulin resistance and can be a sign of prediabetes or type 2 diabetes. It's common in people who have obesity.
+What to do
+The most effective treatment is to address the root cause, like obesity or insulin resistance. Being physically active and staying at a healthy weight can help reverse insulin resistance.
+
+Diabetic dermopathy (shin spots)
+Also known as shin spots, this condition is harmless. The spots look like red or brown round patches or lines in the skin and are common in people with diabetes. They don't hurt, itch, or open up.
+What causes it
+Diabetes can cause changes in small blood vessels that reduce blood supply to the skin.
+What to do
+This skin condition doesn't need treatment. If you have any concerns about shin spots, talk to your doctor.
+
+Necrobiosis lipoidica
+This condition causes yellow, reddish, or brown patches on your skin. It usually begins as small, raised bumps that look like pimples and can turn into patches of swollen, hard skin. This rare skin condition can be itchy and painful.
+What causes it
+The cause isn't clear, but women are more likely to have it than men. It usually develops when changes in fat and collagen (a fiber-like protein in your body) happen under the skin.
+What to do
+There is no cure, so treatment is focused on managing symptoms. In the early stages, topical steroid creams can be used to keep it from getting worse. Talk with your doctor about the right treatment plan for you.
+
+Bullosis diabeticorum (diabetic blisters)
+This condition looks like burn blisters. They can develop on your lower legs and feet and sometimes on your arms and hands. They can look scary, but they're painless and usually heal on their own.
+What causes it
+The cause isn't known. You're more likely to get diabetic blisters if your blood sugar levels are high over time.
+What to do
+Most blisters heal on their own without leaving a scar. Check your feet and skin daily to find early signs of blisters. To prevent them from developing or getting worse, try to bring your blood sugar down to your target levels.
+
+Eruptive xanthomatosis
+This condition causes small, reddish-yellow bumps on the back of your hands, feet, arms, legs, and buttocks. They can be tender and itchy.
+What causes it
+This condition is rare. It's caused by having high levels of cholesterol and triglycerides (fat in the blood).
+What to do
+The best treatment is to bring blood fat levels under control. Your doctor may also prescribe medicine to help lower your cholesterol.
+
+Digital sclerosis
+This condition starts with tight, thick, waxy skin on your fingers. It can cause your finger joints to become stiff and hard to move. If blood sugar levels remain high, digital sclerosis can cause your skin to become hard, thick, and swollen. It can also spread to the rest of your body.
+What causes it
+This condition is more common in people with type 1 diabetes who have high blood sugar levels.
+What to do
+The only treatment is to bring blood sugar levels down into the normal range. Physical therapy may help improve the range of motion of affected joints.
+
+Bacterial infections
+Bacterial infections cause tissue (cells that make up organs and other body parts) to become inflamed, hot, swollen, red, and painful. Common bacterial infections include those on the eyelids, hair follicles, and fingernails.
+What causes it
+People with diabetes tend to get more infections than people without diabetes. Bacteria thrive when there is too much glucose (sugar) in the body. A common type of bacteria responsible for bacterial infections in people with diabetes is staphylococcus (staph).
+What to do
+Bacterial infections usually can be treated with antibiotics. Keeping your blood sugar levels within the normal range can help you avoid infections.
+
+Fungal infections
+Fungal infections create itchy rashes surrounded by tiny red blisters and scales. They usually develop in warm, moist folds of the skin. Common fungal infections include jock itch, athlete's foot, ringworm, and vaginal infections.
+What causes it
+Anyone can get a fungal infection, but they're common in people with diabetes. Fungal infections are more likely to occur when blood sugar levels are high.
+What to do
+Talk to your doctor about medicine that can help treat fungal infections. Keeping blood sugar levels within the normal range is the best way to prevent fungal infections.
+
+Dry, itchy skin
+This skin condition is common, even for people who don't have diabetes. But dry, itchy skin can be a result of poor circulation, which is more likely when you have diabetes.
+What causes it
+Too much sugar in the blood causes the body to pull fluid from its cells. That way it can produce enough urine to remove the excess sugar. This can make your skin dry.
+What to do
+Monitor your blood sugar levels and keep them in your target range as much as possible. It also helps if you limit your time in the shower, use mild soaps, and use lotion after showering.
+
+May 14, 2024

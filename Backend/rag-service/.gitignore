@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ingest_state.json
+.crawler_state.json
+data/raw/
+logs/
+venv/
+.venv/
+*.egg-info/

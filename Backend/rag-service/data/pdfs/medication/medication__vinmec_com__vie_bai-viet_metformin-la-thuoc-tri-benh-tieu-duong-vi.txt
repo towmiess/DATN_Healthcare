@@ -1,0 +1,41 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/metformin-la-thuoc-tri-benh-tieu-duong-vi",
+  "title": "Metformin là thuốc trị bệnh tiểu đường",
+  "category": "medication",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:15:11.286057",
+  "source_name": "vinmec.com",
+  "document_title": "Metformin là thuốc trị bệnh tiểu đường",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1015,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Metformin là thuốc trị bệnh tiểu đường
+
+-->
+
+Thuốc
+Sử dụng thuốc an toàn
+
+Metformin là thuốc trị bệnh tiểu đường
+
+☰
+Mục lục
+
+Hiện nay, metformin đang được sử dụng phổ biến trong điều trị bệnh tiểu đường. Thuốc rất an toàn với cả những người không có bệnh tăng đường huyết vì nó không có tác dụng kích thích giải phóng insulin ở tế bào beta tuyến tụy và không gây hạ đường huyết. Tuy nhiên, vẫn có một số lưu ý khi sử dụng metformin.
+1. Tác dụng của thuốc metformin
+Metformin có hiệu quả trong việc điều trị bệnh tiểu đường , giúp làm giảm lượng đường huyết và không gây tai biến nếu không uống thuốc lúc đói hay uống thuốc có cùng tác dụng. Đối với bệnh nhân tiểu đường tuýp 2 , thuốc làm giảm nồng độ glucose trong máu khi đói và sau bữa ăn và làm tăng việc sử dụng glucose ở tế bào và giảm sự hấp thu glucose ở ruột và ức. Ðiều trị bệnh tiểu đường không phụ thuộc insulin (tuýp II): Ðơn trị liệu khi không thể điều trị tăng glucose huyết bằng chế độ ăn uống đơn thuần. Có thể dùng metformin đi kèm với nhóm thuốc sulfonylurea, đồng thời giữ chế độ ăn uống kiêng cữ. Tuy nhiên, metformin hoặc sulfonylurea đơn thuần không có hiệu quả kiểm soát glucose huyết một cách đầy đủ. Thuốc được chống chỉ định sử dụng với những đối tượng sau: Với những người có trạng thái dị hóa cấp tính, nhiễm khuẩn, chấn thương. Những người có chức năng thận suy giảm , rối loạn chức năng thận, trụy tim, nhồi máu cơ tim cấp tính , nhiễm khuẩn huyết . Phụ nữ mang thai, cho con bú Người nghiện rượu và bệnh suy dinh dưỡng Trường hợp người bệnh bị tăng đường huyết thể ceton acid hoặc tăng đường huyết tiền hôn mê , suy thận hoặc rối loạn chức năng thận, suy gan, bệnh tim mạch nặng, bệnh hô hấp nặng, nhiễm khuẩn nặng, nhiễm khuẩn huyết, hoại thư và người nghiện rượu Sử dụng đồng thời với các loại nước uống chứa ethanol, kể cả rượu thuốc (có nguy cơ nhiễm acid lactic).
+
+Một số loại như nifedipin, isoniazid, thuốc lợi tiểu, corticosteroid, acid nicotinic, phenitoin, oestrogen, thuốc tránh thai uống, chế phẩm tuyến giáp sẽ làm giảm tác dụng của metformin. Một số thuốc: Morphin, amilorid, digoxin, procainamid, quinin, quinidin, triamteren, ranitidin, trimethropim, vancomycin lại có tác dụng làm tăng độc tính của metformin. Đây là các thuốc thải trừ qua thận. Các bác sĩ sẽ không dùng metformin với cimetidin do cimetidin làm tăng nồng độ đỉnh của metformin trong máu và huyết tương . Khi sử dụng thuốc metformin với các thuốc hạ đường huyết khác như insulin hoặc sulfonylurea, sẽ gây ra triệu chứng hạ đường huyết.
+2. Tác dụng phụ của thuốc
+Giống như bất cứ một loại thuốc tây nào, người bệnh khi sử dụng metformin có thể gặp một số phản ứng phụ không mong muốn. Trong trường hợp nhẹ, người bệnh có thể chán ăn, buồn nôn, tiêu chảy , táo bón , ợ nóng; nổi ban, mề đay, nhạy cảm với ánh sáng; giảm nồng độ vitamin B12 . Nếu nặng hơn có thể gây rối loạn sản sinh máu, thiếu máu bất sản, thiếu máu tan huyết , suy tủy, giảm tiểu cầu, mất bạch cầu hạt; nhiễm axit lactic. Dù gặp bất cứ triệu chứng, dấu hiệu nào kể trên, bạn cũng cần tham khảo ý kiến của bác sĩ/ dược sĩ để đưa ra hướng điều trị tốt nhất.
+
+3. Lưu ý khi sử dụng
+Để sử dụng trong quá trình điều trị tiểu đường một cách hiệu quả nhất, bạn cũng cần xin ý kiến của bác sĩ/ dược sĩ về những lưu ý khi sử dụng thuốc. Luôn lưu ý phải đọc kỹ hướng dẫn sử dụng thuốc trước khi dùng. Dưới đây là một số thận trọng khi sử dụng metformin là: Đối với bệnh nhân tiểu đường, chế độ dinh dưỡng là yếu tố quyết định lớn nhất, những loại thuốc điều trị chỉ là yếu tố hỗ trợ, bổ sung và metformin cũng vậy. Một chế độ ăn uống khoa học, thể dục vừa phải sẽ rất hiệu quả. Đối với người cao tuổi, sức khỏe yếu, chức năng thận cũng giảm nên việc sử dụng thuốc là không nên, bởi metformin được bài tiết qua thận. Điều này sẽ gây tích lũy và nhiễm axit lactic cao, gây suy giảm chức năng thận. Người cao tuổi càng không được điều trị với liều tối đa metformin. Trước khi điều trị thì cần kiểm tra creatinin huyết thanh . Khi có dự định đi chụp X - quang, bạn cần chủ động ngừng điều trị thuốc trong vòng từ 2 -3 ngày. Chỉ đến khi đánh giá chức năng thận cho kết quả bình thường, mới quay trở lại dùng thuốc bình thường. Không sử dụng metformin với các loại thuốc có tác động đến bài tiết ở ống thận vì nó ảnh hưởng đến sự phân bố metformin. Trước mỗi cuộc phẫu thuật cần ngưng sử dụng thuốc Bệnh nhân suy giảm chức năng gan cũng chống chỉ định dùng thuốc Phụ nữ mang thai, trẻ con đều không được sử dụng thuốc metformin. Nguy cơ giảm hấp thu vitamin B12 có thể xảy ra khi người bệnh sử dụng thuốc dài ngày gây ra chán ăn, đầy bụng, buồn nôn, ợ chua, tiêu chảy, táo bón . Tuy nhiên, trong trường hợp này, bạn có thể tiêm vitamin B12 để bổ sung lượng vitamin bị thiếu hụt. Không sử dụng rượu, bia hay sulfonylurea, khi đang điều trị thuốc, bởi nó có thể gây hạ đường huyết. Người bệnh nên uống metformin trong bữa ăn để tránh gây tác dụng phụ về tiêu hóa. Khi uống thuốc thì không được nhai viên thuốc.
+
+[Vinmec Central Park] Hội thảo: Phát hiện sớm và phòng ngừa bệnh đái tháo đường

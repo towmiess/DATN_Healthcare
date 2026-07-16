@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá chép nướng kiểu Việt", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá chép nướng kiểu Việt
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: cá chép, nấm hương, protein, nướng
+
+Mô tả: Cá chép nướng kiểu Việt là món nướng kết hợp cá chép và nấm hương, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 134 kcal
+Chất đạm (protein): 20.9 g
+Chất béo tổng: 8.2 g (bão hòa: 1.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 7.9 g (chất xơ: 3.8 g, đường: 3.3 g, đường bổ sung: 0.0 g)
+Cholesterol: 85 mg | Natri: 367 mg
+Kali: 291 mg | Phốt pho: 188 mg | Magie: 21 mg
+Canxi: 91 mg | Sắt: 3.4 mg | Vitamin D: 0.2 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Phù hợp theo nhóm Thịt nạc; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g cá chép
+200g nấm hương
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cá chép và nấm hương
+2. Nướng theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

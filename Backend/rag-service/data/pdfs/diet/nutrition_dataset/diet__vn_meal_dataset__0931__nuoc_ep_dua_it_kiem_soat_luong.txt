@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Nước ép dứa ít (kiểm soát lượng)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Nước ép dứa ít (kiểm soát lượng)
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: dứa, bromelain, ít ngọt, kiểm soát lượng
+
+Mô tả: Dứa có bromelain hỗ trợ tiêu hóa nhưng GI khá cao nên cần kiểm soát lượng nghiêm ngặt.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 6.5
+Calo: 55 kcal
+Chất đạm (protein): 0.5 g
+Chất béo tổng: 0.2 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 13.5 g (chất xơ: 0.7 g, đường: 9.5 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 2 mg
+Kali: 125 mg | Phốt pho: 8 mg | Magie: 12 mg
+Canxi: 15 mg | Sắt: 0.3 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI trung bình cao - chỉ dùng 100ml, ưu tiên ăn miếng nguyên hơn ép
+Khẩu phần khuyến nghị: 100ml, hạn chế tối đa 1 lần/tuần
+Chống chỉ định / thận trọng: Hạn chế dùng thường xuyên
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g dứa
+
+--- Cách chế biến ---
+1. Ép lấy nước dứa
+2. Uống lượng ít, không thêm đường

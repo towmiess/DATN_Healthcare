@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Canh bầu thịt heo", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh bầu thịt heo
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: bầu, thịt heo, ít calo, thanh nhiệt
+
+Mô tả: Bầu thanh nhiệt lợi tiểu, ít calo, giúp kiểm soát cân nặng và hạ áp.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.5
+Calo: 108 kcal
+Chất đạm (protein): 14.5 g
+Chất béo tổng: 4.2 g (bão hòa: 1.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.8 g (chất xơ: 2.2 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 40 mg | Natri: 335 mg
+Kali: 348 mg | Phốt pho: 145 mg | Magie: 25 mg
+Canxi: 22 mg | Sắt: 0.8 mg | Vitamin D: 0.2 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít calo và lợi tiểu phù hợp TĐ có biến chứng thận nhẹ
+Khẩu phần khuyến nghị: 1 tô lớn/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+250g bầu
+60g thịt nạc heo
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Bầu gọt vỏ cắt miếng
+2. Phi tỏi xào thịt
+3. Đổ nước sôi
+4. Cho bầu vào nấu 10 phút
+5. Nêm gia vị

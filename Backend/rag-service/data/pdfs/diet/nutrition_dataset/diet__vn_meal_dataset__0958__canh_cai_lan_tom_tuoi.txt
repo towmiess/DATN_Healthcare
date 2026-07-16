@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Canh cải làn tôm tươi", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh cải làn tôm tươi
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: cải làn, tôm tươi, canxi, glucosinolate
+
+Mô tả: Canxi cải làn kết hợp protein tôm tươi, canh giòn ngọt tự nhiên.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.8
+Calo: 118 kcal
+Chất đạm (protein): 15.5 g
+Chất béo tổng: 3.0 g (bão hòa: 0.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.0 g (chất xơ: 2.5 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 85 mg | Natri: 348 mg
+Kali: 385 mg | Phốt pho: 168 mg | Magie: 42 mg
+Canxi: 128 mg | Sắt: 1.8 mg | Vitamin D: 0.3 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Canxi cao - tốt xương khớp bệnh nhân TĐ lâu năm
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Dị ứng tôm thận trọng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+100g tôm tươi
+200g cải làn
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Phi tỏi xào tôm
+2. Đổ nước sôi
+3. Cho cải làn vào nấu 4 phút

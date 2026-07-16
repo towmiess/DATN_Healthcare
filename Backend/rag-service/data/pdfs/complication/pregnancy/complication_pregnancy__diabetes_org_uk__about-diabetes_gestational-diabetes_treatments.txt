@@ -1,0 +1,74 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org.uk/about-diabetes/gestational-diabetes/treatments",
+  "title": "Gestational diabetes treatments",
+  "category": "complication/pregnancy",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:17:53.094570",
+  "source_name": "diabetes.org.uk",
+  "document_title": "Gestational diabetes treatments",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 1363,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Gestational diabetes treatments
+
+Page saved! You can go back to this later in your Diabetes and Me
+Close
+
+Treatments for gestational diabetes
+
+What’s on this page?
+
+What are the main treatments for gestational diabetes?
+
+Do I need to take medication?
+
+Physical activity and gestational diabetes
+
+What is the first-line treatment for gestational diabetes?
+
+Can you fix gestational diabetes during pregnancy?
+
+How do I check my blood sugar levels?
+
+What numbers to aim for
+
+Being diagnosed with gestational diabetes may come as a shock but learning you have it is really important. With the right treatment and support from your healthcare team, it is possible to keep your blood sugar levels within a safe range to go on to have a healthy pregnancy and baby.
+
+What are the main treatments for gestational diabetes? Treatments for gestational diabetes include diet, exercise and sometimes medication, all with the aim of managing blood glucose levels.
+
+Do I need to take medication?  Many women start with changes to their diet and physical activity. But if your blood sugar levels are very high or do not go down enough after a couple of weeks, you might need to take medication to manage your blood sugar levels. This doesn’t mean you’ve failed – far from it. It just means you need a bit of extra help to manage your blood sugar levels and help keep you and your baby safe. But remember, even when medications are needed, you’ll still need to make changes to your diet and physical activity. All of these things together can help you manage your blood sugar levels. How do the medications work?  Metformin This tablet helps to reduce the amount of glucose (sugar) produced by the liver, and to make your insulin work more effectively. It’s taken with, or after, a meal.
+Insulin is a hormone that allows glucose (sugar) to enter the cells and to be used for energy.   Insulin can’t be taken orally because your stomach will digest it. It’s given as an injection using a small needle that goes in just under the skin.   “My blood sugar levels became very unstable – I found that foods which were ok one day would make my blood sugar level soar the next. My diabetes healthcare team then put me on metformin, which helped a lot and really took the pressure off.”  Read Reena's story . Is my medication suitable during pregnancy?  Your diabetes and antenatal health care team are best placed to decide on the treatments that are appropriate for your gestational diabetes. Even though the patient information leaflets for metformin says that it shouldn’t be used during pregnancy, it's used in the UK to help manage diabetes in pregnancy and while breastfeeding. There’s strong evidence for their effectiveness and safety. Your diabetes care team will consider the benefits to your blood sugar against any potential harm. So if you have any worries, do talk to them.
+
+Physical activity and gestational diabetes  Don’t be put off by the word   exercise  or physical activity. You don’t have to take out a gym membership if you don’t want to. But making time to be active and making that a priority is more important now than ever. So make sure you:  Speak to your maternity team  Choose activities that reflect your exercise level before pregnancy  Listen to your body  Choose group exercises with qualified instructors and tell them how many weeks pregnant you are.  See more tips on being physically active below. For more guidelines, see the  Physical activity for pregnant women infographic  on the GOV.UK website.  Benefits of physical activity Physical activity helps to manage your gestational diabetes because it increases the amount of glucose (sugar) used by your muscles for energy, so it helps to lower your blood sugar levels. Being active also helps the body use insulin more efficiently, and regular activity can help reduce the amount of insulin you need. There are  lots of other health benefits of being active with gestational diabetes, too.  What type of activity should I do?   Try to do regular physical activity that is appropriate for you, such as:  Going for regular walks after lunch or dinner  Pregnancy yoga – you can look for videos to follow online, or go to a class  Swimming or water aerobics – if you have other children, ask for support with childcare   Dancing in the kitchen.  You should try not to sit after a meal. We know being active for 15-20 minutes within 30 minutes of a meal will help get your post meal sugar level in the target range you have been recommended.   We’ve got lots of ideas, resources and support in our  exercise section , including our  free guide on Moving More .   If you weren’t active before pregnancy  If you weren’t active before you became pregnant, do not suddenly take on strenuous exercise. Get advice from your healthcare team and start gradually to work your way up, such as a regular 15-minute walk turning into a 30-minute walk when you feel ready.   You could also try joining an exercise class or doing physical activity with a friend to make it more fun and create a routine. Let an exercise class instructor know you’re pregnant and how many weeks along you are. Always discuss your exercise plans with your midwife or doctor and listen to your body.
+
+What is the first-line treatment for gestational diabetes?   For many people with gestational diabetes the first treatment you’ll be given is support with following a healthy diet and exercising regularly. You may then be given medication if needed.
+
+Can you fix gestational diabetes during pregnancy?  Usually, gestational diabetes goes away after the birth of the baby and having a blood glucose test at 6-13 weeks post birth will confirm this. But in some cases, the pregnancy reveals existing diabetes, and this means treatment will continue. After you’ve had gestational diabetes, your risk of type 2 diabetes is higher. So you'll need follow-on care and checks from the NHS. See our page on preventing type 2 diabetes after gestational diabetes .
+
+How do I check my blood sugar levels?  You check your blood sugar levels by pricking the side of your finger with a special device called a lancet, and putting a drop of blood onto a test strip. This is then read by a blood glucose meter which tells you your blood sugar levels. You’ll be given a blood glucose meter by your healthcare team and taught how to use it. If you don’t have a meter, ask your care team for one straight away.  Your care team will tell you when to check. This is likely to include when you wake up in the morning (fasting) and one hour after meals. If you’re having two or more insulin injections, you’re likely to be told to check before meals, one hour after meals and also at bedtime.  The testing becomes second nature and, because you know it’s for the welfare of you and your baby in the short term and long term, you just get on and do it.”  Read Nicole's story.
+
+What numbers to aim for  Fasting : below 5.3mmol/l  One hour after meals : below 7.8mmol/l  If you’re not able to check until two hours – rather than one hour – after a meal, you should aim for below 6.4mmol/l.  Your care team should agree an ideal blood sugar level that’s right for you, and is manageable without causing low blood sugar, also called  hypos . To help you keep all your results in one place, you can download our handy resource –  My Blood Sugar Targets (PDF, 104KB) .  Use of a continuous glucose monitor If you have severe low blood sugars (hypos) or unstable blood sugars, your team might consider giving you a continuous glucose monitor, also called a CGM (pictured). This lets your check your levels without having to prick your fingers. Find out how a CGM works .
+
+See the free gestational diabetes guides in our shop
+
+Find out more
+
+Show more
+
+What can I eat with gestational diabetes?
+
+See our tips
+
+What NHS care should you expect?
+
+Find out more
+
+Have any questions or concerns?
+
+Contact our helpline

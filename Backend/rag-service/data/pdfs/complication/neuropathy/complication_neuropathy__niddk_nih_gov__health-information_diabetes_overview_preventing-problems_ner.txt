@@ -1,0 +1,82 @@
+===METADATA===
+{
+  "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/nerve-damage-diabetic-neuropathies",
+  "title": "Diabetic Neuropathy - NIDDK",
+  "category": "complication/neuropathy",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:17:01.215693",
+  "source_name": "niddk.nih.gov",
+  "document_title": "Diabetic Neuropathy - NIDDK",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 366,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetic Neuropathy - NIDDK
+
+Health Information
+
+Diabetes
+
+Diabetes Overview
+
+Preventing Diabetes Problems
+
+Diabetic Neuropathy
+
+English
+Español
+
+Diabetic Neuropathy
+
+View or Print All Sections
+
+Diabetic neuropathy is nerve damage that can occur in people with diabetes. Different types of nerve damage cause different symptoms. Symptoms can range from pain and numbness in your feet to problems with the functions of your internal organs, such as your heart and bladder.
+
+What Is Diabetic Neuropathy?
+
+Diabetic neuropathy is nerve damage that is caused by diabetes. Over time, high blood glucose levels, also called blood sugar, and high levels of fats, such as triglycerides, in the blood from diabetes can damage your nerves. Symptoms depend on which type of diabetic neuropathy you have.
+
+Peripheral Neuropathy
+
+Peripheral neuropathy is a type of nerve damage that typically affects the feet and legs and sometimes affects the hands and arms. This type of neuropathy is very common. About one-third to one-half of people with diabetes have peripheral neuropathy.
+
+Autonomic Neuropathy
+
+Autonomic neuropathy is damage to nerves that control your internal organs, leading to problems with your heart rate and blood pressure, digestive system, bladder, sex organs, sweat glands, and eyes. The damage can also lead to hypoglycemia unawareness.
+
+Focal Neuropathies
+
+Focal neuropathies are conditions in which you typically have damage to single nerves, most often in your hand, head, torso, or leg. The most common types of focal neuropathy are entrapment syndromes, such as carpal tunnel syndrome. Other types of focal neuropathy are much less common.
+
+Proximal Neuropathy
+
+Proximal neuropathy is a rare and disabling type of nerve damage in your hip, buttock, or thigh. The damage typically affects one side of your body and may rarely spread to the other side. Symptoms gradually improve over a period of months or years.
+
+Related Conditions & Diseases
+
+Diabetes
+Diabetes and Foot Problems
+Erectile Dysfunction
+Gastroparesis
+Diabetes and Sexual and Urologic Problems
+Constipation
+Diarrhea
+Bowel Control Problems
+
+Clinical Trials
+
+The NIDDK and other components of the National Institutes of Health (NIH) support and conduct research into many diseases and conditions. View clinical trials that are currently recruiting volunteers .
+
+Additional Languages
+
+This content is also available in:
+
+Spanish
+
+Related Research
+
+See more about diabetes research at the NIDDK .

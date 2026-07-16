@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 260-280)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Rau giền trắng, luộc: 49 kcal/100g | đạm 3.2g | béo 0.4g | carb 7.9g
+- Rau giền trắng, tươi: 48 kcal/100g | đạm 3.2g | béo 0.4g | carb 7.8g
+- Rau húng, tươi: 34 kcal/100g | đạm 2.2g | béo 0.5g | carb 5.0g
+- Rau khoai lang, luộc: 28 kcal/100g | đạm 2.6g | béo 0g | carb 4.2g
+- Rau khoai lang, tươi: 28 kcal/100g | đạm 2.6g | béo 0.2g | carb 3.9g
+- Rau kinh giới, tươi: 36 kcal/100g | đạm 2.7g | béo 0g | carb 6.4g
+- Rau má, má mơ, tươi: 38 kcal/100g | đạm 3.2g | béo 0g | carb 6.3g
+- Rau má rừng, tươi: 31 kcal/100g | đạm 3.1g | béo 0g | carb 4.6g
+- Rau mồng tơi, luộc: 24 kcal/100g | đạm 2.0g | béo 0g | carb 3.9g
+- Rau mồng tơi, tươi: 24 kcal/100g | đạm 2g | béo 0g | carb 3.9g
+- Rau mùi tàu, tươi: 30 kcal/100g | đạm 2.1g | béo 0.5g | carb 4.2g
+- Rau mùi, tươi: 22 kcal/100g | đạm 2.6g | béo 0.3g | carb 2.1g
+- Rau muống, khô: 293 kcal/100g | đạm 34.2g | béo 1.8g | carb 35g
+- Rau muống, luộc: 27 kcal/100g | đạm 3.2g | béo 0g | carb 3.5g
+- Rau muống, tươi: 28 kcal/100g | đạm 3.2g | béo 0.2g | carb 3.2g
+- Rau ngổ, tươi: 24 kcal/100g | đạm 1.5g | béo 0g | carb 4.4g
+- Rau ngót, khô: 299 kcal/100g | đạm 32.2g | béo 2.6g | carb 36.8g
+- Rau ngót, tươi: 45 kcal/100g | đạm 5.3g | béo 0g | carb 5.9g
+- Rau răm, tươi: 45 kcal/100g | đạm 4.7g | béo 0g | carb 6.6g
+- Rau rút, tươi: 35 kcal/100g | đạm 5.1g | béo 0g | carb 3.7g

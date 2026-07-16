@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Nước ép cà rốt cần tây", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Nước ép cà rốt cần tây
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: cà rốt, cần tây, beta-carotene, apigenin
+
+Mô tả: Beta-carotene cà rốt và apigenin cần tây kết hợp hỗ trợ insulin và thị lực.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 6.5
+Calo: 58 kcal
+Chất đạm (protein): 1.5 g
+Chất béo tổng: 0.3 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 13.5 g (chất xơ: 2.5 g, đường: 7.5 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 125 mg
+Kali: 425 mg | Phốt pho: 48 mg | Magie: 18 mg
+Canxi: 38 mg | Sắt: 0.5 mg | Vitamin D: 0.1 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Nước ép mất chất xơ nên GI cao hơn ăn nguyên - dùng lượng ít 150ml
+Khẩu phần khuyến nghị: 150ml/lần, không quá 1 lần/ngày
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+150g cà rốt
+100g cần tây
+
+--- Cách chế biến ---
+1. Ép cà rốt và cần tây
+2. Uống ngay không để lâu
+3. Không thêm đường

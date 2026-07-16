@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Mì gạo lứt xào hải sản", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Mì gạo lứt xào hải sản
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: mì gạo lứt, hải sản, omega-3, GI thấp
+
+Mô tả: Mì gạo lứt kết hợp hải sản giàu omega-3, ít dầu mỡ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 7.0
+Calo: 265 kcal
+Chất đạm (protein): 18.5 g
+Chất béo tổng: 6.5 g (bão hòa: 1.0 g, chuyển hóa: 0.2 g)
+Carbohydrate tổng: 36.5 g (chất xơ: 5.0 g, đường: 2.5 g, đường bổ sung: 0.4 g)
+Cholesterol: 95 mg | Natri: 358 mg
+Kali: 425 mg | Phốt pho: 205 mg | Magie: 42 mg
+Canxi: 68 mg | Sắt: 1.8 mg | Vitamin D: 1.5 mcg | Omega-3: 0.6 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Mì gạo lứt + hải sản - bữa ăn cân bằng omega-3
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Dị ứng hải sản thận trọng
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+100g mì gạo lứt
+150g hải sản hỗn hợp (tôm, mực)
+Rau củ
+
+--- Cách chế biến ---
+1. Luộc mì gạo lứt
+2. Xào hải sản với rau củ
+3. Trộn mì vào đảo đều

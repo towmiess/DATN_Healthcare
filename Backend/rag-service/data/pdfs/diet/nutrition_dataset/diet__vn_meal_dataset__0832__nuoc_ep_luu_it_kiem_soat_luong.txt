@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Nước ép lựu ít (kiểm soát lượng)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Nước ép lựu ít (kiểm soát lượng)
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: lựu, punicalagin, chống oxy hóa, GI trung bình
+
+Mô tả: Punicalagin từ lựu chống oxy hóa mạnh nhưng lựu có GI trung bình nên cần kiểm soát lượng.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 6.0
+Calo: 72 kcal
+Chất đạm (protein): 0.7 g
+Chất béo tổng: 0.3 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 16.5 g (chất xơ: 0.5 g, đường: 14.0 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 3 mg
+Kali: 205 mg | Phốt pho: 18 mg | Magie: 8 mg
+Canxi: 5 mg | Sắt: 0.2 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Punicalagin chống oxy hóa mạnh nhưng cần kiểm soát lượng do đường tự nhiên cao
+Khẩu phần khuyến nghị: 100ml/lần, 2-3 lần/tuần
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: cao
+
+--- Nguyên liệu ---
+100g hạt lựu
+
+--- Cách chế biến ---
+1. Ép hạt lựu lấy nước
+2. Uống lượng ít, không thêm đường

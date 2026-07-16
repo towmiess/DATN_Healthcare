@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Bún trộn gà xé rau sống", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Bún trộn gà xé rau sống
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: bún, gà xé, rau sống, ít carb
+
+Mô tả: Bún trộn nhiều rau sống ít bún, gà xé ít béo, nước mắm pha nhạt.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 6.5
+Calo: 258 kcal
+Chất đạm (protein): 20.5 g
+Chất béo tổng: 5.5 g (bão hòa: 1.2 g, chuyển hóa: 0.1 g)
+Carbohydrate tổng: 30.5 g (chất xơ: 4.0 g, đường: 3.5 g, đường bổ sung: 0.5 g)
+Cholesterol: 68 mg | Natri: 295 mg
+Kali: 415 mg | Phốt pho: 195 mg | Magie: 38 mg
+Canxi: 42 mg | Sắt: 1.5 mg | Vitamin D: 0.3 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít bún nhiều rau giảm GI tổng thể
+Khẩu phần khuyến nghị: 1 tô nhỏ/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+60g bún
+100g gà luộc xé
+Rau sống tổng hợp
+Mắm chanh nhạt
+
+--- Cách chế biến ---
+1. Chần bún
+2. Xếp rau sống và gà xé
+3. Rưới mắm chanh nhạt

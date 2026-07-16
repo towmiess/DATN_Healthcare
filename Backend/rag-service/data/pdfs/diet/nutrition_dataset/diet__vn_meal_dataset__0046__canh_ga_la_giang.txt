@@ -1,0 +1,39 @@
+===METADATA===
+{"title": "Canh gà lá giang", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh gà lá giang
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: gà, lá giang, chua tự nhiên, miền Trung
+
+Mô tả: Lá giang tạo vị chua tự nhiên không cần me hay giấm, giảm thiểu tác động đường huyết.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.0
+Calo: 148 kcal
+Chất đạm (protein): 20.5 g
+Chất béo tổng: 5.2 g (bão hòa: 1.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.5 g (chất xơ: 2.8 g, đường: 2.0 g, đường bổ sung: 0.0 g)
+Cholesterol: 65 mg | Natri: 362 mg
+Kali: 468 mg | Phốt pho: 195 mg | Magie: 38 mg
+Canxi: 52 mg | Sắt: 1.5 mg | Vitamin D: 0.5 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Axit tự nhiên từ lá giang làm chậm hấp thu glucose
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g gà
+150g lá giang
+2 tép tỏi
+Sả
+
+--- Cách chế biến ---
+1. Gà thái miếng xào sơ với sả tỏi
+2. Đổ 500ml nước sôi
+3. Nấu 20 phút
+4. Thêm lá giang vào nấu 3 phút
+5. Nêm gia vị

@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 40-60)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Cá ngừ, tươi: 87 kcal/100g | đạm 21g | béo 0.3g | carb 0g
+- Cá nục, luộc: 133 kcal/100g | đạm 24.3g | béo 3.9g | carb 0g
+- Cá nục, nướng: 138 kcal/100g | đạm 25.2g | béo 4.1g | carb 0g
+- Cá nục, tươi: 111 kcal/100g | đạm 20.2g | béo 3.3g | carb 0g
+- Cà pháo, muối nén: 20 kcal/100g | đạm 1.3g | béo 0g | carb 3.7g
+- Cà pháo, muối sổi: 23 kcal/100g | đạm 1.5g | béo 0g | carb 4.2g
+- Cá phèn, tươi: 104 kcal/100g | đạm 15.9g | béo 4.5g | carb 0g
+- Cá quả, tươi: 97 kcal/100g | đạm 18.2g | béo 2.7g | carb 0g
+- Cá rô đồng, tươi: 126 kcal/100g | đạm 19.1g | béo 5.5g | carb 0g
+- Cá rô phi, chiên giòn: 131 kcal/100g | đạm 25.9g | béo 3.0g | carb 0g
+- Cá rô phi, tươi: 100 kcal/100g | đạm 19.7g | béo 2.3g | carb 0g
+- Cá thờn bơn, tươi: 73 kcal/100g | đạm 17.4g | béo 0.4g | carb 0g
+- Cá thu đao, tươi: 156 kcal/100g | đạm 20g | béo 8.4g | carb 0g
+- Cá thu, tươi: 166 kcal/100g | đạm 18.2g | béo 10.3g | carb 0g
+- Cá trạch, tươi: 110 kcal/100g | đạm 20.4g | béo 3.2g | carb 0g
+- Cá trắm cỏ, tươi: 91 kcal/100g | đạm 17g | béo 2.6g | carb 0g
+- Cá trê, tươi: 173 kcal/100g | đạm 16.5g | béo 11.9g | carb 0g
+- Cá trích, tươi: 166 kcal/100g | đạm 17.7g | béo 10.6g | carb 0g
+- Cá trôi, tươi: 127 kcal/100g | đạm 18.8g | béo 5.7g | carb 0g
+- Cải ngồng: 17 kcal/100g | đạm 1.5g | béo 0.2g | carb 2.1g

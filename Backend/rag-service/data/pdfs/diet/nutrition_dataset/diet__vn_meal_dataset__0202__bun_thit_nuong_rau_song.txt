@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Bún thịt nướng rau sống", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Bún thịt nướng rau sống
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: bún, thịt nướng, rau sống, enzyme
+
+Mô tả: Rau sống giàu enzyme tiêu hóa, bún gạo lứt, thịt nướng ít mỡ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 7.5
+Calo: 268 kcal
+Chất đạm (protein): 19.5 g
+Chất béo tổng: 7.5 g (bão hòa: 2.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 32.5 g (chất xơ: 4.5 g, đường: 3.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 52 mg | Natri: 358 mg
+Kali: 415 mg | Phốt pho: 185 mg | Magie: 38 mg
+Canxi: 52 mg | Sắt: 2.5 mg | Vitamin D: 0.3 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Rau sống enzyme tăng tiêu hóa
+Khẩu phần khuyến nghị: 1 tô nhỏ/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: thấp
+
+--- Nguyên liệu ---
+80g bún
+150g thịt heo/gà nướng
+Rau sống tổng hợp
+Nước mắm pha nhạt
+
+--- Cách chế biến ---
+1. Nướng thịt không quá cháy
+2. Chần bún
+3. Xếp rau sống
+4. Chan nước mắm nhạt

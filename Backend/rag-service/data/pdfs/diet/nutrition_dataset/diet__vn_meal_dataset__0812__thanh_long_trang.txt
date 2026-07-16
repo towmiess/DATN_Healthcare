@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Thanh long trắng", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thanh long trắng
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: thanh long, dragon fruit, chất xơ, ít calo
+
+Mô tả: Thanh long ít calo, chất xơ tốt, vị ngọt nhẹ tự nhiên phù hợp bữa phụ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 6.0
+Calo: 60 kcal
+Chất đạm (protein): 1.2 g
+Chất béo tổng: 0.4 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 13.0 g (chất xơ: 3.0 g, đường: 8.0 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 7 mg
+Kali: 272 mg | Phốt pho: 30 mg | Magie: 18 mg
+Canxi: 8 mg | Sắt: 0.6 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI trung bình - lượng vừa phải; chất xơ tốt hỗ trợ tiêu hóa
+Khẩu phần khuyến nghị: 100g/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+100g thanh long trắng
+
+--- Cách chế biến ---
+1. Bóc vỏ
+2. Cắt miếng ăn trực tiếp

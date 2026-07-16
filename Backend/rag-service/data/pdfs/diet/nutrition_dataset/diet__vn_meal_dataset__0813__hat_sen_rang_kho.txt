@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Hạt sen rang khô", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Hạt sen rang khô
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: hạt sen, rang, alkaloid, protein
+
+Mô tả: Hạt sen rang khô giòn, alkaloid hỗ trợ thần kinh, ít chất béo.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.0
+Calo: 89 kcal
+Chất đạm (protein): 4.1 g
+Chất béo tổng: 0.6 g (bão hòa: 0.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 17.3 g (chất xơ: 1.9 g, đường: 1.0 g, đường bổ sung: 0.1 g)
+Cholesterol: 0 mg | Natri: 1 mg
+Kali: 367 mg | Phốt pho: 168 mg | Magie: 28 mg
+Canxi: 8 mg | Sắt: 1.0 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Alkaloid hỗ trợ thần kinh - tốt biến chứng thần kinh TĐ
+Khẩu phần khuyến nghị: 30g/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+30g hạt sen khô
+
+--- Cách chế biến ---
+1. Hạt sen rang khô không dầu 15 phút
+2. Để nguội ăn giòn

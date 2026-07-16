@@ -1,0 +1,39 @@
+===METADATA===
+{"title": "Nấm đông cô hấp tỏi", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Nấm đông cô hấp tỏi
+Loại món: Hấp/Luộc, Chay | Ẩm thực: Vietnamese
+Từ khóa: nấm đông cô, eritadenine, cholesterol, beta-glucan
+
+Mô tả: Hấp giữ eritadenine và beta-glucan nấm đông cô nguyên vẹn hơn xào.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 52 kcal
+Chất đạm (protein): 4.5 g
+Chất béo tổng: 0.5 g (bão hòa: 0.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.5 g (chất xơ: 3.5 g, đường: 1.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 122 mg
+Kali: 268 mg | Phốt pho: 88 mg | Magie: 22 mg
+Canxi: 5 mg | Sắt: 0.8 mg | Vitamin D: 0.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Eritadenine hạ cholesterol, beta-glucan ổn định đường huyết
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g nấm đông cô
+4 tép tỏi
+1 muỡng dầu mè
+Nước tương ít muối
+
+--- Cách chế biến ---
+1. Nấm ngâm nở
+2. Bỏ cuống xếp vào đĩa
+3. Tỏi phi rắc lên
+4. Hấp 15 phút
+5. Rưới dầu mè

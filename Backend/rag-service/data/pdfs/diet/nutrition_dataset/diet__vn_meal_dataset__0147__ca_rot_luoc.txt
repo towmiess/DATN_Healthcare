@@ -1,0 +1,34 @@
+===METADATA===
+{"title": "Cà rốt luộc", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cà rốt luộc
+Loại món: Hấp/Luộc, Rau | Ẩm thực: Vietnamese
+Từ khóa: cà rốt, beta-carotene, GI thấp
+
+Mô tả: Cà rốt luộc beta-carotene tăng khi nấu chín, tốt cho mắt bệnh nhân TĐ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.5
+Calo: 52 kcal
+Chất đạm (protein): 1.2 g
+Chất béo tổng: 0.2 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 9.5 g (chất xơ: 2.8 g, đường: 4.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 42 mg
+Kali: 265 mg | Phốt pho: 38 mg | Magie: 12 mg
+Canxi: 32 mg | Sắt: 0.5 mg | Vitamin D: 0.1 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Beta-carotene tốt võng mạc đặc biệt biến chứng mắt TĐ
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g cà rốt
+
+--- Cách chế biến ---
+1. Cà rốt gọt vỏ cắt lát
+2. Luộc 15 phút
+3. Ăn không gia vị hoặc ít muối

@@ -1,0 +1,83 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/caring/steps-to-help-you-stay-healthy-with-diabetes.html",
+  "title": "Steps to Help You Stay Healthy With Diabetes - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:30.477100",
+  "source_name": "cdc.gov",
+  "document_title": "Steps to Help You Stay Healthy With Diabetes - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 778,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Steps to Help You Stay Healthy With Diabetes - CDC
+
+May 15, 2024
+
+Steps to Help You Stay Healthy With Diabetes
+
+At a glance
+
+Follow these four steps to help you manage your diabetes, avoid complications, and live a long, active life.
+
+Step 1: Ask your doctor to refer you to diabetes self-management education and support (DSMES).
+DSMES services will teach you how to stay healthy and how to make what you learn a regular part of your life. DSMES services will also help you:
+
+Make decisions about your diabetes care.
+Work with your health care team to get the support you need.
+Learn the skills to take good care of yourself.
+
+To find American Diabetes Association recognized or Association of Diabetes Care & Education Specialists accredited DSMES services, visit Find a Diabetes Education Program in Your Area .
+
+Step 2: Know your diabetes ABCs.
+Talk to your health care team about how to manage your ABC numbers—A1C, blood pressure, and cholesterol—and how to quit smoking. These actions can help lower your chance of having a heart attack, stroke, or other serious complications of diabetes.
+A: Get a regular A 1C test to measure your average blood sugar over 2 to 3 months. Ask your health care team what your goal should be.
+B: Try to keep your b lood pressure below 140/90 mm Hg (or the target your doctor sets).
+C: Control your c holesterol levels.
+s: Stop s moking or don’t start.
+Keeping your ABC numbers close to target levels can lower your risk of long-term health problems. Ask your health care team to help you set personal targets.
+
+Step 3: Learn how to live well with diabetes.
+Learn coping skills
+Having diabetes can be overwhelming at times. But there are things you can do to cope with diabetes and manage stress. Spend time with your friends or do something you enjoy. That could be gardening, taking a walk, working on a hobby, or listening to your favorite music.
+Ask for help if you feel down. Talk with a mental health counselor, support group, clergy member, friend, or family member who will listen to your concerns.
+If you feel down on most days, you may be depressed. Talk to your health care team, family member, or some other person you trust. They may be able help you get the support you need.
+Keep Reading:
+Diabetes and Mental Health Make healthy food choices
+
+Work with your health care team to make a meal plan that fits your life. Ask for a referral to a registered dietitian nutritionist (RDN) who knows about diabetes and can help you create a personal meal plan to meet your specific needs.
+Keep a food record or journal to keep track of how you are doing with your meal plan.
+Plan ahead. Plan your food each week so you have healthy options at home. When you go out, carry healthy snacks—like baby carrots, sliced apples, or nuts—with you.
+Ask your diabetes care and education specialist, RDN, or health care team for help learning skills such as reading nutrition facts and labels, managing portion sizes, and making healthy food choices when eating out.
+
+Be physically active
+
+Set a goal to be physically active for 30 minutes most days of the week. Start slow by taking a 10-minute walk 3 times a day.
+Twice a week, work to increase your muscle strength. Use stretch bands, do yoga, or do heavy gardening like digging and planting with tools.
+
+Know what to do every day
+
+Take your medicines even when you feel good. Tell your doctor if you can't afford your medicine or if you have any side effects.
+Check your feet every day for cuts, blisters, red spots, and swelling. Call your health care team right away about any sores.
+Brush your teeth and floss every day to keep your mouth, teeth, and gums healthy.
+Ask your health care team how often and when to check your blood sugar.
+Keep track of your blood sugar and keep a record of your numbers.
+Check your blood pressure if your doctor tells you to and keep a record of your numbers.
+Don't smoke. If you already smoke, ask for help to quit. Call 1-800-QUIT-NOW (1-800-784-8669).
+
+Keep Reading:
+Living with Diabetes
+
+Step 4: Get regular care to stay healthy.
+See your health care team at least twice a year to find and treat any problems early.
+Follow your diabetes care schedule to stay on track with health care. You can also use this worksheet to keep track of your goals and progress. If you have Medicare, check to see how your plan covers diabetes care.
+
+Available in Spanish
+This content is also available in Spanish .
+
+May 14, 2024

@@ -1,0 +1,88 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/es/healthy-eating/alimentacion-saludable.html",
+  "title": "Alimentación saludable",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:13:46.411358",
+  "source_name": "cdc.gov",
+  "document_title": "Alimentación saludable",
+  "extraction_method": "<main>",
+  "word_count": 414,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Alimentación saludable
+
+el 29 mayo del 2024
+
+English (US)
+
+Alimentación saludable
+
+Puntos clave
+
+Manejar el nivel de az&uacute;car en la sangre es la clave para vivir bien con diabetes, y tener una alimentaci&oacute;n saludable es la clave para manejar el nivel de az&uacute;car en la sangre.
+
+En pocas palabras, coma alimentos saludables en las cantidades adecuadas y en los momentos adecuados para mantener el nivel de az&uacute;car en la sangre dentro de los valores deseados tanto como sea posible.
+
+Trabaje con su dietista o nutricionista, o educador sobre la diabetes para crear un plan de alimentaci&oacute;n saludable y consulte estos recursos para obtener m&aacute;s informaci&oacute;n.
+
+Comer bien con diabetes
+
+Planificaci&oacute;n de comidas para personas con diabetes
+Descubra herramientas &uacute;tiles para planificar las comidas y aprenda sobre el tama&ntilde;o de las porciones.
+el 29 abr. del 2024
+
+Contar carbohidratos
+Contar carbohidratos puede ayudar manejar el nivel de az&uacute;car en la sangre.
+el 14 feb. del 2024
+
+Opciones de carbohidratos
+Averig&uuml;e cu&aacute;ntos carbohidratos hay en alimentos comunes.
+el 7 may del 2024
+
+Salir a comer
+C&oacute;mo disfrutar de una comida fuera de casa sin dejar de seguir un plan de alimentaci&oacute;n saludable.
+el 5 feb. del 2024
+
+La alimentaci&oacute;n saludable y las fiestas de fin de a&ntilde;o
+Disfrutar de las fiestas no significa que deba posponer sus metas en relaci&oacute;n con la diabetes.
+el 12 feb. del 2024
+
+La diabetes y los alimentos tradicionales de su cultura
+Descubra c&oacute;mo puede celebrar su cultura al crear su plan de comidas para la diabetes.
+el 9 may del 2024
+
+Cuidado de la diabetes durante emergencias
+Descubra c&oacute;mo puede estar preparado para manejar la diabetes en caso de emergencia.
+el 2 feb. del 2024
+
+La diabetes y la enfermedad de los ri&ntilde;ones: &iquest;Qu&eacute; comer?
+Ayuda para saber qu&eacute; comer si tiene diabetes y enfermedad de los ri&ntilde;ones.
+el 10 may del 2024
+
+La diabetes y la inseguridad alimentaria
+La inseguridad alimentaria puede aumentar el riesgo de diabetes tipo 2 o dificultar su manejo.
+el 30 abr. del 2024
+
+6 consejos para una alimentaci&oacute;n sana y econ&oacute;mica
+Consejos para ayudar a las personas con diabetes a comer alimentos saludables a precios asequibles.
+el 30 abr. del 2024
+
+Consejos sobre las mesas de buf&eacute; para personas con diabetes
+Consejos para personas con diabetes sobre c&oacute;mo comer m&aacute;s sano en los buffets.
+el 1 may del 2024
+
+el 29 mayo del 2024
+
+Fuentes
+Imprimir
+Compartir
+
+Syndicate
+
+Fuente del contenido:
+Centro Nacional para la Prevenci&oacute;n de Enfermedades Cr&oacute;nicas y Promoci&oacute;n de la Salud ; Diabetes

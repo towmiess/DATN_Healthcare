@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 400-420)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Tôm biển, khô: 347 kcal/100g | đạm 75.6g | béo 3.8g | carb 2.5g
+- Tôm biển, luộc: 82 kcal/100g | đạm 17.6g | béo 0.9g | carb 0.9g
+- Tôm biển, nướng: 124 kcal/100g | đạm 26.6g | béo 1.3g | carb 1.3g
+- Tôm biển, tươi: 82 kcal/100g | đạm 17.6g | béo 0.9g | carb 0.9g
+- Tôm đồng, luộc: 90 kcal/100g | đạm 18.4g | béo 1.8g | carb 0g
+- Tôm đồng, nướng: 136 kcal/100g | đạm 27.8g | béo 2.7g | carb 0g
+- Tôm đồng, tươi: 90 kcal/100g | đạm 18.4g | béo 1.8g | carb 0g
+- Tôm tít (bề bề): 82 kcal/100g | đạm 17.6g | béo 0.9g | carb 0.9g
+- Trai, nước ngọt, tươi: 38 kcal/100g | đạm 4.6g | béo 1.1g | carb 2.5g
+- Trám đen, quả chín, tươi: 134 kcal/100g | đạm 2.5g | béo 10g | carb 8.5g
+- Trám xanh, trám trắng, tươi: 56 kcal/100g | đạm 1.2g | béo 1.6g | carb 9.3g
+- Trứng cá: 171 kcal/100g | đạm 20.5g | béo 9.9g | carb 0g
+- Trứng cá muối: 274 kcal/100g | đạm 24.6g | béo 17.9g | carb 3.5g
+- Trứng chim cút: 157 kcal/100g | đạm 12.7g | béo 10.4g | carb 2.8g
+- Trứng gà công nghiệp: 132 kcal/100g | đạm 12.7g | béo 8.1g | carb 1.8g
+- Trứng gà ta: 150 kcal/100g | đạm 12.9g | béo 10.3g | carb 1.2g
+- Trứng vịt: 172 kcal/100g | đạm 13.0g | béo 12.0g | carb 2.9g
+- Trứng vịt lộn: 182 kcal/100g | đạm 13.6g | béo 12.4g | carb 4g
+- Tu hài: 42 kcal/100g | đạm 5.3g | béo 0.4g | carb 4.0g
+- Tủy xương bò, tươi: 814 kcal/100g | đạm 1.1g | béo 89.9g | carb 0g

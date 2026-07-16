@@ -1,0 +1,84 @@
+services:
+
+  qdrant:
+    image: qdrant/qdrant:v1.9.2
+    container_name: rag-qdrant
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - qdrant_data:/qdrant/storage
+    environment:
+      - QDRANT__SERVICE__API_KEY=${QDRANT_API_KEY:-healthcare-local-key}
+    restart: unless-stopped
+    networks:
+      - rag-network
+
+  redis:
+    image: redis:7-alpine
+    container_name: rag-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+      start_period: 10s
+    restart: unless-stopped
+    networks:
+      - rag-network
+
+  rag-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rag-api
+    ports:
+      - "8000:8000"
+    env_file: .env
+    environment:
+      - QDRANT_URL=http://qdrant:6333
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+    depends_on:
+      - qdrant
+      - redis
+    volumes:
+      - ./data/pdfs:/app/data/pdfs
+      - ./data/raw:/app/data/raw
+      - ./scripts:/app/scripts
+      - ./.crawler_state.json:/app/.crawler_state.json
+      - ./.ingest_state.json:/app/.ingest_state.json
+    restart: unless-stopped
+    networks:
+      - rag-network
+
+  streamlit:
+    build:
+      context: ./services/streamlit-ui
+      dockerfile: Dockerfile
+    container_name: rag-ui
+    ports:
+      - "8501:8501"
+    environment:
+      - RAG_API_URL=http://rag-api:8000
+      - ADMIN_SECRET_KEY=${ADMIN_SECRET_KEY:-healthcare-admin-dev}
+    depends_on:
+      - rag-api
+    volumes:
+      - ./data/pdfs:/app/data/pdfs
+    restart: unless-stopped
+    networks:
+      - rag-network
+
+volumes:
+  qdrant_data:
+  redis_data:
+
+networks:
+  rag-network:
+    driver: bridge

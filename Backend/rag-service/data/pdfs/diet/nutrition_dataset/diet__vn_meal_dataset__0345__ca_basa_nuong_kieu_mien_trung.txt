@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Cá basa nướng kiểu miền Trung", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cá basa nướng kiểu miền Trung
+Loại món: Cá/Hải sản | Ẩm thực: Vietnamese
+Từ khóa: cá basa, cải cúc, protein, nướng
+
+Mô tả: Cá basa nướng kiểu miền Trung là món nướng kết hợp cá basa và cải cúc, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 201 kcal
+Chất đạm (protein): 24.7 g
+Chất béo tổng: 9.6 g (bão hòa: 2.3 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 4.9 g (chất xơ: 3.6 g, đường: 2.1 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 315 mg
+Kali: 548 mg | Phốt pho: 80 mg | Magie: 18 mg
+Canxi: 127 mg | Sắt: 2.9 mg | Vitamin D: 2.5 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Cá/Hải sản; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g cá basa
+200g cải cúc
+2 tép tỏi
+Gia vị nhạt
+
+--- Cách chế biến ---
+1. Sơ chế cá basa và cải cúc
+2. Nướng theo cách truyền thống ít dầu mỡ
+3. Nêm gia vị nhạt vừa ăn

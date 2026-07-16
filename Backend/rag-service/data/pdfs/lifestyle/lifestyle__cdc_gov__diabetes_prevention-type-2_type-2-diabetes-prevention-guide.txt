@@ -1,0 +1,214 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/prevention-type-2/type-2-diabetes-prevention-guide.html",
+  "title": "On Your Way to Preventing Type 2 Diabetes - CDC",
+  "category": "lifestyle",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:09:57.938549",
+  "source_name": "cdc.gov",
+  "document_title": "On Your Way to Preventing Type 2 Diabetes - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 2382,
+  "verified_by_doctor": false
+}
+===CONTENT===
+On Your Way to Preventing Type 2 Diabetes - CDC
+
+May 15, 2024
+
+Español
+
+About "On Your Way to Preventing Type 2 Diabetes"
+
+Key points
+
+Not quite ready to join a lifestyle change program? Or want a jump start before your program begins?
+
+This practical guide will help you take small steps that add up to a healthy lifestyle, from planning to setting goals to succeeding over the long term.
+
+Why prevention matters
+Prediabetes puts you on the road to type 2 diabetes. Find out now, in less than 1 minute, if you may have prediabetes by taking the Prediabetes Risk Test .
+If your result shows you're at high risk for type 2 diabetes, talk to your doctor, who can give you a simple blood sugar test to confirm it. Then, if you're diagnosed with prediabetes, consider joining the National Diabetes Prevention Program (National DPP) lifestyle change program. This program is proven to cut the risk for type 2 diabetes in half.
+Why is prevention so important? Because type 2 diabetes is a serious, chronic health condition. It can lead to other serious health issues such as heart disease, stroke, blindness, and kidney failure. If you can prevent or delay getting type 2 diabetes, you can lower your risk for all those other conditions.
+Not quite ready to join the lifestyle change program? Or want a jump start before your program begins? Use this guide to help you take the first steps toward preventing type 2 diabetes.
+
+Starting point
+What’s motivating you to take this journey? What new version of yourself are you trying to create?
+For example, you might say that you want to be more active so you can keep up with your grandkids. Now you've reminded yourself of why you want to create new habits. Next, review how to create an action plan to help you build a new healthy routine.
+Step 1. Figure out what needs to change. The first step is finding a routine to change for the better.
+Let's assess where you stand right now when it comes to nutrition and physical activity. Write down your answers to these questions to figure out which of your habits are helpful and which habits you might want to work on.
+Think about how you eat in a typical week
+
+Do other people, such as friends, family, or coworkers, influence what you eat?
+
+Do you make your meals ahead of time or decide in the moment what to eat?
+
+How comfortable are you with reading a nutrition label?
+
+How often do you eat out and where?
+
+What makes it easier for you to eat healthier? What makes it harder?
+
+Think about how you move in a typical week
+
+How much of your commute is spent walking or biking?
+
+How much time do you make for physical activity around the house, such as walking the dog, cleaning the house, or gardening?
+
+How much time do you dedicate each week for physical activity, such as walking, biking, or swimming?
+
+What are your favorite ways to be active?
+
+What makes it easier or more enjoyable for you to move more? What makes it harder?
+
+Step 2: Plan a new routine.
+Starting a new routine helps you make a positive change that will stick. Be specific and realistic. Plan small changes to your routines instead of big changes that are hard to stick with.
+Step 3: Find a cue or hint for when to use your new routine.
+Your cue could be one of these:
+
+A specific time or place
+
+A feeling or emotion
+
+Other people in your life
+
+An action right before or right after a regular routine
+
+Tips :
+
+Make your new routine easy and the old one harder.
+
+Decide how you can make this new routine more rewarding.
+
+Create opportunities to repeat and practice your new routine until it becomes automatic.
+
+Making a plan
+First stop: set a weight loss goal
+With your starting point in mind, set a weight loss goal . If you are overweight and have prediabetes, shedding just 5% of your weight can help reverse prediabetes. You may not be able to lose 5% of your body weight. But by eating well and being more active, you may be able to lower your HbA1C. You have options to be successful.
+What is HbA1C? The A1C, or hemoglobin (Hb) A1C, test is one of the commonly used tests to diagnose prediabetes and diabetes. It's a simple blood test that measures your blood sugar levels over the past 3 months.
+
+Normal A1C: below 5.7%
+
+Prediabetes: 5.7% to 6.4%
+
+Diabetes: 6.5% or more
+
+Within the prediabetes range, the higher your A1C, the greater your risk is for developing type 2 diabetes. Ask you health provider for more information about A1C.
+Here's an example to help calculate a weight loss goal of 5%.
+
+Action
+Example
+
+Weigh yourself first thing in the morning for the most accurate results and record the number .
+
+240 pounds
+
+Determine 5% of your current weight.
+
+Take off the last digit of your weight: 24
+Divide in half: 12
+T o lose 5%, a 240-pound person would need to lose 12 pounds.
+
+Subtract that number from your current weight to determine your goal weight.
+
+240
+– 12 = 228 A 240-pound person’s goal weight would be 228 pounds.
+
+Now you've assessed your habits and preferences around eating and being active. You've also set a healthy weight loss goal. You're better prepared to hit the road on your way to wellness.
+Second stop: make a nutrition plan for healthier eating
+
+Winning habits
+Make over your meals with a plan, the right ingredients, and life hacks.
+
+You've probably noticed that someone who follows a popular diet plan might quickly lose weight. But then they have a hard time keeping it off long term. This is common and discouraging, so let's design a plan that you can follow for life. It doesn't need to be popular or have a name.
+Your plan only needs two key ingredients to work:
+
+It should be based on healthy eating.
+
+It should be something you can keep doing.
+
+People often need to try different things to create a plan that works for them. Some may cut back on sugar and eat more protein to stay fuller longer. Others may focus on crowding out unhealthy food with extra fruits and vegetables. Still others take the guesswork and temptation out of life. They stick to just a few breakfast and lunch choices that they know are nutritious. The details will depend on what you like and what fits in best with your life.
+Eat well. Good food in the right amounts does so much more for you than just helping you lose the pounds. It helps you feel better and even think better. All good things! Read more in our Healthy Eating section .
+Choose these foods and drinks more often:
+
+Non-starchy vegetables such as peppers, mushrooms, asparagus, broccoli, and spinach
+
+Fruits
+
+Lean protein such as fish, chicken, turkey, tofu, eggs, and low-fat yogurt
+
+Whole grains such as quinoa, brown rice, and steel-cut oatmeal
+
+Water and unsweetened beverages
+
+Choose these foods and drinks less often:
+
+Processed foods such as packaged snacks, packaged meat like bologna, chips, granola bars, sweets, and fast foods
+
+Trans fat , found in things such as margarine, snack food, packaged baked goods, and many fried foods
+
+Sugary drinks such as fruit drinks, sports drinks, and soda
+
+Alcohol
+
+Master portion sizes
+Size it up: get a handle on portion size. Most of us don't know just how much we're eating. You can estimate portion size by using the plate method or "handy" guide.
+Choose the best foods: decoding food labels, eating a healthy variety, and quality calories
+Put foods that don't have labels first on your grocery list. Visit the produce section to stock up on fresh veggies and fruit. (Avoid packaged food tucked away between the apples and asparagus, such as salad toppings and snack foods.) Then, shop the outside aisles of the store for dairy, eggs, and lean meat. Some packaged food will be on your list. The Nutrition Facts label shows how many calories and grams of carbohydrates, sugars, and fats are in the food you choose.
+Eat a variety of healthy foods. Eat all kinds of different foods from the major food groups. These include veggies, fruits, grains, and dairy or dairy alternatives, and lean protein. Eating a variety of foods helps to make sure you get the vitamins and minerals you need. You don't need to eat all food groups at each meal.
+Count what counts
+Don't get too hung up on calories, but definitely count them in. Cutting calories from your meals and adding physical activity to your routine can help you lose weight. But don't cut back too far. If you get too hungry, you won't stay on your plan. And remember, if you're more active, you're burning more calories.
+The National Institutes of Health offers an interactive Body Weight Planner that can help you determine the number of calories you should eat each day to get you to your goal weight and to maintain it.
+Download the complete list of tips.
+Make work, home, grocery stores, and restaurants work for you
+Take the work out of eating at work. Bring a healthy lunch from home instead of eating out. Keep fruit and vegetables in the fridge at work for snacks. Package high-power snacks like nuts in small containers so you don't eat too much.
+Make home your healthy place. Cook while you're doing another enjoyable activity, such as listening to music or catching up on your favorite show. Keep a few healthy snacks on hand in case food cravings hit.
+Create a grocery store game plan. Shop on a full stomach so you're not tempted to buy unhealthy food.
+Restaurants: Order with ease . Decide what you're going to order before you go to a restaurant. That way you're not tempted by the look and smell of less healthy choices.
+
+Setting a goal
+Keep moving: set an activity goal for healthier movement
+Get active . Our bodies are made to move, and we feel better when we do. That said, getting started can be a challenge. One thing is for sure—you won't stick with something that you don't like doing. And you shouldn't have to.
+There are lots of ways to get moving. For example, walking is a great physical activity, and just about anyone can do it. Just be sure to check with your doctor about which activities are best for you. Also ask if there are any you should avoid.
+Set a goal that works for you! Gradually work up to being active at a moderate intensity at least 150 minutes per week. One way to do this is to aim for 30 minutes, 5 days a week. Moderate-intensity activities, such as a brisk walk, make you breathe harder and make your heart beat faster. Below are example goals.
+My physical activity goal for now Number of days a week being active: 3 How many active minutes each time: 20 Total number of active minutes a week: 60 Goal date: March 1
+My intermediate physical activity goal Number of days a week being active: 4 How many active minutes each time: 30 Total number of active minutes a week: 120 Goal date: April 15
+My ultimate physical activity goal Number of days a week being active: 5 How many active minutes each time: 30 Total number of active minutes a week: 150 Goal date: May 31
+
+Make a plan!
+Put it on the calendar and choose the same time or location for your daily activity. The more regular you are being physically active, the quicker it becomes a habit.
+
+Find some healthy tips for being active .
+
+Track your progress and get support
+Track your progress: watch yourself succeed with a few easy steps
+The best way to stick with your goals and keep building on them is to measure them! Research shows that people who track their food, activity, and weight reach their goals more often than people who don't.
+There are lots of free tracking apps for your phone or tablet. Good old-fashioned pen and paper work too. Some people swear by taking photos of everything they eat and drink to keep them accountable.
+Prepare for the long run: get support and look ahead
+Get support
+Share your healthy goals and why they're important with your friends and family. Having their support and encouragement can help you stay on track.
+Consider these few examples of support:
+
+Ask if a friend would like to walk with you after dinner.
+
+Invite your kids to cook a healthy meal with you, or make a date night out of cooking with a partner.
+
+Talk to friends about struggles you're having and ask if they have advice.
+
+Share your successes with people you can trust to encourage you.
+
+Who knows, you could even be helping someone you care about prevent type 2 diabetes along with you.
+Go online
+There are lots of free online resources that can boost your motivation and confidence too. A quick search will show you no-cost communities with people who share your goals and challenges. They could learn from your experience (and you from theirs). If you share your health goals with others, you'll be more likely to stick to them.
+Remember, your doctor, physician assistant, or nurse practitioner can help you meet your goals.
+You may retake the risk test and find that you're at a higher risk. Or you may feel like you're struggling and not seeing the results you want. Consider asking for your health care provider's advice and direction. They could also refer you to specialists, such as a registered dietitian or mental health counselor. Those providers can help you deal with a specific challenge. If you have prediabetes, ask your doctor if joining the National DPP might be a helpful step for you.
+Look ahead
+We hope this guide has helped you get started down the road to not only preventing type 2 diabetes, but also having more energy, better checkups, and better mental health.
+
+Making lifestyle changes can take time
+But if you add in small steps toward your goals every week, you can start to make living healthy a habit.
+
+May 15, 2024

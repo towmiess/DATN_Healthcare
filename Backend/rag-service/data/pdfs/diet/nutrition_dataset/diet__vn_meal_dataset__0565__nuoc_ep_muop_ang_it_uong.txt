@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Nước ép mướp đắng ít đường", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Nước ép mướp đắng ít đường
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: chanh sả, đồ uống, không đường, ít calo
+
+Mô tả: Nước ép mướp đắng ít đường là món chiên không dầu kết hợp đậu bắp và đậu bắp, phù hợp chế độ ăn người tiểu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.2
+Calo: 32 kcal
+Chất đạm (protein): 1.8 g
+Chất béo tổng: 0.3 g (bão hòa: 0.1 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 5.3 g (chất xơ: 2.0 g, đường: 6.8 g, đường bổ sung: 0.0 g)
+Cholesterol: 125 mg | Natri: 468 mg
+Kali: 542 mg | Phốt pho: 214 mg | Magie: 72 mg
+Canxi: 177 mg | Sắt: 2.3 mg | Vitamin D: 1.5 mcg | Omega-3: 1.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phù hợp theo nhóm Đồ uống; ưu tiên ít dầu mỡ và muối
+Khẩu phần khuyến nghị: 1 phần/bữa theo khẩu phần khuyến nghị
+Chống chỉ định / thận trọng: Không có chống chỉ định đặc biệt
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+200ml nước chanh sả
+Không đường hoặc đường ăn kiêng
+Đá (tùy chọn)
+
+--- Cách chế biến ---
+1. Rửa sạch chanh sả
+2. Xay hoặc hãm với nước
+3. Lọc lấy nước, không thêm đường
+4. Dùng lạnh hoặc ấm

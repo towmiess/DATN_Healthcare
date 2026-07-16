@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Thịt gà hấp lá chanh", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thịt gà hấp lá chanh
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: gà hấp, lá chanh, ít béo, thanh đạm
+
+Mô tả: Gà hấp lá chanh thơm tự nhiên, không cần nhiều gia vị, ít chất béo bão hòa.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.2
+Calo: 162 kcal
+Chất đạm (protein): 27.5 g
+Chất béo tổng: 5.5 g (bão hòa: 1.2 g, chuyển hóa: 0.1 g)
+Carbohydrate tổng: 0.8 g (chất xơ: 0.0 g, đường: 0.3 g, đường bổ sung: 0.0 g)
+Cholesterol: 75 mg | Natri: 285 mg
+Kali: 468 mg | Phốt pho: 225 mg | Magie: 32 mg
+Canxi: 18 mg | Sắt: 1.5 mg | Vitamin D: 0.3 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Hấp ít béo nhất; natri từ nước chấm cần kiểm soát tim mạch
+Khẩu phần khuyến nghị: 1 phần/bữa
+Chống chỉ định / thận trọng: Tim mạch giảm nước chấm
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+250g gà bỏ da
+Lá chanh
+Gừng
+
+--- Cách chế biến ---
+1. Gà rửa sạch
+2. Xếp lá chanh gừng lên
+3. Hấp 25 phút
+4. Chặt miếng vừa ăn

@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Đậu hũ chiên xù yến mạch", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Đậu hũ chiên xù yến mạch
+Loại món: Chay/Đậu hũ | Ẩm thực: Vietnamese
+Từ khóa: đậu hũ, yến mạch, beta-glucan, chiên xù
+
+Mô tả: Bột yến mạch thay bột chiên xù thông thường, thêm beta-glucan và chất xơ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.5
+Calo: 168 kcal
+Chất đạm (protein): 13.5 g
+Chất béo tổng: 8.0 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 12.5 g (chất xơ: 3.0 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 0 mg | Natri: 295 mg
+Kali: 385 mg | Phốt pho: 168 mg | Magie: 45 mg
+Canxi: 128 mg | Sắt: 2.0 mg | Vitamin D: 0.5 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Beta-glucan yến mạch bổ sung chất xơ vào món chiên
+Khẩu phần khuyến nghị: 1 phần/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g đậu hũ
+50g bột yến mạch xay
+1 trứng (hoặc thay bằng bột năng)
+
+--- Cách chế biến ---
+1. Đậu hũ cắt miếng
+2. Lăn qua trứng rồi bột yến mạch
+3. Chiên không dầu 12 phút

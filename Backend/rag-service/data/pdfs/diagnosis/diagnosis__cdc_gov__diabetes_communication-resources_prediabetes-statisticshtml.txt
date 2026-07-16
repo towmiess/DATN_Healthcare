@@ -1,0 +1,80 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/communication-resources/prediabetes-statistics.html",
+  "title": "Prediabetes: Could It Be You? - CDC",
+  "category": "diagnosis",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:01:50.194885",
+  "source_name": "cdc.gov",
+  "document_title": "Prediabetes: Could It Be You? - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 277,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Prediabetes: Could It Be You? - CDC
+
+Prediabetes: Could It Be You?
+
+Feb. 17, 2026
+
+What to know
+
+115.2 million Americans have prediabetes, but 8 in 10 adults with prediabetes don't know they have it. If you have prediabetes, losing weight by eating healthy and being more active can cut your risk of getting type 2 diabetes in half.
+
+Format: PDF Language: English (US) Size: 1 MB Length: Last updated: February 17, 2026
+
+View
+
+Download
+View Larger
+
+Additional formats
+
+Prediabetes Could it be You - Web
+Download
+Download
+
+Prediabetes Could It Be You
+Prediabetes Could It Be You
+Download
+Download
+
+Graphic text
+Prediabetes – Could it Be You?
+115.2 million American adults — more than 2 in 5 — have prediabetes.
+8 in 10 adults with prediabetes don't know they have it.
+Blood sugar
+With prediabetes, your blood sugar levels are higher than normal, but not high enough yet to be diagnosed as type 2 diabetes.
+Prediabetes risks
+Prediabetes increases your risk of:
+
+Type 2 diabetes
+Heart disease
+Stroke
+
+Type 2 diabetes health risks
+If you ignore prediabetes, your risk for type 2 diabetes goes up — type 2 diabetes increases your risk for serious health complications:
+
+Blindness
+Kidney failure
+Heart disease
+Stroke
+Loss of toes, feet, or legs
+
+Reduce your risk
+If you have prediabetes, losing weight by eating healthy and being more active can cut your risk of getting type 2 diabetes in half.
+You can prevent type 2 diabetes
+
+Find out if you have prediabetes – see your doctor to get your blood sugar tested.
+Join a CDC-recognized diabetes prevention program.
+Eat healthy.
+Be more active.
+Lose weight.
+
+Learn more from CDC and take the Prediabetes Risk Test.
+
+Feb. 17, 2026

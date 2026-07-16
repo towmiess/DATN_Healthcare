@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Trứng chiên giá đỗ", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trứng chiên giá đỗ
+Loại món: Món trứng | Ẩm thực: Vietnamese
+Từ khóa: trứng, giá đỗ, vitamin C, nhanh
+
+Mô tả: Trứng chiên giá đỗ đơn giản, vitamin C từ giá đỗ, món ăn nhanh quen thuộc.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.2
+Calo: 128 kcal
+Chất đạm (protein): 9.5 g
+Chất béo tổng: 8.5 g (bão hòa: 2.5 g, chuyển hóa: 0.2 g)
+Carbohydrate tổng: 3.5 g (chất xơ: 1.0 g, đường: 1.0 g, đường bổ sung: 0.1 g)
+Cholesterol: 185 mg | Natri: 245 mg
+Kali: 245 mg | Phốt pho: 118 mg | Magie: 18 mg
+Canxi: 38 mg | Sắt: 1.0 mg | Vitamin D: 0.8 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Cholesterol trứng cần kiểm soát tim mạch đột quỵ
+Khẩu phần khuyến nghị: 1 phần/bữa
+Chống chỉ định / thận trọng: Tim mạch và đột quỵ hạn chế
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+2 trứng
+100g giá đỗ
+1/2 muỗng dầu
+
+--- Cách chế biến ---
+1. Đánh trứng
+2. Xào giá đỗ sơ
+3. Đổ trứng vào đảo đều

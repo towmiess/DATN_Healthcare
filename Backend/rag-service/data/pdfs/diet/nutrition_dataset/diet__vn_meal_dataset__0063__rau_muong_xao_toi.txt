@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Rau muống xào tỏi", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Rau muống xào tỏi
+Loại món: Món xào, Rau | Ẩm thực: Vietnamese
+Từ khóa: rau muống, tỏi, sắt, vitamin A
+
+Mô tả: Rau muống xào tỏi nhanh, giàu sắt và vitamin A, kinh điển trong bữa ăn Việt.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 0.8
+Calo: 72 kcal
+Chất đạm (protein): 5.5 g
+Chất béo tổng: 4.2 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 4.5 g (chất xơ: 2.8 g, đường: 0.8 g, đường bổ sung: 0.0 g)
+Cholesterol: 0 mg | Natri: 245 mg
+Kali: 385 mg | Phốt pho: 88 mg | Magie: 32 mg
+Canxi: 102 mg | Sắt: 3.8 mg | Vitamin D: 0.4 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Sắt và vitamin A tốt thần kinh ngoại vi
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+300g rau muống
+4 tép tỏi
+1 muỡng dầu
+
+--- Cách chế biến ---
+1. Nhặt rau muống rửa sạch
+2. Phi tỏi vàng
+3. Cho rau vào xào lửa lớn 2 phút
+4. Nêm gia vị ít muối

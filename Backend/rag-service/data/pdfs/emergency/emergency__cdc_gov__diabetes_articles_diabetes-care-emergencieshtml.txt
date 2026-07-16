@@ -1,0 +1,84 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/articles/diabetes-care-emergencies.html",
+  "title": "Diabetes Care During Emergencies - CDC",
+  "category": "emergency",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:05:23.976879",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes Care During Emergencies - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 629,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes Care During Emergencies - CDC
+
+May 15, 2024
+
+Español
+
+Diabetes Care During Emergencies
+
+Key points
+
+Managing diabetes can be difficult during a major storm, loss of electricity, or infectious disease outbreak.
+Plan ahead so you can manage your diabetes during times of emergency.
+
+Be prepared
+Natural disasters, disease outbreaks, and other emergencies can happen at any moment. They may cause widespread and long-lasting impacts on supplies, services, and health care systems. Planning ahead can help.
+Having essential supplies, prescriptions, important paperwork, and practical skills will help you during an emergency. People with diabetes should also be prepared to manage their condition during any kind of emergency. This includes whether they have to shelter in place, evacuate, or protect themselves from an infectious disease.
+
+Diabetes care kit
+In addition to having basic emergency supplies, people with diabetes should also put together a diabetes care kit. Keep the kit in a waterproof bag or storage container.
+Put your medical information in a sealed plastic bag, including:
+
+Copies of any prescriptions, including eye health prescriptions.
+Current dosages and times when you take medicines.
+For insulin pumps: your basal rates, insulin-to-carbohydrate ratio, insulin sensitivity factor, blood sugar target, and correction factors.
+Your pharmacy and doctor's name, address, and phone number.
+The make, model, and serial number of your insulin pump or continuous glucose monitor.
+A copy of your photo ID and health insurance card.
+
+Pack enough diabetes supplies to last at least 1 to 2 weeks, including:
+
+Insulin and syringes for every injection. Learn more about insulin storage .
+Oral diabetes and all other prescription medicines.
+Blood sugar (glucose) meter.
+Extra batteries for your blood sugar meter and insulin pump.
+Lancets and lancing devices.
+Insulin pump supplies, including extra pump sets and insertion devices.
+Glucagon kits.
+Ketone strips.
+Alcohol wipes.
+Glucose tablets or 15 grams of quick carbs (such as juice, hard candy, or honey) to treat low blood sugar .
+An empty container to safely carry syringes, needles, and lancets.
+
+Be sure to follow the storage instructions and check expiration dates for your supplies every few months. Anything that's close to expiring, replace with fresh supplies. You can use the supplies that were in the kit for your daily care before they reach the expiration date.
+Keep Reading:
+Managing Insulin in an Emergency
+
+Prepare what you need for other health concerns
+Dialysis
+If you get dialysis treatments for chronic kidney disease, your routine may be interrupted by road closures or loss of power. Find potentially life-saving tips if you can't get dialysis treatment in an emergency , including the 3-day emergency diet.
+Mental health
+Disasters and emergencies can take a toll on your health. Don't forget to take care of your emotional health during an emergency, so that you can help yourself and your family. If you're able to, connect with family, friends, and your community to take care of each other.
+In case you can't speak for yourself
+Wearing a medical ID, usually a bracelet or necklace, can keep you safe and healthy if you can’t speak for yourself. Emergency medical technicians are trained to look for a medical ID when caring for someone who can’t speak for themselves.
+
+Find a shelter if needed
+If you have to go to a shelter during an emergency, look for one that can meet your medical needs. Do you:
+
+Have a home health nurse?
+Use a walker?
+Use oxygen?
+Need assistance to go to the bathroom?
+Require wound care or medicine through an IV?
+
+If you answered "yes" to any of these questions, then it's likely you should find a special medical needs shelter .
+When you get to the shelter, tell someone in charge about your diabetes and any other conditions, like being on dialysis. They can help you with medical care and insulin storage.
+
+May 14, 2024

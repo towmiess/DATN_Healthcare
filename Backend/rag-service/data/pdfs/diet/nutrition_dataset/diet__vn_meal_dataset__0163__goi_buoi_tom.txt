@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Gỏi bưởi tôm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Gỏi bưởi tôm
+Loại món: Gỏi/Salad | Ẩm thực: Vietnamese
+Từ khóa: gỏi bưởi, tôm, vitamin C, naringenin
+
+Mô tả: Naringenin từ bưởi giúp cải thiện nhạy cảm insulin, tôm giàu đạm.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.8
+Calo: 145 kcal
+Chất đạm (protein): 15.5 g
+Chất béo tổng: 4.5 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 15.5 g (chất xơ: 2.8 g, đường: 8.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 85 mg | Natri: 295 mg
+Kali: 355 mg | Phốt pho: 185 mg | Magie: 28 mg
+Canxi: 52 mg | Sắt: 1.5 mg | Vitamin D: 0.5 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Naringenin bưởi có nghiên cứu cải thiện nhạy cảm insulin
+Khẩu phần khuyến nghị: 1 đĩa/bữa phụ
+Chống chỉ định / thận trọng: Người dùng thuốc chú ý tương tác bưởi
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+200g thịt bưởi
+150g tôm luộc
+Rau húng
+1 muỡng mắm pha nhạt
+
+--- Cách chế biến ---
+1. Tôm luộc bóc vỏ
+2. Tách múi bưởi
+3. Trộn với rau húng
+4. Chấm mắm pha nhẹ

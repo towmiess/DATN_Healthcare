@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Nước ép bưởi không đường", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Nước ép bưởi không đường
+Loại món: Đồ uống | Ẩm thực: Vietnamese
+Từ khóa: bưởi, naringenin, ép
+
+Mô tả: Naringenin từ bưởi ép giữ được phần lớn hoạt chất, vitamin C cao.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 4.5
+Calo: 58 kcal
+Chất đạm (protein): 1.0 g
+Chất béo tổng: 0.2 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 14.0 g (chất xơ: 1.0 g, đường: 9.5 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 1 mg
+Kali: 225 mg | Phốt pho: 18 mg | Magie: 8 mg
+Canxi: 18 mg | Sắt: 0.1 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Naringenin hỗ trợ insulin; lưu ý tương tác thuốc
+Khẩu phần khuyến nghị: 150ml/lần
+Chống chỉ định / thận trọng: Người dùng thuốc statin tham khảo bác sĩ
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+1 quả bưởi
+
+--- Cách chế biến ---
+1. Ép lấy nước bưởi
+2. Uống ngay không thêm đường

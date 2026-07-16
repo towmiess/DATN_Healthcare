@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Cam tươi múi", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Cam tươi múi
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: cam, vitamin C, chất xơ, GI trung bình
+
+Mô tả: Cam nguyên múi GI thấp hơn nước cam nhiều, chất xơ làm chậm hấp thu đường.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~150g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 4.5
+Calo: 62 kcal
+Chất đạm (protein): 1.2 g
+Chất béo tổng: 0.2 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 15.5 g (chất xơ: 3.0 g, đường: 12.0 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 1 mg
+Kali: 237 mg | Phốt pho: 21 mg | Magie: 13 mg
+Canxi: 52 mg | Sắt: 0.1 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ăn nguyên múi tốt hơn nước cam nhiều - giữ chất xơ
+Khẩu phần khuyến nghị: 1 quả nhỏ/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+1 quả cam nhỏ
+
+--- Cách chế biến ---
+1. Bóc vỏ tách múi
+2. Ăn nguyên múi, không vắt lấy nước

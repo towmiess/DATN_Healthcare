@@ -1,0 +1,33 @@
+===METADATA===
+{"title": "Chôm chôm ít (kiểm soát lượng)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Chôm chôm ít (kiểm soát lượng)
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: chôm chôm, GI trung bình, kiểm soát lượng
+
+Mô tả: Chôm chôm GI trung bình nên cần kiểm soát số lượng quả ăn.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 6.0
+Calo: 68 kcal
+Chất đạm (protein): 0.9 g
+Chất béo tổng: 0.2 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 16.5 g (chất xơ: 0.9 g, đường: 14.0 g, đường bổ sung: 1.0 g)
+Cholesterol: 0 mg | Natri: 2 mg
+Kali: 42 mg | Phốt pho: 9 mg | Magie: 7 mg
+Canxi: 4 mg | Sắt: 0.4 mg | Vitamin D: 0.0 mcg | Omega-3: 0.0 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: GI trung bình - chỉ nên ăn 5-6 quả, không quá thường xuyên
+Khẩu phần khuyến nghị: 5-6 quả/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+5-6 quả chôm chôm
+
+--- Cách chế biến ---
+1. Bóc vỏ
+2. Ăn trực tiếp, bỏ hạt

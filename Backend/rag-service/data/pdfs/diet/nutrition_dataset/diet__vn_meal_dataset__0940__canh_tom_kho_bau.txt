@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Canh tôm khô bầu", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh tôm khô bầu
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: tôm khô, bầu, ít calo
+
+Mô tả: Tôm khô tạo vị ngọt tự nhiên, bầu lợi tiểu ít calo, canh nhẹ nhàng mùa hè.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.5
+Calo: 108 kcal
+Chất đạm (protein): 12.5 g
+Chất béo tổng: 3.0 g (bão hòa: 0.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 6.5 g (chất xơ: 2.0 g, đường: 2.5 g, đường bổ sung: 0.4 g)
+Cholesterol: 55 mg | Natri: 365 mg
+Kali: 325 mg | Phốt pho: 158 mg | Magie: 28 mg
+Canxi: 98 mg | Sắt: 1.5 mg | Vitamin D: 0.3 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít calo phù hợp kiểm soát cân nặng
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Dị ứng tôm thận trọng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+20g tôm khô
+250g bầu
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Ngâm tôm khô 10 phút
+2. Phi tỏi xào tôm
+3. Đổ nước cho bầu vào nấu 10 phút

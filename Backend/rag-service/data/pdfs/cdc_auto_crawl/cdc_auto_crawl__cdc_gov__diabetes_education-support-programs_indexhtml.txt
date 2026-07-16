@@ -1,0 +1,68 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/education-support-programs/index.html",
+  "title": "About Diabetes Self-Management Education and Support",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:54.022113",
+  "source_name": "cdc.gov",
+  "document_title": "About Diabetes Self-Management Education and Support",
+  "extraction_method": "<main>",
+  "word_count": 406,
+  "verified_by_doctor": false
+}
+===CONTENT===
+About Diabetes Self-Management Education and Support
+
+About Diabetes Self-Management Education and Support
+
+May 15, 2024
+
+Español
+
+Key points
+
+Diabetes self-management education and support (DSMES) provides personalized services to help you manage diabetes.
+You'll learn practical skills to fit diabetes care into your life and find what works for you.
+Get a referral from your doctor or find a program near you.
+
+What is DSMES?
+Diabetes is complicated, and it takes practice to manage it in your everyday life. You may be wondering about eating balanced meals, exercising safely, checking blood sugar, or giving yourself injectable medicines. DSMES services help you with all these skills, whatever stage you're in or type of diabetes you have.
+You'll work with a diabetes care and education specialist who will help you create a plan and teach you about the 7 key self-care behaviors:
+
+Healthy eating.
+Being active.
+Taking medicine as prescribed.
+Monitoring your blood sugar levels, activity, and eating habits.
+Reducing risks to lower the chances of diabetes complications.
+Healthy coping with diabetes and emotional well-being.
+Problem solving to find solutions and take action.
+
+DSMES can help you improve your blood sugar levels to prevent or delay complications, avoid emergency care, and save you money on health care costs. DSMES can also help you lower your weight, blood pressure, and cholesterol.
+
+Diabetes Kickstart
+Watch this video series to learn more about the 7 self-care behaviors.
+
+Frequently asked questions
+
+DSMES helps you manage diabetes so you can prevent or delay serious diabetes complications like heart disease, kidney disease, amputations, and vision loss. People who participate in DSMES are more likely to have better overall health and improved quality of life with diabetes.
+
+Ask your doctor for a referral to DSMES to get started. Your doctor may refer you to a specific program, or you can visit the Find a DSMES Program to find a program near you.
+
+There are 4 key times to get started with DSMES:
+
+If you've been recently diagnosed.
+At doctors' appointments.
+If you've developed new complications.
+If other life changes happen that make diabetes management harder.
+
+Insurance coverage of DSMES varies, but many plans cover diabetes education. Medicare covers up to 10 hours of DSMES if you've been diagnosed in the past year. After the first year, your coverage may change. Note that Medicare refers to DSMES as diabetes self-management training (DSMT). Contact your insurance provider for more information about your benefits.
+
+Medicare and DSMES
+Medicare coverage and resources
+
+May 15, 2024
+
+Syndicate

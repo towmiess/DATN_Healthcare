@@ -1,0 +1,62 @@
+# ================================================================
+# Healthcare RAG v2 — Cấu hình tập trung
+# ================================================================
+# Giá trị có thể bị override bởi biến môi trường trong .env
+
+# ── Vector DB ──────────────────────────────────────────────────
+qdrant:
+  url: "http://localhost:6333"        # QDRANT_URL
+  collection: "healthcare_diabetes"   # QDRANT_COLLECTION
+  api_key: ""                         # QDRANT_API_KEY
+
+# ── Embedding ──────────────────────────────────────────────────
+embedding:
+  model: "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+  # EMBEDDING_MODEL
+  vector_size: 384
+
+# ── Chunking ───────────────────────────────────────────────────
+chunking:
+  chunk_size: 400          # CHUNK_SIZE
+  chunk_overlap: 80       # CHUNK_OVERLAP
+  min_chunk_chars: 50      # bỏ qua chunk ngắn hơn ngưỡng này
+
+# ── LLM ────────────────────────────────────────────────────────
+llm:
+  model: "gemini-2.5-flash"          # LLM_MODEL
+  max_tokens: 2048                    # MAX_TOKENS (tăng từ 1024 để tránh cắt cụt câu trả lời so sánh dài)
+  temperature: 0.1                    # LLM_TEMPERATURE
+  timeout_s: 20                       # LLM_TIMEOUT
+  max_retries: 2                      # LLM_MAX_RETRIES
+  retry_base_delay: 1.0              # LLM_RETRY_BASE_DELAY
+  retry_max_delay: 8.0               # LLM_RETRY_MAX_DELAY
+  thinking_budget: 0                  # GEMINI_THINKING_BUDGET
+  api_base: "https://generativelanguage.googleapis.com/v1beta"
+  fallback_models: [gemini-2.0-flash-lite]
+
+# ── Retrieval ──────────────────────────────────────────────────
+retrieval:
+  top_k: 4                     # RAG_TOP_K
+  candidate_multiplier: 4      # candidate_k = top_k * multiplier
+  min_similarity_general: 0.24
+  min_similarity_specific: 0.28
+  rerank_semantic_weight: 0.85
+  rerank_priority_weight: 0.15
+
+# ── Cache ──────────────────────────────────────────────────────
+cache:
+  max_size: 500
+  ttl_s: 14400
+
+# ── User Knowledge ─────────────────────────────────────────────
+user_knowledge:
+  enabled: true
+  min_chars: 40
+  rule_top_k: 3
+  rule_min_similarity: 0.18
+
+# ── Data Paths ────────────────────────────────────────────────
+paths:
+  pdf_dir: "data/pdfs"
+  raw_dir: "data/raw"
+  logs_dir: "logs"

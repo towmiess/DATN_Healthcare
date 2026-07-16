@@ -1,0 +1,40 @@
+===METADATA===
+{"title": "Bún mắm ít mắm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Bún mắm ít mắm
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: bún mắm, hải sản, protein, ít muối
+
+Mô tả: Bún mắm miền Tây giảm mắm cá, tăng hải sản tươi và rau xanh.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 8.5
+Calo: 272 kcal
+Chất đạm (protein): 22.5 g
+Chất béo tổng: 7.5 g (bão hòa: 1.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 35.5 g (chất xơ: 4.5 g, đường: 3.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 115 mg | Natri: 412 mg
+Kali: 488 mg | Phốt pho: 225 mg | Magie: 42 mg
+Canxi: 72 mg | Sắt: 2.5 mg | Vitamin D: 1.5 mcg | Omega-3: 0.8 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Giảm mắm cá giảm natri; TĐ thai kỳ thận trọng
+Khẩu phần khuyến nghị: 1 tô nhỏ/bữa
+Chống chỉ định / thận trọng: TĐ thai kỳ và tim mạch kiểm soát muối
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: trung bình
+
+--- Nguyên liệu ---
+80g bún
+100g tôm
+50g cá
+50g mực
+Rau sống
+Nước lèo nhạt
+
+--- Cách chế biến ---
+1. Nấu nước lèo ít mắm
+2. Cho hải sản vào
+3. Chan vào bún
+4. Ăn kèm rau sống

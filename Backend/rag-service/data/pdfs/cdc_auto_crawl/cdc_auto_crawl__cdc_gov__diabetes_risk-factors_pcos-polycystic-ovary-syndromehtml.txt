@@ -1,0 +1,75 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/risk-factors/pcos-polycystic-ovary-syndrome.html",
+  "title": "Diabetes and Polycystic Ovary Syndrome (PCOS)",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:20.722635",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes and Polycystic Ovary Syndrome (PCOS)",
+  "extraction_method": "<main>",
+  "word_count": 448,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes and Polycystic Ovary Syndrome (PCOS)
+
+May 15, 2024
+
+Español
+
+Diabetes and Polycystic Ovary Syndrome (PCOS)
+
+Key points
+
+Polycystic ovary syndrome (PCOS) is a condition that can impact fertility, and increase the risk of other chronic health conditions.
+
+More than half of women with PCOS develop type 2 diabetes by age 40.
+
+Find out the signs of PCOS, and what to do if you have it.
+
+About PCOS and diabetes
+PCOS is a condition where cysts (small sacs of fluid) develop on the ovaries. PCOS can cause irregular menstruation (periods), and is a common cause of infertility, affecting as many as 5 million women. In addition to infertility, it is a lifelong condition that can have other impacts.
+Women with PCOS often have insulin resistance . This is when their bodies make insulin, a key hormone in balancing blood sugar, but they can't use it effectively. Insulin resistance increases the risk of type 2 diabetes.
+Women with PCOS can develop serious health problems, especially if they have overweight, including:
+
+Type 2 diabetes
+
+Gestational diabetes (diabetes when pregnant)
+
+Heart disease —women with PCOS have a higher risk, which increases with age
+
+High blood pressure
+
+High LDL ("bad") cholesterol and low HDL ("good") cholesterol—increase the risk for heart disease
+
+Sleep apnea —a disorder that causes breathing to stop during sleep
+
+Stroke
+
+PCOS is also linked to depression and anxiety, though the connection is not fully understood.
+
+Symptoms of PCOS
+The exact causes of PCOS aren't yet known. Imbalances in androgen levels (male reproductive hormones) may play an important part in PCOS. Family history of PCOS and overweight may also contribute.
+Someone with PCOS may have few symptoms, while others may have them all. It's common for women to not find out they have PCOS until they are trying to get pregnant. PCOS often develops as young as age 11 or 12, around first menstruation. Symptoms include:
+
+Acne.
+
+Hair growth.
+
+Darkening of the skin in body creases, known as acanthosis nigricans.
+
+Irregular periods.
+
+Weight gain.
+
+See your health care provider if you have these symptoms. Some women can have ovarian cysts without having PCOS.
+
+If you're told you have PCOS, ask about getting tested for type 2 diabetes and how to manage the condition if you have it. Making healthy changes such as losing weight if you have overweight and increasing physical activity can lower your risk for type 2 diabetes . These behavior changes can also help you better manage diabetes if you have it to prevent or delay other health problems.
+There are medicines that can help you ovulate, as well as reduce acne and hair growth. Make sure to talk with your health care provider about all your treatment options.
+
+May 15, 2024
+
+Syndicate

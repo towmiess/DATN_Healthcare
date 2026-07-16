@@ -1,0 +1,65 @@
+server:
+  port: ${SERVER_PORT:8080}
+spring:
+  application:
+    name: api-gateway
+
+  data:
+    redis:
+      host: "${SPRING_REDIS_HOST:redis}"
+      port: ${SPRING_REDIS_PORT:6379}
+      timeout: "${SPRING_REDIS_TIMEOUT:6s}"
+
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          secret-key: "${JWT_ACCESS_SECRET:S1TZnHDnQS6ojlPYPI+bjd6CXxYhBP/eYmubZsRSANY=}"
+
+  cloud:
+    gateway:
+      server:
+        webflux:
+          routes:
+            - id: users-service
+              uri: lb://users-service
+              predicates:
+                - Path=/api/users/**,/api/auth/**
+            - id: nutrition-service
+              uri: lb://nutrition-service
+              predicates:
+                - Path=/api/nutrition/**,/api/vision/**,/api/meal-history
+            - id: health-service
+              uri: "${HEALTH_SERVICE_URI:http://localhost:8100}"
+              predicates:
+                - Path=/api/health,/api/diagnosis/**,/api/reports/**,/api/ocr/**,/api/clinical/**
+            - id: rag-service
+              uri: "${RAG_SERVICE_URI:http://localhost:8000}"
+              predicates:
+                - Path=/api/rag/**
+              filters:
+                - StripPrefix=2
+              
+eureka:
+  client:
+    enabled: ${EUREKA_CLIENT_ENABLED:true}
+    service-url:
+      defaultZone: "${EUREKA_CLIENT_SERVICEURL_DEFAULTZONE:http://discovery-server:8761/eureka}"
+  instance:
+    prefer-ip-address: ${EUREKA_INSTANCE_PREFER_IP_ADDRESS:true}
+
+app:
+  cors:
+    allowed-origins: "${CORS_ALLOWED_ORIGINS:http://localhost:5173,https://healthcarediabetes.site}"
+  gateway:
+    internal-secret: "${GATEWAY_INTERNAL_SECRET:change-me-in-production}"
+
+management:
+  endpoint:
+    health:
+      probes:
+        enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: health,info,gateway

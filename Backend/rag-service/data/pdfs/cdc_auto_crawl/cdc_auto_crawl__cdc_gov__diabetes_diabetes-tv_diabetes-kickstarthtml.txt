@@ -1,0 +1,76 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/diabetes-tv/diabetes-kickstart.html",
+  "title": "Diabetes Kickstart Video Series",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:46.822866",
+  "source_name": "cdc.gov",
+  "document_title": "Diabetes Kickstart Video Series",
+  "extraction_method": "<main>",
+  "word_count": 247,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Diabetes Kickstart Video Series
+
+May 15, 2024
+
+Español
+
+Diabetes Kickstart Video Series
+
+At a glance
+
+Did you know that people who receive diabetes education have a lower hemoglobin A1C? They also have a lower risk of diabetes-related health complications and depression.
+
+Diabetes education saves you time, saves you money, and enhances your quality of life.
+
+These seven animated videos will show you the self-care steps you need to get started managing diabetes. Watch them in any order—they all include tips and strategies you can use right now.
+
+Videos
+Healthy Eating
+
+What should you eat to best manage your diabetes? A meal plan will help keep things simple and tasty!
+
+Low Resolution Video
+
+Being Active
+
+Being active is one of the most powerful tools for managing diabetes. Here are some ideas to get started (and keep going!).
+
+Monitoring
+
+Monitoring helps you figure out how well your treatment plan is working and if changes could help.
+
+Taking Medicines
+
+Depending on your unique needs, you may take medicines to lower your risk for health problems related to diabetes.
+
+Lowering Risk
+
+Find out simple things you can do to lower your risk for diabetes health problems.
+
+Managing Stress
+
+With diabetes, there are bound to be highs and lows. You can find help from your family, friends, and health care team.
+
+Solving Problems
+
+Try these 3 steps to start solving problems that affect your diabetes care.
+
+Diabetes Kickstart Handouts
+
+Get Diabetes Education
+
+Healthy Eating
+
+Get Moving to Manage Diabetes
+
+Living With Diabetes
+
+May 15, 2024
+
+Syndicate

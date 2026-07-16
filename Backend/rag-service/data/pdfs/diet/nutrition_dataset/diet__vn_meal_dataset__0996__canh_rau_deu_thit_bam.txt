@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Canh rau dệu thịt bằm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh rau dệu thịt bằm
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: rau dệu, thịt bằm, ít calo, truyền thống
+
+Mô tả: Rau dệu rau dại truyền thống, ít calo, kết hợp thịt bằm tạo canh thanh đạm.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.2
+Calo: 98 kcal
+Chất đạm (protein): 12.5 g
+Chất béo tổng: 3.0 g (bão hòa: 0.8 g, chuyển hóa: 0.1 g)
+Carbohydrate tổng: 3.5 g (chất xơ: 2.0 g, đường: 1.0 g, đường bổ sung: 0.1 g)
+Cholesterol: 45 mg | Natri: 328 mg
+Kali: 345 mg | Phốt pho: 148 mg | Magie: 28 mg
+Canxi: 52 mg | Sắt: 1.5 mg | Vitamin D: 0.2 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít calo phù hợp TĐ kiểm soát cân nặng
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+60g thịt bằm
+200g rau dệu
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Phi tỏi xào thịt
+2. Đổ nước sôi
+3. Cho rau dệu vào nấu 3 phút

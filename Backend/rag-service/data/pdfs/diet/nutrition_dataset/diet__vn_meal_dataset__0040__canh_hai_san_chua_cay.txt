@@ -1,0 +1,40 @@
+===METADATA===
+{"title": "Canh hải sản chua cay", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh hải sản chua cay
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: hải sản, tôm mực, chua cay, omega-3
+
+Mô tả: Hải sản giàu omega-3 và kẽm, canh chua cay kích thích tiêu hóa.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 3.2
+Calo: 165 kcal
+Chất đạm (protein): 22.5 g
+Chất béo tổng: 4.8 g (bão hòa: 1.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 8.5 g (chất xơ: 2.5 g, đường: 4.2 g, đường bổ sung: 0.0 g)
+Cholesterol: 125 mg | Natri: 435 mg
+Kali: 525 mg | Phốt pho: 225 mg | Magie: 42 mg
+Canxi: 75 mg | Sắt: 2.5 mg | Vitamin D: 2.5 mcg | Omega-3: 0.8 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Kẽm từ hải sản cải thiện nhạy cảm insulin
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Gút và dị ứng hải sản thận trọng
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: cao
+
+--- Nguyên liệu ---
+100g tôm
+100g mực
+200g bạc hà
+50g me
+Ớt
+Sả
+
+--- Cách chế biến ---
+1. Phi sả ớt thơm
+2. Nấu nước me sôi
+3. Cho hải sản vào nấu 8 phút
+4. Thêm bạc hà nêm gia vị

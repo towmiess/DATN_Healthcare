@@ -1,0 +1,35 @@
+===METADATA===
+{"title": "Mít non luộc chấm mắm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Mít non luộc chấm mắm
+Loại món: Bữa phụ/Snack | Ẩm thực: Vietnamese
+Từ khóa: mít non, luộc, ít ngọt, chất xơ
+
+Mô tả: Mít non khác mít chín, ít đường hơn nhiều, chất xơ cao, dùng như rau củ.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.0
+Calo: 58 kcal
+Chất đạm (protein): 2.5 g
+Chất béo tổng: 0.3 g (bão hòa: 0.0 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 12.5 g (chất xơ: 3.5 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 0 mg | Natri: 85 mg
+Kali: 285 mg | Phốt pho: 42 mg | Magie: 22 mg
+Canxi: 18 mg | Sắt: 0.5 mg | Vitamin D: 0.0 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Mít non khác mít chín - ít đường hơn nhiều, an toàn cho TĐ
+Khẩu phần khuyến nghị: 100g/bữa phụ
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa phụ
+Độ khó: trung bình | Chi phí: trung bình
+
+--- Nguyên liệu ---
+150g mít non
+Mắm nhạt
+
+--- Cách chế biến ---
+1. Mít non gọt vỏ cắt miếng
+2. Luộc 20 phút
+3. Chấm mắm nhạt

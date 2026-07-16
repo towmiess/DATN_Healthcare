@@ -1,0 +1,89 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/healthy-eating/carb-counting-manage-blood-sugar.html",
+  "title": "Carb Counting",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:33.500454",
+  "source_name": "cdc.gov",
+  "document_title": "Carb Counting",
+  "extraction_method": "<main>",
+  "word_count": 537,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Carb Counting
+
+May 15, 2024
+
+Español
+
+Carb Counting
+
+What to know
+
+Many people with diabetes count carbohydrates, or carbs, to make managing blood sugar easier. If you take mealtime insulin, you'll count carbs to match your insulin dose to the carbs in your foods and drinks.
+
+What are the different kinds of carbs?
+There are 3 types of carbs.
+Sugars include the natural sugar in fruit and milk or the added sugar in soda and many other packaged foods.
+Starches include:
+
+Wheat, oats, and other grains
+Starchy vegetables such as corn and potatoes
+Dried beans, lentils, and peas
+
+Fiber is the part of plant foods that isn't digested but helps you stay healthy.
+Sugars and starches raise your blood sugar, but fiber doesn't.
+
+How are carbs measured?
+Carbs are measured in grams. On packaged foods, you can find total carb grams on the Nutrition Facts label . You can also check this list or use an app to find grams of carbs in foods and drinks.
+For diabetes meal planning , 1 carb serving is about 15 grams of carbs. This isn't always the same as what you think of as a serving of food. For example, most people would count a small baked potato as 1 serving. However, at about 30 grams of carbs, it counts as 2 carb servings.
+Try to eat about the same amount of carbs at each meal to keep your blood sugar levels steady all day. This isn't necessary if you use an insulin pump or give yourself multiple daily injections. You'll take a fast-acting or short-acting insulin at mealtimes to match the amount of carbs you eat.
+Keep Reading:
+Carb Choices Sample menu
+This menu has about 1,800 calories, 200 grams of carbs, and about 13 carb servings.
+Breakfast
+
+&frac12; cup rolled oats (28 g)
+1 cup low-fat milk (13 g)
+⅔ medium banana (20 g)
+&frac14; cup chopped walnuts (4 g)
+Total carbs: 65 grams, about 4 carb servings
+
+Lunch
+
+2 slices whole wheat bread (24 g)
+4 oz low-sodium turkey meat (1 g)
+1 slice low-fat Swiss cheese (1 g)
+&frac12; large tomato (3 g)
+1 TBS yellow mustard (1 g)
+&frac14; cup shredded lettuce (0 g)
+8 baby carrots (7 g)
+6 oz plain fat-free Greek yogurt (7 g)
+&frac34; cup blueberries (15 g)
+Total carbs: 59 grams, about 4 carb servings
+
+Dinner
+
+6 ounces baked chicken breast (0 g)
+1 cup brown rice (45 g)
+1 cup steamed broccoli (12 g)
+2 tbsp margarine (0 g)
+Total carbs: 57 grams, about 4 carb servings
+
+Snack
+
+1 low-fat string cheese stick (1 g)
+2 tangerines (18 g)
+Total carbs: 19 grams, about 1 carb serving
+
+How many carbs should I eat?
+There's no "one size fits all" answer—everyone is different because everyone's body is different. The amount you can eat and stay in your target blood sugar range depends on your age, weight, activity level, and more.
+Ask your doctor to refer you to diabetes self-management education and support (DSMES). There you'll work with a diabetes educator to create a healthy meal plan just for you. You can also visit the Find a Diabetes Education Program in Your Area locator for DSMES services near you.
+
+May 14, 2024
+
+Syndicate

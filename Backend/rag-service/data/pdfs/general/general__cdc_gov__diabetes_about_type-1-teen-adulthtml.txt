@@ -1,0 +1,114 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/about/type-1-teen-adult.html",
+  "title": "Make the Leap From Type 1 Teen to Adult - CDC",
+  "category": "general",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-07-03T10:06:03.477810",
+  "source_name": "cdc.gov",
+  "document_title": "Make the Leap From Type 1 Teen to Adult - CDC",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 708,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Make the Leap From Type 1 Teen to Adult - CDC
+
+May 15, 2024
+
+Español
+
+How to Make the Leap From Type 1 Teen to Adult
+
+Key points
+
+Teens face lots of new challenges with less help from parents when they move away from home.
+
+This has even more impact for teens with diabetes.
+
+As they transition from pediatric to adult care, the risk of not meeting self-care goals more than doubles.
+
+Impacts
+It's only natural that teens on their way to becoming adults want more independence and control. But more control over their lives can often mean less control of their diabetes. No curfew, no comments on what they're eating, no one else setting their schedule.
+Diabetes care often suffers when teens and young adults begin to make decisions on their own:
+
+Managing day to day, from eating well to taking insulin
+
+Finding health care providers
+
+Scheduling and keeping appointments
+
+Having supplies on hand
+
+Young people need to know how to deal with the practical side of diabetes. This includes how to fill a prescription, order supplies, contact their doctors, make health care appointments, and handle sick days . And they'll also have the everyday problems that come with life on their own:
+
+Limited time
+
+Limited money
+
+Irregular schedules
+
+Food choices
+
+Concerns about low blood sugar (hypoglycemia)
+
+Less support
+
+They may also be tired of the daily work of having diabetes and decide to ignore it (also known as diabetes distress ). This can be very dangerous, especially when parents aren't there to notice.
+
+Gaps in care
+Teens will also stop seeing a pediatrician and start seeing an adult health care provider. But they usually don't have a clear road map for how to do so. Several changes often take place at the same time, like getting new doctors and moving away from home. When this happens, young people are more likely to miss appointments or drop out of care completely.
+Other barriers can make it harder for teens to switch to adult health care:
+
+Being unhappy about leaving their pediatrician
+
+Getting a referral and contact information for a new doctor
+
+Trouble getting an appointment
+
+Competing life priorities
+
+Having insurance problems
+
+But good care during this time is very important. Young people with diabetes have a much higher risk of early health problems, even early death, than those without diabetes. Major causes include hypoglycemia (low blood sugar) and diabetic ketoacidosis (DKA).
+Staying close to recommended blood sugar goals helps them avoid these health problems and others. But as teens with diabetes change from pediatric to adult care, the risk of not meeting those goals more than doubles.
+
+Best practices
+Help teens get prepared to manage their diabetes care successfully before they're out on their own. Parents, teen, and pediatrician can work with new doctors to create a plan to address needs over the next few years. Parents can share practical tips, such as how to fill prescriptions and make doctor's appointments. They can also make sure their teen or young adult has this basic checklist before they leave home:
+
+Keep supplies on hand to manage low blood sugar (and healthy snacks to prevent high blood sugar).
+
+Keep supplies organized and easy to get to.
+
+Keep contact information for your health care team and prescription information handy.
+
+Tell people close to you that you have diabetes and how to help you if needed.
+
+Have a plan for sick days.
+
+Ask for help if you need it.
+
+Stay in touch with your health care team and let them know if you have questions or concerns.
+
+Keep Reading:
+Your Diabetes Care Schedule
+
+How you can help
+Family support is the strongest predictor that teens and young adults will stick with their diabetes treatment plan. Parents can serve as the "home team" to help them stay on track as they become more self-reliant by:
+
+Respecting their new independence but staying connected. Ask how you can help.
+
+Helping your teen understand how their insurance plan works.
+
+Reminding teens about short-term benefits of managing their diabetes, not just long-term health problems.
+
+Asking about issues that may prevent good self-care, such as making doctor's appointments.
+
+Encouraging your teen to ask their doctor for a referral to diabetes self-management education and support .
+
+Diabetes education is strongly linked to better blood sugar management!
+
+May 14, 2024

@@ -1,0 +1,47 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/cac-nhom-thuoc-dieu-tri-dai-thao-duong-vi",
+  "title": "Các nhóm thuốc điều trị ĐTĐ",
+  "category": "medication",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:15:05.877096",
+  "source_name": "vinmec.com",
+  "document_title": "Các nhóm thuốc điều trị ĐTĐ",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 1150,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Các nhóm thuốc điều trị ĐTĐ
+
+-->
+
+Thuốc
+Sử dụng thuốc an toàn
+
+Các nhóm thuốc điều trị đái tháo đường
+
+Cố vấn chuyên môn
+
+Thạc sĩ,
+
+Bùi Minh Đức
+
+☰
+Mục lục
+
+Bài viết bởi Thạc sĩ, Bác sĩ Bùi Minh Đức - Trưởng Đơn nguyên Nội tiết - Khoa Nội tổng hợp - Bệnh viện Đa khoa Quốc tế Vinmec Times City
+
+Có nhiều loại thuốc điều trị đái tháo đường với những tác dụng khác nhau tùy vào mục tiêu và chế độ điều trị của bệnh nhân. Nếu bệnh nhân bị đái tháo đường tuýp 2, các nhóm thuốc điều trị thường là thuốc uống dạng viên thì bệnh nhân đái tháo đường tuýp 1 chủ yếu dùng Insulin để điều trị.
+1. Các thuốc sử dụng trong điều trị bệnh đái tháo đường
+Bệnh đái tháo đường là bệnh lý phổ biến hiện nay. Có 2 loại bệnh đái tháo đường dễ gặp nhất đó là: Đái tháo đường type 1 và type 2. Ngoài ra, trong phân loại đái tháo đường còn có đái tháo đường thai kỳ và các thể đái đường khác. Đái đường type 1 là bệnh tự miễn , trong thể bệnh này cơ thể sinh ra kháng thể tấn công chính các tế bào beta của đảo tụy - đây là những tế bào tiết ra insulin, hormone có tác dụng làm giảm đường huyết. Bệnh nhân bị đái tháo đường type 1 không còn khả năng tiết insulin, nếu muốn duy trì sự sống và kiểm soát được đường huyết thì bệnh nhân phải được tiêm insulin. Mục đích của việc này là để thay thế cho insulin của bệnh nhân. Đái đường type 2 có cơ chế bệnh sinh chính là kháng insulin và giảm tiết insulin từ tế bào tụy. Theo đó, tụy của bệnh nhân bị đái tháo đường type 2 vẫn có thể tiết ra insulin nhưng việc sử dụng insulin không còn được tốt. Có rất nhiều nhóm thuốc được sử dụng để điều trị và chúng có nhiều cơ chế tác dụng khác nhau.
+
+2. Thuốc điều trị bệnh đái tháo đường type 1
+2.1. Insulin
+Insulin là loại thuốc phổ biến nhất được sử dụng trong điều trị bệnh tiểu đường type 1 . Khi mắc phải căn bệnh này thì cơ thể bệnh nhân không thể tự sản xuất insulin. Mục tiêu của điều trị của thể bệnh này là thay thế insulin mà cơ thể bệnh nhân không thể tạo ra. Bên cạnh đó, Insulin cũng được sử dụng trong điều trị bệnh đái đường type 2 ở một số trường hợp. Chúng được sử dụng bằng đường tiêm và có nhiều loại khác nhau. Lựa chọn insulin tùy thuộc vào mức độ suy giảm insulin và mức độ rối loạn đường huyết của bệnh nhân. Các lựa chọn bao gồm: Insulin tác dụng ngắn: Insulin thông thường (Humulin và Novolin) Insulin tác dụng nhanh: I nsulin aspart (NovoLog, FlexPen, Fiasp) ; Insulin glulisine (Apidra), Lispro insulin (Humalog) Insulin tác dụng trung gian: I nsulin isophane (Humulin N, Novolin N) Insulin tác dụng kéo dài: I nsulin degludec (Tresiba), Insulin detemir (Levemir), Insulin glargine (Lantus), Insulin glargine (Toujeo) Insulin kết hợp: NovoLog Mix 70/30 (insulin aspart protamine-insulin aspart), Humalog Mix 75/25 (insulin lispro protamine-insulin lispro), Humalog Mix 50/50 (insulin lispro protamine-insulin lispro), Humulin 70/30 (insulin người NPH-insulin thường của người), Novolin 70/30 (insulin người NPH-insulin người thông thường), Ryzodeg (insulin degludec-insulin aspart) Insulin là loại thuốc dùng để kiểm soát đường huyết có tác dụng mạnh mẽ nhất. Theo đó, khi tiêm insulin, nhân viên y tế cần lưu ý đặc điểm tác dụng của từng loại để có phác đồ điều trị phù hợp nhất cho từng bệnh nhân. Insulin trước hết được sử dụng cho điều trị đái đường type 1 ( Chỉ định bắt buộc). Ngoài ra, insulin được chỉ định để kiểm soát đường huyết cho những trường hợp có biến chứng cấp tính của đái tháo đường, bệnh nhân đái đường cần phẫu thuật hoặc có các bệnh cấp tính. Bên cạnh đó, trong những trường hợp đái đường type 2 không cân bằng được đường huyết hay khi có suy gan, thận,... không dung được thuốc hạ đường huyết dạng uống cũng có thể được bác sĩ chỉ định sử dụng insulin. Trong quá trình sử dụng, người dùng cần hết sức thận trọng, bởi nếu dùng quá liều thì insulin có thể gây hạ đường huyết. Bên cạnh đó, Insulin cần được bảo quản ở nơi mát, nhiệt độ thích hợp từ 4-8 độ C. Khi tiêm insulin cần luân chuyển vị trí tiêm để tránh tác dụng phụ không mong muốn là loạn dưỡng mỡ tại chỗ tiêm insulin. 2.2. Thuốc amylinomimetic Pramlintide (SymlinPen 120, SymlinPen 60) là một chất tương tự của amylin, một hormone peptide nhỏ được các tế bào β của tuyến tụy tiết vào máu cùng với insulin sau bữa ăn. Amylin hỗ trợ insulin trong việc kiểm soát đường huyết sau ăn. Tương tự như insulin, amylin hoàn toàn không có ở những người bị đái tháo đường type 1. Loại thuốc này được sử dụng trước bữa ăn, chúng hoạt động bằng cách trì hoãn thời gian rỗng của dạ dày. Bên cạnh đó, nó cũng làm giảm bài tiết glucagon sau bữa ăn, giúp làm giảm lượng đường trong máu của bệnh nhân. Ngoài ra, thuốc Pramlintide cũng có tác dụng làm giảm sự thèm ăn thông qua cơ chế trung tâm.
+
+3. Thuốc điều trị bệnh đái tháo đường type 2
+Bệnh nhân mắc bệnh đái tháo đường type 2 thì cơ thể vẫn tạo ra insulin nhưng không còn sử dụng nó tốt nữa. Cơ thể người bệnh không thể tạo đủ insulin để giữ cho lượng đường trong máu ở mức bình thường. Mục tiêu của việc điều trị là giúp cơ thể sử dụng insulin tốt hơn và giúp cân bằng lượng đường trong máu. Hầu hết các loại thuốc điều trị bệnh đái tháo đường type 2 là thuốc dạng viên uống như Glumeron 30 MR , Diamicron MR 30mg, Diamicron MR 60mg, Gliclada, Navadiab 80Mg.... Tuy nhiên, một số ít có dạng tiêm. Một số người mắc đái đường type 2 cũng có thể cần dùng insulin để đảm bảo hiệu quả điều trị cao nhất, tránh các biến chứng bệnh tiểu đường nguy hiểm xảy ra. Trên đây là tổng hợp các thuốc điều trị tiểu đường thường dùng. Bệnh nhân cần chú ý thời gian dùng thuốc theo đúng hướng dẫn của bác sĩ, nhất là những thời điểm liên quan bữa ăn để đảm bảo tác dụng tối đa. Kết hợp thuốc điều trị đái tháo đường và có một chế độ ăn uống lành mạnh , tập thể dục điều độ sẽ giúp bạn kiểm soát đường huyết hiệu quả.

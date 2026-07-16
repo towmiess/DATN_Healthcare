@@ -1,0 +1,63 @@
+===METADATA===
+{
+  "url": "https://www.diabetes.org/diabetes/complications/dka-ketoacidosis-ketones",
+  "title": "DKA - ADA",
+  "category": "emergency",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:10:47.259439",
+  "source_name": "diabetes.org",
+  "document_title": "DKA - ADA",
+  "fetch_method": "playwright_direct",
+  "extraction_method": "<main>",
+  "word_count": 543,
+  "verified_by_doctor": false
+}
+===CONTENT===
+DKA - ADA
+
+Life with Diabetes
+
+DKA: Signs, Symptoms, and Treatment
+
+Diabetic ketoacidosis (DKA) is a serious and potentially life-threatening complication of diabetes that can develop quickly. Learn what to do if you are in DKA and how to prevent it in the future.
+
+Image
+
+What is DKA? DKA occurs when ketones in your blood make it too acidic. Ketones develop when your body doesn’t have enough insulin to use blood glucose for energy. Instead, it breaks down fat for energy, producing ketones. As ketones build up in your blood, it becomes dangerously acidic, which can affect how your body functions, make you sick, and become life-threatening if it’s not treated. DKA can affect all people living with diabetes—especially during illness, infection, missed insulin doses, or when taking certain medications. Understanding the warning signs and acting quickly can help protect your health. Ketones vs. DKA: Ketones: An early warning sign that your body is breaking down fat for energy—this is most likely to happen if you’re taking insulin, an SGLT2 inhibitor, or certain other diabetes medications DKA: A life-threatening condition that occurs when ketones build up to dangerous levels. What You Need to Know About DKA DKA is a medical emergency that requires immediate care DKA can develop quickly, often during illness or missed insulin Elevated ketone levels are an early warning sign of DKA Checking ketones can help you act before DKA develops DKA is often preventable with preparation and education If you are at risk for DKA, always keep a blood ketone meter or urine ketone strips on hand and check that your supplies are not expired. You can check for ketones using a blood ketone meter (preferred) or urine ketone strips. If your blood ketone level is 1.6 mmol/L or higher, seek emergency medical care immediately Symptoms of DKA DKA symptoms may include: Nausea and vomiting Abdominal pain Rapid or heavy breathing Confusion or difficulty concentrating Extreme fatigue Fruity odor smell Blood glucose (blood sugar) higher than 200 mg/dL (or a level recommended by your doctor) Thirst or very dry mouth Flushed skin Symptoms can worsen quickly, so early recognition is critical. What to Do If You Have DKA DKA is a medical emergency. Get medical help right away if you have symptoms of DKA. Treatment typically requires: IV fluids Insulin therapy Careful monitoring in a medical setting Preventing DKA You can reduce your risk by: Checking ketones when your blood glucose is high or when you’re sick or not feeling well Following your insulin plan closely Having a sick day or ketone management plan in place Staying hydrated Knowing when to call your care team Managing ketones early is the most effective way to prevent DKA. Learn how to check and manage ketones .
+
+Additional Resources
+
+Find a Program
+
+Image
+
+Get Support
+
+Find a diabetes self-management education and support (DSMES) program near you.
+
+Find a Program
+
+Learn More
+
+Image
+
+Blood Glucose Monitoring
+
+Learn more about blood glucose (blood sugar) monitoring.
+
+Learn More
+
+Access Tools
+
+Image
+
+Managing Your Diabetes
+
+Explore tools to help you manage diabetes every day.
+
+Access Tools
+
+Give Today and Change lives!
+With your support, the American Diabetes Association® can continue our lifesaving work to make breakthroughs in research and provide people with the resources they need to fight diabetes.

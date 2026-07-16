@@ -1,0 +1,25 @@
+===METADATA===
+{"title": "Bảng dinh dưỡng thực phẩm (lô 0-20)", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Bảng thành phần dinh dưỡng cơ bản (trên 100g thực phẩm):
+
+- Ba tê lợn: 326 kcal/100g | đạm 10.8g | béo 24.6g | carb 15.4g
+- Bánh phồng tôm, rán: 676 kcal/100g | đạm 1.6g | béo 59.2g | carb 34.1g
+- Bánh phồng tôm, sống: 381 kcal/100g | đạm 3.4g | béo 7.4g | carb 75.3g
+- Bầu dục bò, luộc: 91 kcal/100g | đạm 16.8g | béo 2.4g | carb 0.4g
+- Bầu dục bò, tươi: 67 kcal/100g | đạm 12.5g | béo 1.8g | carb 0.3g
+- Bầu dục lợn, luộc: 110 kcal/100g | đạm 17.5g | béo 4.1g | carb 0.4g
+- Bầu dục lợn, tươi: 81 kcal/100g | đạm 13g | béo 3.1g | carb 0.3g
+- Bì lợn, tươi: 118 kcal/100g | đạm 23.3g | béo 2.7g | carb 0g
+- Bơ: 756 kcal/100g | đạm 0.5g | béo 83.5g | carb 0.5g
+- Bơ thực vật: 729 kcal/100g | đạm 0.5g | béo 80.7g | carb 0.1g
+- Bột cá, sống: 323 kcal/100g | đạm 71.2g | béo 2.9g | carb 3g
+- Bột cóc: 342 kcal/100g | đạm 55.4g | béo 13.4g | carb 0g
+- Bột trứng: 563 kcal/100g | đạm 44g | béo 42.2g | carb 1.8g
+- Bưởi, tươi: 33 kcal/100g | đạm 0.2g | béo 0g | carb 8g
+- Cá basa, phi lê: 67 kcal/100g | đạm 9.7g | béo 0.8g | carb 5.3g
+- Cá basa, tươi: 119 kcal/100g | đạm 15.2g | béo 5.9g | carb 0g
+- Cá bống, tươi: 70 kcal/100g | đạm 15.8g | béo 0.8g | carb 0g
+- Cá chày, tươi: 113 kcal/100g | đạm 20.1g | béo 3.6g | carb 0g
+- Cá chép, tươi: 96 kcal/100g | đạm 16g | béo 3.6g | carb 0g
+- Cá chim: 143 kcal/100g | đạm 17.7g | béo 6.4g | carb 3.6g

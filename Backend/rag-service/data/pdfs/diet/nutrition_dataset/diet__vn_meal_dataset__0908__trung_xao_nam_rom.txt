@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Trứng xào nấm rơm", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Trứng xào nấm rơm
+Loại món: Món trứng | Ẩm thực: Vietnamese
+Từ khóa: trứng, nấm rơm, beta-glucan
+
+Mô tả: Beta-glucan từ nấm rơm kết hợp protein trứng, món xào nhanh đơn giản.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.8
+Calo: 158 kcal
+Chất đạm (protein): 11.5 g
+Chất béo tổng: 9.5 g (bão hòa: 2.6 g, chuyển hóa: 0.2 g)
+Carbohydrate tổng: 4.5 g (chất xơ: 1.5 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 185 mg | Natri: 295 mg
+Kali: 325 mg | Phốt pho: 138 mg | Magie: 28 mg
+Canxi: 42 mg | Sắt: 1.2 mg | Vitamin D: 0.8 mcg | Omega-3: 0.1 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh
+Ghi chú phù hợp: Cholesterol trứng cần kiểm soát tim mạch đột quỵ
+Khẩu phần khuyến nghị: 1 phần/bữa
+Chống chỉ định / thận trọng: Tim mạch và đột quỵ hạn chế
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+2 trứng
+150g nấm rơm
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Phi tỏi xào nấm
+2. Đánh trứng đổ vào
+3. Đảo đều đến chín

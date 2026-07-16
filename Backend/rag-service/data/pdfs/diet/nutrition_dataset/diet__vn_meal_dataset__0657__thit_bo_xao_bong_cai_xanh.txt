@@ -1,0 +1,36 @@
+===METADATA===
+{"title": "Thịt bò xào bông cải xanh", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Thịt bò xào bông cải xanh
+Loại món: Thịt nạc | Ẩm thực: Vietnamese
+Từ khóa: thịt bò, bông cải xanh, sulforaphane, sắt
+
+Mô tả: Sulforaphane từ bông cải xanh bảo vệ tế bào beta tụy, kết hợp sắt từ thịt bò.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 1.8
+Calo: 185 kcal
+Chất đạm (protein): 20.5 g
+Chất béo tổng: 9.5 g (bão hòa: 3.2 g, chuyển hóa: 0.2 g)
+Carbohydrate tổng: 5.5 g (chất xơ: 3.5 g, đường: 1.5 g, đường bổ sung: 0.2 g)
+Cholesterol: 52 mg | Natri: 358 mg
+Kali: 468 mg | Phốt pho: 205 mg | Magie: 38 mg
+Canxi: 42 mg | Sắt: 2.8 mg | Vitamin D: 0.3 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Nguy cơ đột quỵ
+Ghi chú phù hợp: Sulforaphane bảo vệ tế bào tụy; tim mạch kiểm soát béo bão hòa
+Khẩu phần khuyến nghị: 1 phần/bữa
+Chống chỉ định / thận trọng: Tim mạch hạn chế
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: trung bình
+
+--- Nguyên liệu ---
+150g thịt bò
+200g bông cải xanh
+2 tép tỏi
+
+--- Cách chế biến ---
+1. Thịt bò thái mỏng ướp gia vị
+2. Phi tỏi xào thịt nhanh
+3. Cho bông cải vào xào 3 phút

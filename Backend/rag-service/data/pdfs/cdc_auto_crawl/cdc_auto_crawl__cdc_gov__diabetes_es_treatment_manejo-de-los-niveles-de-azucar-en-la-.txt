@@ -1,0 +1,121 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/es/treatment/manejo-de-los-niveles-de-azucar-en-la-sangre.html",
+  "title": "Manejo de los niveles de azúcar en la sangre",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:26.591719",
+  "source_name": "cdc.gov",
+  "document_title": "Manejo de los niveles de azúcar en la sangre",
+  "extraction_method": "<main>",
+  "word_count": 864,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Manejo de los niveles de azúcar en la sangre
+
+el 21 mayo del 2024
+
+English (US)
+
+Manejo de los niveles de azúcar en la sangre
+
+Puntos clave
+
+Mantenga sus niveles de az&uacute;car en la sangre dentro de sus valores deseados lo m&aacute;s posible.
+
+Esto lo ayudar&aacute; a prevenir o retrasar problemas graves de salud.
+
+Hay medidas espec&iacute;ficas que puede tomar para hacer que los niveles de az&uacute;car en la sangre sean m&aacute;s f&aacute;ciles de manejar.
+
+Revisi&oacute;n de los niveles de az&uacute;car en la sangre
+&iquest;C&oacute;mo reviso mis niveles de az&uacute;car en la sangre?
+Use un medidor de az&uacute;car en la sangre (tambi&eacute;n llamado gluc&oacute;metro) o un monitor continuo de glucosa (CGM, por sus siglas en ingl&eacute;s) para revisar sus niveles de az&uacute;car en la sangre .
+Un medidor de az&uacute;car en la sangre mide la cantidad de az&uacute;car en una muestra peque&ntilde;a de sangre, generalmente de la punta de un dedo. Un monitor continuo de glucosa usa un sensor que se coloca debajo de la piel para medir sus niveles de az&uacute;car en la sangre cada tantos minutos.
+Si usa un monitor continuo de glucosa, a&uacute;n as&iacute; debe revisar sus niveles diariamente con un medidor de az&uacute;car en la sangre. Esto ayudar&aacute; a garantizar que los valores de su monitor sean precisos.
+&iquest;Cu&aacute;ndo debo revisar mis niveles de az&uacute;car en la sangre?
+La frecuencia con la que debe revisar sus niveles de az&uacute;car en la sangre depende del tipo de diabetes que tenga y si toma medicamentos para esta enfermedad.
+Los momentos t&iacute;picos para revisar sus niveles de az&uacute;car en la sangre son:
+
+Cuando reci&eacute;n se despierta, antes de comer o beber algo.
+
+Antes de una comida.
+
+Dos horas despu&eacute;s de una comida.
+
+A la hora de acostarse.
+
+Si tiene diabetes tipo 1 , o tiene diabetes tipo 2 y se administra insulina, o tiene niveles bajos de az&uacute;car en la sangre con frecuencia, su m&eacute;dico podr&iacute;a pedirle que se revise los niveles m&aacute;s frecuentemente, como antes y despu&eacute;s de hacer actividad f&iacute;sica.
+
+Sus valores deseados de az&uacute;car en la sangre
+El valor deseado de az&uacute;car en la sangre es el nivel que usted trata de alcanzar tanto como sea posible. Estos son valores t&iacute;picos:
+
+Antes de una comida: de 80 a 130 mg/dL
+
+Dos horas despu&eacute;s de comenzar a comer: menos de 180 mg/dL
+
+Sus valores deseados de az&uacute;car en la sangre podr&iacute;an ser distintos con base en su edad, problemas de salud adicionales que tenga y otros factores. Hable con su equipo de cuidados de la salud sobre cu&aacute;les valores son mejores para usted.
+&iquest;Qu&eacute; causa niveles bajos de az&uacute;car en la sangre?
+Los niveles de az&uacute;car en la sangre de menos de 70 mg/dL se consideran bajos. Los niveles bajos de az&uacute;car en la sangre (tambi&eacute;n llamados hipoglucemia) tienen muchas causas, entre ellas:
+
+Saltarse una comida
+
+Administrarse demasiada insulina
+
+Tomar otros medicamentos para la diabetes
+
+Hacer m&aacute;s actividad f&iacute;sica que la habitual
+
+Consumir alcohol
+
+Seguir leyendo:
+Acerca de los niveles bajos de az&uacute;car en la sangre (hipoglucemia) &iquest;Qu&eacute; causa niveles altos de az&uacute;car en la sangre?
+Muchas cosas pueden causar niveles altos de az&uacute;car en la sangre (hiperglucemia), entre ellas:
+
+Estar enfermo
+
+Estar estresado
+
+Comer m&aacute;s de lo habitual
+
+No administrarse suficiente insulina
+
+Si est&aacute; enfermo y sus niveles de az&uacute;car en la sangre son de 240mg/dL o m&aacute;s, use una prueba de cetonas (que se compra sin receta) para detectar las cetonas. Llame a su m&eacute;dico si su nivel de cetonas es alto. Un nivel de cetonas alto puede ser un signo temprano de cetoacidosis diab&eacute;tica (DKA, por sus siglas en ingl&eacute;s). La cetoacidosis diab&eacute;tica es una emergencia m&eacute;dica y debe tratarse de inmediato.
+Seguir leyendo:
+Acerca de la cetoacidosis diab&eacute;tica
+
+Formas de manejar sus niveles de az&uacute;car en la sangre
+Tener una alimentaci&oacute;n saludable , mantener un peso saludable y hacer actividad f&iacute;sica de forma habitual pueden ayudar. Otros consejos incluyen:
+
+Lleve un registro de sus niveles de az&uacute;car en la sangre para ver qu&eacute; hace que suban o bajen.
+
+Coma en horarios regulares y no se salte comidas.
+
+Escoja alimentos bajos en calor&iacute;as, grasas saturadas, az&uacute;car y sal.
+
+Lleve un registro de sus alimentos, bebidas y actividad f&iacute;sica.
+
+Beba agua en lugar de jugo o gaseosa.
+
+Limite las bebidas alcoh&oacute;licas (2 bebidas alcoh&oacute;licas o menos por d&iacute;a para los hombres y 1 o menos por d&iacute;a para las mujeres).
+
+Para un refrigerio dulce, elija fruta.
+
+Controle las porciones de alimentos (por ejemplo, use el m&eacute;todo del plato ).
+
+&iquest;C&oacute;mo afectan los carbohidratos los niveles de az&uacute;car en la sangre?
+Los carbohidratos en los alimentos hacen que sus niveles de az&uacute;car en la sangre suban m&aacute;s despu&eacute;s de comerlos en comparaci&oacute;n con cuando come prote&iacute;na o grasas. Puede comer carbohidratos si tiene diabetes. La cantidad que puede comer depende de su edad, peso, nivel de actividad f&iacute;sica y otros factores.
+Contar los carbohidratos en los alimentos y las bebidas es una herramienta importante para manejar los niveles de az&uacute;car en la sangre. Aseg&uacute;rese de hablar con su equipo de cuidados de la salud sobre las mejores metas de carbohidratos para usted.
+
+el 21 mayo del 2024
+
+Fuentes
+Imprimir
+Compartir
+
+Syndicate
+
+Fuente del contenido:
+Centro Nacional para la Prevenci&oacute;n de Enfermedades Cr&oacute;nicas y Promoci&oacute;n de la Salud ; Diabetes

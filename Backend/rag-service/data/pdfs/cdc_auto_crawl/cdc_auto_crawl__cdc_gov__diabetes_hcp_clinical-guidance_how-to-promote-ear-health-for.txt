@@ -1,0 +1,107 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/hcp/clinical-guidance/how-to-promote-ear-health-for-people-with-diabetes.html",
+  "title": "Promoting Ear Health",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:26.725135",
+  "source_name": "cdc.gov",
+  "document_title": "Promoting Ear Health",
+  "extraction_method": "<main>",
+  "word_count": 974,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Promoting Ear Health
+
+Promoting Ear Health
+
+May 15, 2024
+
+Key points
+
+People with diabetes are at higher risk for hearing and balance complications.
+These can include hearing loss and higher risk of falls.
+Complications can be avoided or delayed with yearly ear care screenings and treatment.
+
+Audiologists in diabetes care
+Audiologists play a key role in detecting and treating diabetes-related hearing and balance complications. These include hearing loss and higher risk of falls. Complications can be avoided or delayed with yearly ear care screenings and treatment.
+
+Key messages to share with your patients
+You can explain to your patients that ear health includes all the things they can do to protect their hearing and balance.
+Encourage your patients to do the following:
+
+Get annual hearing tests.
+Visit an audiologist to screen for balance issues related to changes in the vestibular system.
+Wear ear protection around loud noises.
+Not clean their ears with swabs, pencils, tweezers, or paper clips.
+Notice changes in their hearing; ask for feedback from loved ones; and use self-assessment tools like the Hearing Handicap Inventory Screening.
+
+Let patients know:
+
+People with diabetes may be prescribed ototoxic (harmful to ear) medications. This can lead to more severe hearing loss than by aging alone. 1
+Take medication as directed and talk to their provider if they develop difficulty hearing, balance problems, or ringing in the ears as a side effect.
+Diabetes-related hearing loss may reduce quality of life.
+
+Take these 5 actions to help your patients
+1. Know the risks of hearing and balance disorders for diabetes patients.
+People with diabetes are at a higher risk for hearing and balance complications. However, few older adults report having a yearly ear care screening.
+Diabetes can affect hearing by reducing cortical auditory processing 2 and cerebral microcirculation in the auditory centers of the brain. 3 Studies suggest that diabetes also affects the vestibular system and balance by damaging the inner ear's semicircular canals and otolith organs. 4
+Statistics
+
+Hearing loss is 30% higher in adults with prediabetes than in those without this condition. 5
+Hearing loss is twice as common in people with diabetes compared to people without. 6
+Vestibular dysfunction is 70% more likely in people with diabetes. 7
+The incidence of falls is 39% higher in people with diabetes. 8
+
+2. Encourage patients to monitor their ear health.
+At each health care visit, tell your patients with diabetes about the signs of hearing and balance problems. This will help them be aware of changes when they may start. You can make sure your patients understand the information by asking them to repeat what they heard.
+
+Common signs of ear health issues
+Trouble hearing with background noise (in noisy restaurants or crowds); often responding with "what?" or "huh?" when communicating with others; falling more often and having trouble with balance.
+
+3. Ask your patients about their ear health at each visit.
+For example:
+
+Do you have any concerns about your hearing?
+Do you get a hearing and balance screening, also called an audiological evaluation, every year?
+Do you know how diabetes can cause hearing loss?
+Have you fallen recently?
+Do you have a fear of falling?
+Do you often feel dizzy or off balance?
+
+You can refer your patients to an audiologist or provide them with more information about recommended ear care for people with diabetes.
+4. Help your patients see the connection between diabetes management and ear health.
+Use the following pointers to support healthy diabetes management for your patients:
+
+Promote the ABCs of diabetes (A1C, blood pressure, cholesterol, and smoking cessation) and a healthy lifestyle.
+Connect patients to health coaches, patient navigators, nutritionists, community health workers, and local community resources, when possible.
+Encourage patients to get regular ear health checkups.
+Follow up with patients regularly to track how well they are managing their diabetes and connecting with their health care team.
+Consider socioeconomic factors (food and housing security, social support) that may affect your patients' diabetes management.
+
+5. Refer your patients to diabetes self-management education and support (DSMES) services.
+DSMES services help people live well with diabetes at any stage of their journey. Participants work with diabetes care and education specialists to learn practical skills in diabetes self-care. Skills include improving their blood sugar, eating well, being active, and solving problems to manage their diabetes.
+
+DSMES services
+Learn more about DSMES and encourage your patients to find a DSMES program recognized by the American Diabetes Association or accredited by the Association of Diabetes Care & Education Specialists.
+
+Resources
+
+Diabetes and Hearing Loss
+Online Hearing Test
+
+May 15, 2024
+
+Syndicate
+
+References Joo Y, Cruickshanks KJ, Klein BEK, Klein R, Hong O, Wallhagen M. Prevalence of ototoxic medication use among older adults in Beaver Dam, Wisconsin. J Am Assoc Nurse Pract . 2018;30(1):27–34. doi:10.1097/JXX.0000000000000011
+Konrad-Martin D, Billings CJ, McMillan GP, et al. Diabetes-associated changes in cortical auditory-evoked potentials in relation to normal aging. Ear Hear . 2016;37(3):e173–e187. doi:10.1097/AUD.0000000000000255
+Hamed SA. Brain injury with diabetes mellitus: evidence, mechanisms, and treatment implications. Expert Rev Clin Pharmacol . 2017;10(4):409–428.
+D'Silva LJ, Lin J, Staecker H, Whitney SL, Kluding PM. Impact of diabetic complications on balance and falls: contribution of the vestibular system. Phys Ther . 2016;96(3):400–409. doi:10.2522/ptj.20140604
+American Diabetes Association. Diabetes and Hearing Loss. Accessed September 21, 2021. https://diabetes.org/about-diabetes/complications/hearing-loss/diabetes-and-hearing-loss
+Bainbridge KE, Hoffman HJ, Cowie CC. Diabetes and hearing impairment in the United States: audiometric evidence from the National Health and Nutrition Examination Survey, 1999 to 2004 . Ann Intern Med . 2008;149(1):1–10. doi:10.7326/0003-4819-149-1-200807010-00231
+Agrawal Y, Carey JP, Della Santina CC, Schubert MC, Minor LB. Disorders of balance and vestibular function in US adults: data from the National Health and Nutrition Examination Survey, 2001–2004 [published correction appears in Arch Intern Med . 2009;169(15):1419]. Arch Intern Med . 2009;169(10):938–944. doi:10.1001/archinternmed.2009.66
+Tilling LM, Darawil K, Britton M. Falls as a complication of diabetes mellitus in older people. J Diabetes Complications . 2006;20(3):158–162. doi:10.1016/j.jdiacomp.2005.06.004

@@ -1,0 +1,86 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/es/prevention-type-2/la-prediabetes-su-oportunidad-para-prevenir-la-diabetes-tipo-2.html",
+  "title": "La prediabetes: su oportunidad para prevenir la diabetes tipo 2",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:12:54.632856",
+  "source_name": "cdc.gov",
+  "document_title": "La prediabetes: su oportunidad para prevenir la diabetes tipo 2",
+  "extraction_method": "<main>",
+  "word_count": 684,
+  "verified_by_doctor": false
+}
+===CONTENT===
+La prediabetes: su oportunidad para prevenir la diabetes tipo 2
+
+12 de abril del 2024
+
+English (US)
+
+La prediabetes: su oportunidad para prevenir la diabetes tipo 2
+
+Puntos clave
+
+M&aacute;s de 1 de cada 3 de adultos en los Estados Unidos tienen prediabetes.
+
+La prediabetes aumenta el riesgo de presentar diabetes tipo 2 y otros problemas de salud.
+
+Hacer cambios de estilo de vida puede reducir a la mitad su riesgo de presentar diabetes tipo 2.
+
+&iquest;Qu&eacute; es la prediabetes?
+Con la prediabetes los niveles de az&uacute;car en la sangre de una persona son m&aacute;s altos de lo normal, pero no lo suficientemente altos para el diagn&oacute;stico de diabetes tipo 2.
+La prediabetes es una condici&oacute;n m&eacute;dica grave que aumenta el riesgo de presentar diabetes tipo 2 , enfermedades del coraz&oacute;n y accidentes cerebrovasculares (derrames cerebrales).
+&iquest;Cu&aacute;l es la buena noticia? Si usted tiene prediabetes, el programa de cambio de estilo de vida del Programa Nacional de Prevenci&oacute;n de la Diabetes liderado por los CDC puede ayudar. Cuando usted se inscribe, aprende a hacer cambios de estilo de vida que reducen su riesgo y mejoran su salud.
+
+&iquest;Podr&iacute;a usted tener prediabetes?
+Realice la prueba de 1 minuto .
+
+&iquest;Qu&eacute; causa prediabetes?
+La insulina es una hormona que act&uacute;a como una llave que permite que el az&uacute;car en la sangre entre a las c&eacute;lulas para que la usen como fuente de energ&iacute;a. Si usted tiene prediabetes, las c&eacute;lulas de su cuerpo no responden a la insulina de manera normal. Para tratar de hacer que respondan, el p&aacute;ncreas produce m&aacute;s insulina. Con el tiempo, el p&aacute;ncreas no puede mantener el ritmo y los niveles de az&uacute;car en la sangre aumentan. Esto crea las condiciones para que se produzca la prediabetes y, m&aacute;s adelante, la diabetes tipo 2.
+
+Signos y s&iacute;ntomas
+Una persona puede tener prediabetes durante a&ntilde;os, pero no presentar ning&uacute;n s&iacute;ntoma claro. A menudo no se detecta hasta que aparecen problemas graves de salud, como la diabetes tipo 2. Hable con su m&eacute;dico sobre si se debe revisar los niveles de az&uacute;car en la sangre si tiene alg&uacute;n factor de riesgo de prediabetes, por ejemplo:
+
+Tiene sobrepeso.
+
+Tiene 45 a&ntilde;os o m&aacute;s.
+
+Uno de sus padres, hermanos o hermanas tiene diabetes tipo 2.
+
+Hace actividad f&iacute;sica menos de tres veces a la semana.
+
+Tuvo alguna vez diabetes gestacional (diabetes durante el embarazo).
+
+Dio a luz a un beb&eacute; que pes&oacute; m&aacute;s de 9 libras.
+
+Tiene el s&iacute;ndrome del ovario poliqu&iacute;stico .
+
+Su raza y grupo &eacute;tnico tambi&eacute;n son factores. Las personas afroamericanas, hispanas o latinas, ind&iacute;genas de los Estados Unidos, nativas de Alaska, nativas de las islas del Pac&iacute;fico, y algunas personas asiaticoamericanas tienen un mayor riesgo.
+
+H&aacute;gase una prueba
+Se puede hacer una sencilla prueba de az&uacute;car en la sangre para averiguar si tiene prediabetes. Preg&uacute;ntele al m&eacute;dico si debe hacerse la prueba.
+
+Prevenga la diabetes tipo 2
+Si usted tiene prediabetes, puede reducir su riesgo de presentar diabetes tipo 2 al hacer lo siguiente:
+
+Bajar una peque&ntilde;a cantidad de peso si tiene sobrepeso.
+
+Hacer actividad f&iacute;sica regularmente.
+
+Bajar una peque&ntilde;a cantidad de peso significa bajar entre el 5 y el 7 % de su peso corporal. Eso es aproximadamente entre 10 y 14 libras en una persona que pese 200 libras. Hacer actividad f&iacute;sica con regularidad significa caminar r&aacute;pidamente o hacer una actividad similar durante por lo menos 150 minutos a la semana. Eso es 30 minutos al d&iacute;a, 5 d&iacute;as a la semana.
+El Programa Nacional de Prevenci&oacute;n de la Diabetes , liderado por los CDC, puede ayudarlo a hacer esos cambios y a que sean duraderos. A trav&eacute;s del programa, usted puede reducir su riesgo de presentar diabetes tipo 2 en un 58 % (71 % si tiene m&aacute;s de 60 a&ntilde;os).
+Preg&uacute;ntele a su m&eacute;dico o enfermera si hay alg&uacute;n programa de prevenci&oacute;n de la diabetes reconocido por los CDC que se ofrezca en su comunidad, o busque uno aqu&iacute; . El mejor momento para prevenir la diabetes tipo 2 es ahora .
+
+12 de abril del 2024
+
+Fuentes
+Imprimir
+Compartir
+
+Syndicate
+
+Fuente del contenido:
+Centro Nacional para la Prevenci&oacute;n de Enfermedades Cr&oacute;nicas y Promoci&oacute;n de la Salud ; Diabetes

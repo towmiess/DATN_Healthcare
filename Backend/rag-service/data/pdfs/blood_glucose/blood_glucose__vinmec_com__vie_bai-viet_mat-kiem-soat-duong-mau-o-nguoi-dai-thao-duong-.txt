@@ -1,0 +1,51 @@
+===METADATA===
+{
+  "url": "https://www.vinmec.com/vie/bai-viet/mat-kiem-soat-duong-mau-o-nguoi-dai-thao-duong-vi",
+  "title": "Mất kiểm soát đường máu",
+  "category": "blood_glucose",
+  "language": "vi",
+  "source_priority": 2,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-27T23:05:38.212008",
+  "source_name": "vinmec.com",
+  "document_title": "Mất kiểm soát đường máu",
+  "fetch_method": "requests",
+  "extraction_method": "<main>",
+  "word_count": 898,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Mất kiểm soát đường máu
+
+-->
+
+Chuyên trang sức khoẻ
+Sức khoẻ tổng quát
+
+Mất kiểm soát đường máu ở người đái tháo đường
+
+Cố vấn chuyên môn
+
+Thạc sĩ,
+
+Trần Hải Hà
+
+☰
+Mục lục
+
+Bài viết bởi Bác sĩ Trần Hải Hà - Khoa Cấp cứu - Bệnh viện Đa khoa quốc tế Vinmec Times City
+
+Lượng đường trong máu cao (tăng đường huyết) ảnh hưởng đến những người mắc bệnh tiểu đường. Một số yếu tố có thể góp phần làm tăng đường huyết ở những người mắc bệnh tiểu đường, bao gồm lựa chọn thực phẩm và hoạt động thể chất, bệnh tật, thuốc điều trị tiểu đường hoặc bỏ qua hoặc không dùng đủ thuốc hạ đường huyết.
+Nếu không được điều trị, tăng đường huyết có thể trở nên trầm trọng và dẫn đến các biến chứng nghiêm trọng cần được chăm sóc cấp cứu, chẳng hạn như hôn mê do tiểu đường. Về lâu dài, tình trạng tăng đường huyết dai dẳng dù không nặng có thể dẫn đến các biến chứng ảnh hưởng đến mắt, thận, thần kinh và tim mạch.
+1. Các triệu chứng
+Tăng đường huyết không gây ra các triệu chứng cho đến khi giá trị glucose tăng lên đáng kể - thường trên 180 - 200 mg/dL, hoặc 10 - 11,1 mmol/L. Các triệu chứng của tăng đường huyết phát triển chậm trong vài ngày hoặc vài tuần. Lượng đường trong máu ở mức cao càng lâu, các triệu chứng càng trở nên nghiêm trọng. Các dấu hiệu và triệu chứng ban đầu Đi tiểu thường xuyên Cơn khát tăng dần Nhìn mờ Mệt mỏi Đau đầu
+
+Các dấu hiệu và triệu chứng sau Hơi thở thơm mùi trái cây Buồn nôn và ói mửa Hụt hơi Khô miệng Yếu đuối Lú lẫn Hôn mê Đau bụng
+2. Nguyên nhân
+Nhiều yếu tố có thể góp phần làm tăng đường huyết, bao gồm: Không sử dụng đủ insulin hoặc thuốc uống tiểu đường Không tiêm insulin đúng cách hoặc sử dụng insulin hết hạn Không tuân theo kế hoạch ăn uống cho bệnh tiểu đường của bạn Không hoạt động Nhiễm trùng Sử dụng một số loại thuốc, chẳng hạn như steroid Bị thương hoặc phẫu thuật Trải qua căng thẳng cảm xúc, chẳng hạn như xung đột gia đình hoặc thách thức tại nơi làm việc
+
+3. Biến chứng
+Các biến chứng lâu dài Các biến chứng lâu dài của tăng đường huyết không được điều trị có thể bao gồm: Bệnh tim mạch Tổn thương dây thần kinh (bệnh thần kinh) Tổn thương thận (bệnh thận do tiểu đường) hoặc suy thận Tổn thương mạch máu của võng mạc (bệnh võng mạc tiểu đường), có khả năng dẫn đến mù lòa Làm mờ thủy tinh thể bình thường rõ ràng của mắt bạn ( đục thủy tinh thể ) Các vấn đề về chân do dây thần kinh bị tổn thương hoặc lưu lượng máu kém có thể dẫn đến nhiễm trùng da nghiêm trọng, loét và trong một số trường hợp nghiêm trọng, phải cắt cụt chân Các vấn đề về xương khớp Nhiễm trùng răng và nướu Biến chứng cấp tính Nếu lượng đường trong máu tăng đủ cao hoặc trong một thời gian dài, nó có thể dẫn đến hai tình trạng nghiêm trọng. Nhiễm toan ceton do đái tháo đường. Nhiễm toan ceton do tiểu đường phát triển khi bạn không có đủ insulin trong cơ thể. Khi điều này xảy ra, đường (glucose) không thể đi vào tế bào của bạn để tạo năng lượng. Lượng đường trong máu của bạn tăng lên và cơ thể bạn bắt đầu phân hủy chất béo để lấy năng lượng. Quá trình này tạo ra các axit độc hại được gọi là xeton. Nếu không được điều trị, nhiễm toan ceton do tiểu đường có thể dẫn đến hôn mê tiểu đường và đe dọa tính mạng. Tăng áp lực thẩm thấu máu. Khi đường máu không kiểm soát tốt, gây ra lợi niệu thẩm thấu. Nếu không được điều trị, trạng thái tăng nồng độ đường huyết do tiểu đường có thể dẫn đến mất nước và hôn mê đe dọa tính mạng.
+
+4. Phòng ngừa
+Những gợi ý sau có thể giúp giữ lượng đường trong máu của bạn trong phạm vi mục tiêu: Thực hiện theo kế hoạch bữa ăn cho bệnh tiểu đường của bạn. Nếu bạn dùng insulin hoặc thuốc uống trị tiểu đường, điều quan trọng là bạn phải nhất quán về số lượng và thời gian của các bữa ăn và đồ ăn nhẹ của mình. Thực phẩm bạn ăn phải cân bằng với insulin hoạt động trong cơ thể bạn. Theo dõi lượng đường trong máu của bạn. Tùy thuộc vào kế hoạch điều trị của bạn, bạn có thể kiểm tra và ghi lại mức đường huyết của mình vài lần một tuần hoặc vài lần một ngày. Theo dõi cẩn thận là cách duy nhất để đảm bảo rằng lượng đường trong máu của bạn vẫn nằm trong phạm vi mục tiêu của bạn. Uống thuốc theo chỉ định của bác sĩ. Điều chỉnh thuốc nếu bạn thay đổi hoạt động thể chất của mình. Việc điều chỉnh phụ thuộc vào kết quả kiểm tra lượng đường trong máu và loại và độ dài của hoạt động.

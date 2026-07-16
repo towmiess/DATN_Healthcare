@@ -1,0 +1,38 @@
+===METADATA===
+{"title": "Phở gà ít muối", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Phở gà ít muối
+Loại món: Cơm/Bún/Phở | Ẩm thực: Vietnamese
+Từ khóa: phở gà, gà, GI trung bình, natri thấp
+
+Mô tả: Phở gà nước dùng nhạt ít muối, gà bỏ da protein cao ít béo.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 8.2
+Calo: 265 kcal
+Chất đạm (protein): 22.5 g
+Chất béo tổng: 5.5 g (bão hòa: 1.2 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 35.5 g (chất xơ: 3.5 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 72 mg | Natri: 385 mg
+Kali: 455 mg | Phốt pho: 215 mg | Magie: 38 mg
+Canxi: 38 mg | Sắt: 1.8 mg | Vitamin D: 0.5 mcg | Omega-3: 0.3 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Phở gà ít muối tốt hơn phở bò cho tim mạch
+Khẩu phần khuyến nghị: 1 tô nhỏ/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: thấp
+
+--- Nguyên liệu ---
+80g bánh phở
+100g gà bỏ da
+Nước dùng nhạt
+Giá đỗ rau thơm
+
+--- Cách chế biến ---
+1. Hầm gà lấy nước dùng
+2. Gà xé sợi bỏ da
+3. Chần bánh phở
+4. Chan nước dùng nhạt

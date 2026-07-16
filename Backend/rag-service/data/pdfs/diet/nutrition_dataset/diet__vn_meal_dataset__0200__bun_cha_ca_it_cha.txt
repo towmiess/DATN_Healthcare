@@ -1,0 +1,39 @@
+===METADATA===
+{"title": "Bún chả cá ít chả", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Bún chả cá ít chả
+Loại món: Cơm/Bún/Phở, Cá | Ẩm thực: Vietnamese
+Từ khóa: bún, chả cá, rau, omega-3
+
+Mô tả: Giảm lượng chả cá, tăng rau xanh và ăn ít bún để kiểm soát carb.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): trung bình | Tải lượng đường huyết (GL): 7.8
+Calo: 268 kcal
+Chất đạm (protein): 18.5 g
+Chất béo tổng: 7.5 g (bão hòa: 1.5 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 32.5 g (chất xơ: 4.5 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 65 mg | Natri: 368 mg
+Kali: 445 mg | Phốt pho: 195 mg | Magie: 38 mg
+Canxi: 52 mg | Sắt: 2.2 mg | Vitamin D: 1.5 mcg | Omega-3: 0.8 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Ít bún nhiều rau là nguyên tắc vàng cho bún phở TĐ
+Khẩu phần khuyến nghị: 1 tô nhỏ/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa sáng, bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+80g bún
+100g chả cá
+Rau thơm
+Giá đỗ
+Nước mắm pha nhạt
+
+--- Cách chế biến ---
+1. Chần bún
+2. Chả cá hấp không chiên
+3. Xếp ra tô với rau giá
+4. Chan nước mắm pha nhạt

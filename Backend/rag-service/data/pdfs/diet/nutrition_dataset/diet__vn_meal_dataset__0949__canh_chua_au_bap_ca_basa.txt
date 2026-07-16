@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Canh chua đậu bắp cá basa", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Canh chua đậu bắp cá basa
+Loại món: Canh/Súp | Ẩm thực: Vietnamese
+Từ khóa: đậu bắp, cá basa, pectin, canh chua
+
+Mô tả: Pectin đậu bắp kết hợp canh chua truyền thống, làm chậm hấp thu glucose.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~250g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.8
+Calo: 138 kcal
+Chất đạm (protein): 18.5 g
+Chất béo tổng: 4.5 g (bão hòa: 0.8 g, chuyển hóa: 0.1 g)
+Carbohydrate tổng: 7.5 g (chất xơ: 4.0 g, đường: 3.5 g, đường bổ sung: 0.5 g)
+Cholesterol: 55 mg | Natri: 365 mg
+Kali: 398 mg | Phốt pho: 178 mg | Magie: 38 mg
+Canxi: 52 mg | Sắt: 1.5 mg | Vitamin D: 1.5 mcg | Omega-3: 0.5 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Pectin đậu bắp giảm GI bữa ăn hiệu quả nhất
+Khẩu phần khuyến nghị: 1 tô/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: dễ | Chi phí: thấp
+
+--- Nguyên liệu ---
+250g cá basa
+150g đậu bắp
+50g me
+2 cà chua
+
+--- Cách chế biến ---
+1. Nấu nước me cà chua sôi
+2. Cho cá vào nấu 10 phút
+3. Thêm đậu bắp nấu 5 phút

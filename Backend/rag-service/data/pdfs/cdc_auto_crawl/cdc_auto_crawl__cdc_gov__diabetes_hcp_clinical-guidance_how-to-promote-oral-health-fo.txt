@@ -1,0 +1,107 @@
+===METADATA===
+{
+  "url": "https://www.cdc.gov/diabetes/hcp/clinical-guidance/how-to-promote-oral-health-for-people-with-diabetes.html",
+  "title": "Promoting Oral Health",
+  "category": "cdc_auto_crawl",
+  "language": "en",
+  "source_priority": 1,
+  "source_type": "web_article",
+  "crawled_at": "2026-06-24T11:11:34.928603",
+  "source_name": "cdc.gov",
+  "document_title": "Promoting Oral Health",
+  "extraction_method": "<main>",
+  "word_count": 873,
+  "verified_by_doctor": false
+}
+===CONTENT===
+Promoting Oral Health
+
+Promoting Oral Health
+
+May 15, 2024
+
+Key points
+
+Gum disease is more common in people with diabetes.
+Gum disease increases the risk of heart and kidney disease in diabetes patients.
+Regular dental exams can prevent or delay gum disease and other oral health problems.
+
+Dentists in diabetes care
+Dentists and other oral health care providers play a key role in preventing and treating periodontal (gum) disease and other oral health problems. In addition to coordinating with diabetes care teams, they can also help their patients improve self-care behaviors, such as regular brushing and flossing. Dentists may also screen at-risk patients for diabetes and refer them to a primary care provider for diagnosis.
+
+Key messages to share with your patients
+Encourage your patients to do the following:
+
+Get a dental exam at least once a year.
+Regularly brush and floss their teeth.
+Learn more about Diabetes and Oral Health .
+
+Let patients know:
+
+Regular brushing and flossing are critical for diabetes self-management.
+Eating foods that are high in added sugars can harm oral health.
+Smoking weakens the immune system's ability to fight or heal oral infections.
+
+Take these 5 actions to help your patients
+1. Know the risks of oral diseases for diabetes patients.
+Gum disease is more common in people with diabetes. So, regular dental exams are crucial for prevention and treatment. Gum disease can also affect insulin sensitivity and increase the risk of heart and kidney disease in diabetes patients.
+Periodontitis (advanced gum disease) can break down connective tissue and lead to tooth loss. Diabetes patients with periodontitis have higher mortality rates over 10 years from all causes and cardiovascular disease than those without periodontitis. 1 People with well-managed diabetes are less likely to have periodontitis. 2
+Statistics
+
+Gum disease affects 46% of adults aged 45 to 64 and 59% of those 65 or older. 3
+For every 1% increase in hemoglobin A1C level, the odds of periodontitis increase by 18%. 4
+
+2. Encourage your patients to watch for oral health problems.
+At each health care visit, tell your patients with diabetes about the signs of oral health problems. This will help them be aware of changes in their mouth, teeth, or gums when they start. You can make sure your patients understand the information by asking them to repeat what they heard.
+
+Common oral health conditions
+Periodontal disease; xerostomia (dry mouth); tooth loss, cavities, or abscesses; oral candidiasis (thrush); oral lichen planus (inflammation that causes burning and pain); burning mouth syndrome (ongoing burning sensation).
+
+3. Ask your patients about their oral health at each visit.
+For example:
+
+Do you visit your dentist at least once a year for a full mouth exam?
+Do you know how diabetes can affect your teeth and gums?
+Do you know the best way to brush and clean between your teeth?
+Do you know the early signs of tooth, mouth, and gum problems?
+
+Ask if they have any of the following oral problems:
+
+Loose teeth
+Red or swollen gums
+Pain or burning sensations
+Difficulty chewing
+Poorly fitting dentures
+
+You can refer your patients to a dentist or provide them with more information about recommended oral care for people with diabetes.
+4. Help your patients see the connection between diabetes management and oral health.
+Use the following pointers to support healthy diabetes management for your patients:
+
+Promote the ABCs of diabetes (A1C, blood pressure, cholesterol, and smoking cessation) and a healthy lifestyle.
+Connect patients to health coaches, patient navigators, nutritionists, community health workers, and local community resources, when possible.
+Encourage patients to get regular dental checkups.
+Follow up with patients regularly to track how well they are managing their diabetes and connecting with their health care team.
+Consider socioeconomic factors (food and housing security, social support) that may affect your patients' diabetes management.
+
+5. Refer your patients to diabetes self-management education and support (DSMES) services.
+DSMES services help people live well with diabetes at any stage of their journey. Participants work with diabetes care and education specialists to learn practical skills in diabetes self-care. Skills include improving their blood sugar, eating well, being active, and solving problems to manage their diabetes.
+
+DSMES services
+Learn more about DSMES and encourage your patients to find a DSMES program that is recognized by the American Diabetes Association or accredited by the Association of Diabetes Care & Education Specialists.
+
+Resources
+
+Diabetes, Gum Disease, & Other Dental Problems
+Diabetes and Oral Health ( Journal of the American Dental Association )
+Diabetes & Oral Health (National Institutes of Health)
+Diabetes and Your Smile
+Oral Health Topics: Diabetes
+
+May 15, 2024
+
+Syndicate
+
+References Sharma P, Dietrich T, Ferro CJ, Cockwell P, Chapple IL. Association between periodontitis and mortality in stages 3-5 chronic kidney disease: NHANES III and linked mortality study. J Clin Periodontol . 2016;43(2):104–13.
+Kowall B, Holtfreter B, V&ouml;lzke H, et al. Pre-diabetes and well-controlled diabetes are not associated with periodontal disease: the SHIP Trend Study. J Clin Periodontol . 2015;42(5):422–430. doi:10.1111/jcpe.12391
+Eke PI, Thornton-Evans GO, Wei L, Borgnakke WS, Dye BA, Genco RJ. Periodontitis in US adults: National Health and Nutrition Examination Survey 2009–2014. J Am Dent Assoc . 2018;149(7):576–588.e6. doi:10.1016/j.adaj.2018.04.023
+Garcia D, Tarima S, Okunseri C. Periodontitis and glycemic control in diabetes: NHANES 2009 to 2012. J Periodontol . 2015;86(4):499–506. doi:10.1902/jop.2014.140364

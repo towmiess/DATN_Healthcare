@@ -1,0 +1,37 @@
+===METADATA===
+{"title": "Gỏi hoa chuối", "url": "", "category": "diet", "source_type": "nutrition_dataset"}
+===CONTENT===
+Món ăn: Gỏi hoa chuối
+Loại món: Gỏi/Salad | Ẩm thực: Vietnamese
+Từ khóa: hoa chuối, tôm, chất xơ, tanin
+
+Mô tả: Hoa chuối giàu chất xơ và tanin hỗ trợ kiểm soát đường huyết sau bữa ăn.
+
+--- Thông tin dinh dưỡng (mỗi khẩu phần 1 phần (~300g)) ---
+Chỉ số đường huyết (GI): thấp | Tải lượng đường huyết (GL): 2.2
+Calo: 112 kcal
+Chất đạm (protein): 10.5 g
+Chất béo tổng: 3.5 g (bão hòa: 0.8 g, chuyển hóa: 0.0 g)
+Carbohydrate tổng: 12.5 g (chất xơ: 4.8 g, đường: 2.5 g, đường bổ sung: 0.0 g)
+Cholesterol: 65 mg | Natri: 258 mg
+Kali: 285 mg | Phốt pho: 148 mg | Magie: 28 mg
+Canxi: 22 mg | Sắt: 1.5 mg | Vitamin D: 0.2 mcg | Omega-3: 0.2 g
+
+--- Phù hợp với ---
+Tiểu đường type 1, Tiểu đường type 2, Tiểu đường thai kỳ, Biến chứng thần kinh, Biến chứng tim mạch, Nguy cơ đột quỵ
+Ghi chú phù hợp: Tanin hoa chuối hỗ trợ kiểm soát đường huyết
+Khẩu phần khuyến nghị: 1 đĩa/bữa
+Chống chỉ định / thận trọng: Không có
+Bữa ăn phù hợp: bữa trưa, bữa tối
+Độ khó: trung bình | Chi phí: thấp
+
+--- Nguyên liệu ---
+200g hoa chuối
+100g tôm
+50g thịt heo
+Rau thơm
+
+--- Cách chế biến ---
+1. Hoa chuối thái sợi ngâm giấm nhẹ
+2. Luộc tôm thịt
+3. Trộn với rau thơm mắm chanh
