@@ -1,0 +1,468 @@
+<mxfile host="app.diagrams.net" agent="Codex" pages="2">
+  <diagram id="healthcare-use-case" name="UC Tong quat">
+    <mxGraphModel dx="5807" dy="3637" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uc-title" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;fontColor=#1F2937;" value="USE CASE TỔNG QUÁT - HEALTHCARE DIABETES" vertex="1">
+          <mxGeometry height="50" width="1000" x="1017" y="-742" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-system" parent="1" style="swimlane;html=1;startSize=40;horizontal=1;rounded=0;fillColor=#F8FAFC;strokeColor=#334155;fontStyle=1;fontSize=14;" value="HỆ THỐNG HEALTHCARE DIABETES" vertex="1">
+          <mxGeometry height="3475" width="2480" x="300" y="-576" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-register" parent="uc-system" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#0284C7;fontSize=14;" value="Đăng ký và xác thực OTP" vertex="1">
+          <mxGeometry height="60" width="190" x="112" y="226" as="geometry" />
+        </mxCell>
+        <mxCell id="pkg-account" parent="uc-system" style="swimlane;html=1;startSize=32;rounded=1;arcSize=8;fillColor=#E0F2FE;strokeColor=#0284C7;fontStyle=1;fontSize=14;" value="TÀI KHOẢN VÀ BẢO MẬT" vertex="1">
+          <mxGeometry height="380" width="500" x="77" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-password" parent="pkg-account" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#0284C7;fontSize=14;" value="Khôi phục / đổi mật khẩu" vertex="1">
+          <mxGeometry height="60" width="190" x="31" y="278" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-login" parent="pkg-account" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#0284C7;fontSize=14;" value="Đăng nhập / đăng xuất" vertex="1">
+          <mxGeometry height="60" width="190" x="21" y="169" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-profile-basic" parent="uc-system" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#0284C7;fontSize=14;" value="Hồ sơ cá nhân và presence" vertex="1">
+          <mxGeometry height="60" width="190" x="342" y="316" as="geometry" />
+        </mxCell>
+        <mxCell id="pkg-health" parent="uc-system" style="swimlane;html=1;startSize=32;rounded=1;arcSize=8;fillColor=#DCFCE7;strokeColor=#16A34A;fontStyle=1;fontSize=14;" value="SỨC KHỎE, CHẨN ĐOÁN VÀ LÂM SÀNG" vertex="1">
+          <mxGeometry height="400" width="1031" x="583" y="471" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-ocr" parent="pkg-health" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#16A34A;fontSize=14;" value="OCR tài liệu / ảnh chỉ số" vertex="1">
+          <mxGeometry height="65" width="220" x="585" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-pregnancy" parent="pkg-health" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#16A34A;fontSize=14;" value="Theo dõi sức khỏe thai kỳ" vertex="1">
+          <mxGeometry height="65" width="220" x="636" y="247" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-baseline" parent="pkg-health" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#16A34A;fontSize=14;" value="Tạo và so sánh baseline lâm sàng" vertex="1">
+          <mxGeometry height="65" width="220" x="317" y="226" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-diagnosis" parent="pkg-health" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#16A34A;fontSize=14;" value="Chẩn đoán và dự đoán nguy cơ ML" vertex="1">
+          <mxGeometry height="65" width="220" x="192" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-health-profile" parent="pkg-health" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#16A34A;fontSize=14;" value="Quản lý hồ sơ sức khỏe và bệnh sử" vertex="1">
+          <mxGeometry height="65" width="220" x="40" y="244" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-glucose" parent="uc-system" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#16A34A;fontSize=14;" value="Theo dõi đường huyết và mục tiêu" vertex="1">
+          <mxGeometry height="65" width="220" x="869" y="526" as="geometry" />
+        </mxCell>
+        <mxCell id="pkg-nutrition" parent="uc-system" style="swimlane;html=1;startSize=32;rounded=1;arcSize=8;fillColor=#FEF3C7;strokeColor=#D97706;fontStyle=1;fontSize=14;" value="DINH DƯỠNG VÀ AI VISION" vertex="1">
+          <mxGeometry height="445" width="872" x="729" y="1077" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-vision" parent="pkg-nutrition" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D97706;fontSize=14;" value="Phân tích ảnh bữa ăn bằng AI" vertex="1">
+          <mxGeometry height="65" width="210" x="342" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-recommend" parent="pkg-nutrition" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D97706;fontSize=14;" value="Gợi ý món ăn / thực đơn ngày" vertex="1">
+          <mxGeometry height="65" width="210" x="319" y="54" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-food-search" parent="uc-system" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D97706;fontSize=14;" value="Tra cứu món ăn và nguyên liệu" vertex="1">
+          <mxGeometry height="65" width="210" x="769" y="1182" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-meal-history" parent="uc-system" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D97706;fontSize=14;" value="Ghi lịch sử bữa ăn" vertex="1">
+          <mxGeometry height="65" width="210" x="769" y="1282" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-nutrition-plan" parent="uc-system" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D97706;fontSize=14;" value="Xem dinh dưỡng và khẩu phần" vertex="1">
+          <mxGeometry height="65" width="210" x="899" y="1382" as="geometry" />
+        </mxCell>
+        <mxCell id="extend-vision-history" edge="1" parent="uc-system" source="uc-vision" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;fontSize=14;" target="uc-meal-history" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="actor-guest" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" value="Khách" vertex="1">
+          <mxGeometry height="120" width="80" x="-1210" y="-320" as="geometry" />
+        </mxCell>
+        <mxCell id="actor-user" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" value="Người dùng" vertex="1">
+          <mxGeometry height="120" width="80" x="-1610" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="actor-admin" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" value="Quản trị viên" vertex="1">
+          <mxGeometry height="120" width="80" x="-1307" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="actor-ai" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" value="Dịch vụ AI / OCR" vertex="1">
+          <mxGeometry height="120" width="100" x="3309" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="actor-worker" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" value="Worker / Scheduler" vertex="1">
+          <mxGeometry height="120" width="110" x="3309" y="748" as="geometry" />
+        </mxCell>
+        <mxCell id="actor-email" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" value="Dịch vụ Email" vertex="1">
+          <mxGeometry height="120" width="100" x="3309" y="1058" as="geometry" />
+        </mxCell>
+        <mxCell id="e-guest-register" edge="1" parent="1" source="actor-guest" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;" target="uc-register">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-guest-login" edge="1" parent="1" source="actor-guest" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;" target="uc-login">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-746" y="-211" />
+              <mxPoint x="-746" y="-211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-guest-password" edge="1" parent="1" source="actor-guest" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="uc-password">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-361" y="-217" />
+              <mxPoint x="-361" y="-102" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-user-health" edge="1" parent="1" source="actor-user" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;" target="uc-health-profile">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1570" y="148.33" />
+              <mxPoint x="1009" y="148.33" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-user-nutrition" edge="1" parent="1" source="actor-user" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;" target="uc-food-search">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1570" y="638.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-user-report" edge="1" parent="1" source="actor-user" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;" target="uc-report">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-user-chat" edge="1" parent="1" source="actor-user" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;" target="uc-chat">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-user-reminder" edge="1" parent="1" source="actor-user" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;" target="uc-reminder">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-admin-user" edge="1" parent="1" source="actor-admin" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;" target="uc-admin-user">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-admin-rag" edge="1" parent="1" source="actor-admin" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;" target="uc-admin-rag">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-ai-vision" edge="1" parent="1" source="actor-ai" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3310" y="708.33" />
+            </Array>
+            <mxPoint x="1595.67" y="708.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-ai-insight" edge="1" parent="1" source="actor-ai" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;" target="uc-insight">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-ai-chat" edge="1" parent="1" source="actor-ai" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;" target="uc-chat">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-worker-vision" edge="1" parent="1" source="actor-worker" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;" target="uc-vision">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-worker-reminder" edge="1" parent="1" source="actor-worker" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;" target="uc-reminder">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-email" edge="1" parent="1" source="actor-email" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;fontSize=14;" target="uc-email">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-admin-user" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4B5563;fontSize=14;" value="Quản lý người dùng, trạng thái và vai trò" vertex="1">
+          <mxGeometry height="70" width="260" x="352" y="1897" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-admin-ingredient" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4B5563;fontSize=14;" value="Quản lý nguyên liệu" vertex="1">
+          <mxGeometry height="70" width="230" x="682" y="1897" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-admin-meal" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4B5563;fontSize=14;" value="Quản lý mẫu món ăn" vertex="1">
+          <mxGeometry height="70" width="230" x="982" y="1897" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-admin-vision" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4B5563;fontSize=14;" value="Giám sát job AI Vision" vertex="1">
+          <mxGeometry height="70" width="230" x="1282" y="1897" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-admin-rag" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4B5563;fontSize=14;" value="Quản lý kho tri thức RAG" vertex="1">
+          <mxGeometry height="70" width="260" x="1582" y="1897" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-admin-index" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4B5563;fontSize=14;" value="Rebuild index và xóa cache" vertex="1">
+          <mxGeometry height="70" width="260" x="662" y="2027" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-admin-monitor" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4B5563;fontSize=14;" value="Giám sát dịch vụ và vận hành" vertex="1">
+          <mxGeometry height="70" width="260" x="1012" y="2027" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-admin-event" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4B5563;fontSize=14;" value="Theo dõi cảnh báo và sự kiện" vertex="1">
+          <mxGeometry height="70" width="260" x="1362" y="2027" as="geometry" />
+        </mxCell>
+        <mxCell id="pkg-report" parent="1" style="swimlane;html=1;startSize=32;rounded=1;arcSize=8;fillColor=#FCE7F3;strokeColor=#DB2777;fontStyle=1;fontSize=14;" value="BÁO CÁO VÀ AI INSIGHT" vertex="1">
+          <mxGeometry height="310" width="500" x="310" y="1159" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-report" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DB2777;fontSize=14;" value="Xem báo cáo tuần / tháng" vertex="1">
+          <mxGeometry height="60" width="190" x="345" y="1219" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-draft-export" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DB2777;fontSize=14;" value="Lưu nháp và xuất PDF / CSV" vertex="1">
+          <mxGeometry height="60" width="190" x="575" y="1219" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-insight" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DB2777;fontSize=14;" value="Tạo AI Insight cá nhân hóa" vertex="1">
+          <mxGeometry height="60" width="190" x="345" y="1319" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-health-alert" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DB2777;fontSize=14;" value="Xem cảnh báo sức khỏe" vertex="1">
+          <mxGeometry height="60" width="190" x="575" y="1319" as="geometry" />
+        </mxCell>
+        <mxCell id="pkg-rag" parent="1" style="swimlane;html=1;startSize=32;rounded=1;arcSize=8;fillColor=#EDE9FE;strokeColor=#7C3AED;fontStyle=1;fontSize=14;" value="CHATBOT RAG VÀ NHẬT KÝ" vertex="1">
+          <mxGeometry height="310" width="570" x="850" y="1159" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-chat" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7C3AED;fontSize=14;" value="Hỏi đáp Chatbot RAG" vertex="1">
+          <mxGeometry height="60" width="220" x="890" y="1219" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-sources" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7C3AED;fontSize=14;" value="Xem nguồn tham khảo" vertex="1">
+          <mxGeometry height="60" width="220" x="1160" y="1219" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-chat-history" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7C3AED;fontSize=14;" value="Quản lý lịch sử và tri thức nhớ" vertex="1">
+          <mxGeometry height="60" width="220" x="890" y="1319" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-journal" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7C3AED;fontSize=14;" value="Phân tích nhật ký sức khỏe" vertex="1">
+          <mxGeometry height="60" width="220" x="1160" y="1319" as="geometry" />
+        </mxCell>
+        <mxCell id="pkg-notify" parent="1" style="swimlane;html=1;startSize=32;rounded=1;arcSize=8;fillColor=#FFEDD5;strokeColor=#EA580C;fontStyle=1;fontSize=14;" value="NHẮC NHỞ VÀ THÔNG BÁO" vertex="1">
+          <mxGeometry height="310" width="550" x="1460" y="1159" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-reminder" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#EA580C;fontSize=14;" value="Tạo và quản lý lịch nhắc" vertex="1">
+          <mxGeometry height="60" width="210" x="1500" y="1219" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-notification" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#EA580C;fontSize=14;" value="Nhận thông báo realtime" vertex="1">
+          <mxGeometry height="60" width="210" x="1760" y="1219" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-read" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#EA580C;fontSize=14;" value="Xem và đánh dấu đã đọc" vertex="1">
+          <mxGeometry height="60" width="210" x="1500" y="1319" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-email" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#EA580C;fontSize=14;" value="Nhận email nhắc / cảnh báo" vertex="1">
+          <mxGeometry height="60" width="210" x="1760" y="1319" as="geometry" />
+        </mxCell>
+        <mxCell id="include-chat-source" edge="1" parent="1" source="uc-chat" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;fontSize=14;" target="uc-sources" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="include-report-insight" edge="1" parent="1" source="uc-insight" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;fontSize=14;" target="uc-report" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pkg-admin" parent="1" style="swimlane;html=1;startSize=32;rounded=1;arcSize=8;fillColor=#E5E7EB;strokeColor=#4B5563;fontStyle=1;fontSize=14;" value="QUẢN TRỊ HỆ THỐNG" vertex="1">
+          <mxGeometry height="420" width="1700" x="292" y="1817" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="healthcare-erd" name="ERD Tong quat">
+    <mxGraphModel dx="6007" dy="3837" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="1800" math="0" shadow="0">
+      <root>
+        <mxCell id="erd-0" />
+        <mxCell id="erd-1" parent="erd-0" />
+        <mxCell id="erd-title" parent="erd-1" style="text;html=1;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;fontColor=#1F2937;whiteSpace=wrap;" value="ERD TỔNG QUÁT - HEALTHCARE DIABETES" vertex="1">
+          <mxGeometry height="50" width="1000" x="790" y="-330" as="geometry" />
+        </mxCell>
+        <mxCell id="legend" parent="erd-1" style="rounded=1;html=1;fillColor=#FFF7ED;strokeColor=#EA580C;align=left;spacingLeft=10;fontSize=14;whiteSpace=wrap;" value="Nét liền: quan hệ FK/vật lý&#xa;Nét đứt: liên kết logic qua user_id hoặc event" vertex="1">
+          <mxGeometry height="60" width="330" x="-60" y="-180" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-users" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#DBEAFE;strokeColor=#2563EB;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;USERS&lt;/b&gt;&lt;hr&gt;PK id: bigint&lt;br&gt;email: varchar (UK)&lt;br&gt;full_name: varchar&lt;br&gt;phone_number: varchar&lt;br&gt;status: varchar&lt;br&gt;avatar: varchar&lt;br&gt;deleted: boolean" vertex="1">
+          <mxGeometry height="190" width="260" x="1080" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-roles" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#DBEAFE;strokeColor=#2563EB;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;ROLES&lt;/b&gt;&lt;hr&gt;PK id: bigint&lt;br&gt;name: varchar" vertex="1">
+          <mxGeometry height="110" width="220" x="500" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-users-roles" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#EFF6FF;strokeColor=#2563EB;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;USERS_ROLES&lt;/b&gt;&lt;hr&gt;PK/FK user_id&lt;br&gt;PK/FK role_id" vertex="1">
+          <mxGeometry height="110" width="220" x="500" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-health-profile" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#DCFCE7;strokeColor=#16A34A;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;HEALTH_PROFILES&lt;/b&gt;&lt;hr&gt;PK/FK user_id&lt;br&gt;height_cm, weight_kg&lt;br&gt;waist_cm, hip_cm&lt;br&gt;bmi, bmr, tdee&lt;br&gt;activity_level&lt;br&gt;smoking_status" vertex="1">
+          <mxGeometry height="190" width="260" x="40" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-medical-history" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#DCFCE7;strokeColor=#16A34A;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;MEDICAL_HISTORIES&lt;/b&gt;&lt;hr&gt;PK/FK user_id&lt;br&gt;diabetes_type&lt;br&gt;hypertension&lt;br&gt;cardiovascular_disease&lt;br&gt;kidney_disease&lt;br&gt;current_medications" vertex="1">
+          <mxGeometry height="190" width="260" x="340" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-clinical-context" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#DCFCE7;strokeColor=#16A34A;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;CLINICAL_CONTEXTS&lt;/b&gt;&lt;hr&gt;PK/FK user_id&lt;br&gt;diabetes_status&lt;br&gt;pregnancy_status&lt;br&gt;treatment_mode&lt;br&gt;confirmed_complications&lt;br&gt;clinician_verified" vertex="1">
+          <mxGeometry height="190" width="260" x="640" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-glucose" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#DCFCE7;strokeColor=#16A34A;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;GLUCOSE_MEASUREMENTS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;meal_log_id (logical)&lt;br&gt;glucose_value, unit&lt;br&gt;measurement_context&lt;br&gt;measured_at" vertex="1">
+          <mxGeometry height="190" width="260" x="940" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-goals" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#DCFCE7;strokeColor=#16A34A;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;HEALTH_GOALS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;goal_type&lt;br&gt;target_value&lt;br&gt;target_date&lt;br&gt;status" vertex="1">
+          <mxGeometry height="190" width="240" x="1240" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-diagnosis" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#DCFCE7;strokeColor=#16A34A;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;DIAGNOSIS_SESSIONS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;FK baseline_id&lt;br&gt;session_type&lt;br&gt;source_type&lt;br&gt;status" vertex="1">
+          <mxGeometry height="190" width="250" x="1520" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-assessment" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#DCFCE7;strokeColor=#16A34A;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;HEALTH_ASSESSMENTS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;FK health_profile_id&lt;br&gt;diagnosis_session_id&lt;br&gt;risk_level&lt;br&gt;health_score" vertex="1">
+          <mxGeometry height="190" width="250" x="1810" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-risk" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#DCFCE7;strokeColor=#16A34A;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;RISK_PREDICTIONS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;FK assessment_id&lt;br&gt;model_name&lt;br&gt;risk_percent&lt;br&gt;risk_band" vertex="1">
+          <mxGeometry height="190" width="250" x="2100" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-document" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#CCFBF1;strokeColor=#0F766E;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;CLINICAL_DOCUMENTS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;FK diagnosis_session_id&lt;br&gt;file_url, provider_name&lt;br&gt;ocr_engine&lt;br&gt;verification_status" vertex="1">
+          <mxGeometry height="190" width="270" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-lab-panel" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#CCFBF1;strokeColor=#0F766E;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;LAB_PANELS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;FK clinical_document_id&lt;br&gt;FK diagnosis_session_id&lt;br&gt;sampled_at&lt;br&gt;status" vertex="1">
+          <mxGeometry height="190" width="260" x="310" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-lab-result" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#CCFBF1;strokeColor=#0F766E;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;LAB_RESULTS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK lab_panel_id&lt;br&gt;test_code, test_name&lt;br&gt;value, unit&lt;br&gt;abnormal_flag&lt;br&gt;is_verified" vertex="1">
+          <mxGeometry height="190" width="250" x="610" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-observation" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#CCFBF1;strokeColor=#0F766E;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;CLINICAL_OBSERVATIONS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK diagnosis_session_id&lt;br&gt;FK clinical_document_id&lt;br&gt;observation_code&lt;br&gt;value, unit&lt;br&gt;is_verified" vertex="1">
+          <mxGeometry height="190" width="270" x="900" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-baseline" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#CCFBF1;strokeColor=#0F766E;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;CLINICAL_BASELINES&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK/UK user_id&lt;br&gt;FK/UK diagnosis_session_id&lt;br&gt;FK supersedes_baseline_id&lt;br&gt;effective_at&lt;br&gt;status" vertex="1">
+          <mxGeometry height="190" width="270" x="1210" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-pregnancy" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#CCFBF1;strokeColor=#0F766E;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;PREGNANCY_HEALTH_RECORDS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK/UK user_id&lt;br&gt;FK/UK baseline_id&lt;br&gt;pregnancy_status&lt;br&gt;gestational_age_weeks&lt;br&gt;estimated_due_date" vertex="1">
+          <mxGeometry height="190" width="280" x="1800" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-conclusion" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#CCFBF1;strokeColor=#0F766E;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;CLINICAL_CONCLUSIONS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK baseline_id&lt;br&gt;FK clinical_document_id&lt;br&gt;condition_code&lt;br&gt;clinical_status&lt;br&gt;verification_status" vertex="1">
+          <mxGeometry height="190" width="270" x="1610" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-meal-template" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#FEF3C7;strokeColor=#D97706;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;NUTRITION_MEAL_TEMPLATES&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;name, category&lt;br&gt;calories, glycemic_load&lt;br&gt;meal_type&lt;br&gt;suitability flags&lt;br&gt;ingredients (text)" vertex="1">
+          <mxGeometry height="190" width="280" x="20" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-user-type" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#FEF3C7;strokeColor=#D97706;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;NUTRITION_USER_TYPES&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;type_user (UK)" vertex="1">
+          <mxGeometry height="120" width="240" x="340" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-template-type" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#FFFBEB;strokeColor=#D97706;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;MEAL_TEMPLATE_USER_TYPES&lt;/b&gt;&lt;hr&gt;PK/FK meal_template_id&lt;br&gt;PK/FK user_type_id" vertex="1">
+          <mxGeometry height="120" width="260" x="185" y="2090" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-ingredient" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#FEF3C7;strokeColor=#D97706;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;INGREDIENT&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;food_name&lt;br&gt;normalized_name&lt;br&gt;calories, protein&lt;br&gt;fat, carbs" vertex="1">
+          <mxGeometry height="170" width="240" x="630" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-meal-history" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#FEF3C7;strokeColor=#D97706;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;MEAL_HISTORY&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;user_id (logical)&lt;br&gt;image, name&lt;br&gt;analysis_status&lt;br&gt;total_calories/protein&lt;br&gt;total_fat/carbs" vertex="1">
+          <mxGeometry height="190" width="260" x="980" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-report" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#FCE7F3;strokeColor=#DB2777;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;PERIODIC_REPORTS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;period_type/start/end&lt;br&gt;avg_glucose&lt;br&gt;health_score, bmi&lt;br&gt;achievements/issues JSON" vertex="1">
+          <mxGeometry height="190" width="270" x="1215" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-export" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#FCE7F3;strokeColor=#DB2777;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;REPORT_EXPORTS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK report_id&lt;br&gt;FK user_id&lt;br&gt;export_format&lt;br&gt;file_url" vertex="1">
+          <mxGeometry height="170" width="230" x="1690" y="1850" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-insight" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#FCE7F3;strokeColor=#DB2777;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;AI_INSIGHTS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;FK assessment_id&lt;br&gt;FK risk_prediction_id&lt;br&gt;insight_type&lt;br&gt;llm_model" vertex="1">
+          <mxGeometry height="190" width="250" x="2390" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-journal" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#EDE9FE;strokeColor=#7C3AED;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;JOURNAL_ENTRIES&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;title, content&lt;br&gt;mood&lt;br&gt;symptom_tags JSON" vertex="1">
+          <mxGeometry height="170" width="240" x="2870" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-journal-analysis" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#EDE9FE;strokeColor=#7C3AED;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;JOURNAL_ANALYSES&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK journal_entry_id&lt;br&gt;extracted_symptoms JSON&lt;br&gt;extracted_trends JSON&lt;br&gt;risk_flag&lt;br&gt;summary" vertex="1">
+          <mxGeometry height="190" width="260" x="1945" y="2150" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-reminder" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#FFEDD5;strokeColor=#EA580C;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;REMINDERS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;user_id (logical)&lt;br&gt;reminder_type&lt;br&gt;recurrence&lt;br&gt;scheduled_time&lt;br&gt;next_run_at, enabled" vertex="1">
+          <mxGeometry height="190" width="250" x="-230" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-execution" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#FFEDD5;strokeColor=#EA580C;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;REMINDER_EXECUTIONS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK reminder_id&lt;br&gt;user_id (logical)&lt;br&gt;scheduled_at&lt;br&gt;status&lt;br&gt;acted_at" vertex="1">
+          <mxGeometry height="190" width="260" x="175" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-notification" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#FFEDD5;strokeColor=#EA580C;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;NOTIFICATIONS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;user_id (logical)&lt;br&gt;FK reminder_execution_id&lt;br&gt;source_event_id&lt;br&gt;type, severity&lt;br&gt;is_read, read_at" vertex="1">
+          <mxGeometry height="190" width="270" x="485" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-health-alert" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#FEE2E2;strokeColor=#DC2626;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;HEALTH_ALERTS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK user_id&lt;br&gt;alert_type&lt;br&gt;severity&lt;br&gt;evidence JSON&lt;br&gt;dedupe_key, status" vertex="1">
+          <mxGeometry height="190" width="250" x="805" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-outbox" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#FEE2E2;strokeColor=#DC2626;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;HEALTH_OUTBOX_EVENTS&lt;/b&gt;&lt;hr&gt;PK event_id: UUID&lt;br&gt;event_type&lt;br&gt;aggregate_type/id&lt;br&gt;payload JSON&lt;br&gt;status, retry_count" vertex="1">
+          <mxGeometry height="190" width="270" x="1105" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-inbox" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#FFEDD5;strokeColor=#EA580C;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;INBOX_EVENTS&lt;/b&gt;&lt;hr&gt;PK event_id: UUID&lt;br&gt;source_service&lt;br&gt;event_type&lt;br&gt;received_at&lt;br&gt;processed_at" vertex="1">
+          <mxGeometry height="170" width="240" x="1425" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="erd-rag-store" parent="erd-1" style="rounded=1;html=1;align=left;verticalAlign=top;spacing=10;fillColor=#EDE9FE;strokeColor=#7C3AED;dashed=1;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;RAG DATA (LOGICAL)&lt;/b&gt;&lt;hr&gt;Qdrant: document chunks, embeddings, user knowledge&lt;br&gt;&lt;br&gt;Redis: session, chat history, cache" vertex="1">
+          <mxGeometry height="160" width="420" x="2150" y="2420" as="geometry" />
+        </mxCell>
+        <mxCell id="r-role-join" edge="1" parent="erd-1" source="erd-roles" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;" target="erd-users-roles" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-user-role" edge="1" parent="erd-1" source="erd-users" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;rounded=0;curved=0;" target="erd-users-roles" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-user-profile" edge="1" parent="erd-1" source="erd-users" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERzeroToOne;startArrow=ERone;fontSize=14;rounded=0;curved=0;" target="erd-health-profile" value="1 : 0..1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-user-medical" edge="1" parent="erd-1" source="erd-users" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERzeroToOne;startArrow=ERone;fontSize=14;rounded=0;curved=0;" target="erd-medical-history" value="1 : 0..1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-user-context" edge="1" parent="erd-1" source="erd-users" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERzeroToOne;startArrow=ERone;fontSize=14;rounded=0;curved=0;" target="erd-clinical-context" value="1 : 0..1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-user-glucose" edge="1" parent="erd-1" source="erd-users" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;rounded=0;curved=0;" target="erd-glucose" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-user-goal" edge="1" parent="erd-1" source="erd-users" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;curved=0;" target="erd-goals" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-user-diagnosis" edge="1" parent="erd-1" source="erd-users" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;rounded=0;curved=0;" target="erd-diagnosis" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-profile-assessment" edge="1" parent="erd-1" source="erd-health-profile" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;curved=0;" target="erd-assessment" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-assessment-risk" edge="1" parent="erd-1" source="erd-assessment" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;" target="erd-risk" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-diagnosis-doc" edge="1" parent="erd-1" source="erd-diagnosis" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=0;curved=0;" target="erd-document" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-doc-panel" edge="1" parent="erd-1" source="erd-document" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;" target="erd-lab-panel" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-panel-result" edge="1" parent="erd-1" source="erd-lab-panel" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;" target="erd-lab-result" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-doc-observation" edge="1" parent="erd-1" source="erd-document" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;" target="erd-observation" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-diagnosis-baseline" edge="1" parent="erd-1" source="erd-diagnosis" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERzeroToOne;startArrow=ERone;fontSize=14;" target="erd-baseline" value="1 : 0..1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-baseline-pregnancy" edge="1" parent="erd-1" source="erd-baseline" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERzeroToOne;startArrow=ERone;fontSize=14;" target="erd-pregnancy" value="1 : 0..1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-baseline-conclusion" edge="1" parent="erd-1" source="erd-baseline" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;rounded=0;curved=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="erd-conclusion" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-baseline-comparison" edge="1" parent="erd-1" source="erd-baseline" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=0;curved=0;" target="erd-comparison" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-template-type" edge="1" parent="erd-1" source="erd-meal-template" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;rounded=0;curved=0;" target="erd-template-type" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-type-template" edge="1" parent="erd-1" source="erd-user-type" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;rounded=0;curved=0;" target="erd-template-type" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-user-meal" edge="1" parent="erd-1" source="erd-users" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;endArrow=open;fontSize=14;rounded=0;curved=0;" target="erd-meal-history" value="logical user_id">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-user-report" edge="1" parent="erd-1" source="erd-comparison" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;rounded=0;curved=0;" target="erd-report" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-report-export" edge="1" parent="erd-1" source="erd-report" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;rounded=0;curved=0;" target="erd-export" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-risk-insight" edge="1" parent="erd-1" source="erd-risk" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;rounded=0;curved=0;exitX=0.56;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="erd-insight" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-user-journal" edge="1" parent="erd-1" source="erd-users" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;rounded=0;curved=0;" target="erd-journal" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-journal-analysis" edge="1" parent="erd-1" source="erd-journal" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="erd-journal-analysis" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-user-reminder" edge="1" parent="erd-1" source="erd-users" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;endArrow=open;fontSize=14;rounded=0;curved=0;" target="erd-reminder" value="logical user_id">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-reminder-execution" edge="1" parent="erd-1" source="erd-reminder" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;" target="erd-execution" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-execution-notification" edge="1" parent="erd-1" source="erd-execution" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;" target="erd-notification" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-user-alert" edge="1" parent="erd-1" source="erd-users" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;rounded=0;curved=0;" target="erd-health-alert" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-alert-outbox" edge="1" parent="erd-1" source="erd-health-alert" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;endArrow=open;fontSize=14;" target="erd-outbox" value="event">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-outbox-inbox" edge="1" parent="erd-1" source="erd-outbox" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;endArrow=open;fontSize=14;" target="erd-inbox" value="event_id">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-user-rag" edge="1" parent="erd-1" source="erd-users" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;endArrow=open;fontSize=14;rounded=0;curved=0;" target="erd-rag-store" value="gateway context">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EuOOLYuCJqrd84cmyz5-0" edge="1" parent="erd-1" source="erd-users" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;startArrow=ERone;fontSize=14;rounded=0;curved=0;" target="erd-comparison" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="120" as="sourcePoint" />
+            <mxPoint x="1355" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="erd-comparison" parent="erd-1" style="rounded=0;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#CCFBF1;strokeColor=#0F766E;fontSize=14;whiteSpace=wrap;" value="&lt;b&gt;BASELINE_COMPARISONS&lt;/b&gt;&lt;hr&gt;PK id&lt;br&gt;FK baseline_id&lt;br&gt;FK diagnosis_session_id&lt;br&gt;metric_code&lt;br&gt;baseline/current_value&lt;br&gt;delta_percent" vertex="1">
+          <mxGeometry height="190" width="280" x="-800" y="1380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

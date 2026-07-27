@@ -1,0 +1,925 @@
+<mxfile host="app.diagrams.net" agent="Codex">
+  <diagram id="database-overview" name="CSDL Tong quat">
+    <mxGraphModel dx="1202" dy="2569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2650" pageHeight="1850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;align=center;fontSize=24;fontStyle=1;" value="LƯỢC ĐỒ CƠ SỞ DỮ LIỆU TỔNG QUÁT - HEALTHCARE DIABETES" vertex="1">
+          <mxGeometry height="50" width="1300" x="600" y="-330" as="geometry" />
+        </mxCell>
+        <mxCell id="legend" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#EA580C;align=left;spacingLeft=8;fontSize=11;" value="PK: khóa chính   FK: khóa ngoại   UK: duy nhất&#xa;Nét liền: FK vật lý   Nét đứt: liên kết logic giữa service" vertex="1">
+          <mxGeometry height="55" width="430" x="30" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="users" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="users" vertex="1">
+          <mxGeometry height="214" width="300" x="1080" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="users-f0" parent="users" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="users-f1" parent="users" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="full_name : varchar(255)" vertex="1">
+          <mxGeometry height="23" width="300" y="53" as="geometry" />
+        </mxCell>
+        <mxCell id="users-f2" parent="users" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="UK email : varchar(255)" vertex="1">
+          <mxGeometry height="23" width="300" y="76" as="geometry" />
+        </mxCell>
+        <mxCell id="users-f3" parent="users" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="phone_number : varchar(30)" vertex="1">
+          <mxGeometry height="23" width="300" y="99" as="geometry" />
+        </mxCell>
+        <mxCell id="users-f4" parent="users" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="password : varchar(255)" vertex="1">
+          <mxGeometry height="23" width="300" y="122" as="geometry" />
+        </mxCell>
+        <mxCell id="users-f5" parent="users" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="status : varchar(20)" vertex="1">
+          <mxGeometry height="23" width="300" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="users-f6" parent="users" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="avatar : varchar(500)" vertex="1">
+          <mxGeometry height="23" width="300" y="168" as="geometry" />
+        </mxCell>
+        <mxCell id="users-f7" parent="users" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="created_at : timestamp" vertex="1">
+          <mxGeometry height="23" width="300" y="191" as="geometry" />
+        </mxCell>
+        <mxCell id="roles" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="roles" vertex="1">
+          <mxGeometry height="74" width="250" x="650" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="roles-f0" parent="roles" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="250" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="roles-f1" parent="roles" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="UK name : varchar(100)" vertex="1">
+          <mxGeometry height="23" width="250" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="users_roles" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="users_roles" vertex="1">
+          <mxGeometry height="74" width="260" x="680" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="users_roles-f0" parent="users_roles" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK/FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="260" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="users_roles-f1" parent="users_roles" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK/FK role_id : bigint" vertex="1">
+          <mxGeometry height="23" width="260" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="health_profiles" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="health_profiles" vertex="1">
+          <mxGeometry height="189" width="280" x="40" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="health_profiles-f0" parent="health_profiles" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK/FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="280" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="health_profiles-f1" parent="health_profiles" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="date_of_birth : date" vertex="1">
+          <mxGeometry height="23" width="280" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="health_profiles-f2" parent="health_profiles" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="gender : varchar(20)" vertex="1">
+          <mxGeometry height="23" width="280" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="health_profiles-f3" parent="health_profiles" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="height_cm : decimal" vertex="1">
+          <mxGeometry height="23" width="280" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="health_profiles-f4" parent="health_profiles" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="weight_kg : decimal" vertex="1">
+          <mxGeometry height="23" width="280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="health_profiles-f5" parent="health_profiles" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="bmi : decimal" vertex="1">
+          <mxGeometry height="23" width="280" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="health_profiles-f6" parent="health_profiles" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="activity_level : varchar(50)" vertex="1">
+          <mxGeometry height="23" width="280" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="medical_histories" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="medical_histories" vertex="1">
+          <mxGeometry height="166" width="290" x="350" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="medical_histories-f0" parent="medical_histories" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK/FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="medical_histories-f1" parent="medical_histories" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="diabetes_type : varchar(50)" vertex="1">
+          <mxGeometry height="23" width="290" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="medical_histories-f2" parent="medical_histories" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="hypertension : boolean" vertex="1">
+          <mxGeometry height="23" width="290" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="medical_histories-f3" parent="medical_histories" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="cardiovascular_disease : boolean" vertex="1">
+          <mxGeometry height="23" width="290" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="medical_histories-f4" parent="medical_histories" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="kidney_disease : boolean" vertex="1">
+          <mxGeometry height="23" width="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="medical_histories-f5" parent="medical_histories" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="current_medications : text" vertex="1">
+          <mxGeometry height="23" width="290" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="clinical_contexts" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="clinical_contexts" vertex="1">
+          <mxGeometry height="166" width="290" x="670" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="clinical_contexts-f0" parent="clinical_contexts" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK/FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="clinical_contexts-f1" parent="clinical_contexts" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="diabetes_status : varchar(40)" vertex="1">
+          <mxGeometry height="23" width="290" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="clinical_contexts-f2" parent="clinical_contexts" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="pregnancy_status : varchar(40)" vertex="1">
+          <mxGeometry height="23" width="290" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="clinical_contexts-f3" parent="clinical_contexts" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="treatment_mode : varchar(40)" vertex="1">
+          <mxGeometry height="23" width="290" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="clinical_contexts-f4" parent="clinical_contexts" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="confirmed_complications : jsonb" vertex="1">
+          <mxGeometry height="23" width="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="clinical_contexts-f5" parent="clinical_contexts" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="clinician_verified : boolean" vertex="1">
+          <mxGeometry height="23" width="290" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="glucose" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="glucose_measurements" vertex="1">
+          <mxGeometry height="189" width="290" x="990" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="glucose-f0" parent="glucose" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="glucose-f1" parent="glucose" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="glucose-f2" parent="glucose" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="meal_log_id : bigint (logic)" vertex="1">
+          <mxGeometry height="23" width="290" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="glucose-f3" parent="glucose" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="glucose_value : decimal" vertex="1">
+          <mxGeometry height="23" width="290" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="glucose-f4" parent="glucose" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="unit : varchar(20)" vertex="1">
+          <mxGeometry height="23" width="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="glucose-f5" parent="glucose" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="measurement_context : varchar(50)" vertex="1">
+          <mxGeometry height="23" width="290" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="glucose-f6" parent="glucose" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="measured_at : timestamp" vertex="1">
+          <mxGeometry height="23" width="290" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="goals" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="health_goals" vertex="1">
+          <mxGeometry height="166" width="270" x="1310" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="goals-f0" parent="goals" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="270" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="goals-f1" parent="goals" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="270" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="goals-f2" parent="goals" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="goal_type : varchar(100)" vertex="1">
+          <mxGeometry height="23" width="270" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="goals-f3" parent="goals" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="target_value : decimal" vertex="1">
+          <mxGeometry height="23" width="270" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="goals-f4" parent="goals" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="target_date : date" vertex="1">
+          <mxGeometry height="23" width="270" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="goals-f5" parent="goals" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="status : varchar(50)" vertex="1">
+          <mxGeometry height="23" width="270" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="diagnosis" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="diagnosis_sessions" vertex="1">
+          <mxGeometry height="189" width="290" x="1610" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="diagnosis-f0" parent="diagnosis" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="diagnosis-f1" parent="diagnosis" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="diagnosis-f2" parent="diagnosis" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK baseline_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="diagnosis-f3" parent="diagnosis" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="session_type : varchar(50)" vertex="1">
+          <mxGeometry height="23" width="290" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="diagnosis-f4" parent="diagnosis" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="source_type : varchar(50)" vertex="1">
+          <mxGeometry height="23" width="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="diagnosis-f5" parent="diagnosis" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="data_quality_status : varchar(30)" vertex="1">
+          <mxGeometry height="23" width="290" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="diagnosis-f6" parent="diagnosis" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="status : varchar(30)" vertex="1">
+          <mxGeometry height="23" width="290" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="assessment" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="health_assessments" vertex="1">
+          <mxGeometry height="189" width="300" x="1930" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="assessment-f0" parent="assessment" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="assessment-f1" parent="assessment" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="assessment-f2" parent="assessment" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK health_profile_id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="assessment-f3" parent="assessment" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="diagnosis_session_id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="assessment-f4" parent="assessment" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="risk_level : varchar(50)" vertex="1">
+          <mxGeometry height="23" width="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="assessment-f5" parent="assessment" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="health_score : decimal" vertex="1">
+          <mxGeometry height="23" width="300" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="assessment-f6" parent="assessment" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="findings_json : jsonb" vertex="1">
+          <mxGeometry height="23" width="300" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="prediction" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="risk_predictions" vertex="1">
+          <mxGeometry height="189" width="290" x="2260" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="prediction-f0" parent="prediction" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="prediction-f1" parent="prediction" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="prediction-f2" parent="prediction" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK assessment_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="prediction-f3" parent="prediction" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="model_name : varchar(100)" vertex="1">
+          <mxGeometry height="23" width="290" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="prediction-f4" parent="prediction" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="prediction_type : varchar(100)" vertex="1">
+          <mxGeometry height="23" width="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="prediction-f5" parent="prediction" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="risk_percent : decimal" vertex="1">
+          <mxGeometry height="23" width="290" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="prediction-f6" parent="prediction" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="risk_band : varchar(50)" vertex="1">
+          <mxGeometry height="23" width="290" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="documents" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="clinical_documents" vertex="1">
+          <mxGeometry height="189" width="300" x="40" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="documents-f0" parent="documents" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="documents-f1" parent="documents" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="documents-f2" parent="documents" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK diagnosis_session_id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="documents-f3" parent="documents" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="document_type : varchar(50)" vertex="1">
+          <mxGeometry height="23" width="300" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="documents-f4" parent="documents" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="file_url : varchar(500)" vertex="1">
+          <mxGeometry height="23" width="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="documents-f5" parent="documents" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="ocr_engine : varchar(100)" vertex="1">
+          <mxGeometry height="23" width="300" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="documents-f6" parent="documents" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="verification_status : varchar(30)" vertex="1">
+          <mxGeometry height="23" width="300" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="lab_panels" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="lab_panels" vertex="1">
+          <mxGeometry height="166" width="290" x="370" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="lab_panels-f0" parent="lab_panels" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="lab_panels-f1" parent="lab_panels" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="lab_panels-f2" parent="lab_panels" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK clinical_document_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="lab_panels-f3" parent="lab_panels" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK diagnosis_session_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="lab_panels-f4" parent="lab_panels" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="sampled_at : timestamp" vertex="1">
+          <mxGeometry height="23" width="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lab_panels-f5" parent="lab_panels" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="status : varchar(30)" vertex="1">
+          <mxGeometry height="23" width="290" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="lab_results" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="lab_results" vertex="1">
+          <mxGeometry height="189" width="280" x="690" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="lab_results-f0" parent="lab_results" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="280" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="lab_results-f1" parent="lab_results" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK lab_panel_id : bigint" vertex="1">
+          <mxGeometry height="23" width="280" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="lab_results-f2" parent="lab_results" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="test_code : varchar(80)" vertex="1">
+          <mxGeometry height="23" width="280" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="lab_results-f3" parent="lab_results" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="value : decimal" vertex="1">
+          <mxGeometry height="23" width="280" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="lab_results-f4" parent="lab_results" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="unit : varchar(50)" vertex="1">
+          <mxGeometry height="23" width="280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lab_results-f5" parent="lab_results" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="abnormal_flag : varchar(20)" vertex="1">
+          <mxGeometry height="23" width="280" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="lab_results-f6" parent="lab_results" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="is_verified : boolean" vertex="1">
+          <mxGeometry height="23" width="280" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="observations" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="clinical_observations" vertex="1">
+          <mxGeometry height="189" width="300" x="1000" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="observations-f0" parent="observations" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="observations-f1" parent="observations" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK diagnosis_session_id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="observations-f2" parent="observations" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK clinical_document_id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="observations-f3" parent="observations" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="observation_code : varchar(80)" vertex="1">
+          <mxGeometry height="23" width="300" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="observations-f4" parent="observations" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="value : decimal" vertex="1">
+          <mxGeometry height="23" width="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="observations-f5" parent="observations" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="unit : varchar(50)" vertex="1">
+          <mxGeometry height="23" width="300" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="observations-f6" parent="observations" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="is_verified : boolean" vertex="1">
+          <mxGeometry height="23" width="300" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="baseline" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="clinical_baselines" vertex="1">
+          <mxGeometry height="166" width="300" x="1330" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="baseline-f0" parent="baseline" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="baseline-f1" parent="baseline" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK/UK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="baseline-f2" parent="baseline" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK/UK diagnosis_session_id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="baseline-f3" parent="baseline" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK supersedes_baseline_id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="baseline-f4" parent="baseline" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="effective_at : timestamp" vertex="1">
+          <mxGeometry height="23" width="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="baseline-f5" parent="baseline" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="status : varchar(30)" vertex="1">
+          <mxGeometry height="23" width="300" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="conclusions" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="clinical_conclusions" vertex="1">
+          <mxGeometry height="166" width="300" x="1660" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="conclusions-f0" parent="conclusions" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="conclusions-f1" parent="conclusions" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK clinical_baseline_id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="conclusions-f2" parent="conclusions" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK clinical_document_id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="conclusions-f3" parent="conclusions" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="condition_code : varchar(80)" vertex="1">
+          <mxGeometry height="23" width="300" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="conclusions-f4" parent="conclusions" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="clinical_status : varchar(40)" vertex="1">
+          <mxGeometry height="23" width="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="conclusions-f5" parent="conclusions" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="verification_status : varchar(40)" vertex="1">
+          <mxGeometry height="23" width="300" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="comparisons" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="baseline_comparisons" vertex="1">
+          <mxGeometry height="189" width="300" x="1990" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="comparisons-f0" parent="comparisons" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="comparisons-f1" parent="comparisons" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK clinical_baseline_id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="comparisons-f2" parent="comparisons" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK diagnosis_session_id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="comparisons-f3" parent="comparisons" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="metric_code : varchar(80)" vertex="1">
+          <mxGeometry height="23" width="300" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="comparisons-f4" parent="comparisons" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="baseline_value : decimal" vertex="1">
+          <mxGeometry height="23" width="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="comparisons-f5" parent="comparisons" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="current_value : decimal" vertex="1">
+          <mxGeometry height="23" width="300" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="comparisons-f6" parent="comparisons" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="delta_percent : decimal" vertex="1">
+          <mxGeometry height="23" width="300" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="pregnancy" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="pregnancy_health_records" vertex="1">
+          <mxGeometry height="166" width="290" x="2320" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="pregnancy-f0" parent="pregnancy" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="pregnancy-f1" parent="pregnancy" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK/UK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pregnancy-f2" parent="pregnancy" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK/UK clinical_baseline_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="pregnancy-f3" parent="pregnancy" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="pregnancy_status : varchar(30)" vertex="1">
+          <mxGeometry height="23" width="290" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="pregnancy-f4" parent="pregnancy" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="gestational_age_weeks : smallint" vertex="1">
+          <mxGeometry height="23" width="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pregnancy-f5" parent="pregnancy" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="estimated_due_date : date" vertex="1">
+          <mxGeometry height="23" width="290" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="ingredients" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="ingredient" vertex="1">
+          <mxGeometry height="189" width="280" x="40" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="ingredients-f0" parent="ingredients" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="280" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ingredients-f1" parent="ingredients" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="food_name : varchar(255)" vertex="1">
+          <mxGeometry height="23" width="280" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ingredients-f2" parent="ingredients" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="normalized_name : varchar(255)" vertex="1">
+          <mxGeometry height="23" width="280" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="ingredients-f3" parent="ingredients" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="calories : decimal" vertex="1">
+          <mxGeometry height="23" width="280" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="ingredients-f4" parent="ingredients" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="protein : decimal" vertex="1">
+          <mxGeometry height="23" width="280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ingredients-f5" parent="ingredients" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="fat : decimal" vertex="1">
+          <mxGeometry height="23" width="280" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="ingredients-f6" parent="ingredients" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="carbs : decimal" vertex="1">
+          <mxGeometry height="23" width="280" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_templates" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="nutrition_meal_templates" vertex="1">
+          <mxGeometry height="189" width="290" x="350" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_templates-f0" parent="meal_templates" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_templates-f1" parent="meal_templates" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="name : varchar(255)" vertex="1">
+          <mxGeometry height="23" width="290" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_templates-f2" parent="meal_templates" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="category : text" vertex="1">
+          <mxGeometry height="23" width="290" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_templates-f3" parent="meal_templates" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="calories : integer" vertex="1">
+          <mxGeometry height="23" width="290" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_templates-f4" parent="meal_templates" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="glycemic_load : decimal" vertex="1">
+          <mxGeometry height="23" width="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_templates-f5" parent="meal_templates" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="meal_type : text" vertex="1">
+          <mxGeometry height="23" width="290" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_templates-f6" parent="meal_templates" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="ingredients : text" vertex="1">
+          <mxGeometry height="23" width="290" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="user_types" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="nutrition_user_types" vertex="1">
+          <mxGeometry height="74" width="270" x="670" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="user_types-f0" parent="user_types" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="270" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="user_types-f1" parent="user_types" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="UK type_user : varchar(120)" vertex="1">
+          <mxGeometry height="23" width="270" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_type_map" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="meal_template_user_types" vertex="1">
+          <mxGeometry height="74" width="290" x="970" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_type_map-f0" parent="meal_type_map" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK/FK meal_template_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_type_map-f1" parent="meal_type_map" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK/FK user_type_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_history" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="meal_history" vertex="1">
+          <mxGeometry height="189" width="290" x="1290" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_history-f0" parent="meal_history" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_history-f1" parent="meal_history" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="user_id : bigint (logic)" vertex="1">
+          <mxGeometry height="23" width="290" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_history-f2" parent="meal_history" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="image : varchar" vertex="1">
+          <mxGeometry height="23" width="290" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_history-f3" parent="meal_history" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="analysis_status : varchar(20)" vertex="1">
+          <mxGeometry height="23" width="290" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_history-f4" parent="meal_history" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="total_calories : decimal" vertex="1">
+          <mxGeometry height="23" width="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_history-f5" parent="meal_history" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="total_protein : decimal" vertex="1">
+          <mxGeometry height="23" width="290" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="meal_history-f6" parent="meal_history" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="created_at : timestamp" vertex="1">
+          <mxGeometry height="23" width="290" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="reports" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="periodic_reports" vertex="1">
+          <mxGeometry height="189" width="290" x="1610" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="reports-f0" parent="reports" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="reports-f1" parent="reports" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="reports-f2" parent="reports" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="period_type : varchar(20)" vertex="1">
+          <mxGeometry height="23" width="290" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="reports-f3" parent="reports" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="period_start/end : date" vertex="1">
+          <mxGeometry height="23" width="290" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="reports-f4" parent="reports" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="avg_glucose : decimal" vertex="1">
+          <mxGeometry height="23" width="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="reports-f5" parent="reports" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="health_score : decimal" vertex="1">
+          <mxGeometry height="23" width="290" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="reports-f6" parent="reports" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="achievements_json : jsonb" vertex="1">
+          <mxGeometry height="23" width="290" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="exports" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="report_exports" vertex="1">
+          <mxGeometry height="143" width="280" x="1930" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="exports-f0" parent="exports" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="280" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="exports-f1" parent="exports" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK report_id : bigint" vertex="1">
+          <mxGeometry height="23" width="280" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="exports-f2" parent="exports" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="280" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="exports-f3" parent="exports" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="export_format : varchar(20)" vertex="1">
+          <mxGeometry height="23" width="280" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="exports-f4" parent="exports" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="file_url : varchar(500)" vertex="1">
+          <mxGeometry height="23" width="280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="insights" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="ai_insights" vertex="1">
+          <mxGeometry height="166" width="290" x="2240" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="insights-f0" parent="insights" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="insights-f1" parent="insights" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="insights-f2" parent="insights" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK assessment_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="insights-f3" parent="insights" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK risk_prediction_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="insights-f4" parent="insights" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="insight_type : varchar(100)" vertex="1">
+          <mxGeometry height="23" width="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="insights-f5" parent="insights" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="llm_model : varchar(100)" vertex="1">
+          <mxGeometry height="23" width="290" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="journal" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="journal_entries" vertex="1">
+          <mxGeometry height="166" width="280" x="40" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="journal-f0" parent="journal" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="280" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="journal-f1" parent="journal" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="280" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="journal-f2" parent="journal" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="title : varchar(255)" vertex="1">
+          <mxGeometry height="23" width="280" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="journal-f3" parent="journal" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="content : text" vertex="1">
+          <mxGeometry height="23" width="280" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="journal-f4" parent="journal" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="mood : varchar(50)" vertex="1">
+          <mxGeometry height="23" width="280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="journal-f5" parent="journal" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="symptom_tags : jsonb" vertex="1">
+          <mxGeometry height="23" width="280" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="journal_analysis" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="journal_analyses" vertex="1">
+          <mxGeometry height="166" width="300" x="350" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="journal_analysis-f0" parent="journal_analysis" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="journal_analysis-f1" parent="journal_analysis" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK journal_entry_id : bigint" vertex="1">
+          <mxGeometry height="23" width="300" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="journal_analysis-f2" parent="journal_analysis" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="analyzed_by_model : varchar(100)" vertex="1">
+          <mxGeometry height="23" width="300" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="journal_analysis-f3" parent="journal_analysis" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="extracted_symptoms : jsonb" vertex="1">
+          <mxGeometry height="23" width="300" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="journal_analysis-f4" parent="journal_analysis" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="extracted_trends : jsonb" vertex="1">
+          <mxGeometry height="23" width="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="journal_analysis-f5" parent="journal_analysis" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="risk_flag : boolean" vertex="1">
+          <mxGeometry height="23" width="300" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="alerts" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="health_alerts" vertex="1">
+          <mxGeometry height="189" width="290" x="680" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="alerts-f0" parent="alerts" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="alerts-f1" parent="alerts" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK user_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="alerts-f2" parent="alerts" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="alert_type : varchar(60)" vertex="1">
+          <mxGeometry height="23" width="290" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="alerts-f3" parent="alerts" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="severity : varchar(20)" vertex="1">
+          <mxGeometry height="23" width="290" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="alerts-f4" parent="alerts" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="evidence : jsonb" vertex="1">
+          <mxGeometry height="23" width="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="alerts-f5" parent="alerts" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="dedupe_key : varchar(255)" vertex="1">
+          <mxGeometry height="23" width="290" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="alerts-f6" parent="alerts" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="status : varchar(20)" vertex="1">
+          <mxGeometry height="23" width="290" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="outbox" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="health_outbox_events" vertex="1">
+          <mxGeometry height="166" width="290" x="1000" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="outbox-f0" parent="outbox" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK event_id : uuid" vertex="1">
+          <mxGeometry height="23" width="290" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="outbox-f1" parent="outbox" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="event_type : varchar(100)" vertex="1">
+          <mxGeometry height="23" width="290" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="outbox-f2" parent="outbox" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="aggregate_type/id : varchar" vertex="1">
+          <mxGeometry height="23" width="290" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="outbox-f3" parent="outbox" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="payload : jsonb" vertex="1">
+          <mxGeometry height="23" width="290" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="outbox-f4" parent="outbox" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="status : varchar(20)" vertex="1">
+          <mxGeometry height="23" width="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="outbox-f5" parent="outbox" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="retry_count : integer" vertex="1">
+          <mxGeometry height="23" width="290" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="reminders" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="reminders" vertex="1">
+          <mxGeometry height="189" width="280" x="1320" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="reminders-f0" parent="reminders" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="280" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="reminders-f1" parent="reminders" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="user_id : bigint (logic)" vertex="1">
+          <mxGeometry height="23" width="280" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="reminders-f2" parent="reminders" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="reminder_type : varchar" vertex="1">
+          <mxGeometry height="23" width="280" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="reminders-f3" parent="reminders" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="recurrence : varchar" vertex="1">
+          <mxGeometry height="23" width="280" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="reminders-f4" parent="reminders" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="scheduled_time : time" vertex="1">
+          <mxGeometry height="23" width="280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="reminders-f5" parent="reminders" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="next_run_at : timestamp" vertex="1">
+          <mxGeometry height="23" width="280" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="reminders-f6" parent="reminders" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="enabled : boolean" vertex="1">
+          <mxGeometry height="23" width="280" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="executions" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="reminder_executions" vertex="1">
+          <mxGeometry height="166" width="290" x="1630" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="executions-f0" parent="executions" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="executions-f1" parent="executions" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK reminder_id : bigint" vertex="1">
+          <mxGeometry height="23" width="290" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="executions-f2" parent="executions" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="user_id : bigint (logic)" vertex="1">
+          <mxGeometry height="23" width="290" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="executions-f3" parent="executions" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="scheduled_at : timestamp" vertex="1">
+          <mxGeometry height="23" width="290" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="executions-f4" parent="executions" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="status : varchar" vertex="1">
+          <mxGeometry height="23" width="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="executions-f5" parent="executions" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="acted_at : timestamp" vertex="1">
+          <mxGeometry height="23" width="290" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="notifications" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="notifications" vertex="1">
+          <mxGeometry height="189" width="310" x="1950" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="notifications-f0" parent="notifications" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK id : bigint" vertex="1">
+          <mxGeometry height="23" width="310" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="notifications-f1" parent="notifications" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="user_id : bigint (logic)" vertex="1">
+          <mxGeometry height="23" width="310" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="notifications-f2" parent="notifications" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="FK reminder_execution_id : bigint" vertex="1">
+          <mxGeometry height="23" width="310" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="notifications-f3" parent="notifications" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="source_event_id : uuid" vertex="1">
+          <mxGeometry height="23" width="310" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="notifications-f4" parent="notifications" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="notification_type : varchar" vertex="1">
+          <mxGeometry height="23" width="310" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="notifications-f5" parent="notifications" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="metadata : jsonb" vertex="1">
+          <mxGeometry height="23" width="310" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="notifications-f6" parent="notifications" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="is_read : boolean" vertex="1">
+          <mxGeometry height="23" width="310" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="inbox" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#FDBA74;strokeColor=#9A3412;fontSize=12;rounded=1;arcSize=6;" value="inbox_events" vertex="1">
+          <mxGeometry height="143" width="270" x="2290" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="inbox-f0" parent="inbox" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="PK event_id : uuid" vertex="1">
+          <mxGeometry height="23" width="270" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="inbox-f1" parent="inbox" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="source_service : varchar" vertex="1">
+          <mxGeometry height="23" width="270" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="inbox-f2" parent="inbox" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="event_type : varchar" vertex="1">
+          <mxGeometry height="23" width="270" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="inbox-f3" parent="inbox" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="received_at : timestamp" vertex="1">
+          <mxGeometry height="23" width="270" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="inbox-f4" parent="inbox" style="text;html=1;strokeColor=#9A3412;fillColor=#FFEDD5;align=left;verticalAlign=middle;spacingLeft=5;fontSize=10;" value="processed_at : timestamp" vertex="1">
+          <mxGeometry height="23" width="270" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r1" edge="1" parent="1" source="users" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="users_roles" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2" edge="1" parent="1" source="roles" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="users_roles" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r3" edge="1" parent="1" source="users" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="health_profiles" value="1 : 0..1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r4" edge="1" parent="1" source="users" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="medical_histories" value="1 : 0..1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r5" edge="1" parent="1" source="users" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="clinical_contexts" value="1 : 0..1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6" edge="1" parent="1" source="users" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="glucose" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r7" edge="1" parent="1" source="users" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="goals" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8" edge="1" parent="1" source="users" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="diagnosis" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9" edge="1" parent="1" source="health_profiles" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="assessment" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r10" edge="1" parent="1" source="assessment" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="prediction" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r11" edge="1" parent="1" source="diagnosis" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="documents" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r12" edge="1" parent="1" source="documents" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="lab_panels" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r13" edge="1" parent="1" source="lab_panels" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="lab_results" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r14" edge="1" parent="1" source="documents" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="observations" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r15" edge="1" parent="1" source="diagnosis" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="baseline" value="1 : 0..1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r16" edge="1" parent="1" source="baseline" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="conclusions" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r17" edge="1" parent="1" source="baseline" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="comparisons" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r18" edge="1" parent="1" source="baseline" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="pregnancy" value="1 : 0..1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r19" edge="1" parent="1" source="meal_templates" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="meal_type_map" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r20" edge="1" parent="1" source="user_types" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="meal_type_map" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r21" edge="1" parent="1" source="users" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="reports" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r22" edge="1" parent="1" source="reports" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="exports" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r23" edge="1" parent="1" source="assessment" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="insights" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r24" edge="1" parent="1" source="prediction" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="insights" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r25" edge="1" parent="1" source="users" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="journal" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r26" edge="1" parent="1" source="journal" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="journal_analysis" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r27" edge="1" parent="1" source="users" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="alerts" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r28" edge="1" parent="1" source="reminders" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="executions" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r29" edge="1" parent="1" source="executions" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="notifications" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l1" edge="1" parent="1" source="users" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="meal_history" value="user_id">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2" edge="1" parent="1" source="meal_history" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="glucose" value="meal_log_id">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l3" edge="1" parent="1" source="users" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="reminders" value="user_id">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l4" edge="1" parent="1" source="users" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="notifications" value="user_id">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l5" edge="1" parent="1" source="alerts" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="outbox" value="phát sự kiện">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6" edge="1" parent="1" source="outbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="inbox" value="event_id">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7" edge="1" parent="1" source="inbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fontSize=10;labelBackgroundColor=#FFFFFF;" target="notifications" value="tạo thông báo">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-1" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" value="" vertex="1">
+          <mxGeometry height="100" width="100" x="690" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-2" parent="jWqhTP51Ar1yXbTxAF3T-1" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" value="Id" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" as="geometry">
+            <mxPoint x="15" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-3" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="50" width="100" x="890" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-15" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="Table" vertex="1">
+          <mxGeometry height="150" width="180" x="1110" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-16" parent="jWqhTP51Ar1yXbTxAF3T-15" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
+          <mxGeometry height="30" width="180" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-17" parent="jWqhTP51Ar1yXbTxAF3T-16" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" value="PK" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-18" parent="jWqhTP51Ar1yXbTxAF3T-16" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="UniqueID" vertex="1">
+          <mxGeometry height="30" width="150" x="30" as="geometry">
+            <mxRectangle height="30" width="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-19" parent="jWqhTP51Ar1yXbTxAF3T-15" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
+          <mxGeometry height="30" width="180" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-20" parent="jWqhTP51Ar1yXbTxAF3T-19" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-21" parent="jWqhTP51Ar1yXbTxAF3T-19" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="Row 1" vertex="1">
+          <mxGeometry height="30" width="150" x="30" as="geometry">
+            <mxRectangle height="30" width="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-22" parent="jWqhTP51Ar1yXbTxAF3T-15" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
+          <mxGeometry height="30" width="180" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-23" parent="jWqhTP51Ar1yXbTxAF3T-22" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-24" parent="jWqhTP51Ar1yXbTxAF3T-22" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="Row 2" vertex="1">
+          <mxGeometry height="30" width="150" x="30" as="geometry">
+            <mxRectangle height="30" width="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-25" parent="jWqhTP51Ar1yXbTxAF3T-15" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
+          <mxGeometry height="30" width="180" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-26" parent="jWqhTP51Ar1yXbTxAF3T-25" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWqhTP51Ar1yXbTxAF3T-27" parent="jWqhTP51Ar1yXbTxAF3T-25" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="Row 3" vertex="1">
+          <mxGeometry height="30" width="150" x="30" as="geometry">
+            <mxRectangle height="30" width="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

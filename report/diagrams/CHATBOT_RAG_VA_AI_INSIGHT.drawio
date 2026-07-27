@@ -1,0 +1,1807 @@
+<mxfile host="app.diagrams.net" agent="Codex" pages="15">
+  <diagram id="diagram-1" name="Quan he giua hai phan he">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-1" value="2.3. Quan he giua hai phan he" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="1100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-U" value="Nguoi dung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-FE" value="React Frontend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-GW" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-RAG" value="RAG Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-HS" value="Health Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-PG" value="PostgreSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#FFF7ED;strokeColor=#EA580C;" vertex="1" parent="1">
+          <mxGeometry x="390" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-QD" value="Qdrant" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#FFF7ED;strokeColor=#EA580C;" vertex="1" parent="1">
+          <mxGeometry x="690" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-RD" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#FFF7ED;strokeColor=#EA580C;" vertex="1" parent="1">
+          <mxGeometry x="690" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-LLM" value="Gemini LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-NS" value="Notification Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-edge-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p1-U" target="p1-FE">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-edge-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p1-FE" target="p1-GW">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-edge-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p1-GW" target="p1-RAG">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-edge-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p1-GW" target="p1-HS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-edge-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p1-HS" target="p1-PG">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-edge-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p1-HS" target="p1-RAG">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-edge-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p1-RAG" target="p1-QD">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-edge-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p1-RAG" target="p1-RD">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-edge-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p1-RAG" target="p1-LLM">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-edge-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p1-RAG" target="p1-NS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1-edge-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p1-HS" target="p1-NS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diagram-2" name="So do use case Chatbot RAG">
+    <mxGraphModel dx="1589" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" value="5. So do use case Chatbot RAG" vertex="1">
+          <mxGeometry height="50" width="1100" x="300" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-User" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" value="Nguoi dung" vertex="1">
+          <mxGeometry height="70" width="50" x="180" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-Admin" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" value="Quan tri vien" vertex="1">
+          <mxGeometry height="80" width="60" x="90" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-Notify" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" value="Notification Service" vertex="1">
+          <mxGeometry height="80" width="60" x="1330" y="424" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-UC1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" value="Hoi dap theo phien" vertex="1">
+          <mxGeometry height="70" width="220" x="95" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-UC2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" value="Phan loai cau hoi" vertex="1">
+          <mxGeometry height="70" width="220" x="350" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-UC3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" value="Truy xuat tai lieu" vertex="1">
+          <mxGeometry height="70" width="220" x="440" y="213" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-UC4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" value="Sinh cau tra loi" vertex="1">
+          <mxGeometry height="70" width="220" x="407" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-UC5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" value="Xem nguon tham khao" vertex="1">
+          <mxGeometry height="70" width="220" x="390" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-UC6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" value="Quan ly lich su chat" vertex="1">
+          <mxGeometry height="70" width="220" x="717" y="88" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-UC7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" value="Ghi nho tri thuc" vertex="1">
+          <mxGeometry height="70" width="220" x="690" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-UC8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" value="Phat hien khan cap" vertex="1">
+          <mxGeometry height="70" width="220" x="721" y="429" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-UC9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" value="Phan tich nhat ky" vertex="1">
+          <mxGeometry height="70" width="220" x="690" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-UC10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" value="Quan ly kho tri thuc" vertex="1">
+          <mxGeometry height="70" width="220" x="956" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-UC11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" value="Lap lai chi muc" vertex="1">
+          <mxGeometry height="70" width="220" x="1031" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-UC12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" value="Xoa cache AI" vertex="1">
+          <mxGeometry height="70" width="220" x="1028" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-UC13" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" value="Kiem tra trang thai" vertex="1">
+          <mxGeometry height="70" width="220" x="969" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-edge-0" edge="1" parent="1" source="p2-User" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p2-UC1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-edge-1" edge="1" parent="1" source="p2-User" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p2-UC5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-edge-2" edge="1" parent="1" source="p2-User" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p2-UC6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-edge-3" edge="1" parent="1" source="p2-User" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p2-UC7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-edge-4" edge="1" parent="1" source="p2-User" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p2-UC9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-edge-5" edge="1" parent="1" source="p2-UC1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;endFill=0;" target="p2-UC2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-edge-6" edge="1" parent="1" source="p2-UC1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;endFill=0;" target="p2-UC3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-edge-7" edge="1" parent="1" source="p2-UC1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;endFill=0;" target="p2-UC4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-edge-8" edge="1" parent="1" source="p2-UC1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;endFill=0;" target="p2-UC8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-edge-9" edge="1" parent="1" source="p2-UC8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p2-Notify" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-edge-10" edge="1" parent="1" source="p2-Admin" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p2-UC10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-edge-11" edge="1" parent="1" source="p2-Admin" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p2-UC11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-edge-12" edge="1" parent="1" source="p2-Admin" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p2-UC12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-edge-13" edge="1" parent="1" source="p2-Admin" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p2-UC13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2-edge-14" edge="1" parent="1" source="p2-UC10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;endFill=0;" target="p2-UC11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diagram-3" name="Tuan tu hoi dap theo session">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1870" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-3" value="7.1. Tuan tu hoi dap theo session" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="1200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-U" value="Nguoi dung" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-life-U" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="210" as="sourcePoint" />
+            <mxPoint x="165" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-FE" value="React Frontend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-life-FE" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="210" as="sourcePoint" />
+            <mxPoint x="395" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-GW" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-life-GW" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="210" as="sourcePoint" />
+            <mxPoint x="625" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-RAG" value="RAG Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-life-RAG" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="210" as="sourcePoint" />
+            <mxPoint x="855" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-RD" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-life-RD" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1085" y="210" as="sourcePoint" />
+            <mxPoint x="1085" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-QD" value="Qdrant" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-life-QD" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1315" y="210" as="sourcePoint" />
+            <mxPoint x="1315" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-LLM" value="Gemini" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-life-LLM" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1545" y="210" as="sourcePoint" />
+            <mxPoint x="1545" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-NS" value="Notification Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p3-life-NS" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1775" y="210" as="sourcePoint" />
+            <mxPoint x="1775" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-msg-0" value="Nhap va gui cau hoi" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="240" as="sourcePoint" />
+            <mxPoint x="395" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-msg-1" value="POST /api/rag/chat/session" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="302" as="sourcePoint" />
+            <mxPoint x="625" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-msg-2" value="Xac thuc JWT" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="364" as="sourcePoint" />
+            <mxPoint x="625" y="364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-msg-3" value="Request + signed user context" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="426" as="sourcePoint" />
+            <mxPoint x="855" y="426" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-msg-4" value="Lay 8 luot chat gan nhat" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="488" as="sourcePoint" />
+            <mxPoint x="1085" y="488" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-msg-6" value="Tim user knowledge va response rules" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="612" as="sourcePoint" />
+            <mxPoint x="1315" y="612" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-msg-8" value="Query Router phan loai" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="736" as="sourcePoint" />
+            <mxPoint x="855" y="736" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-msg-9" value="Semantic search top_k" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="798" as="sourcePoint" />
+            <mxPoint x="1315" y="798" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-msg-11" value="Tim tai lieu noi bo" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="922" as="sourcePoint" />
+            <mxPoint x="1315" y="922" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-msg-13" value="Bo sung du lieu thuoc" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="1046" as="sourcePoint" />
+            <mxPoint x="855" y="1046" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-msg-14" value="Tim huong dan lien quan" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="1108" as="sourcePoint" />
+            <mxPoint x="1315" y="1108" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-msg-16" value="Prompt + query + history + context" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="1232" as="sourcePoint" />
+            <mxPoint x="1545" y="1232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-msg-18" value="Luu user/assistant messages" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="1356" as="sourcePoint" />
+            <mxPoint x="1085" y="1356" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-msg-22" value="Dinh dang va luu snapshot" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="1604" as="sourcePoint" />
+            <mxPoint x="395" y="1604" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diagram-4" name="Tuan tu phan tich nhat ky">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1350" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-4" value="7.2. Tuan tu phan tich nhat ky" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="1200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-U" value="Nguoi dung" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-life-U" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="210" as="sourcePoint" />
+            <mxPoint x="165" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-FE" value="React Frontend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-life-FE" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="210" as="sourcePoint" />
+            <mxPoint x="395" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-GW" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-life-GW" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="210" as="sourcePoint" />
+            <mxPoint x="625" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-HS" value="Health Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-life-HS" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="210" as="sourcePoint" />
+            <mxPoint x="855" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-DB" value="PostgreSQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-life-DB" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1085" y="210" as="sourcePoint" />
+            <mxPoint x="1085" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-RAG" value="RAG Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-life-RAG" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1315" y="210" as="sourcePoint" />
+            <mxPoint x="1315" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-LLM" value="Gemini" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-life-LLM" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1545" y="210" as="sourcePoint" />
+            <mxPoint x="1545" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-NS" value="Notification Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p4-life-NS" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1775" y="210" as="sourcePoint" />
+            <mxPoint x="1775" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-msg-0" value="Nhap nhat ky va chon phan tich" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="240" as="sourcePoint" />
+            <mxPoint x="395" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-msg-1" value="POST /api/journal/analyze/" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="302" as="sourcePoint" />
+            <mxPoint x="625" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-msg-2" value="Request da xac thuc" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="364" as="sourcePoint" />
+            <mxPoint x="855" y="364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-msg-3" value="Tao/cap nhat JournalEntry" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="426" as="sourcePoint" />
+            <mxPoint x="1085" y="426" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-msg-4" value="Lay toi da 3 phan tich gan day" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="488" as="sourcePoint" />
+            <mxPoint x="1085" y="488" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-msg-6" value="POST /journal/analyze + signed context" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="612" as="sourcePoint" />
+            <mxPoint x="1315" y="612" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-msg-7" value="Entry text + recent entries + schema" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1315" y="674" as="sourcePoint" />
+            <mxPoint x="1545" y="674" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-msg-9" value="Validate JournalAnalysisResult" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1315" y="798" as="sourcePoint" />
+            <mxPoint x="1315" y="798" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-msg-11" value="Validate response serializer" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="922" as="sourcePoint" />
+            <mxPoint x="855" y="922" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-msg-12" value="Cap nhat tags va luu JournalAnalysis" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="984" as="sourcePoint" />
+            <mxPoint x="1085" y="984" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diagram-5" name="Tuan tu them tai lieu vao RAG">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1155" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-5" value="7.3. Tuan tu them tai lieu vao RAG" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="1200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p5-A" value="Quan tri vien" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p5-life-A" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="210" as="sourcePoint" />
+            <mxPoint x="165" y="1055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-FE" value="Admin UI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p5-life-FE" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="210" as="sourcePoint" />
+            <mxPoint x="395" y="1055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-GW" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p5-life-GW" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="210" as="sourcePoint" />
+            <mxPoint x="625" y="1055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-RAG" value="RAG Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p5-life-RAG" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="210" as="sourcePoint" />
+            <mxPoint x="855" y="1055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-Loader" value="Document Loader" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p5-life-Loader" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1085" y="210" as="sourcePoint" />
+            <mxPoint x="1085" y="1055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-Chunker" value="Text Chunker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p5-life-Chunker" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1315" y="210" as="sourcePoint" />
+            <mxPoint x="1315" y="1055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-Emb" value="Embedding Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p5-life-Emb" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1545" y="210" as="sourcePoint" />
+            <mxPoint x="1545" y="1055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-QD" value="Qdrant" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p5-life-QD" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1775" y="210" as="sourcePoint" />
+            <mxPoint x="1775" y="1055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-msg-0" value="Chon va upload tai lieu" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="240" as="sourcePoint" />
+            <mxPoint x="395" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-msg-1" value="POST /api/rag/admin/upload" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="302" as="sourcePoint" />
+            <mxPoint x="625" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-msg-2" value="File + admin context" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="364" as="sourcePoint" />
+            <mxPoint x="855" y="364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-msg-3" value="Doc noi dung/OCR neu can" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="426" as="sourcePoint" />
+            <mxPoint x="1085" y="426" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-msg-5" value="Chia van ban" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="550" as="sourcePoint" />
+            <mxPoint x="1315" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-msg-7" value="Tao embedding" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="674" as="sourcePoint" />
+            <mxPoint x="1545" y="674" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-msg-9" value="Upsert vector + payload" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="798" as="sourcePoint" />
+            <mxPoint x="1775" y="798" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diagram-6" name="So do hoat dong Chatbot RAG">
+    <mxGraphModel dx="3587" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1270" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" value="8. So do hoat dong Chatbot RAG" vertex="1">
+          <mxGeometry height="50" width="1100" x="280" y="-320" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-A" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" value="Bat dau" vertex="1">
+          <mxGeometry height="50" width="50" x="70" y="-160" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-B" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Nguoi dung nhap noi dung" vertex="1">
+          <mxGeometry height="70" width="220" x="420" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-C" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#D97706;" value="Noi dung hop le?" vertex="1">
+          <mxGeometry height="70" width="220" x="720" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-C1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Hien thi loi kiem tra" vertex="1">
+          <mxGeometry height="70" width="220" x="1080" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-D" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#D97706;" value="Bat ghi nho?" vertex="1">
+          <mxGeometry height="70" width="220" x="90" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-E" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Phan loai tri thuc hay luat tra loi" vertex="1">
+          <mxGeometry height="70" width="220" x="390" y="226" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-F" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Chuan hoa va upsert Qdrant" vertex="1">
+          <mxGeometry height="70" width="220" x="690" y="226" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-G" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Tra xac nhan da ghi nho" vertex="1">
+          <mxGeometry height="70" width="220" x="990" y="297" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-Z" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" value="Ket thuc" vertex="1">
+          <mxGeometry height="50" width="70" x="1490" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-H" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Lay session history tu Redis" vertex="1">
+          <mxGeometry height="70" width="220" x="390" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-I" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Tim tri thuc nguoi dung" vertex="1">
+          <mxGeometry height="70" width="220" x="690" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-J" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Phan loai truy van" vertex="1">
+          <mxGeometry height="70" width="220" x="990" y="469" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-K" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#D97706;" value="Route type" vertex="1">
+          <mxGeometry height="70" width="220" x="90" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-L" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Truy xuat tai lieu Qdrant" vertex="1">
+          <mxGeometry height="70" width="220" x="-270" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-M" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Ket hop tai lieu va du lieu thuoc" vertex="1">
+          <mxGeometry height="70" width="220" x="590" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-N" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Truy xuat ngu canh an toan" vertex="1">
+          <mxGeometry height="70" width="220" x="90" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-O" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Tao prompt" vertex="1">
+          <mxGeometry height="70" width="220" x="90" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-P" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Goi LLM" vertex="1">
+          <mxGeometry height="70" width="220" x="370" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-Q" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#D97706;" value="LLM thanh cong?" vertex="1">
+          <mxGeometry height="70" width="220" x="650" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-Q1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Tra loi dich vu loi" vertex="1">
+          <mxGeometry height="70" width="220" x="970" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-R" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Luu hoi thoai vao Redis" vertex="1">
+          <mxGeometry height="70" width="220" x="60" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-S" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#D97706;" value="Khan cap?" vertex="1">
+          <mxGeometry height="70" width="220" x="800" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-T" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Phat su kien canh bao" vertex="1">
+          <mxGeometry height="70" width="220" x="1160" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-U" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Dong goi response" vertex="1">
+          <mxGeometry height="70" width="220" x="800" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-V" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" value="Hien thi noi dung va nguon" vertex="1">
+          <mxGeometry height="70" width="220" x="60" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-0" edge="1" parent="1" source="p6-A" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-B" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-1" edge="1" parent="1" source="p6-B" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="p6-C" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-2" edge="1" parent="1" source="p6-C" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-C1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-3" edge="1" parent="1" source="p6-C1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-B" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-4" edge="1" parent="1" source="p6-C" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="p6-D" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-5" edge="1" parent="1" source="p6-D" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-E" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-6" edge="1" parent="1" source="p6-E" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-F" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-7" edge="1" parent="1" source="p6-F" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-G" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-8" edge="1" parent="1" source="p6-G" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-Z" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-9" edge="1" parent="1" source="p6-D" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="p6-H" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-10" edge="1" parent="1" source="p6-H" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-I" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-11" edge="1" parent="1" source="p6-I" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="p6-J" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-12" edge="1" parent="1" source="p6-J" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-K" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-13" edge="1" parent="1" source="p6-K" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-L" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-14" edge="1" parent="1" source="p6-K" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-M" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-15" edge="1" parent="1" source="p6-K" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-N" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-16" edge="1" parent="1" source="p6-L" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="p6-O" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="925.08" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p6-edge-17" edge="1" parent="1" source="p6-M" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;entryX=0.914;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;" target="p6-O" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="850" />
+              <mxPoint x="290" y="850" />
+              <mxPoint x="290" y="893.88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p6-edge-18" edge="1" parent="1" source="p6-N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-O" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-19" edge="1" parent="1" source="p6-O" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-P" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-20" edge="1" parent="1" source="p6-P" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-Q" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-21" edge="1" parent="1" source="p6-Q" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-Q1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-22" edge="1" parent="1" source="p6-Q1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-Z" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-23" edge="1" parent="1" source="p6-Q" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-R" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-24" edge="1" parent="1" source="p6-R" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-S" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-25" edge="1" parent="1" source="p6-S" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-T" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-26" edge="1" parent="1" source="p6-S" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="p6-U" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-27" edge="1" parent="1" source="p6-T" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="p6-U" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1270" y="1255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p6-edge-28" edge="1" parent="1" source="p6-U" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-V" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6-edge-29" edge="1" parent="1" source="p6-V" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" target="p6-Z" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diagram-7" name="Cau truc thanh phan Chatbot RAG">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-7" value="9. Cau truc thanh phan Chatbot RAG" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="1100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-ChatPage" value="Chatbot.tsx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-ChatWidget" value="FloatingChatWidget" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-AdminKnowledge" value="AdminKnowledge.tsx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-RagClient" value="ragChat.ts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-Gateway" value="Spring Cloud API Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-Server" value="src/api/server.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-Router" value="Query Router" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-Pipeline" value="RAG Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-Journal" value="Journal Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-Session" value="Session Store" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-Indexer" value="Indexer/Ingestion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-Embed" value="Sentence Transformer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-Qdrant" value="Qdrant" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#FFF7ED;strokeColor=#EA580C;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-Redis" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#FFF7ED;strokeColor=#EA580C;" vertex="1" parent="1">
+          <mxGeometry x="390" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-Gemini" value="Gemini" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-PDF" value="PDF/Web Documents" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#FFF7ED;strokeColor=#EA580C;" vertex="1" parent="1">
+          <mxGeometry x="990" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-ChatPage" target="p7-RagClient">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-ChatWidget" target="p7-RagClient">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-AdminKnowledge" target="p7-RagClient">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-RagClient" target="p7-Gateway">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-Gateway" target="p7-Server">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-Server" target="p7-Router">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-Router" target="p7-Pipeline">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-Server" target="p7-Journal">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-Server" target="p7-Session">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-Session" target="p7-Redis">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-Server" target="p7-Indexer">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-Pipeline" target="p7-Qdrant">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-Pipeline" target="p7-Gemini">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-Indexer" target="p7-PDF">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-Indexer" target="p7-Embed">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7-edge-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7-Embed" target="p7-Qdrant">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diagram-8" name="So do use case AI Insight">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-8" value="11. So do use case AI Insight" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="1100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-User" value="Nguoi dung" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-RAGActor" value="RAG Service" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-LLMActor" value="Gemini LLM" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-UC1" value="Xem AI Insight" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-UC2" value="Chon ky bao cao" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-UC3" value="Chon muc tieu phan tich" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-UC4" value="Tong hop du lieu suc khoe" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" vertex="1" parent="1">
+          <mxGeometry x="390" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-UC5" value="Xac dinh drivers" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" vertex="1" parent="1">
+          <mxGeometry x="390" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-UC6" value="Doi chieu tai lieu y khoa" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" vertex="1" parent="1">
+          <mxGeometry x="690" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-UC7" value="Sinh dien giai ca nhan hoa" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" vertex="1" parent="1">
+          <mxGeometry x="690" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-UC8" value="Xem khuyen nghi" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" vertex="1" parent="1">
+          <mxGeometry x="690" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-UC9" value="Xem chi so uu tien" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" vertex="1" parent="1">
+          <mxGeometry x="690" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-UC10" value="Bo sung ho so lam sang" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" vertex="1" parent="1">
+          <mxGeometry x="990" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-UC11" value="Lam moi Insight" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" vertex="1" parent="1">
+          <mxGeometry x="990" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-UC12" value="Luu/Tai su dung Insight" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" vertex="1" parent="1">
+          <mxGeometry x="990" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-UC13" value="Canh bao can tham van" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;" vertex="1" parent="1">
+          <mxGeometry x="990" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-edge-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p8-User" target="p8-UC1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-edge-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p8-User" target="p8-UC2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-edge-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p8-User" target="p8-UC3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-edge-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p8-User" target="p8-UC8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-edge-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p8-User" target="p8-UC9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-edge-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p8-User" target="p8-UC10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-edge-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p8-User" target="p8-UC11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-edge-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p8-UC1" target="p8-UC4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-edge-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p8-UC4" target="p8-UC5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-edge-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p8-UC1" target="p8-UC12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-edge-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p8-UC11" target="p8-UC6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-edge-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p8-UC11" target="p8-UC7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-edge-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p8-UC6" target="p8-RAGActor">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-edge-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p8-UC7" target="p8-LLMActor">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8-edge-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p8-UC5" target="p8-UC13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diagram-9" name="Tuan tu Insight nhanh va cache">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1285" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-9" value="13.1. Tuan tu Insight nhanh va cache" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="1200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p9-U" value="Nguoi dung" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p9-life-U" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="210" as="sourcePoint" />
+            <mxPoint x="165" y="1185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9-FE" value="React Frontend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p9-life-FE" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="210" as="sourcePoint" />
+            <mxPoint x="395" y="1185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9-GW" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p9-life-GW" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="210" as="sourcePoint" />
+            <mxPoint x="625" y="1185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9-HS" value="Health Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p9-life-HS" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="210" as="sourcePoint" />
+            <mxPoint x="855" y="1185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9-DB" value="PostgreSQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p9-life-DB" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1085" y="210" as="sourcePoint" />
+            <mxPoint x="1085" y="1185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9-msg-0" value="Mo AI Insight" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="240" as="sourcePoint" />
+            <mxPoint x="395" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9-msg-1" value="POST /api/reports/ai-insights/ force_refresh=false" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="302" as="sourcePoint" />
+            <mxPoint x="625" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9-msg-2" value="Request + user context" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="364" as="sourcePoint" />
+            <mxPoint x="855" y="364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9-msg-3" value="Doc profile, metrics, baseline, assessment, prediction, clinical context" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="426" as="sourcePoint" />
+            <mxPoint x="1085" y="426" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9-msg-5" value="Tao local context va fingerprint" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="550" as="sourcePoint" />
+            <mxPoint x="855" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9-msg-6" value="Tim AiInsight cung insight_type" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="612" as="sourcePoint" />
+            <mxPoint x="1085" y="612" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9-msg-8" value="Khoi phuc response payload" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="736" as="sourcePoint" />
+            <mxPoint x="855" y="736" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9-msg-10" value="Tao fallback theo quy tac local" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="860" as="sourcePoint" />
+            <mxPoint x="855" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9-msg-11" value="Luu AiInsight" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="922" as="sourcePoint" />
+            <mxPoint x="1085" y="922" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diagram-10" name="Tuan tu lam moi Insight co RAG va LLM">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2230" pageHeight="1610" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-10" value="13.2. Tuan tu lam moi Insight co RAG va LLM" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="1200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p10-U" value="Nguoi dung" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p10-life-U" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="210" as="sourcePoint" />
+            <mxPoint x="165" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-FE" value="React Frontend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p10-life-FE" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="210" as="sourcePoint" />
+            <mxPoint x="395" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-GW" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p10-life-GW" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="210" as="sourcePoint" />
+            <mxPoint x="625" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-HS" value="Health Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p10-life-HS" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="210" as="sourcePoint" />
+            <mxPoint x="855" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-DB" value="PostgreSQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p10-life-DB" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1085" y="210" as="sourcePoint" />
+            <mxPoint x="1085" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-RAG" value="RAG Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p10-life-RAG" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1315" y="210" as="sourcePoint" />
+            <mxPoint x="1315" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-QD" value="Qdrant" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p10-life-QD" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1545" y="210" as="sourcePoint" />
+            <mxPoint x="1545" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-LLM1" value="Gemini/RAG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p10-life-LLM1" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1775" y="210" as="sourcePoint" />
+            <mxPoint x="1775" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-LLM2" value="Gemini/Insight" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="110" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="p10-life-LLM2" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#64748B;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2005" y="210" as="sourcePoint" />
+            <mxPoint x="2005" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-msg-0" value="Bam lam moi Insight" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="240" as="sourcePoint" />
+            <mxPoint x="395" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-msg-1" value="POST /api/reports/ai-insights/ force_refresh=true" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="302" as="sourcePoint" />
+            <mxPoint x="625" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-msg-2" value="Request da xac thuc" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="364" as="sourcePoint" />
+            <mxPoint x="855" y="364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-msg-3" value="Tong hop du lieu suc khoe" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="426" as="sourcePoint" />
+            <mxPoint x="1085" y="426" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-msg-5" value="Tinh drivers va local context" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="550" as="sourcePoint" />
+            <mxPoint x="855" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-msg-6" value="Tao cau truy van y khoa" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="612" as="sourcePoint" />
+            <mxPoint x="855" y="612" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-msg-7" value="POST /chat + signed context" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="674" as="sourcePoint" />
+            <mxPoint x="1315" y="674" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-msg-8" value="Semantic search" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1315" y="736" as="sourcePoint" />
+            <mxPoint x="1545" y="736" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-msg-10" value="Query + retrieved context" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1315" y="860" as="sourcePoint" />
+            <mxPoint x="1775" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-msg-13" value="Local context + RAG context + rules" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="1046" as="sourcePoint" />
+            <mxPoint x="2005" y="1046" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-msg-16" value="Tao fallback payload" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="1232" as="sourcePoint" />
+            <mxPoint x="855" y="1232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p10-msg-17" value="Luu AiInsight" style="endArrow=block;endFill=1;dashed=0;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="1294" as="sourcePoint" />
+            <mxPoint x="1085" y="1294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diagram-11" name="So do hoat dong AI Insight">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1270" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-11" value="14. So do hoat dong AI Insight" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="1100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-A" value="Bat dau" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-B" value="Chon weekly/monthly va intent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-C" value="Gui yeu cau AI Insight" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-D" value="Doc du lieu suc khoe" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-E" value="Doc DB thanh cong?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#D97706;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-E1" value="Tra 503" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-Z" value="Ket thuc" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="260" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-F" value="Tao dashboard va local context" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-G" value="Ap dung quy tac ca nhan hoa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-H" value="Tao fingerprint" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-I" value="force_refresh?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#D97706;" vertex="1" parent="1">
+          <mxGeometry x="690" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-J" value="Co cache phu hop?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#D97706;" vertex="1" parent="1">
+          <mxGeometry x="990" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-K" value="Khoi phuc ket qua cache" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-L" value="Tao Insight nhanh bang local rules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-M" value="Luu AiInsight" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-N" value="Dong goi response" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-O" value="Goi RAG lay ngu canh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="710" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-P" value="RAG thanh cong?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#D97706;" vertex="1" parent="1">
+          <mxGeometry x="390" y="710" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-Q" value="Goi LLM dien giai" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="710" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-R" value="Tao fallback local" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="710" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-S" value="Ket qua hop le?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#D97706;" vertex="1" parent="1">
+          <mxGeometry x="90" y="860" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-T" value="Chuan hoa payload" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="860" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-U" value="Luu AiInsight moi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="860" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-V" value="Can clinical review?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#D97706;" vertex="1" parent="1">
+          <mxGeometry x="990" y="860" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-W" value="Hien canh bao tham van y te" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1010" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-X" value="Hien Insight thong thuong" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1010" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-Y" value="Hien drivers, khuyen nghi, focus metrics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1010" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-A" target="p11-B">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-B" target="p11-C">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-C" target="p11-D">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-D" target="p11-E">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-E" target="p11-E1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-E1" target="p11-Z">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-E" target="p11-F">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-F" target="p11-G">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-G" target="p11-H">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-H" target="p11-I">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-I" target="p11-J">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-J" target="p11-K">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-J" target="p11-L">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-L" target="p11-M">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-K" target="p11-N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-M" target="p11-N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-I" target="p11-O">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-O" target="p11-P">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-P" target="p11-Q">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-P" target="p11-R">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-Q" target="p11-S">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-S" target="p11-T">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-S" target="p11-R">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-T" target="p11-U">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-R" target="p11-U">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-U" target="p11-N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-N" target="p11-V">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-V" target="p11-W">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-V" target="p11-X">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-W" target="p11-Y">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-X" target="p11-Y">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p11-edge-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p11-Y" target="p11-Z">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diagram-12" name="Cau truc thanh phan AI Insight">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-12" value="15. Cau truc thanh phan AI Insight" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="1100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-Report" value="PeriodicReportDashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-InsightUI" value="ReportAiInsight.tsx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-ReportClient" value="services/reports.ts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-Gateway" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-View" value="ReportAiInsightView" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-ContextBuilder" value="Local Context Builder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-Rules" value="Personalization Rules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-Fingerprint" value="Fingerprint and Cache" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-RagAdapter" value="RAG Context Adapter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-GeminiAdapter" value="Gemini Insight Adapter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-Fallback" value="Local Fallback Generator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-Response" value="Response Normalizer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-PG" value="PostgreSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#FFF7ED;strokeColor=#EA580C;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-RAG" value="RAG Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-QD" value="Qdrant" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#FFF7ED;strokeColor=#EA580C;" vertex="1" parent="1">
+          <mxGeometry x="690" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-Gemini" value="Gemini" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-Report" target="p12-InsightUI">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-InsightUI" target="p12-ReportClient">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-ReportClient" target="p12-Gateway">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-Gateway" target="p12-View">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-View" target="p12-ContextBuilder">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-ContextBuilder" target="p12-PG">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-ContextBuilder" target="p12-Rules">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-Rules" target="p12-Fingerprint">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-Fingerprint" target="p12-PG">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-Fingerprint" target="p12-RagAdapter">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-RagAdapter" target="p12-RAG">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-RAG" target="p12-QD">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-RagAdapter" target="p12-GeminiAdapter">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-GeminiAdapter" target="p12-Gemini">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-GeminiAdapter" target="p12-Fallback">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-Fingerprint" target="p12-Fallback">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-GeminiAdapter" target="p12-Response">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-Fallback" target="p12-Response">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-Response" target="p12-PG">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p12-edge-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p12-Response" target="p12-View">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diagram-13" name="ERD PostgreSQL lien quan">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1120" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-13" value="17. ERD PostgreSQL lien quan" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="1200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-USERS" value="USERS bigint id PK varchar full_name varchar email UK varchar status datetime created_at datetime updated_at" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#ECFDF5;strokeColor=#059669;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="300" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-HEALTH_PROFILES" value="HEALTH_PROFILES bigint user_id PK,FK date date_of_birth varchar gender decimal height_cm decimal weight_kg decimal waist_cm decimal bmi varchar activity_level varchar smoking_status varchar alcohol_status datetime updated_at" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#ECFDF5;strokeColor=#059669;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="100" width="300" height="297" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-CLINICAL_CONTEXTS" value="CLINICAL_CONTEXTS bigint user_id PK,FK varchar diabetes_status varchar pregnancy_status smallint gestational_week boolean history_gestational_diabetes varchar treatment_mode json confirmed_complications boolean clinician_verified datetime updated_at" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#ECFDF5;strokeColor=#059669;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="100" width="300" height="253" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-MEDICAL_HISTORIES" value="MEDICAL_HISTORIES bigint user_id PK,FK varchar diabetes_type boolean hypertension boolean cardiovascular_disease boolean kidney_disease text current_medications text past_conditions datetime updated_at" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#ECFDF5;strokeColor=#059669;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="100" width="300" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-GLUCOSE_MEASUREMENTS" value="GLUCOSE_MEASUREMENTS bigint id PK bigint user_id FK decimal glucose_value varchar unit varchar measurement_context datetime measured_at varchar source_type varchar data_quality_status" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#ECFDF5;strokeColor=#059669;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="420" width="300" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-HEALTH_ASSESSMENTS" value="HEALTH_ASSESSMENTS bigint id PK bigint user_id FK bigint health_profile_id FK varchar assessment_type varchar risk_level decimal health_score json findings_json datetime created_at" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#ECFDF5;strokeColor=#059669;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="420" width="300" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-RISK_PREDICTIONS" value="RISK_PREDICTIONS bigint id PK bigint user_id FK bigint assessment_id FK varchar model_name varchar prediction_type decimal risk_percent varchar risk_band boolean high_risk_flag json feature_snapshot datetime created_at" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#ECFDF5;strokeColor=#059669;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="420" width="300" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-AI_INSIGHTS" value="AI_INSIGHTS bigint id PK bigint user_id FK bigint risk_prediction_id FK bigint assessment_id FK varchar insight_type text explanation text recommendation varchar llm_model datetime created_at" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#ECFDF5;strokeColor=#059669;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="420" width="300" height="253" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-JOURNAL_ENTRIES" value="JOURNAL_ENTRIES bigint id PK bigint user_id FK varchar title text content varchar mood json symptom_tags datetime created_at datetime updated_at" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#ECFDF5;strokeColor=#059669;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="740" width="300" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-JOURNAL_ANALYSES" value="JOURNAL_ANALYSES bigint id PK bigint journal_entry_id FK varchar analyzed_by_model json extracted_symptoms json extracted_trends boolean risk_flag text summary datetime created_at" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;fillColor=#ECFDF5;strokeColor=#059669;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="740" width="300" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-rel-0" value="has" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;fontSize=11;" edge="1" parent="1" source="p13-USERS" target="p13-HEALTH_PROFILES">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-rel-1" value="has" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;fontSize=11;" edge="1" parent="1" source="p13-USERS" target="p13-CLINICAL_CONTEXTS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-rel-2" value="has" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;fontSize=11;" edge="1" parent="1" source="p13-USERS" target="p13-MEDICAL_HISTORIES">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-rel-3" value="records" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;fontSize=11;" edge="1" parent="1" source="p13-USERS" target="p13-GLUCOSE_MEASUREMENTS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-rel-4" value="receives" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;fontSize=11;" edge="1" parent="1" source="p13-USERS" target="p13-HEALTH_ASSESSMENTS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-rel-5" value="has" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;fontSize=11;" edge="1" parent="1" source="p13-USERS" target="p13-RISK_PREDICTIONS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-rel-6" value="receives" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;fontSize=11;" edge="1" parent="1" source="p13-USERS" target="p13-AI_INSIGHTS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-rel-7" value="writes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;fontSize=11;" edge="1" parent="1" source="p13-USERS" target="p13-JOURNAL_ENTRIES">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-rel-8" value="supports" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;fontSize=11;" edge="1" parent="1" source="p13-HEALTH_PROFILES" target="p13-HEALTH_ASSESSMENTS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-rel-9" value="produces" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;fontSize=11;" edge="1" parent="1" source="p13-HEALTH_ASSESSMENTS" target="p13-RISK_PREDICTIONS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-rel-10" value="referenced_by" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;fontSize=11;" edge="1" parent="1" source="p13-HEALTH_ASSESSMENTS" target="p13-AI_INSIGHTS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-rel-11" value="referenced_by" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;fontSize=11;" edge="1" parent="1" source="p13-RISK_PREDICTIONS" target="p13-AI_INSIGHTS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p13-rel-12" value="analyzed_as" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=ERmany;startArrow=ERone;fontSize=11;" edge="1" parent="1" source="p13-JOURNAL_ENTRIES" target="p13-JOURNAL_ANALYSES">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diagram-14" name="Mo hinh du lieu logic Qdrant">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-14" value="18. Mo hinh du lieu logic Qdrant" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="1100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p14-Doc" value="Document" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p14-Chunk" value="Text Chunk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p14-Vector" value="Embedding Vector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p14-Point" value="Qdrant Point" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p14-Payload" value="Source Metadata" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p14-Query" value="User Query" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p14-QueryVector" value="Query Embedding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p14-edge-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p14-Doc" target="p14-Chunk">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p14-edge-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p14-Chunk" target="p14-Vector">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p14-edge-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p14-Vector" target="p14-Point">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p14-edge-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p14-Point" target="p14-Payload">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p14-edge-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p14-Query" target="p14-QueryVector">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p14-edge-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p14-QueryVector" target="p14-Point">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diagram-15" name="Mo hinh du lieu logic Redis">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-15" value="19. Mo hinh du lieu logic Redis" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="1100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-UserKey" value="User Key" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-ChatState" value="StoredChatState" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-Active" value="activeSessionId" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-Sessions" value="Sessions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-Session" value="StoredChatSession" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-SID" value="sessionId" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-Title" value="title/preview/updatedAt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-Messages" value="ChatMessage array" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="260" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-SessionID" value="Session ID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-Context" value="Conversation Context" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-Turns" value="Recent user/assistant turns" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-CacheKey" value="Query/context key" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="410" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-Cached" value="Cached RAG response" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2563EB;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-edge-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p15-UserKey" target="p15-ChatState">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-edge-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p15-ChatState" target="p15-Active">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-edge-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p15-ChatState" target="p15-Sessions">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-edge-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p15-Sessions" target="p15-Session">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-edge-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p15-Session" target="p15-SID">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-edge-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p15-Session" target="p15-Title">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-edge-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p15-Session" target="p15-Messages">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-edge-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p15-SessionID" target="p15-Context">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-edge-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p15-Context" target="p15-Turns">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p15-edge-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p15-CacheKey" target="p15-Cached">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

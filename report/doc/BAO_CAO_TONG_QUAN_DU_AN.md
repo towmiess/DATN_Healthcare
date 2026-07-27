@@ -942,3 +942,234 @@ Huong phat trien:
 - Cai thien OCR bang model vision chuyen dung.
 - Them quan ly consent va audit log y te.
 - Chuan hoa schema migration cho tat ca service.
+
+## 16. Bo sung theo ban cap nhat HealthCare-BE ngay 27/07/2026
+
+### 16.1. Pham vi cap nhat
+
+Phan bo sung nay duoc doi chieu voi cac commit moi trong
+`HealthCare-BE/Backend`. Cac thay doi la sua logic xu ly va du lieu tra ve,
+khong bo sung bang, entity, endpoint hay microservice moi. Vi vay kien truc
+tong the, ERD va cac tac nhan Use Case van giu nguyen.
+
+Hai thu muc backend dang ton tai song song:
+
+- `Backend`: ban da duoc dung de lap tai lieu tong quan ban dau.
+- `HealthCare-BE/Backend`: ban Git rieng co cac commit sua report,
+  notification va health-service moi hon.
+
+Khi trien khai can chon mot thu muc lam nguon chinh. Chay
+`docker compose` trong thu muc nao thi cac build context tuong doi se lay ma
+nguon trong thu muc do. Sua `HealthCare-BE/Backend` khong tu dong dong bo sang
+`Backend`.
+
+### 16.2. Cap nhat luong bao cao va baseline
+
+Ban cap nhat thay doi cach theo doi chi so so voi baseline:
+
+- Duong huyet doi chieu tren giao dien dung khoa
+  `fasting_glucose_mmol_l`.
+- Cholesterol doi chieu dung khoa `total_cholesterol_mmol_l`.
+- Khi tim `BaselineComparison`, backend anh xa hai khoa tren ve ma luu tru cu
+  dang `mg_dl`, nham giu tuong thich voi du lieu da co.
+- Neu mot ngay co nhieu `HealthAssessment`, bieu do baseline tracking chi giu
+  lan do moi nhat trong ngay.
+
+Luong cap nhat:
+
+```text
+Health Assessment theo thoi gian
+ -> Nhom theo ngay
+ -> Chon assessment moi nhat cua tung ngay
+ -> Chuan hoa don vi mmol/L
+ -> Doi chieu Clinical Baseline
+ -> Tim Baseline Comparison da luu
+ -> Tinh delta va delta_percent
+ -> Tra baseline_tracking cho bao cao
+```
+
+Anh huong nghiep vu:
+
+- Bieu do khong bi lap nhieu diem do trong cung mot ngay.
+- Gia tri tren bao cao thong nhat voi don vi frontend dang hien thi.
+- AI Insight nhan local context on dinh hon vi su dung report dashboard.
+- Khong thay doi bang `clinical_baselines` hoac
+  `baseline_comparisons`.
+
+### 16.3. Cap nhat ket qua du doan nguy co
+
+Model API bo sung `risk_band` vao tung ket qua du doan:
+
+| Khoang xac suat | Risk band | Y nghia |
+|---|---|---|
+| Nho hon `0.35` | `SAFE` | Tin hieu nguy co thap |
+| Tu `0.35` den duoi `0.65` | `WARNING` | Can tiep tuc theo doi |
+| Tu `0.65` tro len | `DANGEROUS` | Tin hieu nguy co cao |
+
+Day la phan loai ho tro hien thi, khong phai chan doan y khoa.
+
+Quy tac uu tien ket qua:
+
+1. Neu ho so benh vien da xac nhan tieu duong, he thong giu nguyen ket luan
+   chinh thuc.
+2. Ket qua model tieu duong thu nghiem khong duoc dung de phu nhan ket luan
+   benh vien.
+3. Neu chua co chan doan chinh thuc va model co ket qua hop le, snapshot chan
+   doan co the hien thi tin hieu thu nghiem kem `risk_band`.
+4. Cac canh bao phai neu ro model chi la uoc tinh, dac biet voi nguoi mang
+   thai va nguoi ngoai mien du lieu ma model duoc kiem dinh.
+
+Luong ket qua moi:
+
+```text
+Nguoi dung gui chi so
+ -> Health Service kiem tra pham vi ap dung
+ -> Model API tinh positive_probability
+ -> Gan SAFE / WARNING / DANGEROUS
+ -> Kiem tra ket luan benh vien
+ -> Neu da xac nhan: an tin hieu tieu duong thu nghiem
+ -> Neu chua xac nhan: cho phep hien thi uoc tinh
+ -> Luu Assessment va Risk Prediction
+ -> Tra snapshot chan doan
+```
+
+### 16.4. Cap nhat AI Insight
+
+Kien truc AI Insight khong thay doi. Health Service van:
+
+1. Tong hop profile, diagnosis, baseline va report dashboard.
+2. Tao local context va cac driver.
+3. Dung cache/local rules cho che do nhanh.
+4. Goi RAG va Gemini khi `force_refresh=true`.
+5. Luu ket qua vao `ai_insights`.
+
+Du lieu dau vao da thay doi nhe:
+
+- Baseline tracking da chuan hoa don vi.
+- Moi ngay chi con diem do cuoi cung.
+- Ket qua du doan co them muc `risk_band`.
+- Uu tien ket luan lam sang chinh thuc truoc tin hieu model.
+
+Noi dung Insight co the khac truoc, nhung Use Case, sequence diagram va
+activity diagram van giu nguyen.
+
+### 16.5. Cap nhat bao cao PDF
+
+Trong file PDF, nhan "Moc xet nghiem dang su dung" duoc doi thanh "Ho so benh
+an dang su dung". Thay doi nay phan anh dung hon y nghia cua
+`ClinicalBaseline`, vi baseline co the duoc tao tu tai lieu, ket qua xet
+nghiem va ket luan lam sang da xac minh.
+
+Disclaimer cua theo doi duong huyet duoc rut gon:
+
+```text
+Canh bao chi mang tinh nhac nho theo doi, khong phai ket luan y khoa.
+```
+
+### 16.6. Cap nhat notification
+
+Khi tao notification tu reminder, backend bo sung
+`metadata.reminder_type`.
+
+```json
+{
+  "reminder_id": 12,
+  "execution_id": 35,
+  "reminder_type": "MEDICATION"
+}
+```
+
+Frontend co the dung `reminder_type` de chon icon, dieu huong den chuc nang
+lien quan va phan loai thong bao. Thay doi nay khong lam thay doi ERD vi
+`notifications.metadata` da la cot JSON.
+
+### 16.7. Cap nhat cau hinh RAG
+
+Trong `HealthCare-BE/Backend/docker-compose.prod.yml`:
+
+- RAG Service khong con khai bao
+  `env_file: ./rag-service/.env`.
+- Bo sung bien `TAVILY_API_KEY` cho kha nang tim kiem web.
+
+Khi trien khai, cac bien RAG phai duoc cung cap boi file `.env` cua Docker
+Compose hoac moi truong he thong. Can kiem tra toi thieu:
+
+- Gemini API key va model.
+- Qdrant URL, collection va API key.
+- Redis URL/session configuration.
+- Gateway internal secret.
+- Internal service key cho notification.
+- Tavily API key neu bat tim kiem web.
+
+Neu cac bien truoc day chi nam trong `rag-service/.env`, RAG co the khoi dong
+that bai sau khi bo `env_file`.
+
+### 16.8. Anh huong den tai lieu va so do
+
+| Tai lieu/so do | Trang thai | Noi dung can bo sung |
+|---|---|---|
+| Kien truc microservice | Giu nguyen | Khong co service moi |
+| Use Case tong quat | Giu nguyen | UC du doan co them phan loai risk band |
+| ERD tong quat | Giu nguyen | Khong co bang/cot moi bat buoc |
+| Sequence chan doan | Giu luong chinh | Them buoc gan risk band va uu tien chan doan chinh thuc |
+| Sequence AI Insight | Giu nguyen | Local context nhan du lieu da chuan hoa |
+| Activity bao cao | Giu luong chinh | Them buoc chon lan do cuoi moi ngay |
+| Notification | Giu nguyen | Metadata co them reminder type |
+| Deployment RAG | Can cap nhat | Bo service env file, them Tavily key |
+
+### 16.9. So do Class va Use Case bo sung
+
+So do Class tong quat va Use Case tong quat theo phong cach UML duoc xuat
+trong file:
+
+`Tai lieu/So do/SO_DO_CLASS_VA_UC_TONG_QUAT.drawio`
+
+So do Class chia cac lop theo mien:
+
+- Identity: `User`, `Role`.
+- Health: `HealthProfile`, `DiagnosisSession`, `HealthAssessment`,
+  `RiskPrediction`, `ClinicalBaseline`, `AiInsight`.
+- Nutrition: `Ingredient`, `MealTemplate`, `MealHistory`.
+- Notification: `Reminder`, `ReminderExecution`, `Notification`.
+- RAG: `RagPipeline`, `ChatSession`, `VectorDocument`.
+
+So do bieu dien ca quan he cau truc trong CSDL va quan he phu thuoc nghiep vu
+giua cac service.
+
+### 16.10. Luoc do co so du lieu tong quat
+
+Luoc do CSDL theo phong cach bang du lieu, co khoa, kieu du lieu va quan he
+chan chim duoc xuat tai:
+
+`Tai lieu/So do/LUOC_DO_CSDL_TONG_QUAT.drawio`
+
+Luoc do gom 35 bang quan trong cua toan project:
+
+- Tai khoan: `users`, `roles`, `users_roles`.
+- Ho so suc khoe: `health_profiles`, `medical_histories`,
+  `clinical_contexts`, `health_goals`, `glucose_measurements`.
+- Chan doan: `diagnosis_sessions`, `health_assessments`,
+  `risk_predictions`.
+- Lam sang: `clinical_documents`, `lab_panels`, `lab_results`,
+  `clinical_observations`, `clinical_baselines`, `clinical_conclusions`,
+  `baseline_comparisons`, `pregnancy_health_records`.
+- Dinh duong: `ingredient`, `nutrition_meal_templates`,
+  `nutrition_user_types`, `meal_template_user_types`, `meal_history`.
+- Bao cao va AI: `periodic_reports`, `report_exports`, `ai_insights`.
+- Nhat ky va canh bao: `journal_entries`, `journal_analyses`,
+  `health_alerts`, `health_outbox_events`.
+- Nhac nho va thong bao: `reminders`, `reminder_executions`,
+  `notifications`, `inbox_events`.
+
+Quy uoc:
+
+- `PK`: khoa chinh.
+- `FK`: khoa ngoai.
+- `UK`: rang buoc duy nhat.
+- Net lien: quan he khoa ngoai vat ly trong CSDL.
+- Net dut: lien ket logic qua `user_id`, `meal_log_id` hoac event giua cac
+  microservice.
+
+Qdrant va Redis khong duoc ep thanh bang quan he trong luoc do nay. Qdrant
+luu vector/tai lieu RAG, con Redis luu session, chat history, cache va queue;
+hai kho nay da duoc mo ta rieng trong tai lieu phan he Chatbot RAG.
