@@ -1,0 +1,36 @@
+%%{init: {'theme':'base', 'themeVariables': {'fontFamily':'DejaVu Sans, sans-serif', 'fontSize':'15px'}}}%%
+sequenceDiagram
+    actor U as Người dùng
+    participant FE as Frontend (React)
+    participant GW as API Gateway
+    participant HS as Health Service
+    participant LLM as Mô hình ngôn ngữ lớn (LLM)
+
+    U->>FE: Mở trang báo cáo sức khỏe
+    FE->>GW: GET /api/reports/dashboard/ (kèm JWT)
+    GW->>HS: Forward request
+    HS->>HS: Tổng hợp HealthProfile + GlucoseMeasurement +\nRiskPrediction + PeriodicReport
+    HS-->>GW: Trả dữ liệu dashboard
+    GW-->>FE: Trả dữ liệu
+    FE-->>U: Hiển thị dashboard (đường huyết, BMI, cân nặng,\nmục tiêu, cảnh báo, so sánh kỳ trước)
+
+    U->>FE: Bấm "Tạo AI Insight"
+    FE->>GW: POST /api/reports/ai-insights/ (kèm JWT)
+    GW->>HS: Forward request
+    HS->>HS: Tổng hợp ngữ cảnh sức khỏe gần đây của người dùng
+    HS->>LLM: Gửi ngữ cảnh, yêu cầu giải thích tình trạng
+    LLM-->>HS: Trả nội dung giải thích (AI Insight)
+    HS->>HS: Lưu kết quả vào AiInsight
+    HS-->>GW: Trả AI Insight
+    GW-->>FE: Trả kết quả
+    FE-->>U: Hiển thị giải thích AI Insight
+
+    opt Người dùng muốn xuất báo cáo
+        U->>FE: Bấm "Export báo cáo"
+        FE->>GW: POST /api/reports/export/
+        GW->>HS: Forward request
+        HS->>HS: Sinh file PDF/CSV từ dữ liệu báo cáo
+        HS-->>GW: Trả đường dẫn/file báo cáo
+        GW-->>FE: Trả kết quả
+        FE-->>U: Tải file báo cáo PDF/CSV
+    end

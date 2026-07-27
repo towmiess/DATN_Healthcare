@@ -1,0 +1,24 @@
+%%{init: {'theme':'base', 'themeVariables': {'fontFamily':'DejaVu Sans, sans-serif', 'fontSize':'15px'}}}%%
+flowchart TD
+    A([Bắt đầu: Người dùng gửi câu hỏi]) --> B[Gateway xác thực JWT & ký ngữ cảnh người dùng]
+    B --> C{Chữ ký gateway hợp lệ?}
+    C -- Không hợp lệ --> C1[Từ chối request] --> Z1([Kết thúc])
+    C -- Hợp lệ --> D[Lấy lịch sử phiên chat từ Redis]
+    D --> E[Tìm tri thức người dùng & response rule trong Qdrant]
+    E --> F{QueryRouter phân loại câu hỏi}
+    F -- Khẩn cấp --> G[Trả hướng dẫn xử lý khẩn cấp]
+    G --> H[Tạo event RAG_EMERGENCY_ALERT]
+    H --> I[Notification Service gửi thông báo & email]
+    F -- Về thuốc --> J[Kết hợp tra cứu thuốc + tìm kiếm Qdrant]
+    F -- Cơ bản / tài liệu --> K[Retriever tìm top-k chunk liên quan trong Qdrant]
+    I --> L[Prompt builder ghép ngữ cảnh]
+    J --> L
+    K --> L
+    L --> M[Gọi Gemini sinh câu trả lời]
+    M --> N[Làm sạch Markdown & kiểm tra câu trả lời có bị cắt]
+    N --> O{Câu trả lời hợp lệ?}
+    O -- Không --> P[Retry / chuyển fallback model]
+    P --> M
+    O -- Có --> Q[Lưu tin nhắn vào lịch sử Redis]
+    Q --> R[Trả kết quả + nguồn tham khảo về Frontend]
+    R --> Z2([Kết thúc])

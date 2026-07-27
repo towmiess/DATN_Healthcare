@@ -1,0 +1,36 @@
+%%{init: {'theme':'base', 'themeVariables': {'fontFamily':'DejaVu Sans, sans-serif', 'fontSize':'15px'}}}%%
+sequenceDiagram
+    actor U as Người dùng
+    participant FE as Frontend (React)
+    participant GW as API Gateway
+    participant RAG as RAG Service
+    participant RD as Redis (session)
+    participant QD as Qdrant (vector DB)
+    participant GM as Gemini API
+    participant NOTI as Notification Service
+
+    U->>FE: Nhập câu hỏi tư vấn tiểu đường
+    FE->>GW: POST /api/rag/chat/session (kèm JWT)
+    GW->>GW: Xác thực JWT, ký X-User-Context (HMAC)
+    GW->>RAG: Forward request đã ký chữ ký gateway
+    RAG->>RAG: Middleware kiểm tra chữ ký gateway hợp lệ
+    RAG->>RD: Lấy lịch sử phiên chat
+    RD-->>RAG: Trả lịch sử hội thoại
+    RAG->>QD: Truy vấn tri thức user / response rule đã lưu
+    QD-->>RAG: Trả tri thức liên quan (nếu có)
+    RAG->>RAG: QueryRouter phân loại câu hỏi (basic/drug/emergency)
+    alt Câu hỏi khẩn cấp
+        RAG->>NOTI: Gửi event RAG_EMERGENCY_ALERT
+        NOTI-->>RAG: Xác nhận đã ghi nhận event
+    else Câu hỏi cơ bản / về thuốc
+        RAG->>QD: Retriever tìm top-k chunk tài liệu y khoa
+        QD-->>RAG: Trả các đoạn tài liệu liên quan
+    end
+    RAG->>RAG: Prompt builder ghép system prompt + lịch sử + tri thức + tài liệu
+    RAG->>GM: Gửi prompt yêu cầu sinh câu trả lời
+    GM-->>RAG: Trả kết quả sinh văn bản
+    RAG->>RAG: Làm sạch Markdown, kiểm tra câu trả lời bị cắt (retry nếu cần)
+    RAG->>RD: Lưu tin nhắn mới vào lịch sử phiên
+    RAG-->>GW: Trả response + nguồn tham khảo (sources)
+    GW-->>FE: Trả kết quả cho client
+    FE-->>U: Hiển thị câu trả lời chatbot

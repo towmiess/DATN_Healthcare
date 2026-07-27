@@ -1,0 +1,26 @@
+%%{init: {'theme':'base', 'themeVariables': {'fontFamily':'DejaVu Sans, sans-serif', 'fontSize':'15px'}}}%%
+sequenceDiagram
+    actor U as Người dùng
+    participant FE as Frontend (React)
+    participant GW as API Gateway
+    participant HS as Health Service
+    participant RAG as RAG Service (LLM)
+    participant NOTI as Notification Service
+
+    U->>FE: Viết nhật ký triệu chứng/cảm giác/sự kiện sức khỏe
+    FE->>GW: POST /api/journal/analyze/ (kèm JWT)
+    GW->>GW: Xác thực JWT, ký X-User-Context
+    GW->>HS: Forward request tới health-service
+    HS->>HS: Lưu JournalEntry vào cơ sở dữ liệu
+    HS->>RAG: Gửi nội dung nhật ký để phân tích (nội bộ, đã ký gateway)
+    RAG->>RAG: LLM trích xuất: tóm tắt, triệu chứng, mức độ,\nxu hướng, tần suất, mức cần lưu ý, gợi ý theo dõi
+    RAG-->>HS: Trả kết quả phân tích có cấu trúc
+    HS->>HS: Lưu kết quả vào JournalAnalysis
+    alt Mức cần lưu ý cao
+        HS->>NOTI: Tạo event cảnh báo (health alert)
+        NOTI-->>HS: Xác nhận đã ghi nhận event
+        NOTI->>NOTI: Tạo notification & gửi email cảnh báo
+    end
+    HS-->>GW: Trả kết quả phân tích nhật ký
+    GW-->>FE: Trả kết quả cho client
+    FE-->>U: Hiển thị tóm tắt, mức độ và gợi ý theo dõi

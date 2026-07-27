@@ -1,0 +1,15 @@
+%%{init: {'theme':'base', 'themeVariables': {'fontFamily':'DejaVu Sans, sans-serif', 'fontSize':'15px'}}}%%
+flowchart TD
+    A([Bắt đầu: Người dùng viết nhật ký sức khỏe]) --> B[Frontend gửi nội dung nhật ký tới Gateway]
+    B --> C[Gateway xác thực JWT & ký ngữ cảnh người dùng]
+    C --> D[Health Service lưu JournalEntry]
+    D --> E[Health Service gửi nội dung sang RAG Service để phân tích]
+    E --> F["LLM trích xuất: tóm tắt, triệu chứng, mức độ,\nxu hướng, tần suất, mức cần lưu ý, gợi ý theo dõi"]
+    F --> G[Health Service lưu kết quả vào JournalAnalysis]
+    G --> H{Mức cần lưu ý cao?}
+    H -- Có --> I[Tạo event cảnh báo sức khỏe]
+    I --> J[Notification Service tạo notification & gửi email]
+    J --> K[Hiển thị kết quả phân tích kèm cảnh báo cho người dùng]
+    H -- Không --> L[Hiển thị kết quả phân tích cho người dùng]
+    K --> Z([Kết thúc])
+    L --> Z

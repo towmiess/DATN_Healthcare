@@ -1,0 +1,15 @@
+%%{init: {'theme':'base', 'themeVariables': {'fontFamily':'DejaVu Sans, sans-serif', 'fontSize':'15px'}}}%%
+flowchart TD
+    A([Bắt đầu: Người dùng mở trang báo cáo]) --> B[Hệ thống tổng hợp dữ liệu: đường huyết,\nBMI, cân nặng, mục tiêu, cảnh báo, kỳ trước]
+    B --> C[Hiển thị dashboard báo cáo]
+    C --> D{Người dùng chọn hành động}
+    D -- Tạo AI Insight --> E[Hệ thống tổng hợp ngữ cảnh sức khỏe gần đây]
+    E --> F[Gọi mô hình ngôn ngữ lớn sinh giải thích]
+    F --> G[Lưu kết quả vào AiInsight]
+    G --> H[Hiển thị giải thích AI Insight cho người dùng]
+    D -- Lưu báo cáo nháp --> I[Lưu ReportDraft]
+    D -- Export báo cáo --> J[Sinh file PDF/CSV]
+    J --> K[Trả file cho người dùng tải về]
+    H --> Z([Kết thúc])
+    I --> Z
+    K --> Z
