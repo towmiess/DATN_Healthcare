@@ -1,0 +1,60 @@
+===METADATA===
+{
+  "source_name": "treatment_sample",
+  "url": "https://example.com/treatment",
+  "category": "dieu_tri",
+  "language": "vi",
+  "crawled_at": "2024-01-01T00:00:00",
+  "char_count": 1806
+}
+===CONTENT===
+Điều Trị Tiểu Đường Type 2
+
+NGUYÊN TẮC ĐIỀU TRỊ
+Điều trị tiểu đường type 2 là quá trình lâu dài, kết hợp thay đổi lối sống và thuốc. Mục tiêu: kiểm soát đường huyết, ngăn biến chứng, duy trì chất lượng sống.
+
+THUỐC UỐNG PHỔ BIẾN
+
+Metformin (Glucophage):
+- Thuốc đầu tay cho hầu hết bệnh nhân tiểu đường type 2
+- Giảm sản xuất glucose từ gan, tăng nhạy cảm insulin
+- Uống sau ăn để giảm tác dụng phụ (buồn nôn, tiêu chảy)
+- Giá rẻ, an toàn, không gây hạ đường huyết khi dùng một mình
+- Chống chỉ định: suy thận nặng (GFR < 30)
+
+Nhóm SGLT-2 (Empagliflozin, Dapagliflozin):
+- Thải đường qua nước tiểu
+- Bảo vệ tim và thận (lợi ích ngoài đường huyết)
+- Có thể gây nhiễm trùng đường tiết niệu
+
+Nhóm GLP-1 (Semaglutide - Ozempic):
+- Kích thích tiết insulin, ức chế glucagon
+- Giảm cân tốt (phụ lợi ích lớn)
+- Dạng tiêm tuần 1 lần hoặc uống ngày 1 lần
+
+Sulfonylurea (Glibenclamide, Glimepiride):
+- Kích thích tuyến tụy tiết insulin
+- Rẻ, hiệu quả nhưng có thể gây hạ đường huyết
+- Tăng cân nhẹ
+
+INSULIN
+Khi nào cần insulin?
+- HbA1c > 10% và đường huyết rất cao
+- Thuốc uống tối đa nhưng không kiểm soát được
+- Suy thận, suy gan (không dùng được nhiều thuốc uống)
+- Mang thai bị tiểu đường
+
+Các loại insulin:
+- Insulin nền (Glargine, Detemir): tiêm 1 lần/ngày, kiểm soát đường huyết đói
+- Insulin bữa ăn (Regular, Aspart): tiêm trước ăn, kiểm soát đường huyết sau ăn
+- Insulin trộn sẵn: tiện lợi, tiêm 2 lần/ngày
+
+LƯU Ý QUAN TRỌNG
+KHÔNG tự ý ngừng thuốc dù cảm thấy khoẻ - tiểu đường type 2 là bệnh mãn tính.
+KHÔNG tự tăng/giảm liều thuốc mà không hỏi bác sĩ.
+Báo ngay cho bác sĩ nếu: hạ đường huyết thường xuyên, đường huyết quá cao, tác dụng phụ lạ.
+
+TÁI KHÁM ĐỊNH KỲ
+3 tháng/lần: đường huyết, HbA1c, huyết áp, cân nặng
+6 tháng/lần: mỡ máu, chức năng thận (creatinine, GFR)
+12 tháng/lần: khám mắt, khám bàn chân
